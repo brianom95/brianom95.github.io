@@ -49,7 +49,7 @@ We fine tuned our gear and went truly ultralight. Bags are usually 10-12kg, with
 
 We'd been told it would be Slovakia or Hungary, so we made notes and learned common phrases like asking to stay in a garden or finding water. The two day training weekend was great fun, and a fantastic opportunity to see where we were at. We'd no issues and before long we found ourselves at the airport. This was it.
 
-'/images/belt3.webp'
+![]({{site.baseurl}}/images/belt3.webp)
 
 #### Day 1 - Plešivec to Tornal'a
 The start was a blur. Our surprise flights were to a remote airport via Heathrow. Driven in a bus we anxiously awaited being dropped off, watching daylight fade with no idea where we were. At a small unmarked bus shelter our team number was called and off we went.
@@ -60,7 +60,7 @@ The bus shelter had no hints so I ran 500m and I found a sign; Plešivec. Not ob
 
 After 10km we reached Tornal'a, and it was already getting late. We had a funny interaction asking a woman about sleeping in her garden. In Slovak; Yes is Áno, shortened to 'No'. Very confusing when she's smiling and opening the gate for us repeating no no no. Not a word of English (like most people we met), but was very welcoming and gave us some flavoured tea. That night was madness trying to buy food, start the workload and get a good nights sleep with very limited time, but we did what we could.
 
-'/images/belt4.webp'
+![]({{site.baseurl}}/images/belt4.webp)
 
 #### Day 2 - Tornal'a to Martinová
 We chose a route that was roughly half and half in each country. Starting south towards the border, we'd move to smaller rural roads heading west until the next main border crossing. We set off early and the smaller roads had a very different feel. The first town we walked through didn't feel very safe, with lots of barbed wire and unwelcoming looks. Every house has a guard dog and they all went crazy as we approached. A big concrete prison in the town centre and a statue of a man with an AK-47 had us happy to leave.
@@ -69,7 +69,7 @@ It was the next town we were to stay. Much smaller with maybe twenty houses but 
 
 One of the fun projects was to cook a local meal. They didn't speak English but after a game of charades we found ourselves around a campfire cooking Szalonna with our hosts. Essentially fatty pork and an onion that you roast on a stick, putting the drippings onto a slice of bread. It took atleast an hour to cook and although we couldn't understand a word we said to one another, it was a lovely time spent with them. That night we got intense rains and the tent swayed in the wind, we prayed that wouldn't continue.
 
-'/images/belt.5webp'
+![]({{site.baseurl}}/images/belt.5webp)
 
 #### Day 3 - Martinová to Ožďany
 We decided to only sleep along the main road after yesterdays towns. Walk the back roads but don't sleep there. It had been hot all along, but went over 40 degrees today. No amount of water was enough and 5km short of our goal we were shattered and headed for a row of houses. 
@@ -78,7 +78,7 @@ The first few looked run down and dodgy. We tried one with a beautiful garden an
 
 Todays lesson was don't judge a book by its cover. The farmers daughter came down to get us and back at the house we were given tea and snacks with the whole family. Not a word of English between them but a lovely gesture. Fifteen deadbolts on the thick door looked like a vault and you'd have never guessed how beautiful the interior was from outside. That night the same daughter dropped us down a 2L coke bottle of fresh milk, still warm. We were a little slow to drink it, but it was a nice change to the water.
 
-'/images/belt6.webp'
+![]({{site.baseurl}}/images/belt6.webp)
 
 #### Day 4 - Ožďany to Radzovce
 The heat had now dictated an unsociable schedule. From now on we got up at 4:00am, walking by 5:30am latest. We preferred to not stop until the walk was over as this is easier on the feet. Being done the walk well before midday was always a nice mental treat too. 
@@ -89,7 +89,7 @@ We were behind on logs and projects at this point as there simply weren't enough
 
 What a night. He got his daughter and her husband to call over because they spoke English. We were still in Slovakia but they were Hungarian and taught us some phrases and pronunciations for over the border. Massive barbeque, a few beers, tonnes of great information for our projects. This was such a good night!
 
-'/images/belt7.webp'
+![]({{site.baseurl}}/images/belt7.webp)
 
 #### Day 5 - Radzovce to Kisterenye
 Bright and early we crossed the border into Hungary. Through the awfully busy city of Salgotarjan, which we were glad to leave, and along some stunning countryside roads. We'd been disciplined today and finished our walk in Kisterenye at 9:30am. 
@@ -102,7 +102,7 @@ With English it was easy to explain ourselves and they'd no problem with us stay
 
 That night we got our first and only shower of the trip. A black barrel full of rainwater at the end of the garden, heated by the sun and fitted with a tap. We waited until it was pitch black to use this but it was good to feel clean again.
 
-'/images/belt8.webp'
+![]({{site.baseurl}}/images/belt8.webp)
 
 #### Day 6 - Kisterenye to Jobbágyi
 There had to be bad days and this was it! During our walk a man stopped us who'd been cutting hedges and tried to steal Adam's watch that was on his shoulder strap. We pushed him off and he took Adam's sunglasses instead. We walked away and he didn't come after us, but there was a machete on the ground that he'd been cutting with so it was nerve wracking. 
@@ -111,7 +111,7 @@ The town we were to stay at was weird. First guy we met led us to what was eithe
 
 On route two young teenage boys on their bikes started following us and made us uneasy. A nice man agreed to let us stay but insisted on the front garden. With the two boys watching us over the low wall we used charades to get the back garden, hoping it was enclosed. It was not. There was a low fence to a playground where the two boys sat on swings watching us until it was pitch black. Adam didn't really sleep that night and bright and early we were gone. Not a great day.
 
-'/images/belt9.webp'
+![]({{site.baseurl}}/images/belt9.webp)
 
 #### Day 7 - Jobbágyi to Gyöngyössolymos
 Mostly laughing off yesterdays troubles, we felt good. How could it get worse! The walk went fine and some writeups in town the same. At 4:00pm we looked for a place to stay. Our rates had been okay so far, usually with 30mins max to find a place. Not today. 
@@ -120,7 +120,7 @@ Twenty houses and two hours later no one would take us. Beaten from rejection an
 
 I dropped my bag and helped Adam over. I set up the tent, we cooked dinner and had Adam sitting with the ankle raised, iced and bandaged. We managed the swelling and relaxed in the sun. That night we moved gear so I took more weight and we crossed our fingers going to sleep.
 
-'/images/belt10.webp'
+![]({{site.baseurl}}/images/belt10.webp)
 
 #### Day 8 - Gyöngyössolymos to Detk
 Success, he could walk on it. By the end of this day I felt like I was doing damage to my own joints with the weight, but we managed 20km. The roads were beautiful and we passed a castle and a small zoo.
@@ -129,7 +129,7 @@ One fun project was to continuously up trade from a potato. This made great conv
 
 The house that took us in was really nice and we slept in their beautiful orchard. Surrounded by sour cherries, this was paradise as I was now addicted to them. We had a routine at this point and everything flowed well, working great as a team. We were still falling asleep writing the projects but were getting there.
 
-'/images/belt11.webp'
+![]({{site.baseurl}}/images/belt11.webp)
 
 #### Day 9 - Detk to Verpelét
 Gear redistributed, the end was in sight and the ankle held up fine. There's a rule that you must stay at least 10km from the finish the last night. We'd drawn a 10km circle on the map and there was one town exactly 11km out. It was an obvious choice so we headed for there.
@@ -142,12 +142,12 @@ First house didn't answer (even though they were there). Second house said yes i
 
 This was a busy night and once again I fell asleep onto the books with my head torch still on. Definitely sleep deprived but I managed to clear it all. Just a short summary to do tomorrow, but all projects and logbook entries done. Adam was mostly the same too.
 
-'/images/belt12.webp'
+![]({{site.baseurl}}/images/belt12.webp)
 
 #### Day 10 - Verpelét to Eger
 The last early start and a cheerful walk brought us to Eger, clocking a total of 222.5km. There was a one hour window for finishing and we joined all the teams at picnic benches close by. Quick write ups and we used some of our remaining money to get ice creams and relaxed in the sun. It was surreal to walk into base camp after preparing so long for this journey. All anxieties of injuries and issues gone. Tired, sun burnt, stinky and delighted.
 
-'/images/belt13.webp'
+![]({{site.baseurl}}/images/belt13.webp)
 
 #### Base Camp
 Showers, food, beers and messy celebrations. We had great fun exploring the town with everyone for a few days. Mountain trails, nice food and the Eger Wine Festival which was €2 for a glass and free wine then! Understandably another messy night.

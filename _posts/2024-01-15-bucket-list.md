@@ -4,7 +4,7 @@ title:  Bucket List
 description: Everything I hope to achieve and then some!
 date:   2026-01-15 12:00:00 +0000
 image:  '/images/nz1.jpeg'
-video_embed: https://www.youtube.com/embed/gghgYaYeG_M
+video_embed: 
 tags:   [The Rest of Me]
 
 ---

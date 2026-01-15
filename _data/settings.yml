@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Menca
-description: Menca personal blogging theme for Jekyll
+title: Brian Beyond Borders
+description: A place to capture memories and experiences from adventures around the world
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -25,8 +25,8 @@ menu_settings:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Hey, I’m Camelia Mendes
-  hero_description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  hero_title: Hey, I’m Brian O'Mahony
+  hero_description: Runner, Mountaineer, Thru-Hiker, Kayaker, Triathlete & World Traveller
   hero_image: '/images/01.jpg'
 
 

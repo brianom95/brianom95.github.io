@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Remember that happiness is a way of travel, not a destination
+title:  Template Post
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2024-04-24 15:01:35 +0300
+date:   2024-04-28 15:01:35 +0300
 image:  '/images/india1.jpg'
 tags:   [Kayaking]
 ---

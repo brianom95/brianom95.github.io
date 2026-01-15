@@ -9,7 +9,7 @@ tags:   [Running]
 
 I challenged myself to run 5km’s every day, for the first 100 days of 2024. I used it as a fundraiser for the Alzheimer Society, in memory of my grandfather Sean O'Mahony who passed away on 6th April 2018. This charity is important to me and my family, so I couldn't be more grateful for the level of support I received throughout. This is a short summary of how it all went.
 
-![]({{site.baseurl}}/images/100days1.jpeg)
+![]({{site.baseurl}}/images/100days1.webp)
 
 Kerry New Years has become a tradition, where hundreds of kayakers head south hoping for rain and high river levels. After a fun week of paddling in Kenmare, I counted down the New Year with friends. Two of them; Keith & Ross, offered to join me for the first day. As it got later, the idea of an early start seemed less and less enticing. That's how it came to be that at 4:00am, just home from the pub, we put on our runners and set off around the empty town to begin this challenge. It was a perfect start to have the silent bridges, churches and streets to ourselves. Then straight to bed!
 
@@ -25,13 +25,13 @@ With one week to go I ran my first Parkrun in Killaloe, finishing in second plac
 
 For the 100th day I was joined by Keith, Ross, Thomas & Eoghan. We did an 8km loop around the river paths of Limerick, which was my favourite run from Ironman training in 2021. The weather and everything about the day was perfect, taking it nice and easy all the way. Gavin, Emer & Caoimhe drove in to congratulate us after, and we celebrated along with Stephen, Simon & Fia that night. 
 
-![]({{site.baseurl}}/images/100days3.jpeg)
+![]({{site.baseurl}}/images/100days3.webp)
 
 It was this same day that the fundraiser hit €2,000, so I felt extra proud to have seen this through. The whole journey had been a memorable chapter in my life, and a fulfilling way to begin the year. It left my fitness in a great place for all the plans I had coming up, and gave me a nice purpose through the bleakest days of winter. Looking back I loved it, but I did appreciate not having to run the next day!
 
 Thank you for reading and supporting. In memory of Grandad Sean.
 
-![]({{site.baseurl}}/images/100days2.jpeg)
+![]({{site.baseurl}}/images/100days2.webp)
 
 
 The Alzheimer Society is a non-profit organisation, providing support to the now 64,000 people living with dementia in Ireland. They also provide specific services for families, communities and carers, while advocating for their wider rights and needs nationally.

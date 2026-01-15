@@ -97,7 +97,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus_identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
 

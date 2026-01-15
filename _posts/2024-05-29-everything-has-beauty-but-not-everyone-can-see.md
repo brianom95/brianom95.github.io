@@ -1,41 +1,110 @@
 ---
 layout: post
-title:  Everything has beauty, but not everyone can see
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2024-05-29 18:05:55 +0300
+title:  My Favourite Board Games
+description: I love board games. This is a completely subjective list of my favourites. 
+date:   2014-08-04 18:05:55 +0300
 image:  '/images/12.jpg'
 tags:   [technology, study]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Luke McKeown](https://unsplash.com/photos/nlyWZtWTzCo) diversity and empowerment.
+I love board games. This is a completely subjective list of my favourites. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+#### 12. Pandemic
+2 to 4 players - 60 mins
 
-### Synergistically evolve
+Maybe it's too soon, but this is a classic! Epidemics are popping around the globe. Your team fight to stop the spread and create a cure before there's a global pandemic.
+This was the first cooperative game I played, where you win or lose as a team. Each player has special abilities and you have a lot of flexibility in how to tackle gameplay. Three difficulties keep it interesting and challenging. It's a little complex the first time, but always fun and a proud moment if you win. 
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+#### 11. Colt Express
+2 to 6 players - 60 mins
 
-![Beach]({{site.baseurl}}/images/12-1.jpg#wide)
-*Photo by [Luke McKeown](https://unsplash.com/photos/nlyWZtWTzCo) on [Unsplash](https://unsplash.com/)*
+You play a bandit robbing a train at the same time as other bandits, and your goal is to become the richest outlaw of the Old West
+This game is exceptional in how well it looks. The dynamic of moving around the train is clever, but the gameplay also adds a very unique strategy. You choose all actions you'll make based on what you think others will do. Then all play out at the end of the round, usually with some surprises.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+#### 10. Carcassone
+2 to 5 players - 45 mins
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+As you form a new land from randomised tiles, players compete to claim cities, roads and monasteries. Completing patterns to score points. 
+This is simple and instantly fun. We play it a lot as a family and every game is different due to the changing board. There's enough scope to back stab one another and it's usually a tight race in the end. There's a few simple tweaks that could have improved this, and scoring can be strange, so it's a little lower on the list. It's always fun though and I consistently go back to it.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+#### 9. 30 Seconds
+4 to 16 players - 45 mins
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The classic word describing game that if you haven't played, you really should.
+Perfect with any group. It's fun to see how in sync some people are, and new people to the game always love it. Can be slow at times so I remove the dice roll if so. The cards are very clever and make it the kind of game anyone could enjoy.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Tatonomusic](https://unsplash.com/photos/FFCgotROOTY) potentialities.
+#### 8. Ticket to Ride (Europe)
+2 to 5 players - 60 mins
 
-### Podcasting
+Playing on a large map, you take turns to add railroads between cities. Expanding your train lines to both earn points and to join your city combinations that no one else knows. 
+A uniquely clever game that's always fun. There's a nice puzzle aspect which I enjoy, and it's not difficult to pick up. If I had to fault it, games can be repetitive, but that's probably just how much we've played it.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+#### 7. Cluedo
+2 to 6 players - 60 mins
 
-![Beach]({{site.baseurl}}/images/12-2.jpg)
-*Photo by [Tatonomusic](https://unsplash.com/photos/FFCgotROOTY) on [Unsplash](https://unsplash.com/)*
+Someone's been murdered. Players race to find clues which reveal the killer.
+Can't be many who haven't played this. It's one of the few 'classic' games I always come back to because the dynamic is so clever. It's balanced, strategic and always fun.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+#### 6. Labyrinth
+2 to 4 players - 30 mins
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+Trapped in a labyrinth, you must navigate to find hidden treasures and be first to escape.
+My go to when you want simplicity. If someone says 'I don't play board games' or 'they're too confusing', then this is the one. I've never met someone who hasn't liked this and although the puzzle of it takes a while to get your head around, from the first move everyone knows how to play. I've never seen a game like it before, with an extremely original game mechanic.
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+#### 5. Azul
+2 to 4 players - 30 mins
+
+You're an artisan tasked with decorating the walls of the Royal Palace. Take turns buying tiles from the market and adding them to your wall to complete patterns and earn points.
+A simple, elegant and addictive tile placement game. Very quick, intuitive and strategic in an abstract way.
+
+#### 4. Tiny Towns
+1 to 6 players - 45 mins
+
+Tiny Towns is a competitive game about building a well-designed township from a shared pool of resources. Space is at a premium, so you must be tactical about your buildings and their locations.
+An extremely unique Tetris like game mechanic. This is instantly intuitive and fun, with every game different enough to keep it interesting. I like the pieces and the puzzle aspect. This can be tactical and frustrating, but is one of the most rewarding when your plan works out.
+
+#### 3. Splendor
+2 to 4 players - 30 mins
+
+Playing as Renaissance merchants, you acquire gems and stones to become the wealthiest trader.
+Elegant, intuitive and fast. This is a strategic card game, with weighty poker chip gems. It's high quality and fun to use, with a novel dynamic of buying resources. Quick to pickup, different every game and always a close race. This gets a lot of playtime.
+
+#### 2. Munchkin
+2 to 6 players - 45 mins
+
+Raid the dungeon, kill the monsters, stab your buddy!
+Players kick in the dungeon door and either keep the loot or fight any monsters inside. Killing a monster gets you a level and its treasure, but losing sets you back. Build your power with cards, make alliances to defeat monsters and backstab each other to be the first to reach Level 10. 
+This is the most dynamic game I've played, with endless scenarios. Surprisingly quick to pickup for how much gameplay it offers, and also surprisingly balanced with new players able to beat experienced ones. This is on the more complex side so not for everyone, but for the amount of times this gets played it deserves this spot. I'd highly recommend the deluxe edition which includes the game board. There are dozens of expansions so this can never get old.
+
+#### 1. Catan
+2 to 4 players - 60 mins
+
+Players try to be the dominant force on the island of Catan by building settlements, cities, and roads. 
+Made in 1995, this is said to have redefined board games. This was definitely the case for me. It was in Uganda in 2017 that I was introduced to this game and we played it non stop in the evenings. I bought it within a week of getting home and my family got equally addicted. It was endless nights of playing this that have stemmed the rest of this list. It's always a favourite to go back to and has a lot of sentimental value for me.
+There are a few expansions. I can't speak for them all but do have Explorers & Pirates which makes the board a behemoth with three different islands. There's a new dynamic for using the ships to discover and settle lands, and ongoing missions to defeat pirates and collect fish and spices. At first it was a little daunting, and setup is slow requiring original game pieces, but recently I've fallen in love with this. For anyone who's played Catan to death, it adds endless variations and tactics that make each game unique. It's a much longer game (atleast 1.5 to 2hrs) but knowing this, it's always fun.
+
+## Honourable Mentions
+
+#### Rummikub
+2 to 4 players - 45 mins
+
+A clever strategy game using numbered tiles. This is very dynamic, quick and easy to learn. 
+
+#### Love Letter
+2 to 4 players - 15 mins
+
+A fast card game of risk and deduction. Simple, portable, elegant and unique. I really enjoy this one.
+
+#### Discovering Ireland
+2 to 6 players - 60 mins
+
+A unique travel game across the towns and cities of Ireland. Players race to visit every location on their secret list and leave via their final port. There's roadblocks and backstabbing that always leads to unexpected results, which although frustrating, does make this a fun game.
+
+#### Jaipur
+2 players - 15 mins
+
+From the makers of Splendor this has a similar dynamic with cards and chips. Players take turns to buy and sell at the market, proving your abilities to become the Maharaja's personal trader. A very clever, portable and enjoyable game.
+
+#### Chess
+2 players - 30 mins
+
+Had to get a mention. The Queen's Gambit renewed my interest in Chess, and there's a reason it's been the most famous board game for thousands of years. I find it's a fun mental puzzle that’s unique every single time. 

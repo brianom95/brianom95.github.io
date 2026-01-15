@@ -13,13 +13,12 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "About"
+    - title: "About Me"
       url: "/about/"
+    - title: "Blog"
+      url: "/elements/"
     - title: "Contact"
       url: "/contact/"
-    - title: "Elements"
-      url: "/elements/"
-
 
 #-------------------------------
 # Hero Settings

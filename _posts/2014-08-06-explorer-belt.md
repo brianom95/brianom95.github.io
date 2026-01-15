@@ -172,7 +172,7 @@ After dinner a presentation on the dark wall ran through photos of each team. St
 
 Team 6. Adam and Brian are awarded the certificate..... badge..... and belt. Congratulations!
 
-![]({{site.baseurl}}/images/belt15.webp)
+![]({{site.baseurl}}/images/belt16.webp)
 
 A beautiful moment that I'll never forget. It's awful when the gap never ends for some. It transitions to clapping and they collect the badges bittersweetly. After the ceremony the belts go straight into your bag out of respect for those few. That night was fairly relaxed and the next morning we packed up everything to leave.
 
@@ -180,7 +180,7 @@ To end the trip we all had a day and night in Budapest. Exploring the city was a
 
 After grabbing our bags we put on our uniforms and the belts for the final photo. Once everyone was ready we walked through the last gate to arrivals where all our families were waiting! It was amazing and took me completely by surprise. We took our last photo's, said our goodbyes and it was a great end to a life changing trip.
 
-![]({{site.baseurl}}/images/belt16.webp)
+![]({{site.baseurl}}/images/belt17.webp)
 
 #### Afterthoughts
 The Explorer Belt is an intimate and enriching cultural immersion experience, disguised as an endurance race. In reality, the challenges are as much social as physical. Sharing every second with another person, approaching strangers and dealing with language barriers. Balancing self sufficiency with an ability to ask for and receive help. Putting faith in the inherent kindness of others and being mindful of every interaction that guides your steps. The shiny belt is what catches the eye, but there's a deeper meaning to this event.
@@ -191,7 +191,7 @@ The experience would never have been what it was without Adam. He was by my side
 
 Adam and I have gone on to do some incredible things in our lives. We often reminisce on memories from this trip and have no doubt it shaped us. As I write this in 2022, Adam is now married to Ciara who he met as she earned her Belt the same year. They're not alone in this with two others now married after the same circumstances from our year. Even with completely unique trips, the bond we all share has stood the test of time.
 
-![]({{site.baseurl}}/images/belt17.webp)
+![]({{site.baseurl}}/images/belt18.webp)
 
 #### Thinking About It?
 Everyone knows the basics. The format, the distance and the requirements. What no one knows is what unique stories will define your Belt. Who will you meet? What mistakes will you make? How will the experiences change you? What friends will go on to affect your life? What crazy idea will seem more achievable for having done this?

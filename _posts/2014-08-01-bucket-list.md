@@ -255,7 +255,3 @@ tags:   [The Rest of Me]
 23. ~~See Orca's in the Wild~~
 24. Get a Master's Degree
 25. Own My Own Home
-
-![Mountains]({{site.baseurl}}/images/02-2.jpg)
-*Photo by [Devon Hawkins](https://unsplash.com/photos/2IWxOWMVB6w) on [Unsplash](https://unsplash.com/)*
-

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mount Kilimanjaro: Highest Peak in Africa
+title:  Mount Kilimanjaro - Highest Peak in Africa
 description: TBC
 date:   2022-09-11 12:00:0 +0000
 image:  '/images/tbc.jpg'

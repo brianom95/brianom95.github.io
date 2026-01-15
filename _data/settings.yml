@@ -27,7 +27,7 @@ hero:
   enable: true
   hero_title: Welcome to my Blog
   hero_description: This is where I document my adventures in Running, Mountaineering, Thru-Hiking, Kayaking, Triathlon & World Travel
-  hero_image: '/images/hero.jpeg'
+  hero_image:
 
 
 #-------------------------------

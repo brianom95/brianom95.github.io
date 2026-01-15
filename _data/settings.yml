@@ -2,8 +2,8 @@
 # Site Settings
 title: Brian Beyond Borders
 description: A place to capture memories and experiences from adventures around the world
-logo: '/images/logo-light.jpg'
-logo_dark: '/images/logo-dark.jpg'
+logo: '/images/logo-light.png'
+logo_dark: '/images/logo-dark.png'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -44,11 +44,11 @@ mailchimp:
 author:
   author_name: Brian O'Mahony
   author_bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author_avatar: '/images/01-1.jpg'
+  author_avatar: '/images/profile1.jpg'
 
 
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-linked-in", name: "Linked-In", link: "https://linkedin.com"}
 - {icon: "fa-brands fa-square-facebook", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
 - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}

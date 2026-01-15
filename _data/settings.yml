@@ -25,8 +25,8 @@ menu_settings:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Hey, I’m Brian O'Mahony
-  hero_description: Runner, Mountaineer, Thru-Hiker, Kayaker, Triathlete & World Traveller
+  hero_title: Welcome to my Blog
+  hero_description: This is where I document my adventures in Running, Mountaineering, Thru-Hiking, Kayaking, Triathlon & World Travel
   hero_image: '/images/01.jpg'
 
 

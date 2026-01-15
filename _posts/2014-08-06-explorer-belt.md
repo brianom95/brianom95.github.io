@@ -15,7 +15,7 @@ The event tests communication, physical endurance and teamwork during immersion 
 
 Upon reaching basecamp, teams undergo interviews which question all their decisions from the trip while work is reviewed. At a final award ceremony, those who hiked the full 200km receive a certificate. Completing all requirements earns the event badge, and exceeding all expectations earns the coveted explorer belt, for which the event is named. Since 1980, this subtle belt has been a revered symbol of achievement within Scouting.
 
-'/images/belt1.webp'
+![]({{site.baseurl}}/images/belt1.webp)
 
 #### The Venturer Challenge
 My journey began with the Challenge, a sibling event for Venturer Scouts aged 15 to 17. Based only in Ireland, teams cover at least 100km over 5 days with all the same format, projects and award structure. The highest award is a pewter woggle, worn with pride as this in itself is no easy feat.

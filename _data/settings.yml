@@ -3,7 +3,7 @@
 title: Brian Beyond Borders
 description: A place to capture memories and experiences from adventures around the world
 logo: '/images/logo-light.jpeg'
-logo_dark: '/images/logo-dark.jpeg'
+logo_dark: '/images/logohead-dark.jpeg'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 

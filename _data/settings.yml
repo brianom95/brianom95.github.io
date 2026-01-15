@@ -28,7 +28,7 @@ hero:
   enable: true
   hero_title: Welcome to my Blog
   hero_description: A place to capture memories and experiences from adventures around the world
-  hero_image: '/images/india1.jpeg'
+  hero_image: '/images/01.jpeg'
 
 
 #-------------------------------

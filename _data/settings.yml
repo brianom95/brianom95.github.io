@@ -33,7 +33,7 @@ hero:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Subscribe here
   mailchimp_button_text: Get a new tip
@@ -42,7 +42,7 @@ mailchimp:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Camelia Mendes
+  author_name: Brian O'Mahony
   author_bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
   author_avatar: '/images/01-1.jpg'
 
@@ -51,7 +51,6 @@ social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-square-facebook", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}

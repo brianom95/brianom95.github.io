@@ -43,7 +43,7 @@ mailchimp:
 # Author Settings
 author:
   author_name: Brian O'Mahony
-  author_bio: Runner, Mountaineer, Thru-Hiker, Kayaker, Triathlete & World Traveller
+  author_bio: Irish Runner, Mountaineer, Thru-Hiker, Kayaker, Triathlete & World Traveller
   author_avatar: '/images/profile1.jpeg'
 
 
@@ -64,25 +64,13 @@ gallery:
   gallery_title: Gallery
   gallery_columns: 3
   gallery_images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/101.jpg'
-    - alt: 'Hobby'
-      url: '/images/102.jpg'
-    - alt: 'Notes'
-      url: '/images/103.jpg'
-    - alt: 'Rest'
-      url: '/images/104.jpg'
-    - alt: 'Hobby'
-      url: '/images/105.jpg'
-    - alt: 'Fashion'
-      url: '/images/106.jpg'
-    - alt: 'Notes'
-      url: '/images/107.jpg'
-    - alt: 'Rest'
-      url: '/images/108.jpg'
-
+    - alt: 
+      url: 
+    - alt: 
+      url: 
+    - alt: 
+      url: 
+    -
 
 #-------------------------------
 # Contact Settings

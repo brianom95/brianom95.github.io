@@ -3,7 +3,7 @@ layout: post
 title:  Template Post
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2024-04-28 15:01:35 +0300
-image:  '/images/india1.jpg'
+image:  '/images/india1.jpeg'
 tags:   [Kayaking]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Luca Bravo](https://unsplash.com/photos/zAjdgNXsMeg) diversity and empowerment.

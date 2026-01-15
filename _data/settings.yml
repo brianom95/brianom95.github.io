@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Brian Beyond Borders
-description: A place to capture my memories and experiences from adventures around the world
+description: A place to capture memories and experiences from adventures around the world
 logo: '/images/logo-light.png'
 logo_dark: '/images/logo-dark.png'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -26,8 +26,8 @@ menu_settings:
 hero:
   enable: true
   hero_title: Welcome to my Blog
-  hero_description: This is where I document my adventures in Running, Mountaineering, Thru-Hiking, Kayaking, Triathlon & World Travel
-  hero_image:
+  hero_description: A place to capture memories and experiences from adventures around the world
+  hero_image: '/images/india1.jpeg'
 
 
 #-------------------------------
@@ -43,7 +43,7 @@ mailchimp:
 # Author Settings
 author:
   author_name: Brian O'Mahony
-  author_bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author_bio: Runner, Mountaineer, Thru-Hiker, Kayaker, Triathlete & World Traveller
   author_avatar: '/images/profile1.jpeg'
 
 

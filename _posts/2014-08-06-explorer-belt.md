@@ -69,7 +69,7 @@ It was the next town we were to stay. Much smaller with maybe twenty houses but 
 
 One of the fun projects was to cook a local meal. They didn't speak English but after a game of charades we found ourselves around a campfire cooking Szalonna with our hosts. Essentially fatty pork and an onion that you roast on a stick, putting the drippings onto a slice of bread. It took atleast an hour to cook and although we couldn't understand a word we said to one another, it was a lovely time spent with them. That night we got intense rains and the tent swayed in the wind, we prayed that wouldn't continue.
 
-![]({{site.baseurl}}/images/belt.5webp)
+![]({{site.baseurl}}/images/belt5.webp)
 
 #### Day 3 - Martinová to Ožďany
 We decided to only sleep along the main road after yesterdays towns. Walk the back roads but don't sleep there. It had been hot all along, but went over 40 degrees today. No amount of water was enough and 5km short of our goal we were shattered and headed for a row of houses. 

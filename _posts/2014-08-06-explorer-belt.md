@@ -203,4 +203,4 @@ If anyone is considering this trip, I'd say just sign up. There are important fa
 Happy adventuring,
 Brian
 
-![]({{site.baseurl}}/images/belt19webp)
+![]({{site.baseurl}}/images/belt19.webp)

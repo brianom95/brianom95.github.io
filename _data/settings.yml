@@ -60,17 +60,28 @@ social:
 #-------------------------------
 # Gallery Footer Section
 gallery:
-  enable: false
+  enable: true
   gallery_title: Gallery
   gallery_columns: 3
   gallery_images:
-    - alt: 
-      url: 
-    - alt: 
-      url: 
-    - alt: 
-      url: 
-    -
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
+    - alt: 'India'
+      url: '/images/india1.jpeg'
 
 #-------------------------------
 # Contact Settings

@@ -4,7 +4,7 @@ title:  Knock-Me-Down Adventure Race
 description: TBC
 date:   2023-08-26 12:00:0 +0000
 image:  '/images/tbc.jpg'
-tags:   [Adventure Racing]
+tags:   [Adventure-Racing]
 ---
 62km of cycling, running and kayaking across Waterford's Knockmealdown Mountains.
 Ireland's adventure racing calendar is dominated by the wildly popular, and usually sold out races of the QUEST Series & Gaelforce Series. Beyond those is a scattering of smaller races, often run by local communities with unique, personal touches that make them popular in their own way. Knock-Me-Down is one such race which came highly recommended and did not disappoint. 

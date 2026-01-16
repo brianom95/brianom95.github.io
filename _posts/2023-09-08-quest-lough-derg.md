@@ -3,7 +3,7 @@ layout: post
 title:  Quest Lough Derg
 description: TBC
 date:   2023-09-08 12:00:0 +0000
-image:  '/images/questld1.jpeg'
+image:  '/images/questld0.jpeg'
 tags:   [Adventure-Racing]
 ---
 The Quest Series dominates Ireland's adventure racing calendar, and for good reason. I was genuinely shocked by the steep hills at QUEST Glendalough. Then brought close to hypothermia in a biblical storm at QUEST Kenmare. But finally I got the hang of it, allowing me to enjoy their longest and most scenic race at QUEST Killarney.

@@ -6,3 +6,26 @@ date:   2022-11-25 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Mountaineering]
 ---
+Mount Kosciuszko is Australia's highest peak at 2,228m. It is the smallest of the seven summits and is found between Sydney & Melbourne in the Snowy Mountains of the Australian Alps. The name honours the Polish war hero Tadeusz Kościuszko, due to a perceived resemblance with the mountain of his name in Kraków. It is a popular day hike, usually done in summer when the heaviest snow has melted.
+
+Mount Kosciuszko was on my mind ever since summiting Mount Kilimanjaro. I reached out to my friends Eoin & Emily who live in Melbourne and luckily they wanted to climb it too. We chose springtime which coincided perfectly with the end of my trip to New Zealand. 
+
+#### The Seven Summits
+
+In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America, and South America. His book titled The Seven Summits was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
+
+Reinhold Messner refutes that Indonesia's Puncak Jaya is a more deserving high point for Australia than the modest Kosciuszko. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders. Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& Mont Blanc in Europe which has similar claims) to cover all bases and avoid debates.
+
+The original Bass List remains the most widely accepted and is shown below:
+
+#### My Trip
+
+I first flew to Sydney for a fun few days of walking tours, cycling tours, beaches and a memorable show in the opera house. A nine hour train brought me to Albury, where I met Eoin & Emily for the last four hour drive to Jindabyne. Right on the edge of Kosciuszko National Park, this little ski town is surrounded by mountains and snow that looked nothing like the idea I had of Australia. We saw a few kangaroos on route and had a wallaby knock on our cabin door one night.
+
+It was a cold but beautifully clear morning at the Charlotte Pass trailhead. We met other hikers but the 19km Kosciuszko trail was almost empty. The winding track was beautiful, with bridges over partly frozen rivers and glistening white peaks constantly revealing themselves. Some sections were snow covered, but usually returned to a thawed out trail again. We explored inside an emergency shelter and had lunch just as Kosciuszko's summit appeared in the distance.
+
+The trail got busier from here, meeting school trips and hiking clubs who took the gondola up from the town of Thredbo. Many were stopped where the trail becomes all snow, looking apprehensively at the footprints that spiral their way to the summit. We took a more direct route that let us walk on exposed grass and rocks for longer, before slipping and sliding our way to the top. The view from the summit was great and we stayed long enough that the crowds all left. Taking time to read the sign, finish our sandwiches and soak it all in. 
+
+The descent was much faster, sliding down in places which soaked everything and filled Eoin's pockets with snow. We left the crowds for our quiet trail and enjoyed the extra warmth of the now midday sun. The mountain disappeared into the distance once more and I was delighted to have completed my second of the seven summits. We celebrated in Thredbo, and with an overnight in the town of Bright on route home.
+
+The rest of the week was spent in Melbourne, where Eoin & I drove to the Great Ocean Road, hiked to Sheoak Falls, swam in the sea and explored the city with a fun walking tour. More so we all chilled at their house, cooked nice food, played guitar and board games, rewatched the Shrek movies and enjoyed the familiarity of home. It was amazing to have this quality time with two friends that I rarely get to see, all while recovering the aches and pains from New Zealand. As I approached the halfway point of this trip, I felt grateful and rejuvenated. Deeply thankful for the hospitality I received and excited for the next adventure; Backpacking South East Asia.

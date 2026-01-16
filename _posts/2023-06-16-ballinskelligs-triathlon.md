@@ -20,8 +20,19 @@ The cycle was two laps of a 20km loop. I could see Coomanaspic hill in the dista
 
 Only a 10km out-and-back run to go, starting with 1km on the beach. Running on sand can be tough, especially with the tide in. You had to get wet in places, so I was thankful to move onto a trail and then road after. On the road I found a nice rhythm, which was slowed by intense heat, but I felt good around the turning point and on the slight descent of the return. The beach was far wetter now and I didn't even try to avoid the water in places, going as fast as I could for the final sprint under the finish line.
 
-3hrs 24mins 28s
+3hrs 24mins 35s
 
 A brilliant race, especially with that weather, and which marks my completion of all the HARDMAN events. I was already soaked so I got straight into the ocean to cool off, watching the others finish from the water. There was so much support and the music made a lovely atmosphere. It was a great novelty to have the whole race centred on a beach, even if the sand in my socks was annoying. It's a very fun race that's easy to recommend.
 
 #### Finish Time
+<div class="table-container">
+  <table>
+    <tr><th></th><th>Time</th><th>Distance</th></tr>
+    <tr><td>Swim</td><td>39mins 17s</td><td>1500m</td></tr>
+    <tr><td>T1</td><td>2mins 27s</td><td>-</td></tr>
+    <tr><td>Cycle</td><td>1hr 43mins 39s</td><td>40km</td></tr>
+    <tr><td>T2</td><td>1min 10s</td><td>-</td></tr>
+    <tr><td>Run</td><td>58mins 2s</td><td>10km</td></tr>
+    <tr><td>Total</td><td>3hrs 24mins 35s</td><td>-</td></tr>
+  </table>
+</div>

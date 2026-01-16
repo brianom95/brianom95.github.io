@@ -4,7 +4,7 @@ title:  My Favourite Board Games
 description: I love board games. This is a completely subjective list of my favourites. 
 date:   2014-08-04 18:05:55 +0300
 image:  '/images/12.jpg'
-tags:   [The Rest of Me]
+tags:   [Off-The-Trail]
 ---
 I love board games. This is a completely subjective list of my favourites. 
 

@@ -3,7 +3,7 @@ layout: post
 title:  Shannon Source to Sea
 description: TBC
 date:   2022-06-24 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/shannon0.jpeg'
 tags:   [Kayaking]
 ---
 #### Brian's Big Three

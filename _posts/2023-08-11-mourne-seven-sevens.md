@@ -3,7 +3,7 @@ layout: post
 title:  Mourne Seven Sevens
 description: TBC
 date:   2023-08-11 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/mourneseven1.jpeg'
 tags:   [Running]
 ---
 In 1992, fifteen people completed an organised hike that reached all seven peaks above 700m in the Mourne Mountains. This 30km loop with 2,500m of elevation gain tested navigation and stamina, as even today there's no trail for a lot of the route. It culminated with Slieve Donard (850m); the highest peak in Northern Ireland and Ulster, and has since grown into one of Ireland's biggest hiking challenges.

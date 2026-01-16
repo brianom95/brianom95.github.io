@@ -3,7 +3,7 @@ layout: post
 title:  100,000 Steps in a Day
 description: TBC
 date:   2021-09-11 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/hundredsteps0.jpeg'
 tags:   [Off-The-Trail]
 ---
 Having seen this challenge online, it was straight onto my bucket list. It's so straightforward that you could almost think it's easy. A mistake I made, but it definitely is not! I read some interesting accounts, including a 70 year old who trained for months and succeeded. The biggest lesson was to start at midnight! No matter how confident you are, it's an endurance event and anything can happen. You don't want to be at 97,000 steps the following midnight because you started at 4:00am; like one person I read about.

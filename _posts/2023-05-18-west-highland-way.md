@@ -3,7 +3,7 @@ layout: post
 title:  West Highland Way
 description: TBC
 date:   2023-05-18 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/whw0.jpeg'
 tags:   [Thru-Hiking]
 ---
 The West Highland Way is Scotland's first and most popular long distance trail, traversing the lakes and hills of the highlands from Milngavie to Fort William. The 154km route is typically done in 6-8 days, and has well maintained paths with gradual climbs that make it ideal for beginners. As such it can get very busy. 

@@ -5,7 +5,7 @@ description: Everything I hope to achieve and then some!
 date:   2014-08-01 12:00:00 +0000
 image:  '/images/nz1.jpeg'
 video_embed: 
-tags:   [The Rest of Me]
+tags:   [Off-The-Trail]
 
 ---
 

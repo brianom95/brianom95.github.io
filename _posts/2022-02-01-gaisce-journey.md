@@ -3,7 +3,7 @@ layout: post
 title:  My Gaisce Journey
 description: TBC
 date:   2022-02-01 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]
 ---
 The Presidents Award, or Gaisce, is a self directed challenge for young people to better themselves. The Bronze, Silver & Gold awards are for maintaining weekly activities over 3, 6 & 12 months respectively, with some additional requirements and time. The activities are chosen to challenge and benefit each participant personally, within the following areas:

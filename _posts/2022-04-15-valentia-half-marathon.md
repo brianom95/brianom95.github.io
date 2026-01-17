@@ -3,7 +3,7 @@ layout: post
 title:  Valentia Half Marathon
 description: TBC
 date:   2022-04-15 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/valentiahalf0.jpeg'
 tags:   [Running]
 ---
 This race is a lap of Valentia Island with Atlantic views on all sides. Beautiful cliffs, headlands and islands make this Hardman's most scenic run. There is also a 10K, with both races starting and finishing in Knight's Town.

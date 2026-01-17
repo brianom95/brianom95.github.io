@@ -3,7 +3,7 @@ layout: post
 title:  Gap of Dunloe Half Marathon
 description: TBC
 date:   2022-02-13 12:00:0 +0000
-image:  '/images/dubloehalf0.jpeg'
+image:  '/images/dunloehalf0.jpeg'
 tags:   [Running]
 ---
 The first race of the Hardman calendar in February. A hilly route through one of Ireland's most picturesque valleys.

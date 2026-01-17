@@ -3,7 +3,7 @@ layout: post
 title:  Auckland Marathon
 description: TBC
 date:   2022-10-29 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/7cc3.jpeg'
 tags:   [Running]
 ---
 *14,000 runners from 54 countries, all arriving in beautiful New Zealand to be met with a raging storm! Torrential rain and strong winds fought me for every step.*

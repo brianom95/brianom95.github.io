@@ -3,7 +3,7 @@ layout: post
 title:  Backpacking South East Asia
 description: TBC
 date:   2023-01-24 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/bpsea0.jpeg'
 tags:   [Travel]
 ---
 This is a writeup of my two month backpacking trip through Singapore, Malaysia, Thailand, Laos, Vietnam & Cambodia, following the Banana Pancake Trail. I hadn't anticipated how different each country would be in terms of people, food, scenery, climate and reception to tourism. Everyday I got to learn about the complex histories, landscapes, traditions and social influences that led to such unique cultures. I was immersed in local flavours, loud cities and new customs which took time to change from a chaotic novelty, to a familiar way of life. 

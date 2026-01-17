@@ -201,6 +201,7 @@ Caolan is a friend who attempted the Belt the year before us. Injury ended the t
 If anyone is considering this trip, I'd say just sign up. There are important factors like partner selection and adequate training, but anyone willing to put in the work will be rewarded. Be kind, be open minded and be prepared. Both to succeed, and to be amazed. If anyone ever has any questions I'm always happy to lend a helping hand.
 
 Happy adventuring,
+
 Brian
 
 ![]({{site.baseurl}}/images/belt19.webp)

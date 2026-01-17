@@ -1,4 +1,4 @@
-<img width="73" height="1616" alt="image" src="https://github.com/user-attachments/assets/fd0e1b14-f33c-4831-a674-abbbd949c906" />---
+---
 layout: post
 title:  Backpacking South East Asia
 description: TBC

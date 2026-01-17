@@ -3,7 +3,7 @@ layout: post
 title:  Rome Marathon
 description: TBC
 date:   2022-03-27 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/7cc1.jpeg'
 tags:   [Running]
 ---
 *11,000 runners from 102 countries made this the biggest race I've done by far. March promises manageable weather and the route passes a lot of the cities highlights. I'd never been to Rome so this made it a nice choice for my first marathon event.*

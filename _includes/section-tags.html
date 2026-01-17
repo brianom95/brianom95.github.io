@@ -7,7 +7,7 @@
           <h3 class="section__title">Tags</h3>
           <a href="{{ site.baseurl }}/tags/" class="section__link">See all</a>
         </div>
-        {% capture site_tags %}{% for tag in site.tags %}{{ tag | last }}{% unless forloop.last %},{% endunless %}{%
+        {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{%
         endfor %}{% endcapture %}
         {% assign tag_words = site_tags | split:',' | sort %}
 

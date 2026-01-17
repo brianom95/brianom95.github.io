@@ -3,7 +3,7 @@ layout: post
 title:  Mount Kilimanjaro - Highest Peak in Africa
 description: TBC
 date:   2022-09-11 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/kili0.jpeg'
 tags:   [Mountaineering]
 ---
 This is the story of a week that Seán Ennis and I spent above the clouds. From the dust, cold and thin air that guards the summit, to the local hospitality and warmth that make it accessible. Rainforests turn to desert, and volcanic sand turns to ice, ascending 2km higher than most skydives. The city and it's worries fade away as you finally reach the coldest and most surreal sunrise imaginable. I learned a lot through this adventure and have tried to include as much as possible here. 

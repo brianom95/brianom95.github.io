@@ -3,7 +3,7 @@ layout: post
 title:  Marrakech Marathon
 description: TBC
 date:   2023-01-29 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/7cc5.jpeg'
 tags:   [Running]
 ---
 *6,500 runners from 20 countries, racing through the busy streets of Morocco's former capital. An event I watched during a Surf Kayaking Trip in 2019, at a time when kayaking was my life. I never would have guessed that I'd be returning for that race now.*

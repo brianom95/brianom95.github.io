@@ -3,7 +3,7 @@ layout: post
 title:  Backpacking New Zealand
 description: TBC
 date:   2022-11-22 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/nz1.jpeg'
 tags:   [Travel]
 ---
 In October 2022, I was lucky enough to travel around the world and explore New Zealand. I spent 3 weeks on the north island and 4 weeks on the south, which I found to be a perfect timeframe for what I wanted. It would be impossible to include all the people, places and memories which made the time so special, but I wanted to summarise what I saw here, to immortalise it for my own memory.

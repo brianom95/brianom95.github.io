@@ -3,7 +3,7 @@ layout: post
 title:  Mount Kosciuszo - Highest Peak in Australia
 description: TBC
 date:   2022-11-25 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/kosi0.jpeg'
 tags:   [Mountaineering]
 ---
 Mount Kosciuszko is Australia's highest peak at 2,228m. It is the smallest of the seven summits and is found between Sydney & Melbourne in the Snowy Mountains of the Australian Alps. The name honours the Polish war hero Tadeusz Kościuszko, due to a perceived resemblance with the mountain of his name in Kraków. It is a popular day hike, usually done in summer when the heaviest snow has melted.

@@ -3,7 +3,7 @@ layout: post
 title:  Chiang Mai Marathon
 description: TBC
 date:   2022-12-18 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/7cc4.jpeg'
 tags:   [Running]
 ---
 *4,300 runners from 44 countries, racing through the night on this flat and fast course. Chiang Mai was the ancient capital of a country named Lana, and is now Thailand's second biggest city. The race takes in the moat and walls of the original centre, the expanding suburbs, and ends at the statue of Lana's most revered monarch; King Naresuan.*

@@ -11,14 +11,14 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Home"
+    - title: "Blog"
       url: "/"
-    - title: "Seven Summits"
-      url: "/elements/"
-    - title: "Bucket List"
-      url: "/bucket-list"
     - title: "About Me"
       url: "/about/"
+    - title: "Seven Summits"
+      url: "/elements"
+    - title: "Bucket List"
+      url: "/bucket-list/"
     - title: "Contact"
       url: "/contact/"
 

@@ -16,9 +16,9 @@ menu_settings:
     - title: "About Me"
       url: "/about/"
     - title: "Seven Summits"
-      url: "/elements"
+      url: "/elements/"
     - title: "Bucket List"
-      url: "/bucket-list/"
+      url: "/bucket-list"
     - title: "Contact"
       url: "/contact/"
 

@@ -104,7 +104,7 @@ tags:   [Off-The-Trail]
 92. <mark style="background-color: limegreen">Climb Huayna Potosi (6,088m) in La Paz, Bolivia</mark>
 93. <mark style="background-color: limegreen">Visit Rio de Janeiro, Brazil</mark>
 94. <mark style="background-color: limegreen">Iguazu Falls, Brazil</mark>
-95. <mark style="background-color: limegreen">Torres del Paine, Chile</mark>
+95. <mark style="background-color: limegreen">Hike to Torres del Paine, Chile</mark>
 96. <mark style="background-color: limegreen">Drink Mate & Eat Asado in Argentina</mark>
 97. <mark style="background-color: limegreen">Perito Moreno Glacier, Argentina</mark>
 98. Circuito Chico in Bariloche, Argentina

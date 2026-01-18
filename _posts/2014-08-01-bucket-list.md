@@ -11,7 +11,7 @@ tags:   [Off-The-Trail]
 
 #### The World Traveler
 1. Visit 100 countries
-2. See a show in London's West End <mark>Marked text</mark>
+2. <mark>See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
 4. See the Mona Lisa & Catacombs in Paris
 5. Drink Champagne in Champagne

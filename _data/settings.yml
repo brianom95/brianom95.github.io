@@ -87,7 +87,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: https://formspree.io/f/xeeeaqby # Add your form_id
+  form_id: xeeeaqby # Add your form_id
   description: Feel free to get in touch! # Add a description of your form
 
 # NOTE

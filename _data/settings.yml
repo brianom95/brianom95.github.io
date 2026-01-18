@@ -2,8 +2,8 @@
 # Site Settings
 title: Brian Beyond Borders
 description: A place to capture memories and experiences from adventures around the world
-logo: '/images/logolight.jpg'
-logo_dark: '/images/logodark.jpg'
+logo: '/images/logolight.PNG'
+logo_dark: '/images/logodark.PNG'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 

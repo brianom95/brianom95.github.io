@@ -15,10 +15,10 @@ tags:   [Off-The-Trail]
 3. Hike the UK 3 Peaks Challenge
 4. See the Mona Lisa & Catacombs in Paris
 5. Drink Champagne in Champagne
-6. ~~Visit Le Mont Saint Michel & Normandy~~
+6. <mark style="background-color: lightblue">Visit Le Mont Saint Michel & Normandy</mark>
 7. Run the Marathon du Medoc, France
-8. ~~Visit Neuschwanstein & Linderhof, Germany~~
-9. ~~Climb the Zugspitze (2,962m), Germany~~
+8. <mark style="background-color: green">Visit Neuschwanstein & Linderhof, Germany</mark>
+9. <mark style="background-color: lightgreen">Climb the Zugspitze (2,962m), Germany</mark>
 10. Wies'n Season (Oktoberfest)
 11. ~~Climb the Cathedral in Milan~~
 12. Ride a Gondola in Venice

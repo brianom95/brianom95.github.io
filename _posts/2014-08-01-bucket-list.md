@@ -9,7 +9,7 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The World Traveler
+#### The World Traveler (55/100)
 1. Visit 100 countries (75 Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
@@ -113,7 +113,7 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The Irish Traveler
+#### The Irish Traveler (23/50)
 1. <mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>
 2. Cycle all 5 Greenways (3 Complete)
 3. Camp in all 32 Counties (19 Complete)
@@ -167,7 +167,7 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The Seven Summits
+#### The Seven Summits (5/7)
 1. <mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>
 2. <mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>
 3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
@@ -178,14 +178,14 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The Alpine Trilogy
+#### The Alpine Trilogy (1/3)
 1. <mark style="background-color: limegreen">Mont Blanc, France (4,808m)</mark>
 2. Eiger, Switzerland (3,967m)
 3. Matterhorn, Switzerland (4,478m)
 
 ---
 
-#### The Thru-Hiker
+#### The Thru-Hiker (3/10)
 1. <mark style="background-color: limegreen">The Explorer Belt (222km)</mark>
 2. <mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>
 3. <mark style="background-color: limegreen">West Highland Way (154km)</mark>
@@ -199,7 +199,7 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The Kayaker
+#### The Kayaker (6/10)
 1. <mark style="background-color: limegreen">The White Nile, Uganda</mark>
 2. <mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>
 3. <mark style="background-color: limegreen">The Zambezi, Zambia</mark>
@@ -213,7 +213,7 @@ tags:   [Off-The-Trail]
 
 ---
 
-#### The Athlete
+#### The Athlete (7/12)
 1. <mark style="background-color: limegreen">Complete an Ironman</mark>
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
 3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
@@ -225,11 +225,11 @@ tags:   [Off-The-Trail]
 9. Complete the Goggins 4.4.48
 10. Complete a Crossfit Murph
 11. Complete a HYROX Event
-12. Run 100 Marathons
+12. Run 100 Marathons (23 Complete)
 
 ---
 
-#### The Rest of Me
+#### The Rest of Me (13/25)
 1. <mark style="background-color: limegreen">Meet the President of Ireland</mark>
 2. <mark style="background-color: limegreen">Get a Guinness World Record</mark>
 3. Publish a Book

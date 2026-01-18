@@ -39,7 +39,7 @@ tags:   [Off-The-Trail]
 27. <mark style="background-color: limegreen">Visit Lake Bled, Slovenia</mark>
 28. <mark style="background-color: limegreen">Plitvice Lakes National Park, Croatia</mark>
 29. <mark style="background-color: limegreen">Visit Wieliczka Salt Mine, Poland</mark>
-30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Kaliningrad</mark>
+30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Lithuania</mark>
 31. Visit Chernobyl, Ukraine
 32. <mark style="background-color: limegreen">See St. Basil’s Cathedral and The Kremlin, Russia</mark>
 33. Climb Mount Olympus (2,917m), Greece
@@ -86,7 +86,7 @@ tags:   [Off-The-Trail]
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York
 76. <mark style="background-color: limegreen">See Niagara Falls</mark>
-77. <mark style="background-color: limegreen">Visit Alaska & Denali National Park</mark>
+77. Visit the Yukon & Drink a Sourtoe Cocktail
 78. Sleep in an Igloo
 79. <mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>
 80. Climb Parícutin, the World's Newest Volcano, Mexico

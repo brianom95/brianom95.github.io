@@ -15,7 +15,7 @@ tags:   [Off-The-Trail]
 3. Hike the UK 3 Peaks Challenge
 4. See the Mona Lisa & Catacombs in Paris
 5. Drink Champagne in Champagne
-6. <mark style="background-color: lightgreen">Visit Le Mont Saint Michel & Normandy</mark>
+6. <mark style="background-color: limegreen">Visit Le Mont Saint Michel & Normandy</mark>
 7. Run the Marathon du Medoc, France
 8. <mark style="background-color: lightgreen">Visit Neuschwanstein & Linderhof, Germany</mark>
 9. <mark style="background-color: lightgreen">Climb the Zugspitze (2,962m), Germany</mark>

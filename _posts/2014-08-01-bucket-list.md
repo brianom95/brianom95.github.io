@@ -10,7 +10,7 @@ tags:   [Off-The-Trail]
 ---
 
 #### The World Traveler
-1. Visit 100 countries
+1. Visit 100 countries (75 Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
 4. See the Mona Lisa & Catacombs in Paris
@@ -155,7 +155,7 @@ tags:   [Off-The-Trail]
 40. <mark style="background-color: limegreen">Race Hell & Back, Wicklow</mark>
 41. <mark style="background-color: limegreen">Complete all 3 Gaelforce Adventure Races</mark>
 42. <mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>
-43. Complete all 11 HARDMAN Races
+43. Complete all 11 HARDMAN Races (10 Complete)
 44. <mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>
 45. <mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>
 46. <mark style="background-color: limegreen">Hike the Galtee Crossing, Limerick</mark>

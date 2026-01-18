@@ -65,30 +65,30 @@ gallery:
   gallery_title: Gallery
   gallery_columns: 3
   gallery_images:
+    - alt: 'Zimbabwe'
+      url: '/images/gallery1.jpeg'
     - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
-    - alt: 'India'
-      url: '/images/india1.jpeg'
+      url: '/images/gallery2.jpeg'
+    - alt: 'Argentina'
+      url: '/images/gallery3.jpeg'
+    - alt: 'France'
+      url: '/images/gallery4.jpeg'
+    - alt: 'Ireland'
+      url: '/images/gallery5.jpeg'
+    - alt: 'Peru'
+      url: '/images/gallery6.jpeg'
+    - alt: 'Bolivia'
+      url: '/images/gallery7.jpeg'
+    - alt: 'USA'
+      url: '/images/gallery8.jpeg'
+    - alt: 'Belize'
+      url: '/images/gallery9.jpeg'
 
 #-------------------------------
 # Contact Settings
 contact:
   form_id: brianom95@gmail.com # Add your form_id
-  description: Menca comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: Feel free to get in touch! # Add a description of your form
 
 # NOTE
 # Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

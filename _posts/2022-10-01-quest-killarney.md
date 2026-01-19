@@ -6,7 +6,7 @@ date:   2022-10-01 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]
 ---
-After rookie mistakes at QUEST Glendalough, and horrendous weather at QUEST Kenmare; I was back for the third and longest of all the QUEST expert routes. 
+After rookie mistakes at [QUEST Glendalough](quest-glendalough), and horrendous weather at [QUEST Kenmare](quest-kenmare); I was back for the third and longest of all the QUEST expert routes. 
 
 An early start meant another stay in my now usual Killarney B&B. It was a chilly October day but mostly dry, queuing at sunrise for our race packs. I wore thermal leggings and a wind top, with extra layers in my bag so nothing could stop me. I chatted with Gavin who was the event photographer again, and before long lined up with the others from Wave 1.
 
@@ -32,4 +32,4 @@ I was tired now, but the final cycle was pure joy. About 5km on a flat road, all
 
 6hrs 16mins 07s
 
-What a great event! I think pacing is key, and with that lesson learned I'm so happy with how it went. The routes are impressively hilly, but taken tactically are very manageable. The afters were basic but fun, a nice bowl of curry and a photoshoot with the medal. I still had plenty of energy for touristing around Killarney, and overall had a very positive experience ticking off my third QUEST event. Only one to go; QUEST Lough Derg.
+What a great event! I think pacing is key, and with that lesson learned I'm so happy with how it went. The routes are impressively hilly, but taken tactically are very manageable. The afters were basic but fun, a nice bowl of curry and a photoshoot with the medal. I still had plenty of energy for touristing around Killarney, and overall had a very positive experience ticking off my third QUEST event. Only one to go; [QUEST Lough Derg](quest-lough-derg).

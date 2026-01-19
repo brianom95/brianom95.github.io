@@ -10,7 +10,7 @@ In September 2021, I achieved my goal of hiking the highest peak in every Irish 
 
 During the pandemics staycation phase, I realised that I hadn't been to every county. I looked at ways to fix that and soon thought of the high points. Research revealed most attempt over a year or more, and while some fully supported trips have achieved record times in the region of 3.5 days, I knew ours had to be self supported. So planning began and once I'd mapped all the hikes and drives I realised that finishing in under seven days was the perfect mix of ambitious but enjoyable, and so it came to be.
 
-A team of three would be ideal to split driving and allow a sleep in the back. Luckily Conall Sweeney and Eoghan Calnan, friends from our time in UL, are always up for a challenge. I'd recommend mid summer for the daylight and weather, but with my first Ironman triathlon that August we had to go later. I wasn't sure how my body would be after that race, so I allowed three weeks for recovery, and with that we'd the holidays booked. 
+A team of three would be ideal to split driving and allow a sleep in the back. Luckily Conall Sweeney and Eoghan Calnan, friends from our time in UL, are always up for a challenge. I'd recommend mid summer for the daylight and weather, but with my first [Ironman](killarney-full-ironman) that August we had to go later. I wasn't sure how my body would be after that race, so I allowed three weeks for recovery, and with that we'd the holidays booked. 
 
 Unfortunately Conall injured his leg a week before the trip. This meant more tiring driving for myself and Eoghan in an already tight schedule, but undeterred, off we went!
 
@@ -140,7 +140,7 @@ It was hard not to be overwhelmed by the joy and relief that it had all worked o
 
 It's an adventure I'd recommend to anyone who is considering it. It will definitely be tough, yes. Likely in parts you didn't expect, but if you push through it will all be worth it. I had a hard time finding accurate routes for some of the hikes so I mapped all of them on my Strava for others to have. If anyone is planning such a trip I'd be happy to help with any questions or concerns you might have. 
 
-Happy adventuring, 
+Happy adventuring,  
 Brian
 
 #### Trip Video

@@ -6,7 +6,7 @@ date:   2023-06-16 12:00:0 +0000
 image:  '/images/balltri1.jpeg'
 tags:   [Triathlon]
 ---
-HARDMAN's only Olympic distance race, over the sand and hills of the Ballinskelligs coastline. For me this was the ninth and final event in the HARDMAN calendar! 
+HARDMAN's only Olympic distance race, over the sand and hills of the Ballinskelligs coastline. This marked my final event in the HARDMAN calendar! 
 
 Olympic is a 1.5km swim, 40km cycle & 10km run.
 

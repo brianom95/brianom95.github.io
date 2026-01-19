@@ -8,7 +8,7 @@ tags:   [Triathlon]
 ---
 HARDMAN's Valentia Island Sprint Triathlon. Take 2.
 
-A fitting end to a year of triathlon. I was a complete novice when I did this race in 2020. Everything was new, and my body hadn't been adapted. I'd have told you that was it for me and this sport. Yet here I was, back again but after completing two half-Ironman's in Waterville & Bantry and a full Ironman in Killarney. The fittest I'd ever been in my life and now happily beyond all the worries of this year. Able to close this chapter with one last, purely fun race. Sinead and her brother Daithí joined, as was now tradition.
+A fitting end to a year of triathlon. I was a complete novice when I did this race in [2020](valentia-sprint1). Everything was new, and my body hadn't been adapted. I'd have told you that was it for me and this sport. Yet here I was, back again but after completing two half-Ironman's in [Waterville](waterville-half-ironman) & [Bantry](bantry-half-ironman) and a full Ironman in [Killarney](killarney-full-ironman). The fittest I'd ever been in my life and now happily beyond all the worries of this year. Able to close this chapter with one last, purely fun race. Sinead and her brother Daithí joined, as was now tradition.
 
 I stayed in Killarney the night before to split up the drive. Arriving in Knight's Town there was none of the nervousness from last year. I collected my pack seeing loads of familiar faces, and set up my transition area. 
 

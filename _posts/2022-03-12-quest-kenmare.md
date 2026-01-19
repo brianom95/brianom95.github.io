@@ -6,7 +6,7 @@ date:   2022-03-12 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]
 ---
-After a tough QUEST Glendalough last year, I had a better appreciation for the distance. The routes are hilly, but feel adventurous and I was nervously excited. March can bring any type of weather, so we hoped for the best but definitely got the worst.
+After a tough [QUEST Glendalough](quest-glendalough) last year, I had a better appreciation for the distance. The routes are hilly, but feel adventurous and I was nervously excited. March can bring any type of weather, so we hoped for the best but definitely got the worst.
 
 Katie and I stayed in Cork with my sister Emma and her boyfriend Joe. We had an early start to drive down and get Joe and I registered for the expert route. It was windy and gloomy as we rolled up to the town centre start line, joined the crowd and were very quickly counted down.
 
@@ -48,4 +48,4 @@ Unfortunately Joe had succumbed to the weather and wasn't able to finish, but it
 
 It's strange to go from a comfortable bed to the blood, sweat and tears of those hills, then home and cosy only hours later. Although not the highest of highs, there definitely were highs amongst the lows. I'm really happy with how I found humour in the worst moments and put the head down to trudge through it all. It's probably a very different event in the sun, but maybe if it was on in July it wouldn't be the adventure they wanted. 
 
-Overall I'm really happy with the day and I'm excited for upcoming races like QUEST Killarney, hopefully in nicer weather.
+Overall I'm really happy with the day and I'm excited for upcoming races like [QUEST Killarney](quest-killarney), hopefully in nicer weather.

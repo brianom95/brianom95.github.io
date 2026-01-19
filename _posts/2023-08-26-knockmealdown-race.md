@@ -7,7 +7,8 @@ image:  '/images/kmd1.jpeg'
 tags:   [Adventure-Racing]
 ---
 62km of cycling, running and kayaking across Waterford's Knockmealdown Mountains.
-Ireland's adventure racing calendar is dominated by the wildly popular, and usually sold out races of the QUEST Series & Gaelforce Series. Beyond those is a scattering of smaller races, often run by local communities with unique, personal touches that make them popular in their own way. Knock-Me-Down is one such race which came highly recommended and did not disappoint. 
+
+Ireland's adventure racing calendar is dominated by the wildly popular, and usually sold out races of the [QUEST Series](quest-kenmare) & [Gaelforce Series](gaelforce-turf-warrior). Beyond those is a scattering of smaller races, often run by local communities with unique, personal touches that make them popular in their own way. Knock-Me-Down is one such race which came highly recommended and did not disappoint. 
 
 I had horrendous bad luck on the day and had this been a QUEST race I don't think they would have let me finish. Instead I was cheered on by local families and light hearted marshals who laughed with me in my misery, but more on that later.
 

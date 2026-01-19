@@ -47,7 +47,7 @@ My back and shoulders ached from the swim, but all was fine in a few days. Breat
 I hope this doesn't turn anyone away from doing this race. On a day with no sea life and no wind it would probably be lovely, especially if you can let yourself enjoy the run. For me the difficulty for spectators to drop in takes away from it a lot. However, I have to say the feeling of running along a landing strip, painted markings and all, made for an incredible experience. Hardman have an amazing race here, and I couldn't wait for their biggest test in Killarney.
 
 #### Finish Time
-"<div class=""table-container"">
+"<div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>
     <tr><td>Swim</td><td>46mins 33s</td><td>1900m</td></tr>

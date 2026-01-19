@@ -195,7 +195,7 @@ Some of New Zealand's most beautiful areas are wedged between the Southern Alps 
 Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight for me; crossing back over the Alps at Haast Pass. We walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nz30.webp">
+    <img width="400" src="/images/nz35.webp">
 </p>
 
 #### Wānaka

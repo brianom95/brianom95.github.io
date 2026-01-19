@@ -49,7 +49,7 @@ There's a lot of reasons I recommend this race. The nice area and beautiful cycl
 This race revitalised my motivation for training and with one down, and lessons learned, it was time to start looking ahead to Bantry, and ultimately to the full in Killarney.
 
 #### Finish Time
-"<div class=""table-container">
+"<div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>
     <tr><td>Swim</td><td>42mins 56s</td><td>1900m</td></tr>

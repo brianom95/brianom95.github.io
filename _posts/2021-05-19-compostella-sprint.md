@@ -6,7 +6,8 @@ date:   2021-05-19 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Triathlon]
 ---
-Mid 2021 I was addicted to triathlon and wanted to share it with my friends. Races were being cancelled due to the pandemic so I planned out a route myself and got permission from the guys in 7 Compostella to operate out of their garden. I gave the race a name, a date, made an info pack and sent it out. The race itself turned out to be one of the best days of my year. This is a breakdown of how it went, from an organisational point of view.
+Mid 2021 I was addicted to triathlon and wanted to share it with my friends. Races were being cancelled due to the pandemic so I planned out a route myself and got permission from friends to operate out of their garden. I gave the race a name, a date, made an info pack and sent it out. The race itself turned out to be one of the best days of my year. This is a breakdown of how it went, from an organisational point of view.
+
 Raceday we met at the house where people left their runners and water out the back. I gave a briefing, explaining dismount lines and helmet rules. Then we packed the bikes onto cars and drove to Warrell's End, Castleconnell. 
 
 At the waters edge we got suited up, lined the bikes against the wall and I gave the proper briefing. Stephen Watkins counted us down, watched the bikes, the timing camera and had a throw rope just in case. The 750m swim was a two lap course, along the bank. It was cold and raining so not the most pleasant, but everyone got on fine. Gavin Sheehan was there to get photos of everyone, which were very unflattering for me.

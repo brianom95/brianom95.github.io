@@ -13,10 +13,6 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 ![]({{site.baseurl}}/images/nz2.webp)
 
 
-![]({{site.baseurl}}/images/nz3.webp)
-![]({{site.baseurl}}/images/nz4.webp)
-![]({{site.baseurl}}/images/nz5.webp)
-![]({{site.baseurl}}/images/nz6.webp)
 ![]({{site.baseurl}}/images/nz7.jpeg)
 ![]({{site.baseurl}}/images/nz8.webp)
 ![]({{site.baseurl}}/images/nz9.webp)
@@ -53,6 +49,11 @@ So my trip! In New Zealand's springtime all tourists begin with the headland abo
 A lighthouse and ancient tree mark the northern tip of the country. This is where two oceans meet, leaving a distinct line between their differing colours. It's believed that Māori souls travel up the coast and leap from here after death, forming the line and making it the most spiritually significant place in the country. I met ten hikers starting the Te Araroa trail this day so I was in my element chatting with them.
 
 On the way south we stopped at the famous 90 mile beach for sandboarding on the dunes. It's actually 55 miles long, wrongly measured due to a horses slower speed on sand. It's still the fourth longest beach in the world though. I was amazed by the Tuatua, which are millions of tiny shellfish living two inches below the wet sand. People grab a handful, wash the sand off in the ocean and eat them live. Apparently the freshest seafood you can find. The oldest kauri tree in New Zealand is near here also, named Tane Mahuta and over 4,000 years old.
+
+![]({{site.baseurl}}/images/nz3.webp)
+![]({{site.baseurl}}/images/nz4.webp)
+![]({{site.baseurl}}/images/nz5.webp)
+![]({{site.baseurl}}/images/nz6.webp)
 
 #### The Bay of Islands
 

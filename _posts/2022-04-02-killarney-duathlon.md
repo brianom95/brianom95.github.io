@@ -35,7 +35,7 @@ Duathlon felt unique in a few ways. I thought the 10km run left me more tired th
 Overall I really enjoyed the event, especially the run routes around the national park. The cycle was a little monotonous but it was exceptionally flat and straightforward so can't fault it. In terms of my first duathlon it couldn't have gone much better and I surprised myself with my pace. The t-shirts and medals are very nice and I'm delighted the two lads enjoyed it.
 
 #### Finish Time
-"<div class=""table-container"">
+<div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>
     <tr><td>Run</td><td>48mins 58s</td><td>10km</td></tr>
@@ -45,5 +45,4 @@ Overall I really enjoyed the event, especially the run routes around the nationa
     <tr><td>Run</td><td>25mins 0s</td><td>5km</td></tr>
     <tr><td>Total</td><td>2hrs 34mins 58s</td><td>-</td></tr>
   </table>
-</div>"
-<img width="799" height="210" alt="image" src="https://github.com/user-attachments/assets/5e6f4263-1a85-4b11-b87a-c84a13da8ff1" />
+</div>

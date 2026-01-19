@@ -8,13 +8,13 @@ tags:   [Mountaineering]
 ---
 Mount Kosciuszko is Australia's highest peak at 2,228m. It is the smallest of the seven summits and is found between Sydney & Melbourne in the Snowy Mountains of the Australian Alps. The name honours the Polish war hero Tadeusz Kościuszko, due to a perceived resemblance with the mountain of his name in Kraków. It is a popular day hike, usually done in summer when the heaviest snow has melted.
 
-Mount Kosciuszko was on my mind ever since summiting Mount Kilimanjaro. I reached out to my friends Eoin & Emily who live in Melbourne and luckily they wanted to climb it too. We chose springtime which coincided perfectly with the end of my trip to New Zealand. 
+Mount Kosciuszko was on my mind ever since summiting [Mount Kilimanjaro](kilimanjaro). I reached out to my friends Eoin & Emily who live in Melbourne and luckily they wanted to climb it too. We chose springtime which coincided perfectly with the end of my trip to [New Zealand](backpacking-nz). 
 
 #### The Seven Summits
 
 In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America, and South America. His book titled The Seven Summits was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
 
-Reinhold Messner refutes that Indonesia's Puncak Jaya is a more deserving high point for Australia than the modest Kosciuszko. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders. Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& Mont Blanc in Europe which has similar claims) to cover all bases and avoid debates.
+Reinhold Messner refutes that Indonesia's Puncak Jaya is a more deserving high point for Australia than the modest Kosciuszko. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders. Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& [Mont Blanc](mont-blanc) in Europe which has similar claims) to cover all bases and avoid debates.
 
 The original Bass List remains the most widely accepted and is shown below:
 

@@ -10,6 +10,8 @@ In October 2022, I was lucky enough to travel around the world and explore New Z
 
 New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and everyday I felt drawn to explore until my legs hurt. 
 
+![]({{site.baseurl}}/images/nz28.webp)
+
 ![]({{site.baseurl}}/images/nz2.webp)
 ![]({{site.baseurl}}/images/nz3.webp)
 ![]({{site.baseurl}}/images/nz4.webp)
@@ -33,13 +35,6 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 ![]({{site.baseurl}}/images/nz22.webp)
 ![]({{site.baseurl}}/images/nz23.webp)
 ![]({{site.baseurl}}/images/nz24.jpeg)
-![]({{site.baseurl}}/images/nz25.webp)
-![]({{site.baseurl}}/images/nz26.jpeg)
-![]({{site.baseurl}}/images/nz27.webp)
-![]({{site.baseurl}}/images/nz28.webp)
-![]({{site.baseurl}}/images/nz29.webp)
-![]({{site.baseurl}}/images/nz30.webp)
-![]({{site.baseurl}}/images/nz31.webp)
 
 #### Introduction
 
@@ -113,6 +108,8 @@ Mount Taranaki is a huge volcano that doesn't seem real (google it!). A round sn
 
 New Plymouth is a nice town, especially Pukehura Park with its cool trees and fountains. I liked the beach walk, all the way from the giant wind wand to the towns best sunset spot: Paritutu Rock. This is a 156m tall rock that sits on the coast line, with chains and carvings to let you climb up. The view of Mount Taranaki from the top shouldn't be missed, and the hostel was particularly fun too.
 
+![]({{site.baseurl}}/images/nz31.webp)
+
 #### Napier
 
 This coastal town made a hilariously bad first impression, but once the sun came out that changed. I cycled all the coastline, got lunch at a nice pub, then visited the oldest winery in New Zealand. Walking up to the Centennial Waterfalls and Bluff Hill was well worth it, and the tour of Napier Prison was super interesting. Napier was out of the way to get to and badly needs a hostel upgrade, but it turned out to be a great stop. It's also where I met Marion who would later travel the south island with me.
@@ -153,6 +150,8 @@ Some of New Zealand's most beautiful areas are wedged between the Southern Alps 
 
 Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight for me; crossing back over the Alps at Haast Pass. We walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
 
+![]({{site.baseurl}}/images/nz30.webp)
+
 #### Wānaka
 
 At the foot of the Southern Alps, and on the edge of Mount Aspiring National Park is a small adventure oasis named Wānaka. I loved everything about this town, even the highly overrated but admittedly photogenic Wānaka Tree. The lake makes for amazing sunrises and I enjoyed the hike up Rocky Mountain to overlook the area. Even just exploring the town and its many playgrounds was time I'll never forget.
@@ -187,7 +186,9 @@ We had beautiful weather for exploring the sights and food of Te Anau itself, ev
 
 New Zealand's largest national park is centred around the 14 fjords of Southland. These fjords formed through repeated freezing and melting of glaciers, carving deep valleys that extend to the sea. The one road that passes through them is out of this world and we stopped at all the main hikes on route.
 
-Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was definitely to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a strange serenity in the air.
+Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was definitely to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air.
+
+![]({{site.baseurl}}/images/nz29.webp)
 
 #### Milford Sound
 
@@ -207,11 +208,15 @@ This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty yea
 
 Lake Tekapo is a photographers dream, particularly the Church of the Good Shepherd. The water is bright turquoise due to a fine rock sand carried down from glaciers, and the area is a dark sky reserve which exposes the milky way. I loved the walk up to the observatory on Mount John, even though we had to hitchhike down due to a freak rain shower. It's a stunning place that was well worth staying. I loved all the colour from the purple lupins.
 
+![]({{site.baseurl}}/images/nz25.webp)
+
 #### Christchurch
 
 If Auckland was Dublin, then Christchurch is Galway. I loved the street art, especially of Antarctica, and walking along the Avon river to the botanical garden. I took the gondola up Mount Cavendish to see the city from above, and to look at the distant Alps. I met my friend Sarah one night too, having drinks on New Regent Street and getting to see why she moved here.
 
 My final days were spent with good food and great people. An afternoon in the botanical garden where I was still amazed by the size of the trees. Slowly enjoying once more the river walk, farmers market and the biggest playground I'd ever seen. It's bittersweet, and almost melancholic that this perfect trip had to end with goodbyes. So much life had been lived in just seven weeks, having traded all apprehension for an experience I wouldn't yet fully understand. Simple things often transport me back, like hearing Six60 on the radio and suddenly I'm driving the west coast again. With every spark of childlike passion that my adventures ignite, I'm reminded of this time when it all burned so naturally. Relishing in these memories is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing Mount Kosciuszko in Australia & Backpacking South East Asia.
+
+![]({{site.baseurl}}/images/nz27.webp)
 
 Thank you so much for reading,
 Brian

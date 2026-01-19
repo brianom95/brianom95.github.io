@@ -32,7 +32,7 @@ There was complete euphoria at that point, my body still felt confused about wha
 
 She was going home to Tralee, but I'd never been to Valentia so I headed for a bit of exploring, then camped by the lighthouse with a movie and a nice dinner. Thinking about it that night I was overwhelmingly happy with the beautiful sunny day and wondered if I'd do another one. 
 
-Little did I know that I would be back here in 2021, and that a seed was now planted which would lead me to discover Ironman. The allure of which would dominate my every thought for months. Haunting me until I rose to the challenge. Taking on what seemed so nonsensical that I couldn’t understand how it was possible. A half maybe, but surely not that! 
+Little did I that a seed was now planted which would lead me back here in [2021](valentia-sprint2, and more importantly to discover [Ironman](killarney-full-ironman). The allure of which would dominate my every thought for months. Haunting me until I rose to the challenge. Taking on what seemed so nonsensical that I couldn’t understand how it was possible. A half maybe, but surely not that! 
 
 #### Finish Time
 <div class="table-container">

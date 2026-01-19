@@ -137,3 +137,14 @@ Happy adventuring,
 Brian
 
 #### Finish Time
+"<div class=""table-container"">
+  <table>
+    <tr><th></th><th>Time</th><th>Distance</th></tr>
+    <tr><td>Swim</td><td>1hr 47mins 08s</td><td>3800m</td></tr>
+    <tr><td>T1</td><td>4mins 28s</td><td>-</td></tr>
+    <tr><td>Cycle</td><td>7hr 10mins 35s</td><td>180km</td></tr>
+    <tr><td>T2</td><td>6mins 06s</td><td>-</td></tr>
+    <tr><td>Run</td><td>5hrs 13mins 25s</td><td>42.2km</td></tr>
+    <tr><td>Total</td><td>14hrs 21mins 16s</td><td>-</td></tr>
+  </table>
+</div>"

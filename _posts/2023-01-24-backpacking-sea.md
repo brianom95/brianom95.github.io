@@ -21,7 +21,7 @@ The food, culture and low costs of South East Asia make it the world's most popu
 Trips can be tailored to the destinations that appeal to you, trading party islands for remote jungles. I wanted to see it all, even the things that border on cliché, so I chose a route which visited all the main tourist hubs of six countries, for now. A loop which could take a lifetime to see entirely, and which I'll likely visit again, but that I'm happy in how I experienced. It was enough to hugely enhance my understanding of South East Asia and backpacking culture as a whole. My route from Singapore is marked below:
 
 <p align="center" width="100%">
-    <img width="400" src="/images/Sea1.webp">
+    <img width="400" src="/images/Sea1.jpeg">
 </p>
 
 ## Singapore

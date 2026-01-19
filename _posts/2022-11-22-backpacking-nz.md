@@ -22,7 +22,7 @@ There are endless ways to backpack the country and everyone's trip is different.
 
 So my trip! In New Zealand's springtime all tourists begin with the headland above Auckland, known as the Northland, or Winterless North. From here they zig zag south, through the tourist hubs, meeting the same friends repeatedly and allowing the southern areas to warm up. I'll cover the places I visited as I followed this path, from my flight into Auckland to my flight out of Christchurch (as I've badly marked on a postcard below). Obviously there is more to see like the Coromandel up north or Dunedin down south. This is purely and unapologetically my trip, including many of the stories and facts I learned along the way.
 
-![]({{site.baseurl}}/images/nz2 2.webp)
+![]({{site.baseurl}}/images/nzmap.webp)
 
 ## The North Island
 

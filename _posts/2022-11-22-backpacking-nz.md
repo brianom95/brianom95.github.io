@@ -224,7 +224,7 @@ Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small 
 
 This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning Marion & I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
 
-![]({{site.baseurl}}/images/nz24.webp)
+![]({{site.baseurl}}/images/nz24.jpeg)
 
 #### Lake Tekapo
 

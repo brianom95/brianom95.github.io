@@ -86,7 +86,9 @@ This outdoorsy town is dominated by geothermal emissions. Small parks centre aro
 
 My favourite things were the lake walk and the giant redwoods of Whakarewarewa Forest. Much younger than those in California, but definitely the biggest trees I'd ever seen. The longest hike summitted a mountain with nice views of the smoking town and wider area. Unfortunately I wasn't able to kayak the Kaituna river due to high levels that lasted weeks. This was the number one thing on my list, and now the first stop if I return.
 
-![]({{site.baseurl}}/images/nz8.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz8.webp">
+</p>
 
 #### Taupō
 
@@ -94,7 +96,9 @@ Lake Taupō is New Zealand's largest lake and gets it's name from the ancient co
 
 Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd meet repeatedly.
 
-![]({{site.baseurl}}/images/nz9.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz9.webp">
+</p>
 
 #### Taupō Tandem Skydiving
 
@@ -102,7 +106,9 @@ I hate heights, so this made me pretty nervous. A hummer limo collects you, in w
 
 The plane is tiny, with a flimsy plastic sheet instead of a door. The views are so cool on the way up and the instruction when you reach altitude is almost too easy. The fall is like a simulation, as if you're floating because the ground doesn't seem to get closer. I was surprisingly calm, more scared when the parachute came out and happy to finally reach the ground. Amazing experience in a perfect place.
 
-![]({{site.baseurl}}/images/nz10.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz10.webp">
+</p>
 
 #### Tongariro Alpine Crossing
 
@@ -110,7 +116,9 @@ The north island's most famous hike, and one of the top ten one day hikes in the
 
 I had a chilly but beautiful day for this. The hike feels remote and Alpine, particularly as you walk through the crater of an ancient volcano. On climbs the dark volcanic sand slides down with every step, filling my shoes and reminding me of Kilimanjaro. Bright red craters and weirdly colourful lakes look surreal, and the views change in a beautiful way as you cross the range. Definitely shouldn't be missed.
 
-![]({{site.baseurl}}/images/nz11.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz11.webp">
+</p>
 
 #### New Plymouth & Mount Taranaki
 
@@ -118,13 +126,17 @@ Mount Taranaki is a huge volcano that doesn't seem real from the sky (google it!
 
 New Plymouth is a nice town, especially Pukehura Park with its cool trees and fountains. I liked the beach walk, all the way from the giant wind wand to the towns best sunset spot: Paritutu Rock. This is a 156m tall rock that sits on the coast line, with chains and carvings to let you climb up. The view of Mount Taranaki from the top shouldn't be missed, and the hostel here was particularly fun too.
 
-![]({{site.baseurl}}/images/nz31.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz31.webp">
+</p>
 
 #### Napier
 
 This coastal town made a hilariously bad first impression, but once the sun came out that changed. I cycled all the coastline, got lunch at a nice pub, then visited the oldest winery in New Zealand. Walking up to the Centennial Waterfalls and Bluff Hill was well worth it, and the tour of Napier Prison was super interesting. Napier was out of the way to get to and badly needs a hostel upgrade, but it turned out to be a great stop. It's also where I met Marion who would later travel the south island with me.
 
-![]({{site.baseurl}}/images/nz12.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz12.webp">
+</p>
 
 #### Wellington
 
@@ -132,7 +144,9 @@ The world's windiest city, and it showed. I'm genuinely surprised they're able t
 
 The wind was consistently bad, but nonetheless I took the cable car to the botanical gardens, walked up Mount Victoria, and in one long cycle covered the entire southern coastline to the seal colony in Red Rocks Reserve. Watching out for all the penguin crossings on route. Finally I waved goodbye to the north island and boarded the interislander ferry to cross the Cook Strait.
 
-![]({{site.baseurl}}/images/nz13.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz13.webp">
+</p>
 
 ## The South Island
 
@@ -140,7 +154,9 @@ The wind was consistently bad, but nonetheless I took the cable car to the botan
 
 On a clear day the ferry is amazing. You dock in the small town of Picton, where most people board a bus for Nelson. I'm so glad I stayed here first though. One of the nicest hostels so far had an outdoor hot tub and free bikes for guests. I cycled a mountain bike track to the tip of a peninsula where I sat and watched the ferries pass by. Nice restaurants, parks and walks made this a worthwhile stop.
 
-![]({{site.baseurl}}/images/nz14.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz14.webp">
+</p>
 
 #### Nelson & Murchison
 
@@ -148,7 +164,9 @@ A small hill just outside Nelson marks the geographical centre of New Zealand. F
 
 I met up with my friend Andrew who moved here a few years ago. He and his girlfriend Christina were nice enough to have me over for a barbeque with their friends. They also brought me for a paddle down their local run; the Granity Section of the Buller River (III+). Loads of big, bouncy rapids through the mountains of Murchison National Park. Two laps of the biggest rapid topped off an unreal day, and if it weren't for the swarms of sand-flies in the carpark this could have been paradise! 
 
-![]({{site.baseurl}}/images/nz15.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz15.webp">
+</p>
 
 #### Abel Tasman National Park
 
@@ -156,7 +174,9 @@ This is New Zealand's smallest national park, covering 60km of coastline and wat
 
 The Abel Tasman track is one of New Zealand's eleven great walks, usually done by getting a boat to the far end and walking back. I hiked half of this, getting to see the huts and incredible beaches of this exceptionally isolated place. Cool bridges and timing the tides for crossings make it a unique trip. I also drove back out with Andrew & Christina one night for a jazz gig in Marahau, the small hippie town just within the park.
 
-![]({{site.baseurl}}/images/nz16.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz16.webp">
+</p>
 
 #### Kaikoura
 
@@ -164,7 +184,9 @@ Kaikoura is a coastal town with a bigger seal population than human. The hoards 
 
 The whale watching tour is world famous and on a ridiculously lucky day we saw three sperm whales, a family of orca's and a pack of 200 dolphins. The boat captain was more excited than anyone, particularly for the orca's. I would highly recommend the hike up Mount Fyffe to see the peninsula from above and the strange patterns on surrounding hills. 
 
-![]({{site.baseurl}}/images/nz17.png)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz17.png">
+</p>
 
 #### West Coast Region
 
@@ -172,7 +194,9 @@ Some of New Zealand's most beautiful areas are wedged between the Southern Alps 
 
 Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight for me; crossing back over the Alps at Haast Pass. We walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
 
-![]({{site.baseurl}}/images/nz30.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz30.webp">
+</p>
 
 #### Wānaka
 
@@ -180,7 +204,9 @@ At the foot of the Southern Alps, and on the edge of Mount Aspiring National Par
 
 I trail ran the normally two day Liverpool Hut Track which was amazing. The drive was an adventure in itself, and the hut is as remote as anywhere can be these days. Perched on a precarious cliff edge with a steep 1,000m scramble to reach it. A long but worthwhile trail run, after which I rewarded myself by getting lost in the giant Wānaka Maze at Puzzling World. One of the most stressful experiences of my life!
 
-![]({{site.baseurl}}/images/nz18.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz18.webp">
+</p>
 
 #### Roy's Peak & Isthmus Peak
 
@@ -188,7 +214,9 @@ In my opinion, these two hikes near Wānaka are the best in the country. Roy's P
 
 On a far warmer day I hiked up Isthmus Peak. This sits between remarkably blue lakes in a way that's hard to see until the summit. Photos do no justice to the full panorama of mountains, and particularly the snowy Southern Alps whose cold air you can feel. This mountain gave me an urge to run. After a long day in the sun I went straight to a lake to swim and cool off.
 
-![]({{site.baseurl}}/images/nz19.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz19.webp">
+</p>
 
 #### Queenstown
 
@@ -196,7 +224,9 @@ If I ever move to New Zealand it will be here. I fell in love with the beach, th
 
 I did a tough trail run up Ben Lomond which overlooks the town and the swirling paragliders below. Then spent ages on the mountain luge; which is a steep downhill karting track with a chair lift back up for a second (or sixth) lap. Plus an amazing half day in the Kiwi Park which houses several of the strange bird types that originally populated the islands. It's a great place to learn about kiwis in particular with their tiny wings, gigantic eggs (20% of their body weight), and their issues with invasive possums. In a pitch black room I got to see the nocturnal kiwis roaming and drilling for food with their long beaks. Once my night vision kicked in and I stopped bumping into everyone that is.
 
-![]({{site.baseurl}}/images/nz21.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz21.webp">
+</p>
 
 #### Otago Region
 
@@ -204,7 +234,9 @@ Exploring around Queesntown, I pushed the rental car to it's absolute limit to r
 
 Finally the thing I dreaded most since booking my flight to New Zealand; a bungy jump! AJ Hackett first commercialised the 'sport' when he opened the Kawarau Bridge Bungy in 1986. I knew I had to do this original one, even though it terrified me. After several weigh-ins and a questionable towel with velcro strapped around my legs, I was stood on the edge. Looking back I almost can't believe I did it. I opted for the water 'touch' which was more of a concussive slap. The adrenaline lasted days and although I'll probably never do one again, I'm so glad I did.
 
-![]({{site.baseurl}}/images/nz22.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz22.webp">
+</p>
 
 #### Te Anau & Manapouri
 
@@ -212,7 +244,9 @@ Lake Te Anau is the south island's largest lake. The small town of Te Anau on it
 
 The weather was ideal for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a good base for heading further into Fjordland too, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
 
-![]({{site.baseurl}}/images/nz2.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz2.webp">
+</p>
 
 #### Fjordland National Park
 
@@ -220,7 +254,9 @@ New Zealand's largest national park is centred around the 14 fjords of Southland
 
 Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air. This area is full of amazing hikes.
 
-![]({{site.baseurl}}/images/nz29.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz29.webp">
+</p>
 
 #### Milford Sound
 
@@ -228,7 +264,9 @@ At the end of the Fjordland road, is a long tunnel that reveals New Zealand's 8t
 
 The boat trip around Milford Sound was unbelievable. A constant layer of rain and mineral runoff leaves the sea water extra dark. This and the perfectly flat side walls make whales think it's deeper than it is, allowing you to find them alongside the dolphins, seals and penguins. After going to the ocean and back we docked at a natural aquarium, down to a ten meter deep glass room where you watch fish swim amongst rare black coral (which is bright white when alive). This is one of the top attractions of the whole country and not something to miss. 
 
-![]({{site.baseurl}}/images/nz23.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz23.webp">
+</p>
 
 #### Mueller Hut & Mount Ollivier
 
@@ -238,13 +276,17 @@ Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small 
 
 This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
 
-![]({{site.baseurl}}/images/nz24.jpeg)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz24.jpeg">
+</p>
 
 #### Lake Tekapo
 
 Lake Tekapo is a photographers dream, particularly the Church of the Good Shepherd. The water is bright turquoise due to a fine rock sand carried down from glaciers, and the area is a dark sky reserve which exposes the milky way. I loved the walk up to the observatory on Mount John, even though I had to hitchhike down due to a freak rain shower. It's a stunning place that was well worth staying. I loved all the colour from the purple lupins.
 
-![]({{site.baseurl}}/images/nz25.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz25.webp">
+</p>
 
 #### Christchurch
 
@@ -257,4 +299,6 @@ I think about New Zealand often since, especially when certain songs transport m
 Thank you so much for reading,  
 Brian
 
-![]({{site.baseurl}}/images/nz27.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/nz27.webp">
+</p>

@@ -242,6 +242,5 @@ I think about New Zealand often since, especially when certain songs transport m
 
 ![]({{site.baseurl}}/images/nz27.webp)
 
-Thank you so much for reading,
-
+Thank you so much for reading,  
 Brian

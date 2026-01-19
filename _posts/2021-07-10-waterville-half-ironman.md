@@ -46,7 +46,7 @@ My body felt physically okay but it took a day for my stomach to settle. It was 
 
 There's a lot of reasons I recommend this race. The nice area and beautiful cycle for sure. The lapped run that allows access to your food bag and more interaction with others. The consistency of knowing Hardman ran all their events through the pandemic. That if you train for these events, they will go ahead; hail rain or shine. Biggest factor for me though is the convenience for supporters. If you've someone to cheer you on, you'll run past them eight times. They can park close, with shops all over so there's no excuse not to get people down. It was an incredible day, made all the better for having my parents there to cheer me on. Handing out a mountain of jelly babies to everyone in the process. 
 
-This race revitalised my motivation for training and with one down, and lessons learned, it was time to start looking ahead to Bantry, and ultimately to the full in Killarney.
+This race revitalised my motivation for training and with one down, and lessons learned, it was time to start looking ahead to [Bantry](bantry-half-ironman), and ultimately to the full in [Killarney](killarney-full-ironman).
 
 #### Finish Time
 <div class="table-container">

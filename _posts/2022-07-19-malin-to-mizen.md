@@ -18,7 +18,7 @@ In June 2022, I left my job for a year of full-time travel. Before flying away I
 
 131km, Hiking Ireland’s Oldest Trail
 
-**Malin to Mizen**
+**[Malin to Mizen](malin-to-mizen)**
 
 672km, Cycling Home via Ireland's Most Famous Bike Route
 

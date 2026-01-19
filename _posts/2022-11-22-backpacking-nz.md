@@ -46,7 +46,7 @@ Paihia & Russell are now quaint towns, known as gateways to the Northland and Ba
 
 A big, modern and busy city. I stayed with my cousin Andrew and his partner Olivia who lived in the centre. While they worked I went up the Sky Tower, toured the All Black Experience, went to the Wētā Workshop (Peter Jackson's second studio) and ran all over the city. A great walking tour described how Māori's followed migrating birds to first arrive here in waka's (giant canoes), explained the symbols and statues of the city, how New Zealand became the first country where women could vote, the local food (or lack there of, it's really just meat pies..) and the current state of giant kauri trees; one third of which have a terminal disease.
 
-In the evenings we explored more of the city, hiked up Mount Eden and had nice food and drinks. An early Diwali festival lined the streets with Indian stalls one of the days, and on two occasions I bumped into people I knew from home. To top off the visit I ran the Auckland Marathon, which ended up being the most horrendous weather of the entire trip but absolutely worth it. Overall a great stay and catch up that had me ready to leave the city and find some mountains!
+In the evenings we explored more of the city, hiked up Mount Eden and had nice food and drinks. An early Diwali festival lined the streets with Indian stalls one of the days, and on two occasions I bumped into people I knew from home. To top off the visit I ran the [Auckland Marathon](https://brianbeyond.com/auckland-marathon), which ended up being the most horrendous weather of the entire trip but absolutely worth it. Overall a great stay and catch up that had me ready to leave the city and find some mountains!
 
 ![]({{site.baseurl}}/images/nz5.webp)
 
@@ -238,7 +238,7 @@ If Auckland was Dublin, then Christchurch is Galway. I loved the street art, esp
 
 My final days were spent with good food and great people. An afternoon in the botanical garden where I was still amazed by the size of the trees. Slowly enjoying once more the river walks, farmers market and the biggest playground I'd ever seen. It's bittersweet that this perfect trip had to end. I felt like I had lived so much life in just seven weeks, any nervousness now a distant memory. 
 
-I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing [Mount Kosciuszko](https//www.brianbeyond.com/kosi) in Australia & [Backpacking South East Asia](https//www.brianbeyond.com/backpackingsea).
+I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing [Mount Kosciuszko](https://brianbeyond.com/kosciuszko) in Australia & [Backpacking South East Asia](https://brianbeyond.com/backpacking-sea).
 
 Thank you so much for reading,  
 Brian

@@ -12,10 +12,83 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 
 ![]({{site.baseurl}}/images/nz2.webp)
 
+#### Introduction
+
+New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, some large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
+
+The country is a land of extremes; from the year round sun and pristine beaches of the Northland, to eight times more rain than Ireland in the southern Fjordland. The north island is covered in volcanoes, whose rich soil makes everything lush and green. The south island is dominated by the snow and glaciers of the Southern Alps, attracting adventurers and dictating wider weather patterns. The colliding tectonic plates which formed the islands continue to hang the threat of eruption, earthquake or tsunami.
+
+There are endless ways to backpack the country and everyone's trip is different. Some drive it all by campervan, some move slower on public transport, and some walk top to bottom on the Te Araroa trail (which takes five months). Timeframes range from a few weeks up to a year, with longer trips needed to see the changing seasons or hike the ten great walks. No trip is better than any other and as long as you do it for you, that's all that really matters. But do start with the north island.
+
+So my trip! In New Zealand's springtime all tourists begin with the headland above Auckland, known as the Northland, or Winterless North. From here they zig zag south, through the tourist hubs, meeting the same friends repeatedly and allowing the southern areas to warm up. I'll cover the places I visited as I followed this path, from my flight into Auckland to my flight out of Christchurch (as I've badly marked on a postcard below). Obviously there is more to see like the Coromandel up north or Dunedin down south. This is purely and unapologetically my trip, including many of the stories and facts I learned along the way.
+
+![]({{site.baseurl}}/images/nz2 2.webp)
+
+## The North Island
+
+#### Cape Reinga
+
+A lighthouse and ancient tree mark the northern tip of the country. This is where two oceans meet, leaving a distinct line between their differing colours. It's believed that Māori souls travel up the coast and leap from here after death, forming the line and making it the most spiritually significant place in the country. I met ten hikers starting the Te Araroa trail this day so I was in my element chatting with them.
+
+On the way south we stopped at the famous 90 mile beach for sandboarding on the dunes. It's actually 55 miles long, wrongly measured due to a horses slower speed on sand. It's still the fourth longest beach in the world though. I was amazed by the Tuatua, which are millions of tiny shellfish living two inches below the wet sand. People grab a handful, wash the sand off in the ocean and eat them live. Apparently the freshest seafood you can find. The oldest kauri tree in New Zealand is near here also, named Tane Mahuta and over 4,000 years old.
+
+![]({{site.baseurl}}/images/nz3.webp)
+
+#### The Bay of Islands
+
+So much history here. Early colonisers built a trading town called Paihia, renowned for crime and known then as hell on earth. Missionaries setup a town across the bay called Russell, known as heaven on earth. Paihia is a short walk from the Waitangi Treaty Grounds where the first constitution was signed in 1840. Differences between the agreed Māori document and the legally binding English 'translation' are how New Zealand became a colony of the UK. Russell was the first capital and this treaty began the first of many wars for independence.
+
+Paihia & Russell are now quaint towns, known as gateways to the Northland and Bay of Islands. I stayed in Paihia and enjoyed learning about the history, exploring the many islands and snorkelling uncomfortably with a big stingray. Best thing is the ferry to Russell and Flagstaff Hill, where a local chief named Hōne Heke cut down the tallest British Flag four separate times. Even when they used a concrete base and full time guards, he organised a riot in town to draw them away, dug out the base and used horses to pull it down. He's a local legend and a United Tribes flag flies on the pole now.
+
+![]({{site.baseurl}}/images/nz4.webp)
+
+#### Auckland
+
+A big, modern and busy city. I stayed with my cousin Andrew and his partner Olivia who lived in the centre. While they worked I went up the Sky Tower, toured the All Black Experience, went to the Wētā Workshop (Peter Jackson's second studio) and ran all over the city. A great walking tour described how Māori's followed migrating birds to first arrive here in Waka's (giant canoes), explained the symbols and statues of the city, how New Zealand became the first country where women could vote, the local food (or lack there of, it's really just meat pies..) and the current state of giant kauri trees; one third of which have a terminal disease.
+
+In the evenings we explored more of the city, hiked up Mount Eden and had nice food and drinks. An early Diwali festival lined the streets with Indian stalls one of the days, and on two occasions I bumped into people I knew from home. To top off the visit I ran the Auckland Marathon, which ended up being the most horrendous weather of the entire trip but absolutely worth it. Overall a great stay and catch up that had me ready to leave the city and find some mountains!
+
+![]({{site.baseurl}}/images/nz5.webp)
+
+#### Waitomo & Hamilton
+
+Andrew, Olivia & I drove to Waitomo's famous glow worm caves. In thick wetsuits, you sit in inflatable tubes and float through a jet black cave, staring up at the glowing dots that look like distant stars. Tiny, invisible strings hang down to catch bugs who think their flying to the night sky. As the worms eat they emit excess energy as light to continue the cycle. It's an incredible experience when you turn off the headtorches and float past the sprawling galaxies.
+
+That evening I was dropped in Hamilton to continue alone. Wasn't much to the town, but they did have a huge botanical garden. Sections were themed on places like Egypt and India, or trippy concepts like modernist or surrealist; with robotic moving trees and giant elements like those in Alice in Wonderland. Very well done and took ages to explore it all. Random fact: Hamilton is the antipode (exact opposite side of the world) to Córdoba in Spain.
+
+![]({{site.baseurl}}/images/nz6.webp)
+
+#### Hobbiton
+
+A recent rewatching of the trilogy had me pretty excited for this. The whole area has the strangest, most bumpy farmland I've ever seen. A small field could have thirty steep hills, with water tanks on some to flow by gravity, or others carved through for roads. It's so clear why Peter Jackson chose this as a home for the sneaky little hobbitses.
+
+Exploring the Shire was brilliant. Perfect weather and I loved the little touches like signs on notice boards, or Bilbo's pipe outside Bag End. The tour guide shows you the big doors used when filming hobbits, and tiny doors for filming Gandalf to make him look bigger. Afterwards everyone gets a drink in the pub, which was rebuilt after burning it down for a movie. Then my tour included the festive lunch which I would highly recommend.
 
 ![]({{site.baseurl}}/images/nz7.jpeg)
+
+#### Rotorua
+
+This outdoorsy town is dominated by geothermal emissions. Small parks centre around the smoking, and often bubbling pits where steam is escaping from deep volcanic activity. The naturally warm water is used to make foot baths, swimming pools and luxury spas. Some pools are literally boiling with fences and signs warning against entry. I never got used to the smell of sulphur and was happier to explore outside the town when possible!
+
+My favourite things were the lake walk and the giant redwoods of Whakarewarewa Forest. Much younger than those in California, but definitely the biggest trees I'd ever seen. The longest hike summitted a mountain with nice views of the smoking town and wider area. Unfortunately I wasn't able to kayak the Kaituna river due to high levels that lasted weeks. This was the number one thing on my list, and now the first stop if I return.
+
 ![]({{site.baseurl}}/images/nz8.webp)
+
+#### Taupō
+
+Lake Taupō is New Zealand's largest lake and gets it's name from the ancient collapsed volcano which formed its crater. The town on the lake edge was my favourite place on the north island. Huka Falls and the Aratiatia Rapids were an obvious first stop as a kayaker. The river walk to them is beautiful, and it's amazing to see the Aratiatia Dam turn an empty river bed into raging rapids in minutes. Some other nice walks were Mount Tauhara, the Opepe Circuit, the Tookanu Thermal Park and Craters of the Moon.
+
+Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd meet repeatedly.
+
 ![]({{site.baseurl}}/images/nz9.webp)
+![]({{site.baseurl}}/images/nz24.jpeg)
+
+#### Taupō Tandem Skydiving
+
+I hate heights, so this made me pretty nervous. A hummer limo collects you, in which I met Max who I'd both jump alongside and travel onwards with after. The weather was unreal and the staff are experts at making it light-hearted and fun. It's only €70 to jump, and for the same again I had the "Stephen Spielberg of the sky" getting photos and videos on the way down (absolutely worth it).
+
+The plane is tiny, with a flimsy plastic sheet instead of a door. The views are so cool on the way up and the instruction when you reach altitude is almost too easy. The fall is like a simulation, as if you're floating because the ground doesn't seem to get closer. I was surprisingly calm, more scared when the parachute came out and happy to finally reach the ground. Amazing experience in a perfect place. Watch the video here!
+
 ![]({{site.baseurl}}/images/nz10.webp)
 ![]({{site.baseurl}}/images/nz11.webp)
 ![]({{site.baseurl}}/images/nz12.webp)
@@ -30,72 +103,6 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 ![]({{site.baseurl}}/images/nz21.webp)
 ![]({{site.baseurl}}/images/nz22.webp)
 ![]({{site.baseurl}}/images/nz23.webp)
-![]({{site.baseurl}}/images/nz24.jpeg)
-
-#### Introduction
-
-New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, some large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
-
-The country is a land of extremes; from the year round sun and pristine beaches of the Northland, to eight times more rain than Ireland in the southern Fjordland. The north island is covered in volcanoes, whose rich soil makes everything lush and green. The south island is dominated by the snow and glaciers of the Southern Alps, attracting adventurers and dictating wider weather patterns. The colliding tectonic plates which formed the islands continue to hang the threat of eruption, earthquake or tsunami.
-
-There are endless ways to backpack the country and everyone's trip is different. Some drive it all by campervan, some move slower on public transport, and some walk top to bottom on the Te Araroa trail (which takes five months). Timeframes range from a few weeks up to a year, with longer trips needed to see the changing seasons or hike the ten great walks. No trip is better than any other and as long as you do it for you, that's all that really matters. But do start with the north island.
-
-So my trip! In New Zealand's springtime all tourists begin with the headland above Auckland, known as the Northland, or Winterless North. From here they zig zag south, through the tourist hubs, meeting the same friends repeatedly and allowing the southern areas to warm up. I'll cover the places I visited as I followed this path, from my flight into Auckland to my flight out of Christchurch (as I've badly marked on a postcard below). Obviously there is more to see like the Coromandel up north or Dunedin down south. This is purely and unapologetically my trip, including many of the stories and facts I learned along the way.
-
-## The North Island
-
-#### Cape Reinga
-
-A lighthouse and ancient tree mark the northern tip of the country. This is where two oceans meet, leaving a distinct line between their differing colours. It's believed that Māori souls travel up the coast and leap from here after death, forming the line and making it the most spiritually significant place in the country. I met ten hikers starting the Te Araroa trail this day so I was in my element chatting with them.
-
-On the way south we stopped at the famous 90 mile beach for sandboarding on the dunes. It's actually 55 miles long, wrongly measured due to a horses slower speed on sand. It's still the fourth longest beach in the world though. I was amazed by the Tuatua, which are millions of tiny shellfish living two inches below the wet sand. People grab a handful, wash the sand off in the ocean and eat them live. Apparently the freshest seafood you can find. The oldest kauri tree in New Zealand is near here also, named Tane Mahuta and over 4,000 years old.
-
-![]({{site.baseurl}}/images/nz3.webp)
-![]({{site.baseurl}}/images/nz4.webp)
-![]({{site.baseurl}}/images/nz5.webp)
-![]({{site.baseurl}}/images/nz6.webp)
-
-#### The Bay of Islands
-
-So much history here. Early colonisers built a trading town called Paihia, renowned for crime and known then as hell on earth. Missionaries setup a town across the bay called Russell, known as heaven on earth. Paihia is a short walk from the Waitangi Treaty Grounds where the first constitution was signed in 1840. Differences between the agreed Māori document and the legally binding English 'translation' are how New Zealand became a colony of the UK. Russell was the first capital and this treaty began the first of many wars for independence.
-
-Paihia & Russell are now quaint towns, known as gateways to the Northland and Bay of Islands. I stayed in Paihia and enjoyed learning about the history, exploring the many islands and snorkelling uncomfortably with a big stingray. Best thing is the ferry to Russell and Flagstaff Hill, where a local chief named Hōne Heke cut down the tallest British Flag four separate times. Even when they used a concrete base and full time guards, he organised a riot in town to draw them away, dug out the base and used horses to pull it down. He's a local legend and a United Tribes flag flies on the pole now.
-
-#### Auckland
-
-A big, modern and busy city. I stayed with my cousin Andrew and his partner Olivia who lived in the centre. While they worked I went up the Sky Tower, toured the All Black Experience, went to the Wētā Workshop (Peter Jackson's second studio) and ran all over the city. A great walking tour described how Māori's followed migrating birds to first arrive here in Waka's (giant canoes), explained the symbols and statues of the city, how New Zealand became the first country where women could vote, the local food (or lack there of, it's really just meat pies..) and the current state of giant kauri trees; one third of which have a terminal disease.
-
-In the evenings we explored more of the city, hiked up Mount Eden and had nice food and drinks. An early Diwali festival lined the streets with Indian stalls one of the days, and on two occasions I bumped into people I knew from home. To top off the visit I ran the Auckland Marathon, which ended up being the most horrendous weather of the entire trip but absolutely worth it. Overall a great stay and catch up that had me ready to leave the city and find some mountains!
-
-#### Waitomo & Hamilton
-
-Andrew, Olivia & I drove to Waitomo's famous glow worm caves. In thick wetsuits, you sit in inflatable tubes and float through a jet black cave, staring up at the glowing dots that look like distant stars. Tiny, invisible strings hang down to catch bugs who think their flying to the night sky. As the worms eat they emit excess energy as light to continue the cycle. It's an incredible experience when you turn off the headtorches and float past the sprawling galaxies.
-
-That evening I was dropped in Hamilton to continue alone. Wasn't much to the town, but they did have a huge botanical garden. Sections were themed on places like Egypt and India, or trippy concepts like modernist or surrealist; with robotic moving trees and giant elements like those in Alice in Wonderland. Very well done and took ages to explore it all. Random fact: Hamilton is the antipode (exact opposite side of the world) to Córdoba in Spain.
-
-#### Hobbiton
-
-A recent rewatching of the trilogy had me pretty excited for this. The whole area has the strangest, most bumpy farmland I've ever seen. A small field could have thirty steep hills, with water tanks on some to flow by gravity, or others carved through for roads. It's so clear why Peter Jackson chose this as a home for the sneaky little hobbitses.
-
-Exploring the Shire was brilliant. Perfect weather and I loved the little touches like signs on notice boards, or Bilbo's pipe outside Bag End. The tour guide shows you the big doors used when filming hobbits, and tiny doors for filming Gandalf to make him look bigger. Afterwards everyone gets a drink in the pub, which was rebuilt after burning it down for a movie. Then my tour included the festive lunch which I would highly recommend.
-
-#### Rotorua
-
-This outdoorsy town is dominated by geothermal emissions. Small parks centre around the smoking, and often bubbling pits where steam is escaping from deep volcanic activity. The naturally warm water is used to make foot baths, swimming pools and luxury spas. Some pools are literally boiling with fences and signs warning against entry. I never got used to the smell of sulphur and was happier to explore outside the town when possible!
-
-My favourite things were the lake walk and the giant redwoods of Whakarewarewa Forest. Much younger than those in California, but definitely the biggest trees I'd ever seen. The longest hike summitted a mountain with nice views of the smoking town and wider area. Unfortunately I wasn't able to kayak the Kaituna river due to high levels that lasted weeks. This was the number one thing on my list, and now the first stop if I return.
-
-#### Taupō
-
-Lake Taupō is New Zealand's largest lake and gets it's name from the ancient collapsed volcano which formed its crater. The town on the lake edge was my favourite place on the north island. Huka Falls and the Aratiatia Rapids were an obvious first stop as a kayaker. The river walk to them is beautiful, and it's amazing to see the Aratiatia Dam turn an empty river bed into raging rapids in minutes. Some other nice walks were Mount Tauhara, the Opepe Circuit, the Tookanu Thermal Park and Craters of the Moon.
-
-Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd meet repeatedly.
-
-#### Taupō Tandem Skydiving
-
-I hate heights, so this made me pretty nervous. A hummer limo collects you, in which I met Max who I'd both jump alongside and travel onwards with after. The weather was unreal and the staff are experts at making it light-hearted and fun. It's only €70 to jump, and for the same again I had the "Stephen Spielberg of the sky" getting photos and videos on the way down (absolutely worth it).
-
-The plane is tiny, with a flimsy plastic sheet instead of a door. The views are so cool on the way up and the instruction when you reach altitude is almost too easy. The fall is like a simulation, as if you're floating because the ground doesn't seem to get closer. I was surprisingly calm, more scared when the parachute came out and happy to finally reach the ground. Amazing experience in a perfect place. Watch the video here!
 
 #### Tongariro Alpine Crossing
 

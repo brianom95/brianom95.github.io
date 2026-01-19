@@ -196,21 +196,21 @@ Finally the thing I dreaded most since booking my flight to New Zealand; a bungy
 
 Lake Te Anau is the south island's largest lake. The small town of Te Anau on its banks is known as the gateway to Fjordland, well located for all the nearby hikes. I found a nice hostel in the town and spent the days driving south to Manapouri for the lakeside cliff walk, east to see the Takitimu Mountains and north for the Knobs Flat Waterfall walk.
 
-The weather was ideal for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a great base for our few days in Fjordland, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
+The weather was ideal for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a good base for heading further into Fjordland too, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
 
 ![]({{site.baseurl}}/images/nz2.webp)
 
 #### Fjordland National Park
 
-New Zealand's largest national park is centred around the 14 fjords of Southland. These fjords formed through repeated freezing and melting of glaciers, carving deep valleys that extend to the sea. The one road that passes through them is out of this world and we stopped at all the main hikes on route.
+New Zealand's largest national park is centred around the 14 fjords of Southland. These fjords formed through repeated freezing and melting of glaciers, carving deep valleys that extend to the sea. The one road that passes through them is out of this world and I stopped at all the main hikes on route.
 
-Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was definitely to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air.
+Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air. This area is full of amazing hikes.
 
 ![]({{site.baseurl}}/images/nz29.webp)
 
 #### Milford Sound
 
-At the end of the Fjordland road, is a long tunnel that reveals the 8th wonder of the world. Milford Sound is the largest of the fjords, full of huge cliffs and islands. It rains almost every day, totalling 8,000mm per year (Ireland averages 1,000mm per year!). This forms huge waterfalls and a rolling fog that makes the stillness seem eerie. You can't feel them, but sensors monitor at least ten minor earthquakes per day. This place is truly wild.
+At the end of the Fjordland road, is a long tunnel that reveals New Zealand's 8th wonder of the world. Milford Sound is the largest of the fjords, full of huge cliffs and islands. It rains almost every day, totalling 8,000mm per year (Ireland averages 1,000mm per year!). This forms huge waterfalls and a rolling fog that makes the stillness seem eerie. You can't feel them, but sensors monitor at least ten minor earthquakes per day. This place is truly wild.
 
 The boat trip around Milford Sound was unbelievable. A constant layer of rain and mineral runoff leaves the sea water extra dark. This and the perfectly flat side walls make whales think it's deeper than it is, allowing you to find them alongside the dolphins, seals and penguins. After going to the ocean and back we docked at a natural aquarium, down to a ten meter deep glass room where you watch fish swim amongst rare black coral (which is bright white when alive). This is one of the top attractions of the whole country and not something to miss. 
 
@@ -218,27 +218,30 @@ The boat trip around Milford Sound was unbelievable. A constant layer of rain an
 
 #### Mueller Hut & Mount Ollivier
 
-After Milford Sound we began making our way back north. We stayed again in Queenstown and Wānaka, before taking the road up the east side of the Alps. The town of Twizel was a particularly beautiful stay by the lake, after which we approached Aoraki.
+After Milford Sound I began making my way back north. I stayed again in Queenstown and Wānaka, before taking the road up the east side of the Alps. The town of Twizel was a particularly beautiful stay by a lake, after which I approached Aoraki.
 
-Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small town of the same name, full of climbers and skiiers. Here we rented rigid boots and crampons for a stay in one of the countries best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
+Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small town of the same name, full of climbers and skiiers. Here I rented rigid boots and crampons for a stay in one of the countries best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
 
-This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning Marion & I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
+This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
 
 ![]({{site.baseurl}}/images/nz24.jpeg)
 
 #### Lake Tekapo
 
-Lake Tekapo is a photographers dream, particularly the Church of the Good Shepherd. The water is bright turquoise due to a fine rock sand carried down from glaciers, and the area is a dark sky reserve which exposes the milky way. I loved the walk up to the observatory on Mount John, even though we had to hitchhike down due to a freak rain shower. It's a stunning place that was well worth staying. I loved all the colour from the purple lupins.
+Lake Tekapo is a photographers dream, particularly the Church of the Good Shepherd. The water is bright turquoise due to a fine rock sand carried down from glaciers, and the area is a dark sky reserve which exposes the milky way. I loved the walk up to the observatory on Mount John, even though I had to hitchhike down due to a freak rain shower. It's a stunning place that was well worth staying. I loved all the colour from the purple lupins.
 
 ![]({{site.baseurl}}/images/nz25.webp)
 
 #### Christchurch
 
-If Auckland was Dublin, then Christchurch is Galway. I loved the street art, especially of Antarctica, and walking along the Avon river to the botanical garden. I took the gondola up Mount Cavendish to see the city from above, and to look at the distant Alps. I met my friend Sarah one night too, having drinks on New Regent Street and getting to see why she moved here.
+If Auckland was Dublin, then Christchurch is Galway. I loved the street art, especially of Antarctica, and walking along the Avon river to the botanical garden. I took the gondola up Mount Cavendish to see the city from above, and to look at the distant Alps. I met my kayaker friend Sarah one night too, having drinks on New Regent Street and getting to see why she moved here.
 
-My final days were spent with good food and great people. An afternoon in the botanical garden where I was still amazed by the size of the trees. Slowly enjoying once more the river walk, farmers market and the biggest playground I'd ever seen. It's bittersweet, and almost melancholic that this perfect trip had to end with goodbyes. So much life had been lived in just seven weeks, having traded all apprehension for an experience I wouldn't yet fully understand. Simple things often transport me back, like hearing Six60 on the radio and suddenly I'm driving the west coast again. With every spark of childlike passion that my adventures ignite, I'm reminded of this time when it all burned so naturally. Relishing in these memories is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing Mount Kosciuszko in Australia & Backpacking South East Asia.
+My final days were spent with good food and great people. An afternoon in the botanical garden where I was still amazed by the size of the trees. Slowly enjoying once more the river walks, farmers market and the biggest playground I'd ever seen. It's bittersweet that this perfect trip had to end. I felt like I had lived so much life in just seven weeks, any nervousness now a distant memory. 
+
+I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing Mount Kosciuszko in Australia & Backpacking South East Asia.
 
 ![]({{site.baseurl}}/images/nz27.webp)
 
 Thank you so much for reading,
+
 Brian

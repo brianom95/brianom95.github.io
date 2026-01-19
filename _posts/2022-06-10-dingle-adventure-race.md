@@ -8,7 +8,7 @@ tags:   [Adventure-Racing]
 ---
 One of Ireland's most iconic adventure races, and probably the most recognisable race top! Paddling in Dingle harbour, cycling Slea Head and running up Mount Brandon; our 9th highest mountain. A highly regarded race, and for good reason.
 
-Katie and I camped on a beach nearby the night before. I felt fresh at registration in the morning, under a huge marquee where I met my friend Conor who was racing too. They announced that the kayaking would be first so we all cycled our bikes to a transition area and walked back. The start line was packed and Conor & I went right to the front, committed to reaching the kayaks both first and together! After some announcements the countdown began.
+I camped on a beach nearby the night before. I felt fresh at registration in the morning, under a huge marquee where I met my friend Conor who was racing too. They announced that the kayaking would be first so we all cycled our bikes to a transition area and walked back. The start line was packed and Conor & I went right to the front, committed to reaching the kayaks both first and together! After some announcements the countdown began.
 
 It was a brutal sprint with others having the same idea as us, but we pushed hard to stay ahead. 1km of road, followed by a narrow dirt track that became a rocky beach. We were first on the water and made up so much distance that the next people were only halfway around as we got out. A quick sprint over some slippery seaweed had us grabbing our bikes and hitting the road.
 
@@ -26,4 +26,4 @@ The final 9km cycle was more like a victory lap, feeling like you're done long b
 
 Soup and beers at the finish line were well earned and the medals were worn with pride. All in all a great event that lived up to the hype. Between the ocean views, the rugged mountain and the atmosphere they create, this truly feels like an adventure. Great to have had Conor alongside for it too, and for us to finally put our kayaking skills to some use. Even if our lead was short lived.
 
-Katie & I stayed in a B&B with a balcony view of Mount Brandon after. We explored the peninsula from the road that day, and from the water on Sunday. A particularly stormy Dingle Sea Safari was worth it for the dolphins and puffins, but our stomachs took a while to agree. A very memorable weekend and one I'm super glad we managed to fit in.
+I stayed in a B&B with a balcony view of Mount Brandon after. We explored the peninsula from the road that day, and from the water on Sunday. A particularly stormy Dingle Sea Safari was worth it for the dolphins and puffins, but our stomachs took a while to agree. A very memorable weekend.

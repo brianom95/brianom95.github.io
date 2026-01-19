@@ -240,7 +240,7 @@ My final days were spent with good food and great people. An afternoon in the bo
 
 I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing Mount Kosciuszko in Australia & Backpacking South East Asia.
 
-![]({{site.baseurl}}/images/nz27.webp)
-
 Thank you so much for reading,  
 Brian
+
+![]({{site.baseurl}}/images/nz27.webp)

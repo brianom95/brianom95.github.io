@@ -10,9 +10,9 @@ In October 2022, I was lucky enough to travel around the world and explore New Z
 
 New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and everyday I felt drawn to explore until my legs hurt. 
 
-![]({{site.baseurl}}/images/nz28.webp)
-
 ![]({{site.baseurl}}/images/nz2.webp)
+
+
 ![]({{site.baseurl}}/images/nz3.webp)
 ![]({{site.baseurl}}/images/nz4.webp)
 ![]({{site.baseurl}}/images/nz5.webp)
@@ -181,6 +181,8 @@ Finally the thing I dreaded most since booking my flight to New Zealand; a bungy
 Lake Te Anau is the south island's largest lake. The small town of Te Anau on its banks is known as the gateway to Fjordland, well located for all the nearby hikes. We based ourselves here, driving south to Manapouri for the lakeside cliff walk, east to see the Takitimu Mountains and north for the Knobs Flat Waterfall walk.
 
 We had beautiful weather for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a great base for our few days in Fjordland, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
+
+![]({{site.baseurl}}/images/nz28.webp)
 
 #### Fjordland National Park
 

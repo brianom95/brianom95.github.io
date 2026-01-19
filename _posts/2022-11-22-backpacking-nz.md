@@ -10,6 +10,37 @@ In October 2022, I was lucky enough to travel around the world and explore New Z
 
 New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and everyday I felt drawn to explore until my legs hurt. 
 
+![]({{site.baseurl}}/images/nz2.webp)
+![]({{site.baseurl}}/images/nz3.webp)
+![]({{site.baseurl}}/images/nz4.webp)
+![]({{site.baseurl}}/images/nz5.webp)
+![]({{site.baseurl}}/images/nz6.webp)
+![]({{site.baseurl}}/images/nz7.webp)
+![]({{site.baseurl}}/images/nz8.webp)
+![]({{site.baseurl}}/images/nz9.webp)
+![]({{site.baseurl}}/images/nz10.webp)
+![]({{site.baseurl}}/images/nz11.webp)
+![]({{site.baseurl}}/images/nz12.webp)
+![]({{site.baseurl}}/images/nz13.webp)
+![]({{site.baseurl}}/images/nz14.webp)
+![]({{site.baseurl}}/images/nz15.webp)
+![]({{site.baseurl}}/images/nz16.webp)
+![]({{site.baseurl}}/images/nz17.webp)
+![]({{site.baseurl}}/images/nz18.webp)
+![]({{site.baseurl}}/images/nz19.webp)
+![]({{site.baseurl}}/images/nz20.webp)
+![]({{site.baseurl}}/images/nz21.webp)
+![]({{site.baseurl}}/images/nz22.webp)
+![]({{site.baseurl}}/images/nz23.webp)
+![]({{site.baseurl}}/images/nz24.webp)
+![]({{site.baseurl}}/images/nz25.webp)
+![]({{site.baseurl}}/images/nz26.webp)
+![]({{site.baseurl}}/images/nz27.webp)
+![]({{site.baseurl}}/images/nz28.webp)
+![]({{site.baseurl}}/images/nz29.webp)
+![]({{site.baseurl}}/images/nz30.webp)
+![]({{site.baseurl}}/images/nz31.webp)
+
 #### Introduction
 
 New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, some large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.

@@ -65,7 +65,6 @@ A recent rewatching of the trilogy had me pretty excited for this. The whole are
 Exploring the Shire was brilliant. Perfect weather and I loved the little touches like signs on notice boards, or Bilbo's pipe outside Bag End. The tour guide shows you the big doors used when filming hobbits, and tiny doors for filming Gandalf to make him look bigger. Afterwards everyone gets a drink in the pub, which was rebuilt after burning it down for a movie. Then my tour included the festive lunch which I would highly recommend.
 
 ![]({{site.baseurl}}/images/nz7.jpeg)
-![]({{site.baseurl}}/images/nz8.webp)
 
 #### Rotorua
 
@@ -73,7 +72,7 @@ This outdoorsy town is dominated by geothermal emissions. Small parks centre aro
 
 My favourite things were the lake walk and the giant redwoods of Whakarewarewa Forest. Much younger than those in California, but definitely the biggest trees I'd ever seen. The longest hike summitted a mountain with nice views of the smoking town and wider area. Unfortunately I wasn't able to kayak the Kaituna river due to high levels that lasted weeks. This was the number one thing on my list, and now the first stop if I return.
 
-![]({{site.baseurl}}/images/nz9.webp)
+![]({{site.baseurl}}/images/nz8.webp)
 
 #### Taupō
 
@@ -82,7 +81,6 @@ Lake Taupō is New Zealand's largest lake and gets it's name from the ancient co
 Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd meet repeatedly.
 
 ![]({{site.baseurl}}/images/nz9.webp)
-![]({{site.baseurl}}/images/nz24.jpeg)
 
 #### Taupō Tandem Skydiving
 
@@ -225,6 +223,8 @@ After Milford Sound we began making our way back north. We stayed again in Queen
 Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small town of the same name, full of climbers and skiiers. Here we rented rigid boots and crampons for a stay in one of the countries best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
 
 This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning Marion & I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
+
+![]({{site.baseurl}}/images/nz24.webp)
 
 #### Lake Tekapo
 

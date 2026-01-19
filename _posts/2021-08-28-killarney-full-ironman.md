@@ -137,7 +137,7 @@ Happy adventuring,
 Brian
 
 #### Finish Time
-"<div class="table-container">
+<div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>
     <tr><td>Swim</td><td>1hr 47mins 08s</td><td>3800m</td></tr>
@@ -147,4 +147,4 @@ Brian
     <tr><td>Run</td><td>5hrs 13mins 25s</td><td>42.2km</td></tr>
     <tr><td>Total</td><td>14hrs 21mins 16s</td><td>-</td></tr>
   </table>
-</div>"
+</div>

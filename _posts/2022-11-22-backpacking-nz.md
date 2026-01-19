@@ -238,7 +238,7 @@ If Auckland was Dublin, then Christchurch is Galway. I loved the street art, esp
 
 My final days were spent with good food and great people. An afternoon in the botanical garden where I was still amazed by the size of the trees. Slowly enjoying once more the river walks, farmers market and the biggest playground I'd ever seen. It's bittersweet that this perfect trip had to end. I felt like I had lived so much life in just seven weeks, any nervousness now a distant memory. 
 
-I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing Mount Kosciuszko in Australia & Backpacking South East Asia.
+I think about New Zealand often since, especially when certain songs transport me back. I love when adventures can energise me with that spark of childlike passion, something that this trip was full of. Relishing in these memories at the time is what made it so difficult to leave, but it's also what eased my nerves for the next parts of this adventure; climbing [Mount Kosciuszko](https//www.brianbeyond.com/kosi) in Australia & [Backpacking South East Asia](https//www.brianbeyond.com/backpackingsea).
 
 Thank you so much for reading,  
 Brian

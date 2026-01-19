@@ -8,9 +8,9 @@ tags:   [Running]
 ---
 *14,000 runners from 54 countries, all arriving in beautiful New Zealand to be met with a raging storm! Torrential rain and strong winds fought me for every step.*
 
-This was the third marathon in my journey to join the Seven Continents Club.
+This was the third marathon in my journey to join the [Seven Continents Club](seven-continents-club).
 
-This race was done during my seven weeks of Backpacking New Zealand. I was staying in Auckland with my cousin Andrew and his partner Olivia. Weather warnings placed a question mark over it all, and even collecting race packs the day before was wild. 
+This race was done during my seven weeks of [Backpacking New Zealand](backpacking-nz). I was staying in Auckland with my cousin Andrew and his partner Olivia. Weather warnings placed a question mark over it all, and even collecting race packs the day before was wild. 
 
 When I got to athlete check-in on Queens Wharf I was soaked to the bone. A man handing out cycling merchandise gave me a waterproof bag cover. Chatting to him under his shaking tent made me wonder how tomorrow could possibly go ahead. The expo was basic, just a few stalls with running gear. The event hat was nice and I bought a t-shirt before braving the rain once again to go home. Dinner was one of the nicest pizzas I've ever had and I tried to get an early night.
 

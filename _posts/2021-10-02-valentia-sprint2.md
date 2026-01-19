@@ -8,9 +8,9 @@ tags:   [Triathlon]
 ---
 HARDMAN's Valentia Island Sprint Triathlon. Take 2.
 
-A fitting end to a year of triathlon. I was a complete novice when I did this race in 2020. Everything was new, and my body hadn't been adapted. I'd have told you that was it for me and this sport. Yet here I was, back again but after completing two half-Ironman's in Waterville & Bantry and a full Ironman in Killarney. The fittest I'd ever been in my life and beyond all worries of the year. Able to close this chapter with one last, purely fun race. Sinead and her brother Daithí joined, as was now tradition.
+A fitting end to a year of triathlon. I was a complete novice when I did this race in 2020. Everything was new, and my body hadn't been adapted. I'd have told you that was it for me and this sport. Yet here I was, back again but after completing two half-Ironman's in Waterville & Bantry and a full Ironman in Killarney. The fittest I'd ever been in my life and now happily beyond all the worries of this year. Able to close this chapter with one last, purely fun race. Sinead and her brother Daithí joined, as was now tradition.
 
-Katie and I stayed in Killarney the night before to split up the drive. Arriving in Knight's Town there was none of the nervousness from last year. I collected my pack seeing loads of familiar faces, and set up my transition area. 
+I stayed in Killarney the night before to split up the drive. Arriving in Knight's Town there was none of the nervousness from last year. I collected my pack seeing loads of familiar faces, and set up my transition area. 
 
 The simplicity was almost funny. Having spent a year thinking about nutrition, transition bags and the perfect setup there was now none of that. Sinead asked me what I was doing for food. I said I had one gel that I probably wouldn't eat, and one water bottle I probably wouldn't drink (I felt fairly hydrated before). 
 
@@ -20,7 +20,7 @@ Into the water and instant chaos. Kicking, hitting and people swimming up your b
 
 My trisuit and past experience made transition quick. Bike was in a low gear, ankle tag on the left foot to avoid the chain. Not my first rodeo... as I said at my second rodeo. 
 
-I sped up the hill which didn't feel any shorter than last year. The views of the Skelligs from the top were great and the downhills as fast as I'd remembered. I'd since been to Valentia a few times and it was nice to cycle around the island again. 
+I sped up the hill which didn't feel any shorter than last year. The views of the Skelligs from the top were great and the downhills as fast as I'd remembered. I'd since been to Valentia a few times (spent a week in Portmagee with my family) and it was nice to cycle around the island again. 
 
 There was a big headwind approaching transition and I could see dark clouds forming quickly. Off the bike and into transition feeling great.
 
@@ -30,7 +30,7 @@ Standing there with the medal I couldn't believe how much had changed in only on
 
 Sinead and Dathaí finished soon after and we raided the free food. This was likely the last year we'd do this together as she was moving to Canada. Who knows what my year would have been like if she hadn't gotten me to do this race a year before. I look forward to coming back here with friends to introduce the sport via the countries best race.
 
-Katie and I made the long drive to Dingle that night and finished off the weekend with some sightseeing, good food and drinks. A chapter happily closed, and a mind full of ideas for future adventures.
+That night I made the long drive to Dingle and finished off the weekend with some sightseeing, good food and drinks. A chapter happily closed, and a mind full of ideas for future adventures.
 
 #### Finish Time
 <div class="table-container">

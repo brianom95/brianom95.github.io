@@ -134,6 +134,7 @@ Enjoy every moment. You'll probably think back on this journey for the rest of y
 The race was everything I'd hoped for and more. The journey I barely have words to describe. Whatever calls you, or whatever dream you have, your limits are only as real as you let them be. Trust in yourself and take the first steps...
 
 Happy adventuring,
+
 Brian
 
 #### Finish Time

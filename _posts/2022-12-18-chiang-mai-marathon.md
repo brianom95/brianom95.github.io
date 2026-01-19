@@ -8,9 +8,9 @@ tags:   [Running]
 ---
 *4,300 runners from 44 countries, racing through the night on this flat and fast course. Chiang Mai was the ancient capital of a country named Lana, and is now Thailand's second biggest city. The race takes in the moat and walls of the original centre, the expanding suburbs, and ends at the statue of Lana's most revered monarch; King Naresuan.*
 
-This was the fourth marathon in my journey to join the Seven Continents Club.
+This was the fourth marathon in my journey to join the [Seven Continents Club](seven-continents-club).
 
-This race was done during my two months of Backpacking South East Asia. I stayed in Chiang Mai for a week, treating myself to a €10 hotel room and lots of good food so I'd be well rested. The race expo and start line were both at Tha Phae Gate, which is the most famous entrance to the walled city. I was impressed by the t-shirt, running vest and all the goodies we were given. There's also a Decathlon beside the start so I treated myself to a new pair of running socks before one last dinner and an early night.
+This race was done during my two months of [Backpacking South East Asia](backpacking-sea). I stayed in Chiang Mai for a week, treating myself to a €10 hotel room and lots of good food so I'd be well rested. The race expo and start line were both at Tha Phae Gate, which is the most famous entrance to the walled city. I was impressed by the t-shirt, running vest and all the goodies we were given. There's also a Decathlon beside the start so I treated myself to a new pair of running socks before one last dinner and an early night.
 
 The race starts at 3:00am to avoid the heat and to finish at sunrise. It was humid as I walked to the start, but with a cool breeze I was glad of. The street was lined with flags for each competitor and I quickly found my Irish one. There was a fun atmosphere as they gave a briefing, then a countdown, and sent us off. The race started with a lap of the city walls, where the bridges, towers and moat were all beautifully lit up. It was completely silent as if we had the city all to ourselves.
 

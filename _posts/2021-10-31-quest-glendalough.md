@@ -40,4 +40,4 @@ I hadn't known anything about the afters of these races but was pleasantly surpr
 
 We met Gavin and Emer after. He'd had a great day, if a little wet and cold at times, and they headed home to begin photo editing. Katie and I did our usual touristing with a stay at a local B&B. Two others staying with us had done the race and it was nice to hear that it wasn't just me. It really was tough. I said never again, meaning it in the moment, but knowing it was probably a lie. 
 
-It was a week later that I looked up the other races and convinced myself they couldn't be as tough. Maybe QUEST Kenmare next?
+It was a week later that I looked up the other races and convinced myself they couldn't be as tough. Maybe [QUEST Kenmare](quest-kenmare) next?

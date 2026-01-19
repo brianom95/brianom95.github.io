@@ -6,7 +6,7 @@ date:   2023-09-08 12:00:0 +0000
 image:  '/images/questld0.jpeg'
 tags:   [Adventure-Racing]
 ---
-The Quest Series dominates Ireland's adventure racing calendar, and for good reason. I was genuinely shocked by the steep hills at QUEST Glendalough. Then brought close to hypothermia in a biblical storm at QUEST Kenmare. But finally I got the hang of it, allowing me to enjoy their longest and most scenic race at QUEST Killarney.
+The Quest Series dominates Ireland's adventure racing calendar, and for good reason. I was genuinely shocked by the steep hills at [QUEST Glendalough](quest-glendalough). Then brought close to hypothermia in a biblical storm at [QUEST Kenmare](quest-kenmare). But finally I got the hang of it, allowing me to enjoy their longest and most scenic race at [QUEST Killarney](quest-killarney).
 
 This left only one race to finish the QUEST Series; and it was the most local to me. Having only returned from Spain 12hrs before the start, I wasn't amazingly well rested, but the weather and my excitement easily made up for that.
 

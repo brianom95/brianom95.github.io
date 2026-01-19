@@ -23,7 +23,7 @@ An Ironman is widely considered one of the most difficult one-day sporting event
 
 #### First Steps
 
-I completed the Valentia Island Sprint Triathlon in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
+I completed the [Valentia Island Sprint Triathlon](valentia-sprint1) in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
 
 It was as mesmerising as it was insane. People crawling across the line after 17 hours, broken but undefeated. It chose me against my will and a seed grew over months. I didn't want the risk of failure, or to desire something that may not be possible, but against all logic I knew I had to do it, someday. If anyone can complete this ultimate test, then surely I could. The pandemic gave us all a lot of free time spent in our locality. I realised there's no time like the present and at least this training could be in my control. Maybe I'd start with a half.
 
@@ -47,7 +47,7 @@ The best workouts were the brics (combined cycle and run). The faster you transi
 
 They say in triathlon that the transitions are the fourth discipline. However, in Ironman where you have all day, it's nutrition. Your goal is 60 grams of carbs every hour in any way your body can take. I fitted the bike with a personal kitchen worth of bags and tried everything. Trial and error always ended in error, until I settled on flavourless maltodextrin in my water (solid food didn't suit me) and Nutella sandwiches. What works is very personal, but you have to postpone the point where you hit the wall as much as possible. The body can only store 2,000 calories and you're going to need around 8,000 calories on the day, without causing GI problems. This part is tough as the stomach never gets a chance to settle.
 
-Throughout my plan I did two half Ironman's, in Waterville & Bantry. From the beginning I could visualise a half, understand how someone could finish it, but could never say the same for the full. These races were incredibly challenging and made it even more difficult to visualise Killarney. However as the saying goes, you just have to be naïve enough to start and stubborn enough to finish.
+Throughout my plan I did two half Ironman's, in [Waterville](waterville-half-ironman) & Bantry](bantry-half-ironman). From the beginning I could visualise a half, understand how someone could finish it, but could never say the same for the full. These races were incredibly challenging and made it even more difficult to visualise Killarney. However as the saying goes, you just have to be naïve enough to start and stubborn enough to finish.
 
 In the final weeks I was the fittest I've ever been. Iron Fit as the book calls it. I swam 5km on one beautiful sunny day (very slowly but I was so proud), cycled my first century (100 miles or 160km) and did half marathons like they were nothing. I had missed a lot more workouts from the plan than I care to admit (life gets in the way) but I felt excited to run into the unknown and test what I could do. The last two weeks tapered off to allow the body to recover and all of a sudden the race was staring us down. 
 
@@ -121,20 +121,19 @@ Most of all Katie, my family and my friends who put up with every word being tri
 
 If anyone is considering an Ironman these would be my five tips:
 
-You know your ability better than anyone. Don't let others put doubts in your head. You'll do that enough yourself and negative energy doesn't help.
+1. You know your ability better than anyone. Don't let others put doubts in your head. You'll do that enough yourself and negative energy doesn't help.
 
-You don't need to be a triathlete, swimmer, cyclist or runner before starting. These are skills that anyone can learn. I'm proof of this.
+2. You don't need to be a triathlete, swimmer, cyclist or runner before starting. These are skills that anyone can learn. I'm proof of this.
 
-Make a genuine promise to yourself that you won't quit at a bad moment. That you'll wait until the next happy, sunny time to make the decision. It's a rollercoaster and the low moments don't last forever.
+3. Make a genuine promise to yourself that you won't quit at a bad moment. That you'll wait until the next happy, sunny time to make the decision. It's a rollercoaster and the low moments don't last forever.
 
-Don't overtrain. This is a tactical game of injury prevention and recovery. In every way possible the race is a marathon, not a sprint.
+4. Don't overtrain. This is a tactical game of injury prevention and recovery. In every way possible the race is a marathon, not a sprint.
 
-Enjoy every moment. You'll probably think back on this journey for the rest of your life. The perfect days with friends only stand out as much as the icy, windy, lonely, miserable ones. Where you sing your lungs out just to get through it, but you always do make it through. Every step has growth. Be open to learning, be open to changing and soak up every bit of the experience.
+5. Enjoy every moment. You'll probably think back on this journey for the rest of your life. The perfect days with friends only stand out as much as the icy, windy, lonely, miserable ones. Where you sing your lungs out just to get through it, but you always do make it through. Every step has growth. Be open to learning, be open to changing and soak up every bit of the experience.
 
 The race was everything I'd hoped for and more. The journey I barely have words to describe. Whatever calls you, or whatever dream you have, your limits are only as real as you let them be. Trust in yourself and take the first steps...
 
-Happy adventuring,
-
+Happy adventuring,  
 Brian
 
 #### Finish Time

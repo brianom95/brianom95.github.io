@@ -10,8 +10,7 @@ In October 2022, I was lucky enough to travel to the other side of the world and
 
 New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and everyday I felt drawn to explore until my legs hurt. 
 
-![]({{site.baseurl}}/images/nz28.webp =100)
-<img src="image.jpg" alt="Description" width="300" height="200">
+<img src="/images/nz28.webp" align="center" width="350">
 
 #### Introduction
 
@@ -23,17 +22,17 @@ There are endless ways to backpack the country and everyone's trip is different.
 
 So my trip. In New Zealand's springtime all tourists begin with the headland above Auckland, known as the Northland, or Winterless North. From here they zig zag south, through the tourist hubs, meeting the same people repeatedly and allowing the southern areas to warm up. I'll cover the places I visited as I followed this path, from my flight into Auckland to my flight out of Christchurch (as I've marked in red on a postcard below). Obviously there is more to see like the Coromandel up north or Dunedin down south. This is purely and unapologetically my trip, including many of the stories and facts I learned along the way.
 
-![]({{site.baseurl}}/images/nzmap.webp | width=200)
+<img src="/images/nzmap.webp" align="center" width="400">
 
 ## The North Island
-<img src="/images/nzmap.webp" align="center" alt="Description" width="400">
+
 #### Cape Reinga
-<img src="/images/nzmap.webp" align="center" width="500">
+
 A lighthouse and ancient tree mark the northern tip of the country. This is where two oceans meet, leaving a distinct line between their differing colours. It's believed that Māori souls travel up the coast and leap from here after death, forming the line and making it the most spiritually significant place in the country. I met ten hikers starting the Te Araroa trail this day so I was in my element chatting with them about their fancy ultralight gear!
 
 On the way south we stopped at the famous 90 mile beach for sandboarding on the dunes. It's actually 55 miles long, wrongly measured due to a horses slower speed on sand. It's still the fourth longest beach in the world though. I was amazed by the Tuatua, which are millions of tiny shellfish living inches below the wet sand. People grab a handful, wash the sand off in the ocean and eat them live. Probably the freshest seafood you can find. The oldest kauri tree in New Zealand is near here also, named Tane Mahuta and over 4,000 years old.
 
-![]("{{site.baseurl}}/images/nz3.webp"=300)
+<img src="/images/nz3.webp" align="center" width="500">
 
 #### The Bay of Islands
 

@@ -10,7 +10,7 @@ tags:   [Kayaking]
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
-**Shannon Source to Sea**
+**[Shannon Source to Sea](shannon-source-to-sea)**
 
 250km, Kayaking Ireland’s Longest River
 

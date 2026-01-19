@@ -31,4 +31,16 @@ There was complete euphoria at that point, my body still felt confused about wha
 She was going home to Tralee, but I'd never been to Valentia so I headed for a bit of exploring, then camped by the lighthouse with a movie and a nice dinner. Thinking about it that night I was overwhelmingly happy with the beautiful sunny day and wondered if I'd do another one. 
 
 Little did I know that I would be back here in 2021, and that a seed was now planted which would lead me to discover Ironman. The allure of which would dominate my every thought for months. Haunting me until I rose to the challenge. Taking on what seemed so nonsensical that I couldn’t understand how it was possible. A half maybe, but surely not that! 
+
 #### Finish Time
+<div class="table-container">
+  <table>
+    <tr><th></th><th>Time</th><th>Distance</th></tr>
+    <tr><td>Swim</td><td>14mins 51s</td><td>750m</td></tr>
+    <tr><td>T1</td><td>3mins 11s</td><td>-</td></tr>
+    <tr><td>Cycle</td><td>41mins 48s</td><td>20km</td></tr>
+    <tr><td>T2</td><td>38s</td><td>-</td></tr>
+    <tr><td>Run</td><td>24mins 44s</td><td>5km</td></tr>
+    <tr><td>Total</td><td>1hr 25mins 12s</td><td>-</td></tr>
+  </table>
+</div>

@@ -12,6 +12,10 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 
 <img src="/images/nz28.webp" align="center" width="400">
 
+<p align="center" width="100%">
+    <img width="400" src="/images/nz28.webp">
+</p>
+
 #### Introduction
 
 New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, some large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
@@ -23,6 +27,10 @@ There are endless ways to backpack the country and everyone's trip is different.
 So my trip. In New Zealand's springtime all tourists begin with the headland above Auckland, known as the Northland, or Winterless North. From here they zig zag south, through the tourist hubs, meeting the same people repeatedly and allowing the southern areas to warm up. I'll cover the places I visited as I followed this path, from my flight into Auckland to my flight out of Christchurch (as I've marked in red on a postcard below). Obviously there is more to see like the Coromandel up north or Dunedin down south. This is purely and unapologetically my trip, including many of the stories and facts I learned along the way.
 
 <img src="/images/nzmap.webp" align="center" width="400">
+
+<p align="center" width="100%">
+    <img width="33%" src="/images/nzmap.webp">
+</p>
 
 ## The North Island
 

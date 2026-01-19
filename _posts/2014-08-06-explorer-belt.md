@@ -6,10 +6,10 @@ date:   2014-08-06 15:01:35 +0300
 image:  '/images/belt10.webp'
 tags:   [Thru-Hiking]
 ---
-The Explorer Belt is a unique expedition available to Rover Scouts, aged 18 to 25. I completed the event under Scouting Ireland, but other countries have equivalents with slightly different criteria. Locations change every year and have included America, Scandinavia, Netherlands, Portugal, Poland, Croatia and all over Europe. 
+The Explorer Belt is a unique expedition available to Rover Scouts, aged 18 to 25. I completed the event under Scouting Ireland, but other countries have equivalents with slightly different criteria. Locations change every year but have included America, Scandinavia, Netherlands, Portugal, Poland, Croatia and the Basque Region. 
 
 #### Background
-Teams of two are dropped in an undisclosed location and must hike at least 200km over 10 days to reach a common base camp. Along the way they maintain a log with daily activities, route, menu, receipts and budgeting as they live off €2.50 per person per day. They also complete personal and team projects, sourcing all information from locals. Prescribed projects can be based on local values, traditions, music, sports, politics or daily life. There are also fun projects, all with the goal of facilitating interaction with local people.
+Teams of two are dropped in a previosuly undisclosed location and must hike at least 200km over 10 days to reach a common base camp. Along the way they maintain a log with daily activities, route, menu, receipts and budgeting as they live off €2.50 per person per day. They also complete personal and team projects, sourcing all information from locals. Prescribed projects can be based on local values, traditions, music, sports, politics or daily life. There are also fun projects, all with the goal of facilitating interaction with local people.
 
 The event tests communication, physical endurance and teamwork during immersion within a foreign culture, and usually a foreign language. Teams are entirely self sufficient, carrying their tent, stove and all equipment on their backs. Altitude, storms or extreme heat can add difficulty on any given year.
 

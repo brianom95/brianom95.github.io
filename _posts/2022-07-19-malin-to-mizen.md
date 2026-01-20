@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Malin to Mizen - Cycling the Length of Ireland
-description: TBC
+title:  Malin to Mizen
+description: Cycling the Length of Ireland
 date:   2022-07-19 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]

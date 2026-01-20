@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Valentia Sprint Triathlon As A Beginner
-description: TBC
+description: Ireland's best triathlon, from the perspective of a complete novice
 date:   2020-09-26 12:00:0 +0000
 image:  '/images/valentia1-0.webp'
 tags:   [Triathlon]

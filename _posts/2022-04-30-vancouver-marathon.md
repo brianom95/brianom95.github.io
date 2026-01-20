@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vancouver Marathon
-description: TBC
+description: Continent No.2
 date:   2022-04-30 12:00:0 +0000
 image:  '/images/7cc2.jpeg'
 tags:   [Running]

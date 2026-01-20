@@ -3,7 +3,7 @@ layout: post
 title:  Ballinskelligs Olympic Triathlon
 description: TBC
 date:   2023-06-16 12:00:0 +0000
-image:  '/images/balltri1.jpeg'
+image:  '/images/balltri0.jpeg'
 tags:   [Triathlon]
 ---
 HARDMAN's only Olympic distance race, over the sand and hills of the Ballinskelligs coastline. This marked my final event in the HARDMAN calendar! 

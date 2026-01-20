@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ireland's County Tops - 32 Peaks in a Week
+title:  County Tops - 32 Peaks in a Week
 description: How we broke the self supported record on Ireland's toughest hiking challenge
 date:   2021-09-04 12:00:0 +0000
 image:  '/images/ct1.jpeg'

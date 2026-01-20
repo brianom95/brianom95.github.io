@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shannon Source to Sea
-description: The first ever solo unsupported descent of Ireland’s longest river
+description: The first ever solo unsupported descent of Ireland’s longest river. Phase 1 of My Big Three
 date:   2022-06-24 12:00:0 +0000
 image:  '/images/shannon0.jpeg'
 tags:   [Kayaking]

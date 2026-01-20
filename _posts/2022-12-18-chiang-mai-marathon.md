@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chiang Mai Marathon
-description: TBC
+description: Continent No.4
 date:   2022-12-18 12:00:0 +0000
 image:  '/images/7cc4.jpeg'
 tags:   [Running]

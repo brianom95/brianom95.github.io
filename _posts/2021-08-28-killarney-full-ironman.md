@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Killarney Full Ironman
-description: My journey from beginner to completing this Ironman distance triathlon in Ireland's most scenic location
+description: My journey from complete beginner to completing Ireland's most scenic Ironman distance triathlon
 date:   2021-08-28 12:00:0 +0000
 image:  '/images/killironman0.jpeg'
 tags:   [Triathlon]

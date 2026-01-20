@@ -19,10 +19,10 @@ The original Bass List remains the most widely accepted and is shown below:
 </p>
 
 #### My Climbs
-1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](kilimanjaro)
-2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](kosciuszko)
-3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
-4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
-5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
+1. [Kilimanjaro, Tanzania (5,895)](kilimanjaro) - 11 September 2022
+2. [Kosciuszko, Australia (2,228m)</mark>](kosciuszko) - 25 November 2022
+3. Elbrus, Russia (5,642m) - 29 July 2024
+4. Aconcagua, Argentina (6,961m) - 09 February 2025
+5. Denali, USA (6,190m) - 10 June 2025
 6. Everest, Nepal (8,848m)
 7. Vinson, Antarctica (4,892m)

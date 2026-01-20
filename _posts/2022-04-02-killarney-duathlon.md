@@ -12,11 +12,11 @@ For many this marks the start of triathlon season, just without the cold swim. F
 
 #### The Race
 
-Katie and I stayed in our now usual B&B (lots of races are in Killarney) and had a nice dinner in town the night before. The morning was standard enough collecting race packs, pumping tyres, oiling chains and setting up an unusually simple transition that was essentially just the bike. 
+I stayed in my now usual B&B (lots of races are in Killarney) and had a nice dinner in town the night before. The morning was standard enough collecting race packs, pumping tyres, oiling chains and setting up an unusually simple transition that was essentially just the bike. 
 
 I opted for non clipped in pedals to avoid changing shoes and had my sunglasses after one too many bugs in my eyes. It was frosty, cold and raining at times so clothing was a tough balance but I'm happy with what I picked. Alan gave a longer briefing than usual to stress the transition rules and at 9:00am we were counted down. Off we went.
 
-As I was still recovering from last weeks Rome Marathon, my goal for this was initially sub three hours. A 1hr run (6:00min/km), 1.5hr cycle (27km/hr) and a 30min run (6:00min/km). Plan was to gauge on how I felt though, with the only real target being not to injure myself.
+As I was still recovering from last weeks [Rome Marathon](rome-marathon), my goal for this was initially sub three hours. A 1hr run (6:00min/km), 1.5hr cycle (27km/hr) and a 30min run (6:00min/km). Plan was to gauge on how I felt though, with the only real target being not to injure myself.
 
 I set off a bit quick, but settled at 5:00min/km which felt great. Everyone was pushing hard and this definitely nudged me on. The route was unreal, retracing the Ironman loop and all along the lake edge to Ross Castle. Two water stops, great views and only one small hill made the time fly by. My tummy felt a bit upset towards the end but I pushed hard knowing the bike would allow recovery. At 48mins 58s I shattered my first target and was quick hopping onto the bike.
 

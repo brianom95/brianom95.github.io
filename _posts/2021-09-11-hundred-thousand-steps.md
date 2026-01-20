@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  100,000 Steps in a Day
-description: Could it really be that hard?
+description: How hard could it be?
 date:   2021-09-11 12:00:0 +0000
 image:  '/images/hundredsteps0.jpeg'
 tags:   [Off-The-Trail]

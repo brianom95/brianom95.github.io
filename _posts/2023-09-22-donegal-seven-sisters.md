@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Seven Sisters Ultramarathon
-description: 4,600m of climbing over a 55km route in Donegal. It doesn't get hillier than this!
+description: It doesn't get hillier than this! 4,600m of climbing over a 55km route in Donegal
 date:   2023-09-22 12:00:0 +0000
 image:  '/images/donegal0.jpeg'
 tags:   [Running]

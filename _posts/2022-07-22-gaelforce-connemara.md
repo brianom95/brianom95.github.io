@@ -6,11 +6,11 @@ date:   2022-07-22 12:00:0 +0000
 image:  '/images/gfc2.webp'
 tags:   [Adventure-Racing]
 ---
-A fast race set in the hills, lakes and bogs of Killary Fjord in Connamara. The short 12.5km run, 19km cycle and 1km kayak make this popular with beginners.
+A fast race set in the hills, lakes and bogs of Killary Fjord in Connemara. The short 12.5km run, 19km cycle and 1km kayak make this popular with beginners.
 
-I felt surprisingly fresh at registration, given that I was at the afters of Gavin & Emer's wedding 8 hours before. It was stormy and raining, almost warm but with a chill from the wind. We were reminded that Connamara is full of tourists looking at the scenery rather than the road. And that they're likely driving on the wrong side so take care!
+I felt surprisingly fresh at registration, given that I was at the afters of a friends wedding eight hours before. It was stormy and raining, almost warm but with a chill from the wind. We were reminded that Connemara is full of tourists looking at the scenery rather than the road. And that they're likely driving on the wrong side so take care!
 
-Bikes were racked behind the adventure centre and we walked a few minutes to the start line. There was a nice atmosphere up there and a lot of competitors. The start was a track along the Western Way, utilising an already established trail. There was a nice view down to the ocean below, spotting where we'd be kayaking later. At 9:00am we were counted down and set off.
+Bikes were racked behind the adventure centre and we walked a few minutes to the start line. There was a nice atmosphere up there and a lot of competitors. The start was a track along the Western Way, utilising an already established trail. It had a nice view down to the ocean below, spotting where we'd be kayaking later. At 9:00am we were counted down and set off.
 
 The run was great. Rolling hills with new boardwalk to keep you off the bog, then a small loop which had us cross a bridge and return through the river. Unavoidably wet feet, but all part of the adventure. The trail widened for an out and back where I chatted to a guy about our mutual PTSD from [Quest Kenmare](quest-kenmare). He joked that this rain felt tropical in comparison. On the return we were directed straight through the bog, following flags instead of trail back to the adventure centre and our bikes.
 
@@ -32,4 +32,4 @@ Finally a downhill run to the water had me at the kayaks. The loop probably took
     <img width="400" src="/images/gfc3.jpeg">
 </p>
 
-This is the perfect race for beginners. Short and laid back enough to be inviting for any pace, while still having a good mix of terrain, scenery and adventure. The food after is great and includes unlimited hot whiskeys! Nice t-shirt and medal too. All in all, a great day out in Connemara.
+This is the perfect race for a beginner. Short and laid back enough to be inviting for any pace, while still having a good mix of terrain, scenery and adventure. The food after is great and includes unlimited hot whiskeys! Nice t-shirt and medal too. All in all, a great day out in Connemara.

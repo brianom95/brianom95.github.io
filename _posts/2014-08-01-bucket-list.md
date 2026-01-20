@@ -56,22 +56,22 @@ tags:   [Off-The-Trail]
 44. Run the Pyongyang Marathon, DPRK
 45. Street Karting in Tokyo, Japan
 46. Drink Sake in Kyoto, Japan
-47. <mark style="background-color: limegreen">Overnight Cruise in Ha Long Bay, Vietnam</mark>
-48. <mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>
-49. <mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>
-50. <mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>
+47. [<mark style="background-color: limegreen">Overnight Cruise in Ha Long Bay, Vietnam</mark>](backpacking-sea)
+48. [<mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>](backpacking-sea)
+49. [<mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>](backpacking-sea)
+50. [<mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>](backpacking-sea)
 51. Stay in the Marina Bay Sands Hotel, Singapore
 52. Surf in Bali, Indonesia
-53. <mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>
-54. <mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>
-55. <mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>
-56. <mark style="background-color: limegreen">See a Show in the Sydney Opera House</mark>
+53. [<mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>](backpacking-nz)
+54. [<mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>](backpacking-nz)
+55. [<mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>](backpacking-nz)
+56. [<mark style="background-color: limegreen">See a Show in the Sydney Opera House</mark>](kosciuszko)
 57. Dive at the Great Barrier Reef
 58. Stand on the World's Tallest Building
 59. <mark style="background-color: limegreen">Float in the Dead Sea; the Lowest Place on Earth</mark>
 60. <mark style="background-color: limegreen">Visit Petra, Jordan</mark>
 61. <mark style="background-color: limegreen">Visit the Pyramids, Egypt</mark>
-62. <mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>
+62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](marrakech-marathon)
 63. <mark style="background-color: limegreen">Go to a Hammam</mark>
 64. Ride the World's Longest Train, Mauritania
 65. Do an African Overland Tour
@@ -79,8 +79,8 @@ tags:   [Off-The-Trail]
 67. See the Ducor Hotel & Monkey Island, Liberia
 68. Voodoo Ceremony in Benin
 69. <mark style="background-color: limegreen">See the Big Five on Safari</mark>
-70. <mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>
-71. <mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>
+70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>](uganda)
+71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](zambia)
 72. Visit the Giant Redwoods & Alcatraz, California
 73. See a Show in The Comedy Mothership in Austin, Texas
 74. See a Show on Broadway
@@ -114,7 +114,7 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Irish Traveler (23/50)
-1. <mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>
+1. [<mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>](malin-to-mizen)
 2. Cycle all 5 Greenways (3 Complete)
 3. Camp in all 32 Counties (19 Complete)
 4. Visit all 191 Wild Atlantic Way Markers (100 Complete)
@@ -124,8 +124,8 @@ tags:   [Off-The-Trail]
 8. Bioluminescence Paddle on Lough Hyne, Cork
 9. Cycle the Ring of Beara, Cork (140km)
 10. Go into a Copper Mine in Allihies, Cork
-11. <mark style="background-color: limegreen">Cycle the Ring of Kerry (180km)</mark>
-12. <mark style="background-color: limegreen">Cycle Slea Head, Kerry (55km)</mark>
+11. [<mark style="background-color: limegreen">Cycle the Ring of Kerry (180km)</mark>](killarney-full-ironman)
+12. [<mark style="background-color: limegreen">Cycle Slea Head, Kerry (55km)</mark>](dingle-adventure-race)
 13. <mark style="background-color: limegreen">Hike the Kerry Camino (57km)</mark>
 14. Visit Skellig Michael, Kerry
 15. <mark style="background-color: limegreen">Climb Mangerton, Kerry</mark>
@@ -156,13 +156,13 @@ tags:   [Off-The-Trail]
 40. <mark style="background-color: limegreen">Complete all 3 Gaelforce Adventure Races</mark>
 41. <mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>
 42. Complete all 11 HARDMAN Races (10 Complete)
-43. <mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>
-44. <mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>
+43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](mourne-seven-sevens)
+44. [<mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>](donegal-seven-sisters)
 45. <mark style="background-color: limegreen">Hike the Galtee Crossing, Limerick</mark>
 46. Hike the Twelve Bens, Galway
 47. Climb all 275 VL's (2,000ft+)
-48. <mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>
-49. <mark style="background-color: limegreen">Climb all 32 County High Points</mark>
+48. [<mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>](irish-munros)
+49. [<mark style="background-color: limegreen">Climb all 32 County High Points</mark>](county-tops)
 50. Hike all 42 Irish Waymarked Trails (5 Complete)
 
 ---
@@ -188,7 +188,7 @@ tags:   [Off-The-Trail]
 #### The Thru-Hiker (3/10)
 1. [<mark style="background-color: limegreen">The Explorer Belt (222km)</mark>](explorer-belt)
 2. [<mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>](tmb)
-3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](west-hishland-way)
+3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](west-highland-way)
 4. GR20 Corsica (180km)
 5. Alta Via 1, Dolomites (160km)
 6. Kungsleden, Sweden (450km)
@@ -200,27 +200,27 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Kayaker (6/10)
-1. <mark style="background-color: limegreen">The White Nile, Uganda</mark>
-2. <mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>
-3. <mark style="background-color: limegreen">The Zambezi, Zambia</mark>
+1. [<mark style="background-color: limegreen">The White Nile, Uganda</mark>](uganda)
+2. [<mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>](india)
+3. [<mark style="background-color: limegreen">The Zambezi, Zambia</mark>](zambia)
 4. The Tara Canyon, Montenegro
 5. The Grand Canyon, USA
 6. The Kaituna, New Zealand
 7. Devizes to Westminster, UK
-8. <mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>
+8. [<mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>](shannon-source-to-sea)
 9. <mark style="background-color: limegreen">Kayak on all 7 Continents</mark>
 10. <mark style="background-color: limegreen">Land an Airscrew</mark>
 
 ---
 
 #### The Athlete (7/12)
-1. <mark style="background-color: limegreen">Complete an Ironman</mark>
+1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](killarney-full-ironman)
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
 3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
-4. <mark style="background-color: limegreen">Run an Ultramarathon</mark>
-5. <mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>
+4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](donegal-seven-sisters)
+5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](hundred-thousand-steps)
 6. <mark style="background-color: limegreen">Swim 5km Nonstop</mark>
-7. <mark style="background-color: limegreen">100 Days of Running 5K's</mark>
+7. [<mark style="background-color: limegreen">100 Days of Running 5K's</mark>](hundred-days-of-running)
 8. Compete in a Beer Mile
 9. Complete the Goggins 4.4.48
 10. Complete a Crossfit Murph
@@ -230,7 +230,7 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Rest of Me (13/25)
-1. <mark style="background-color: limegreen">Meet the President of Ireland</mark>
+1. [<mark style="background-color: limegreen">Meet the President of Ireland</mark>](gaisce-journey)
 2. <mark style="background-color: limegreen">Get a Guinness World Record</mark>
 3. Publish a Book
 4. Experience Van Life
@@ -239,11 +239,11 @@ tags:   [Off-The-Trail]
 7. <mark style="background-color: limegreen">Take a 24hr+ Bus</mark>
 8. <mark style="background-color: limegreen">Compete in the Irish Catan Championships</mark>
 9. <mark style="background-color: limegreen">Beat Minecraft</mark>
-10. <mark style="background-color: limegreen">Do a Bungee Jump</mark>
-11. <mark style="background-color: limegreen">Do a Skydive</mark>
+10. [<mark style="background-color: limegreen">Do a Bungee Jump</mark>](backpacking-nz)
+11. [<mark style="background-color: limegreen">Do a Skydive</mark>](backpacking-nz)
 12. Scuba Dive at a Shipwreck
 13. <mark style="background-color: limegreen">Swim with Sharks</mark>
-14. <mark style="background-color: limegreen">Fly in a Hot Air Balloon</mark>
+14. [<mark style="background-color: limegreen">Fly in a Hot Air Balloon</mark>](backpacking-sea)
 15. <mark style="background-color: limegreen">Fly in a Helicopter</mark>
 16. Pilot a Plane
 17. Live in a Different Country

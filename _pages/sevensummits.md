@@ -2,7 +2,7 @@
 layout: page
 title: Seven Summits
 permalink: /sevensummits/
-image: '/images/tbc.jpg'
+image: '/images/elbrus1.jpeg'
 ---
 In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America, and South America. His book titled 'The Seven Summits' was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
 
@@ -13,3 +13,12 @@ The original Bass List remains the most widely accepted and is shown below:
 <p align="center" width="100%">
     <img width="500" src="/images/kosi1.webp">
 </p>
+
+#### My Climbs
+1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](kilimanjaro)
+2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](kosciuszko)
+3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
+4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
+5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
+6. Everest, Nepal (8,848m)
+7. Vinson, Antarctica (4,892m)

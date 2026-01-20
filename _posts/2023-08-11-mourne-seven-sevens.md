@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Mourne Seven Sevens
-description: TBC
+description: It's a famous challenge to hike all seven peaks above 700m in the Mourne mountains. For those who like a challenge there's even a race!
 date:   2023-08-11 12:00:0 +0000
 image:  '/images/mourneseven1.jpeg'
 tags:   [Running]
 ---
 In 1992, fifteen people completed an organised hike that reached all seven peaks above 700m in the Mourne Mountains. This 30km loop with 2,500m of elevation gain tested navigation and stamina, as even today there's no trail for a lot of the route. It culminated with Slieve Donard (850m); the highest peak in Northern Ireland and Ulster, and has since grown into one of Ireland's biggest hiking challenges.
 
-A map update demoted one peak to just below 700m, but the annual event has kept the tradition of the original seven alive. You can enter recreationally as a hiker, or competitively as a trail runner, but regardless must have a map, compass and a bag with the minimum safety kit. The tough terrain is infamously difficult, especially on descents. 
+A map update since demoted one peak to just below 700m, but the annual event has kept the tradition of the original seven alive. You can enter recreationally as a hiker, or competitively as a trail runner, but regardless must have a map, compass and a bag with the minimum safety kit. The tough terrain is infamously difficult, especially on descents. 
 
 This is my experience of completing the trail run in August 2023. My route card below is specific to the peak order for that year, with bearings and distances so I could still navigate with no visibility. The race starts and ends at sea level in the town of Newcastle, and this year followed a clockwise direction that began with the big one; Slieve Donard.
 
@@ -16,7 +16,7 @@ This is my experience of completing the trail run in August 2023. My route card 
     <img width="400" src="/images/mournemap.webp">
 </p>
 
-The Mourne's are perfect for mountaineering and are why County Down has more Everest summiters than anywhere else in Ireland. Slieve Donard in particular is one of my favourite hikes in the country; following part of the massive Mourne Wall which crosses most of the peaks. I first climbed it with Scouts when I was 15, and last climbed it less than a year ago. Looking up from the carpark it still seemed as big as ever. 
+The Mourne's are perfect for mountaineering. Slieve Donard in particular is one of my favourite hikes in the country; following part of the massive Mourne Wall which crosses most of the peaks. I first climbed it with Scouts when I was 15, and last climbed it less than a year ago. Looking up from the carpark it still seemed as big as ever. 
 
 My gear and route card were checked by a marshal, and I was given an orienteering dibber to scan at each summit. It felt very professional the way it attached to one finger. A few people found it funny that I was putting on sunscreen while we hid from a rain shower, but within thirty minutes the sun was out and strong. I ate some final food while nervously discussing the tight cut off times with others, then we moved to the start line. There was a sense of excitement in the air during the race briefing, and all of a sudden we were off.
 
@@ -30,7 +30,7 @@ We ran through forest trails, then along the river that led up to the hills. Wit
     <img width="400" src="/images/mourne2.webp">
 </p>
 
-It was definitely direct, I'll give them that. Very wet, and at times a climb with your hands, but clearly faster. The steepness had everyone huffing and puffing, but less distance and more climbing suits me. Towards the top it levelled off, allowing me to appreciate the view back to the town and the ocean beyond. The heat was already intense, but wind and cloud cover on the summit provided relief. I sped up for the last push, with a time of just under one hour to the first peak; Slieve Donard (850m).
+It was definitely direct, I'll give them that. Very wet, and at times a climb with your hands, but clearly faster. The steepness had everyone huffing and puffing, but less distance and more gradient suits me. Towards the top it levelled off, allowing me to appreciate the view back to the town and the ocean beyond. The heat was already intense, but wind and cloud cover on the summit provided relief. I sped up for the last push, with a time of just under one hour to the first peak; Slieve Donard (850m).
 
 <p align="center" width="100%">
     <img width="400" src="/images/mourne3.webp">
@@ -80,4 +80,4 @@ The descent was great. Big stone steps and nice forest trails that were fun to r
     <img width="400" src="/images/mourne10.webp">
 </p>
 
-I couldn't be happier with how the race went. There was great food and drinks at the finish line, where I sat and talked with others about the sun, wind and steepness. I especially bonded with the few others who had ran with poles, making everyone jealous as we pushed ourselves up each climb. This day gave me a real appreciation for the difficulty of mountain running compared to ordinary trails, and my need for knee support on rough terrain. I was scheduled to double the distance in a months time at the [Seven Sisters Skyline in Donegal](donegal-seven-sisters). That race was fresh on my my mind as I drove away, proud in what I'd done but nervously wondering what that day would bring.
+I couldn't be happier with how the race went. There was great food and drinks at the finish line, where I sat and talked with others about the sun, wind and steepness. I especially bonded with the few others who had ran with poles, making everyone jealous as we pushed ourselves up each climb. This day gave me a real appreciation for the difficulty of mountain running compared to ordinary trails, and my need for knee support on rough terrain. I was scheduled to double the distance in a months time at the [Seven Sisters Ultramarathon](donegal-seven-sisters). That race was fresh on my mind as I drove away, proud in what I'd done but nervously wondering what that day would bring.

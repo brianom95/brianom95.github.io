@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  West Highland Way
-description: Scotlands most famous trail. 154km of lakes and highlands from Glasgow to Fort William. Plus Ben Nevis
+description: Scotlands most famous trail. 154km of lakes and hills from Glasgow to Fort William. Plus Ben Nevis
 date:   2023-05-18 12:00:0 +0000
 image:  '/images/whw0.jpeg'
 tags:   [Thru-Hiking]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  13 Peaks - The Irish Munros
-description: Breaking the self-supported record by climbing every 3,000ft peak in a single day!
+description: Breaking the self-supported record by climbing every 3,000ft peak in Ireland in one day!
 date:   2023-07-28 12:00:0 +0000
 image:  '/images/munro1.jpeg'
 tags:   [Mountaineering]

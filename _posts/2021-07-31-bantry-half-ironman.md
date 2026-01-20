@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bantry Half Ironman
-description: Intentionally brutal! This route is not for the feint of heart, but it's a unique race with rewarding views
+description: My jellyfish nightmare. An itentionally brutal race that's set on a remote airplane landing strip
 date:   2021-07-31 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Triathlon]

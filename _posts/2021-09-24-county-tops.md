@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  County Tops - 32 Peaks in a Week
-description: How we broke the self supported record on Ireland's toughest hiking challenge
+title:  Ireland's County Tops
+description: Breaking the self supported record by climbing 32 peaks in one week. The ultimate Irish adventure
 date:   2021-09-04 12:00:0 +0000
 image:  '/images/ct1.jpeg'
 tags:   [Mountaineering]

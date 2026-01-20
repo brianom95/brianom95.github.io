@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dingle Adventure Race
-description: Our most iconic race, and most recognisable race top!
+description: Our most iconic mixed-sport event, taking in the water, roads and hills of the entire Dingle peninsula
 date:   2022-06-10 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]

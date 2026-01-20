@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  Gaelforce Turf Warrior
-description: Gaelforce's 8km mud run through the depths of the Connamara bog!
+description: Gaelforce's 8km mud run through the depths of the Connemara bog!
 date:   2022-05-20 12:00:0 +0000
 image:  '/images/gftw2.webp'
 tags:   [Adventure-Racing]
 ---
-Gaelforce's 8km mud run through the depths of the Connamara bog!
-
-I didn't expect to enjoy this so much but was happily proven wrong. Registration was short and sweet in Killary Adventure Centre with just a t-shirt and numbered wrist band (I got 69). Most people wore wetsuits and had their shoes duct taped on, I was no different. They all had gloves too which I'd forgotten, but turned out to be fine. The organisers did a warm up on the grass and wished good luck to those who chose to not wear a wetsuit. At 10:00am they lined us up at the start line and off we went.
+I didn't expect to enjoy this, but was happily proven wrong. Registration was short and sweet in Killary Adventure Centre with just a t-shirt and numbered wrist band to collect (I got No. 69). Most people wear wetsuits and duct tape thir runners on, which I copied. They all had gloves too which I'd forgotten, but turned out to be fine. The organisers did a warm up on the grass and wished good luck to those who chose to not wear a wetsuit. At 10:00am they lined us up at the start line and off we went.
 
 <p align="center" width="100%">
     <img width="400" src="/images/gftw1.webp">
@@ -16,7 +14,7 @@ I didn't expect to enjoy this so much but was happily proven wrong. Registration
 
 Most people started slow so I overtook everyone I could to join the leaders out front. It was much calmer here and easier running, although not 'easy' in a wetsuit. It was hilly and rocky all the way to the first obstacles and muddy fields in between from there.
 
-Balance beams, slip & slides, wading through bog, jumping across floating platforms, climbing over walls and rope swinging over gaps. Some were disgusting but others were great fun. Keeping out front meant I had the first go on lots of these and looking back I could see people queuing which I wouldn't fancy in the cold.
+Balance beams, slip & slides, wading through bog, jumping across floating platforms, climbing over walls and rope swinging over gaps. Some were disgusting but others were great fun. Keeping out front meant I had the first go on lots of these and looking back I could see people queuing which I wouldn't want to do in the cold.
 
 <p align="center" width="100%">
     <img width="400" src="/images/gftw2.webp">
@@ -40,7 +38,7 @@ It's definitely not the most competitive event with people still queued at almos
     <img width="400" src="/images/gftw4.webp">
 </p>
 
-There was nice food and free hot whiskies after which was great. I had caught up with an old kayaking friend Rob Guerin that I hadn't seen in years and wished him the best before heading off. Katie and I made a weekend of it, staying in Leenaun and all in all it was an unreal break. Ran up Diamond Hill that evening and got a bit of sightseeing in.
+There was nice food and free hot whiskies after which was great. I had caught up with an old kayaking friend Rob Guerin that I hadn't seen in years and wished him the best before heading off. I made a weekend of it, staying in Leenaun and all in all it was an unreal break. Ran up Diamond Hill that evening and got a bit of sightseeing in.
 
 **Words of advice:**
 

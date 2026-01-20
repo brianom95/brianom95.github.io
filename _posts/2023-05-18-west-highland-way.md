@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  West Highland Way
-description: Scotlands most famous trail, traversing lakes and highlands to Fort William
+description: Scotlands most famous trail, traversing lakes and highlands from Glasgow to Fort William
 date:   2023-05-18 12:00:0 +0000
 image:  '/images/whw0.jpeg'
 tags:   [Thru-Hiking]

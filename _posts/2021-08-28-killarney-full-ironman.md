@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  Killarney Full Ironman
-description: TBC
+description: My journey from beginner to completing this Iron distance triathlon in Ireland's most scenic location
 date:   2021-08-28 12:00:0 +0000
 image:  '/images/killironman0.jpeg'
 tags:   [Triathlon]
 ---
-HARDMAN Killarney is an Ironman distance triathlon in one of the most scenic locations in Ireland. This is an account of my journey to complete the race.
-
 #### Background
 
 The Iron distance was born in 1978 on Oahu island, Hawaii. 15 people competed to settle a dispute on which sport had the fittest athletes. The format was inspired by triathlon and the winner named the Ironman, as a nod to a local runner. The route combined the islands three long races; the Waikiki Roughwater Swim, the Around-Oahu Bike Race & the Honolulu Marathon. Uncertain of whether anyone would finish, the hand written rules included: 

@@ -3,7 +3,7 @@ layout: post
 title:  Vancouver Marathon
 description: Continent No.2
 date:   2022-04-30 12:00:0 +0000
-image:  '/images/7cc2.jpeg'
+image:  '/images/van0.webp'
 tags:   [Running]
 ---
 *18,500 runners from 65 countries, racing around Canada's largest port and the gateway to beautiful British Columbia. This trip was full of sightseeing, adventuring and catching up with old friends. An incredible experience that inspired a leap of faith which would change my life. But more on that below.*

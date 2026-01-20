@@ -3,7 +3,7 @@ layout: post
 title:  Gaelforce Connemara
 description: TBC
 date:   2022-07-22 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/gfc2.webp'
 tags:   [Adventure-Racing]
 ---
 A fast race set in the hills, lakes and bogs of Killary Fjord in Connamara. The short 12.5km run, 19km cycle and 1km kayak make this popular with beginners.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Valentia Sprint Triathlon As An Ironman
-description: A return to Valentia for my favourite triathlon, this time as an experienced triathlete
+title:  Valentia Triathlon As An Ironman
+description: A return to Valentia for my favourite sprint triathlon, this time as an experienced triathlete
 date:   2021-10-02 12:00:0 +0000
 image:  '/images/valentia2-1.webp'
 tags:   [Triathlon]

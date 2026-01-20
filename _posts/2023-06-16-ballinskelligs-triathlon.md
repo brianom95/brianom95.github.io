@@ -8,8 +8,6 @@ tags:   [Triathlon]
 ---
 HARDMAN's only Olympic distance race, over the sand and hills of the Ballinskelligs coastline. This marked my final event in the HARDMAN calendar! 
 
-Olympic is a 1.5km swim, 40km cycle & 10km run.
-
 I originally booked this race for 2022, but was so depleted after kayaking the Shannon Source to Sea that I couldn't go. That year a horrendous storm made the swim impossible, and the remainder unenjoyable at best. Arriving in 2023 to a heatwave made me think it was all meant to be. I registered and set up my transition area, hearing stories of how this carpark was an ankle deep river last year!
 
 The heatwave was actually very intense, so after walking the beach to look at the swim route and finish line, I hid in the shade of a lifeguard hut with other like minded people. Eventually Alan Ryan called us over for our race briefing. I put the wetsuit on as late as I could, a little more sunscreen, and then headed for the water. The swim was a 1.5km loop around big orange buoys. No waves, no jellyfish, and soothing to be in the cold water. This was probably one of the most enjoyable swims I've done.

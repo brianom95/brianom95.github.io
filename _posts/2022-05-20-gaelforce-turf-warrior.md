@@ -3,7 +3,7 @@ layout: post
 title:  Gaelforce Turf Warrior
 description: Gaelforce's 8km mud run through the depths of the Connamara bog!
 date:   2022-05-20 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/gftw2.webp'
 tags:   [Adventure-Racing]
 ---
 Gaelforce's 8km mud run through the depths of the Connamara bog!

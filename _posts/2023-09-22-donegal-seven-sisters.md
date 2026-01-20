@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Donegal Seven Sisters Ultramarathon
-description: TBC
+description: 4,600m of climbing over a 55km route. It doesn't get hillier than this!
 date:   2023-09-22 12:00:0 +0000
 image:  '/images/donegal0.jpeg'
 tags:   [Running]
@@ -24,7 +24,7 @@ Everyone started as a tight pack, running around a lake and through forest trail
     <img width="400" src="/images/donegal2.webp">
 </p>
 
-I told myself the race only begins when we turn at the other side of Muckish. The way there was long, with boggy sections to a nice lake, then a beautiful ridgeline, and a crazy steep descent that was too slippy to enjoy. I ate and drank loads along the way, and was so glad to have my knee supports and hiking poles. The sixth peak had us jumping up boggy ledges, and finally it was Errigal that looked an eternity away. I was delighted as I ran the long, curving descent to the aid station at the base of Muckish, arriving shortly after 5 hours.
+I told myself the race only begins when we turn at the other side of Muckish. The way out was long, with boggy sections to a nice lake, then a beautiful ridgeline, and a crazy steep descent that was too slippy to enjoy. I ate and drank loads along the way, and was so glad to have my knee supports and hiking poles. The sixth peak had us jumping up boggy ledges, and finally it was Errigal that looked an eternity away behind. I was delighted as I ran the long, curving descent to the aid station at the base of Muckish, arriving shortly after 5 hours.
 
 I refilled my water and grabbed some jellies here for a tough climb on a steep ridge. I was using my hands the whole way up until it levelled off, then a very windy run to the summit of Muckish. We descended the famous Miner's Path on the other side where I loved seeing the old mining equipment. We got shelter from the wind as we got lower too, but this part was just cruel. At the bottom we reached the road where Jack & Mária's race had begun, and from there turned to go straight back up. That climb was awful, and the summit was even windier. I had to be careful descending a different ridge to reach the same aid station after 7 hours.
 
@@ -40,7 +40,11 @@ The first few hours of the return were almost enjoyable. There's something nice 
     <img width="400" src="/images/donegal4.webp">
 </p>
 
-I was 10 hours into the race when I took that turn, and got very emotional to know I could finish the full route. I ran the sweeping trail to the other side of Errigal, for a scramble up the back, after which we'd descend the normal route on the front. It was genuinely dodgy, with gusts that could easily blow you off the cliffs, but still not the worst conditions I've seen up there. I passed some very nervous people as I followed my system of running between gusts, and hunkering down for the bad ones. Approaching the top I passed a mountain goat and climbed through the iconic rock arch.
+I was 10 hours into the race when I took that turn, and got very emotional to know I could finish the full route. I ran the sweeping trail to the other side of Errigal, for a scramble up the back, after which we'd descend the normal route on the front. It was genuinely dodgy, with gusts that could easily blow you off the cliffs, but still not the worst conditions I've experienced up there. I passed some very nervous people as I followed my system of running between gusts, and hunkering down for the bad ones. Approaching the top I passed a mountain goat and climbed through the iconic rock arch.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/donegal5.webp">
+</p>
 
 The actual peak was very intense. A few people were sheltered before it, afraid to cross the summit ridge. The gusts didn't let up so I walked on a small ledge below, with my hands and body pressed to the main path to brace the wind. This was the scariest part of the day, but I crossed it as safely as I could, overjoyed to look at Muckish far in the distance for the last time. As I took a video, my sunglasses flew off down a cliff never to be seen again. That was my cue to leave and I made a quick descent down the loose shale.
 
@@ -48,7 +52,7 @@ The actual peak was very intense. A few people were sheltered before it, afraid 
     <img width="400" src="/images/donegal6.webp">
 </p>
 
-As I slid my way down the mountain, a thick rain cloud formed above. I went as fast as I could through the forest and around the lake to hopefully outrun it, but no luck. I got one biblical dumping of rain that soaked the trail and my socks, but it didn't last long. The wind helped dry me off as I ran the last road section toward the village and saw the finish line. The guys were there to cheer me on as I ran through.
+As I slid my way down the mountain, a thick rain cloud formed above. I went as fast as I could through the forest and around the lake to hopefully outrun it, but no luck. I got one biblical dumping of rain that soaked the trail and my feet, but it didn't last long. The wind helped dry me off as I ran the last road section toward the village and saw the finish line. The guys were there to cheer me on as I ran through.
 
 11hrs 48mins 18s
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  13 Peaks - The Irish Munros
-description: TBC
+description: Breaking the self-supported record by climbing every 3,000ft peak in a single day!
 date:   2023-07-28 12:00:0 +0000
 image:  '/images/munro1.jpeg'
 tags:   [Mountaineering]
@@ -12,7 +12,7 @@ In 1891, Hugh Munro compiled a list of Scotland's 282 peaks above 3,000ft (914m)
 
 Ireland has 13 such mountains, often called The Irish Munro's, but technically called Furth's as they're outside Scotland, or just Three-Thousanders. These peaks are on four Mountain ranges: The Wicklow Mountains, The Galty Mountains, The MacGillycuddy's Reeks and the Brandon Group. Those ranges are all in a straight line across the country, along the Iapetus Suture, where two land masses collided to form Ireland 470 Million years ago. This unique geological coincidence aligns them perfectly for a speed challenge.
 
-55km of hiking, 3,700m of elevation gain, plus 6hrs of driving between. I reckoned with a fast pace (and some running), that it just might be possible within 24hrs. No one had ever managed this in one self supported day before, but after great success hiking the County Tops in a similar way, I was sure we could be the first. I just needed to convince a team mate.
+55km of hiking, 3,700m of elevation gain, plus 6hrs of driving between. I reckoned with a fast pace (and some running), that it just might be possible within 24hrs. No one had ever managed this in one self supported day before, but after great success hiking the [County Tops](county-tops) in a similar way, I was sure we could be the first. I just needed to convince a team mate.
 
 <p align="center" width="100%">
     <img width="500" src="/images/munro1.webp">
@@ -20,9 +20,9 @@ Ireland has 13 such mountains, often called The Irish Munro's, but technically c
 
 #### The Sub 48hr Attempt 
 
-Sean Ennis & I planned to make it happen in June 2022. I had been hiking and running all year so I felt ready, but we ended up changing it to a two day challenge last minute. This was the right decision for Sean, and ultimately proved useful to try the route in full daylight. Two days is probably what I'd recommend to others looking at this challenge also. It was rewardingly tough, but still fun, with none of the delirious hallucinations of a 24hr attempt.
+Seán Ennis & I planned to make it happen in June 2022. I had been hiking and running all year so I felt ready, but we ended up changing it to a two day challenge last minute. This was the right decision at the time, and ultimately proved useful to try the route in full daylight. Two days is probably what I'd recommend to others looking at this challenge also. It was rewardingly tough, but still fun, with none of the delirious hallucinations of a 24hr attempt.
 
-We started with Lugnaquilla, then Galty Mór and camped at the base of Carrauntoohil. The second day was longer, with a specific loop around the Macgillycuddy Reeks, before finishing with Mount Brandon. Tough terrain and long drives made it far from easy, so I was proud and happy to have finished it. In a way it felt like this might tick the box for me having hiked them all, but deep down I knew a time would come for another attempt.
+We started with Lugnaquilla, then Galty Mór and camped at the base of Carrauntoohil. The second day was longer, with a specific loop around the Macgillycuddy Reeks, before finishing with Mount Brandon. Tough terrain and long drives made it far from easy, so I was proud and happy to have finished it. In a way it felt like this might tick the box for me having hiked them all, but deep down I knew a time would be back for another attempt.
 
 <p align="center" width="100%">
     <img width="400" src="/images/munro2.webp">
@@ -32,7 +32,7 @@ We started with Lugnaquilla, then Galty Mór and camped at the base of Carraunto
 
 Jamie Fennell and I were ready when we got a perfect weather window in July 2023. We had both done recent trail marathons (three in three days in his case), and we knew nothing would stop us. We targeted one calendar day, meaning we start at the carpark of Lugnaquilla at midnight on Friday, and had to be back at the carpark of Mount Brandon before midnight on Saturday. 
 
-After work we loaded his van with food and water, then at 10:00pm drove to Wicklow. There was a nervous anticipation while we sat at the start, waiting for midnight. Outside was a howling wind and a jet black night. We had warm clothes in our running vests, and head torches on while counting down the final seconds. Let's go!
+After work we loaded his van with food and water, then at 10:00pm drove to Wicklow. There was a nervous anticipation while we sat at the start, waiting for midnight. Outside was a howling wind and a jet black night. We had warm clothes in our running vests, and head torches on while counting down the final seconds. Time to go!
 
 Most of the first climb was surprisingly calm and nice. The wet sections were bad as always but we trudged through, and had nice views of city lights in the distance. Things took a turn as we moved into a stormy fog, where we were blown over by hurricane winds and pelting rain. It was so dense we couldn't see each others shining headtorches from 20 meters away, let alone the famously elusive summit. We ran to stay warm and eventually found it, taking a quick photo and running all the way back down before we froze. We were back in the van at 2:45am.
 
@@ -88,12 +88,12 @@ This final drive was a tough one, made possible by double espressos and Jamie be
     <img width="400" src="/images/munro11.webp">
 </p>
 
-We descended fast as the wind and rain intensified. We were both having the same hallucinations now, seeing signs and fence posts as vivid people staring back at us. I kept seeing 100's of dogs along the trailside too. It was funny more than anything, both of us aware they weren't real. We sprinted fast for the final stretch to the carpark, touching the van to stop the clock at 10:53pm. It was so surreal to not only have proven this possible, but beaten the goal by over an hour. 
+We descended fast as the wind and rain intensified. We were both having the same hallucinations now, seeing signs and fence posts as vivid people staring back at us. I kept seeing hundreds of dogs along the trailside too. It was funny more than anything, both of us aware they weren't real. We sprinted fast for the final stretch to the carpark, touching the van to stop the clock at 10:53pm. It was so surreal to not only have proven this possible, but beaten the goal by over an hour. 
 
-It was the next day before any of it really set in. This experience and how it felt is near impossible to describe, so I'm glad to have shared it with Jamie. It wouldn't have been possible without him, laughing alongside me, never breaking a sweat, and never shying away from the wind, rain or cliffs. I feel so proud of this achievement, having dreamt about it for years before being able to make it happen. An amazing day that allows me to say for certain; that box is well and truly ticked!
+It was the next day before any of it really set in. This experience and how it felt is near impossible to describe, so I'm glad to have shared it with Jamie. It wouldn't have been possible without him, laughing alongside me, never breaking a sweat, and never shying away from the wind, rain or cliffs. I feel so proud of this achievement, having dreamt about it for years before finally making it happen. An amazing day that allows me to say for certain; that box is well and truly ticked!
 
 > ## 13 Peaks - The Irish Munro's  
-> **Current Self Supported Record: 22hrs 53mins 33s**  
+> **Self Supported Record: 22hrs 53mins 33s**  
 > *Jamie Fennell & Brian O'Mahony*  
 > *29th July 2023*
 
@@ -104,5 +104,5 @@ It was the next day before any of it really set in. This experience and how it f
 #### Strava Links
 1. [Lunaquillia](https://www.strava.com/activities/9540669753)
 2. [Galty Mór](https://www.strava.com/activities/9540934514)
-3. [Macgillycuddy Reeks](https://www.strava.com/activities/9544825360)
+3. [Macgillycuddy's Reeks](https://www.strava.com/activities/9544825360)
 4. [Mount Brandon](https://www.strava.com/activities/9546595959)

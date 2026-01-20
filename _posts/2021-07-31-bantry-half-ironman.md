@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bantry Half Ironman
-description: Intentionally brutal! This route is notoriously not for the feint of heart, but it's a unique race with rewarding views
+description: Intentionally brutal! This route is not for the feint of heart, but it's a unique race with rewarding views
 date:   2021-07-31 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Triathlon]

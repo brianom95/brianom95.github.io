@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking South East Asia
-description: TBC
+description: My experience of the most famous backpacker route in the world
 date:   2023-01-24 12:00:0 +0000
 image:  '/images/bpsea0.jpeg'
 tags:   [Travel]

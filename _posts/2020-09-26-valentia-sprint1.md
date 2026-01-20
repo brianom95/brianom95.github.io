@@ -3,7 +3,7 @@ layout: post
 title:  Valentia Sprint Triathlon As A Beginner
 description: TBC
 date:   2020-09-26 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/valentia1-0.webp'
 tags:   [Triathlon]
 ---
 HARDMAN's Valentia Island sprint triathlon was my first taste of the sport. It's a very unique race and it's what hooked me. This is an account of my experience as a complete novice.
@@ -12,15 +12,27 @@ When the pandemic hit, I made banana bread and took up running like everyone els
 
 For reference, these are the triathlon distances:
 
+<p align="center" width="100%">
+    <img width="500" src="/images/valentia1-1.webp">
+</p>
+
 ## Image
 
-It's one month out. Being a big thick boy, I bought a big thick €90 wetsuit from Decathlon, which was in no way suited to swimming. Oops. This big thick boy also skipped every opportunity to learn to swim in his life, but decided 'how hard could it be'. My Mam and I went to the reservoir (Fermoy's freezing lake) one Saturday to do the 500m loop. It was far from pretty, in many ways it was far from swimming, but I did it. My cold head felt faint getting out and my arms hurt for days, but once recovered I thought; that wasn't very difficult. The next week I did the loop twice and with 1.5km total under my belt that was enough. 
+It's one month out. Being a big thick boy, I bought a big thick €90 wetsuit from Decathlon, which was in no way suited to swimming. Oops. This big thick boy also skipped every opportunity to learn to swim in his life, but decided 'how hard could it be'. My Mam and I went to the reservoir (Fermoy's freezing lake) one Saturday to do the 500m loop. It was far from pretty, in many ways it was far from swimming, but I did it. My cold head felt faint getting out and my arms hurt for days, but once recovered I thought; that wasn't very difficult. The next week I did the loop twice and with 1.5km total under my belt that was enough.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/valentia1-2.webp">
+</p>
 
 It's now one day out, and I still have no bike. Luckily, Eoin Howard told me I could borrow his, although I've never used a racer before. After a crash course on how those gears work, I put it on my borrowed bike rack, went home and got some sleep. The next morning I drove the 2.5hrs to Valentia Island, arriving early, tired and excited.
 
 I have to say, it was a little daunting at first. I collected my pack, including stickers that confused me (mostly for the bike and helmet I learned). Then I gathered my cycling and running gear to drop to the transition area, certain I was forgetting something. At the area I was lightly scolded for having my helmet off while walking with the bike (strict rule), and for not having taped the open ends on the bike handlebars (news to me). But those sorted, I laid out the area and left to put on my wetsuit. Still certain I'd forgotten something in there, but alas. Suited up, I met Sinead by transition.
 
 Alan Ryan, the original Hardman and race director, gave a few mostly funny words then guided us all to the ferry. What's cool about this race is they ferry you back to the mainland, then the 750m swim is pier to pier to get back. We were on the first of two ferries, got into the cold sea water and awaited the start.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/valentia1-3.webp">
+</p>
 
 And off we went. Sinead can actually swim so I didn't see her at all in the water. Again, it was not pretty and my neck was sore from how much I held my head up. There was zero form, but it was fine. In 15 minutes I had made my way across, was stripping the wetsuit off and running for the bike. I was elated. For me, getting out of the water before any cutoff time meant I was actually going to do this.
 
@@ -30,9 +42,17 @@ Off the bike I was already in my runners so I was very fast to start the run. Wh
 
 There was complete euphoria at that point, my body still felt confused about what had just happened. Looking at the water and the other pier in the distance it was hard to believe I had swam that only minutes ago. This was Sinead’s first triathlon too so once she finished we were both delighted. She had gotten on great as well.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/valentia1-4.webp">
+</p>
+
 She was going home to Tralee, but I'd never been to Valentia so I headed for a bit of exploring, then camped by the lighthouse with a movie and a nice dinner. Thinking about it that night I was overwhelmingly happy with the beautiful sunny day and wondered if I'd do another one. 
 
 Little did I that a seed was now planted which would lead me back here in [2021](valentia-sprint2, and more importantly to discover [Ironman](killarney-full-ironman). The allure of which would dominate my every thought for months. Haunting me until I rose to the challenge. Taking on what seemed so nonsensical that I couldn’t understand how it was possible. A half maybe, but surely not that! 
+
+<p align="center" width="100%">
+    <img width="400" src="/images/valentia1-5.webp">
+</p>
 
 #### Finish Time
 <div class="table-container">

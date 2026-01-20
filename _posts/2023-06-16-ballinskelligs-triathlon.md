@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ballinskelligs Olympic Triathlon
-description: HARDMANs only Olympic distance race, over the sand and hills of the Ballinskelligs coastline. A great way to enjoy a heatwave
+description: HARDMANs Olympic distance race over a sandy and hilly coastline. In a heatwave!
 date:   2023-06-16 12:00:0 +0000
 image:  '/images/balltri0.jpeg'
 tags:   [Triathlon]

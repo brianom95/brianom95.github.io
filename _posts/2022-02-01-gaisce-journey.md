@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Gaisce Journey
-description: TBC
+description: The project that shaped my life for ten years. Completing the Bronze, Silver & Gold Gaisce Awards
 date:   2022-02-01 12:00:0 +0000
 image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]

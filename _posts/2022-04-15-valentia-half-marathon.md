@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Valentia Half Marathon
-description: Getting revisit my favourite island. This time running the hills with views of the Skelligs
+description: Getting to revisit my favourite island. This time running the hills with views of the Skelligs
 date:   2022-04-15 12:00:0 +0000
 image:  '/images/valentiahalf0.jpeg'
 tags:   [Running]

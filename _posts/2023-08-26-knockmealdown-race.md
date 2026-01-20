@@ -8,7 +8,7 @@ tags:   [Adventure-Racing]
 ---
 Ireland's adventure racing calendar is dominated by the wildly popular, and usually sold out races of the [QUEST](quest-kenmare) & [Gaelforce](gaelforce-turf-warrior). Beyond those is a scattering of smaller races, often run by local communities with unique, personal touches that make them popular in their own way. Knock-Me-Down is one such race which came highly recommended and did not disappoint. 
 
-I had horrendous bad luck on the day and had this been a QUEST race I don't think they would have let me finish. Instead I was cheered on by local families and light hearted marshals who laughed with me in my misery, but more on that later.
+I had horrendous bad luck on the day and had this been a QUEST race I don't think they would have let me finish. Instead I was cheered on by local families and light hearted marshalls who laughed with me in my misery, but more on that later.
 
 <p align="center" width="100%">
     <img width="400" src="/images/kmd1.webp">
@@ -38,7 +38,7 @@ Wheel off, checked inside and found the small slash in the tube but no obvious c
 
 I jogged with the bike another 500m, where I found a marshall with his car. He was super nice, offering to have me and the bike collected, but although I was grateful, I hated the idea of giving up. Instead I hid the bike behind a bush where I'd find it later and jogged the last 11km. It felt really stupid, and upsetting to see the cyclists enjoy rolling back in a fraction of the time, but I was just so happy to know I'd finish.
 
-I passed lots of marshals on the way, all who found it entertaining at least. My legs were a bit sore and the rain was brutal until I left the mountains. The downhills passed by in under an hour meaning that somehow I was still far from last. The town itself was full of people and I felt genuinely embarrassed by the looks and questions as I ran through with my race number still on. Families cheered as I turned towards the community centre to cross under the line. What a day.
+I passed lots of marshalls on the way, all who found it entertaining at least. My legs were a bit sore and the rain was brutal until I left the mountains. The downhills passed by in under an hour meaning that somehow I was still far from last. The town itself was full of people and I felt genuinely embarrassed by the looks and questions as I ran through with my race number still on. Families cheered as I turned towards the community centre to cross under the line. What a day.
 
 4hrs 53mins 24s
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quest Lough Derg
-description: Why do I do this to myself?
+description: Why do I do this to myself? My fourth and final race of the Quest series
 date:   2023-09-08 12:00:0 +0000
 image:  '/images/questld0.jpeg'
 tags:   [Adventure-Racing]

@@ -3,7 +3,7 @@ layout: post
 title:  Valentia Sprint Triathlon As An Ironman
 description: TBC
 date:   2021-10-02 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/valentia2-1.webp'
 tags:   [Triathlon]
 ---
 HARDMAN's Valentia Island Sprint Triathlon. Take 2.
@@ -50,10 +50,14 @@ Standing there with the medal I couldn't believe how much had changed in only on
 
 Sinead and Dathaí finished soon after and we raided the free food. This was likely the last year we'd do this together as she was moving to Canada. Who knows what my year would have been like if she hadn't gotten me to do this race a year before. I look forward to coming back here with friends to introduce the sport via the countries best race.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/valentia2-6.webp">
+</p>
+
 That night I made the long drive to Dingle and finished off the weekend with some sightseeing, good food and drinks. A chapter happily closed, and a mind full of ideas for future adventures.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/valentia2-6.webp">
+    <img width="400" src="/images/valentia2-7.webp">
 </p>
 
 #### Finish Time

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mourne Seven Sevens
-description: It's a famous challenge to hike all seven peaks above 700m in the Mourne mountains. For those who like a challenge there's even a race!
+description: All seven peaks above 700m in the Mourne mountains in one tough race
 date:   2023-08-11 12:00:0 +0000
 image:  '/images/mourneseven1.jpeg'
 tags:   [Running]

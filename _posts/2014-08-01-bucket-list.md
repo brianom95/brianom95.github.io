@@ -168,7 +168,7 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Seven Summits (5/7)
-1. <mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>
+1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](kilimanjaro)
 2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](kosciuszko)
 3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
 4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
@@ -186,9 +186,9 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Thru-Hiker (3/10)
-1. <mark style="background-color: limegreen">The Explorer Belt (222km)</mark>
-2. <mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>
-3. <mark style="background-color: limegreen">West Highland Way (154km)</mark>
+1. [<mark style="background-color: limegreen">The Explorer Belt (222km)</mark>](explorer-belt)
+2. [<mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>](tmb)
+3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](west-hishland-way)
 4. GR20 Corsica (180km)
 5. Alta Via 1, Dolomites (160km)
 6. Kungsleden, Sweden (450km)

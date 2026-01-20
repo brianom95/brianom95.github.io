@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Gaelforce Connemara
-description: TBC
+description: Gaelforces shortest and most beginner friendly adventure race on the banks of Killary Fjord
 date:   2022-07-22 12:00:0 +0000
 image:  '/images/gfc2.webp'
 tags:   [Adventure-Racing]

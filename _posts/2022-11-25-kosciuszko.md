@@ -10,18 +10,6 @@ Mount Kosciuszko is Australia's highest peak at 2,228m. It is the smallest of th
 
 Kosciuszko was on my mind ever since summiting [Kilimanjaro](kilimanjaro). I reached out to my friends Eoin & Emily who live in Melbourne and luckily they wanted to climb it too. We chose springtime which coincided perfectly with the end of my trip to [New Zealand](backpacking-nz). 
 
-#### The Seven Summits
-
-In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America, and South America. His book titled The Seven Summits was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
-
-Reinhold Messner refutes that Indonesia's Puncak Jaya is a more deserving high point for Australia than the modest Kosciuszko. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders. Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& [Mont Blanc](mont-blanc) in Europe which has similar claims) to cover all bases and avoid debates.
-
-The original Bass List remains the most widely accepted and is shown below:
-
-<p align="center" width="100%">
-    <img width="500" src="/images/kosi1.webp">
-</p>
-
 #### My Trip
 
 I first flew to Sydney for a fun few days of walking tours, cycling tours, beaches and a memorable show in the opera house. A nine hour train brought me to Albury, where I met Eoin & Emily for the last four hour drive to Jindabyne. Right on the edge of Kosciuszko National Park, this little ski town is surrounded by mountains and snow that looked nothing like the idea I had of Australia. We saw a few kangaroos on route and had a wallaby knock on our cabin door one night.

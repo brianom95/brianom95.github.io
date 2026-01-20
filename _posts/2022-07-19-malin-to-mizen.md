@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Malin to Mizen
-description: Cycling the Length of Ireland, from top to bottom. Phase 3 of My Big Three
+description: Phase3 - Cycling the Length of Ireland. A personal journey from Donegal to Cork, against the wind!
 date:   2022-07-19 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]

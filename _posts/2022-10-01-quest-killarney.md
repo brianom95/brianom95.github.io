@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quest Killarney
-description: The hardest race of the year, good thing I'm getting used to these
+description: The hardest race of the year, from the lakes to Mangerton. Good thing I'm getting used to these
 date:   2022-10-01 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]

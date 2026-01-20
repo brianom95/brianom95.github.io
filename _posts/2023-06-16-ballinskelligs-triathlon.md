@@ -14,13 +14,25 @@ I originally booked this race for 2022, but was so depleted after kayaking the S
 
 The heatwave was actually very intense, so after walking the beach to look at the swim route and finish line, I hid in the shade of a lifeguard hut with other like minded people. Eventually Alan Ryan called us over for our race briefing. I put the wetsuit on as late as I could, a little more sunscreen, and then headed for the water. The swim was a 1.5km loop around big orange buoys. No waves, no jellyfish, and soothing to be in the cold water. This was probably one of the most enjoyable swims I've done.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/balltri1.jpeg">
+</p>
+
 The tide had come in a lot when we got back to the beach. We had started between two traffic cones which were now fully submerged. I ran past loads of cheering spectators, into the transition area for a terrible attempt at cleaning the sand off my feet. Very quickly I was away on the bike, drinking water and celebrating another successful swim. Something I couldn't have imagined doing three years before.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/balltri2.webp">
+</p>
 
 The cycle was two laps of a 20km loop. I could see Coomanaspic hill in the distance and was thankful it didn't include that (possibly the hardest cycle I've ever done), but it was still a slog at times with lots of rolling hills. A nice breeze turned to a bad headwind so I wasn't expecting any speed records. I just tucked down low and pushed onward, eventually rolling through my second lap and back into the transition area.
 
 Only a 10km out-and-back run to go, starting with 1km on the beach. Running on sand can be tough, especially with the tide in. You had to get wet in places, so I was thankful to move onto a trail and then road after. On the road I found a nice rhythm, which was slowed by intense heat, but I felt good around the turning point and on the slight descent of the return. The beach was far wetter now and I didn't even try to avoid the water in places, going as fast as I could for the final sprint under the finish line.
 
 3hrs 24mins 35s
+
+<p align="center" width="100%">
+    <img width="300" src="/images/balltri3.webp">
+</p>
 
 A brilliant race, especially with that weather, and which marks my completion of all the HARDMAN events. I was already soaked so I got straight into the ocean to cool off, watching the others finish from the water. There was so much support and the music made a lovely atmosphere. It was a great novelty to have the whole race centred on a beach, even if the sand in my socks was annoying. It's a very fun race that's easy to recommend.
 

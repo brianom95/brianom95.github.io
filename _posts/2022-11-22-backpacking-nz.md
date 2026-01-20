@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking New Zealand
-description: TBC
+description: Seven weeks exploring my favourite country in the world
 date:   2022-11-22 12:00:0 +0000
 image:  '/images/nz1.jpeg'
 tags:   [Travel]
@@ -132,7 +132,7 @@ New Plymouth is a nice town, especially Pukehura Park with its cool trees and fo
 
 #### Napier
 
-This coastal town made a hilariously bad first impression, but once the sun came out that changed. I cycled all the coastline, got lunch at a nice pub, then visited the oldest winery in New Zealand. Walking up to the Centennial Waterfalls and Bluff Hill was well worth it, and the tour of Napier Prison was super interesting. Napier was out of the way to get to and badly needs a hostel upgrade, but it turned out to be a great stop. It's also where I met Marion who would later travel the south island with me.
+This coastal town made a hilariously bad first impression, but once the sun came out that changed. I cycled all the coastline, got lunch at a nice pub, then visited the oldest winery in New Zealand. Walking up to the Centennial Waterfalls and Bluff Hill was well worth it, and the tour of Napier Prison was super interesting. Napier was out of the way to get to and badly needs a hostel upgrade, but it turned out to be a great stop. It's also where I met Marion who would later travel a lot of the south island with me.
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz12.webp">
@@ -190,9 +190,9 @@ The whale watching tour is world famous and on a ridiculously lucky day we saw t
 
 #### West Coast Region
 
-Some of New Zealand's most beautiful areas are wedged between the Southern Alps and this rugged western coastline. Marion & I drove it all, crossing the mountains at Lewis Pass with a rainy walk of the Lewis Tops Track, followed by nicer coastal weather on the Truman Track and Pancake Rocks of Punakaiki. After a night on the shipwreck shores of Greymouth (and a particularly eclectic hostel), we headed south to Hokitika Gorge which I loved. Then walked around Lake Kaniere, over the West Coast Treetop Walk and enjoyed free popcorn and soup at our hostel in Franz Josef.
+Some of New Zealand's most beautiful areas are wedged between the Southern Alps and this rugged western coastline. I drove it all, crossing the mountains at Lewis Pass with a rainy walk of the Lewis Tops Track, followed by nicer coastal weather on the Truman Track and Pancake Rocks of Punakaiki. After a night on the shipwreck shores of Greymouth (and a particularly eclectic hostel), headed south to Hokitika Gorge which I loved. Then walked around Lake Kaniere, over the West Coast Treetop Walk and enjoyed free popcorn and soup at the hostel in Franz Josef.
 
-Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight for me; crossing back over the Alps at Haast Pass. We walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
+Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight; crossing back over the Alps at Haast Pass. I walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz35.webp">
@@ -230,7 +230,7 @@ I did a tough trail run up Ben Lomond which overlooks the town and the swirling 
 
 #### Otago Region
 
-Exploring around Queesntown, I pushed the rental car to it's absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day we I canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
+Exploring around Queesntown, I pushed the rental car to it's absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day I canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
 
 Finally the thing I dreaded most since booking my flight to New Zealand; a bungy jump! AJ Hackett first commercialised the 'sport' when he opened the Kawarau Bridge Bungy in 1986. I knew I had to do this original one, even though it terrified me. After several weigh-ins and a questionable towel with velcro strapped around my legs, I was stood on the edge. Looking back I almost can't believe I did it. I opted for the water 'touch' which was more of a concussive slap. The adrenaline lasted days and although I'll probably never do one again, I'm so glad I did.
 
@@ -274,7 +274,7 @@ After Milford Sound I began making my way back north. I stayed again in Queensto
 
 Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small town of the same name, full of climbers and skiiers. Here I rented rigid boots and crampons for a stay in one of the countries best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
 
-This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending we spent an extra day in Aoraki town, and in particular at the Hillary museum. 
+This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending I spent an extra day in Aoraki town, and in particular at the Hillary museum. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz24.jpeg">

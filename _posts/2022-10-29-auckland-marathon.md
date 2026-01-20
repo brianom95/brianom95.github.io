@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Auckland Marathon
-description: TBC
+description: Continent No.3
 date:   2022-10-29 12:00:0 +0000
 image:  '/images/7cc3.jpeg'
 tags:   [Running]

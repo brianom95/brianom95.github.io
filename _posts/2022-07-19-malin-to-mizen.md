@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Malin to Mizen
-description: Phase3 - Cycling the Length of Ireland. A personal journey from Donegal to Cork, against the wind!
+description: Phase3 - Cycling the Length of Ireland. A personal journey from Donegal to Cork, battling the wind!
 date:   2022-07-19 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Adventure-Racing]

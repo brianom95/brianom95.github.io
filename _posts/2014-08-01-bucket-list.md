@@ -169,7 +169,7 @@ tags:   [Off-The-Trail]
 
 #### The Seven Summits (5/7)
 1. <mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>
-2. <mark style="background-color: limegreen">[Kosciuszko, Australia (2,228m)](kosciuszko)</mark>
+2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](kosciuszko)
 3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
 4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
 5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
@@ -179,7 +179,7 @@ tags:   [Off-The-Trail]
 ---
 
 #### The Alpine Trilogy (1/3)
-1. <mark style="background-color: limegreen">[Mont Blanc, France (4,808m)](mont-blanc)</mark>
+1. [<mark style="background-color: limegreen">Mont Blanc, France (4,808m)</mark>](mont-blanc)
 2. Eiger, Switzerland (3,967m)
 3. Matterhorn, Switzerland (4,478m)
 

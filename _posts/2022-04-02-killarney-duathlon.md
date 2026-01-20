@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Killarney Olympic Duathlon
-description: Starting the triathlon season with a fast race through the Killarney National Park, minus the water
+description: Starting the triathlon season with a fast race through Killarney National Park, minus the water
 date:   2022-04-02 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Triathlon]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ballinskelligs Olympic Triathlon
-description: HARDMANs Olympic distance race over this sandy and hilly Kerry coastline. In a heatwave!
+description: HARDMANs Olympic distance race over a sandy and hilly Kerry coastline. In a heatwave!
 date:   2023-06-16 12:00:0 +0000
 image:  '/images/balltri0.jpeg'
 tags:   [Triathlon]

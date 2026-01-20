@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  Waterville Half Ironman
-description: TBC
+description: My go to recommendation for a longer distance race, tough as hell, but absolutely worth it!
 date:   2021-07-10 12:00:0 +0000
 image:  '/images/tbc.jpg'
 tags:   [Triathlon]
 ---
-HARDMAN's Waterville half triathlon has been my go to recommendation for anyone considering longer distance races. Tough as it was, I loved it, and the race aligns with the scheduled half in Don Fink's training plan for anyone targeting the full Hardman in Killarney.
-
-I was 22 weeks into my 30 week Ironman training. I was feeling good, getting a lot more comfortable in the water and on the longer cycles, especially with aerobars. Friday evening I drove to a hostel in Cahersiveen with my gear. My parents met me for dinner before heading to a B&B. I was nervous that night, overthinking how that food would sit in my stomach, had I drank enough water, was I getting enough sleep, was I ready?? I slept a bit, and early the next day arrived to a busy Waterville in the dark.
+I was 22 weeks into my 30 week Ironman training, witht this race falling exactly as my plan required. I was feeling good, getting a lot more comfortable in the water and on the longer cycles, especially with aerobars. Friday evening I drove to a hostel in Cahersiveen with my gear. My parents met me for dinner before heading to a B&B. I was nervous that night, overthinking how that food would sit in my stomach, had I drank enough water, was I getting enough sleep, was I ready?? I slept a bit, and early the next day arrived to a busy Waterville in the dark.
 
 The atmosphere felt all new to me. People everywhere, and they all looked like pro's. Fancy gear, fancy bikes, fancy wetsuits and Ironman tattoos. My only ever sea swim, or official race, was a sprint triathlon a year ago so it was easy to be nervous, but I had everything planned and knew all I'd to do. I collected my pack, prepped my gear and laid out my transition area exactly as I'd wanted. 
 

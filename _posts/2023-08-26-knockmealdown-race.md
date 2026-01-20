@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Knock-Me-Down Adventure Race
-description: 62km of cycling, running and kayaking across Waterford's Knockmealdown Mountains.
+description: Cycling, running and kayaking across Waterford's Knockmealdown Mountains.
 date:   2023-08-26 12:00:0 +0000
 image:  '/images/kmd00.jpeg'
 tags:   [Adventure-Racing]

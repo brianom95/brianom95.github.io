@@ -31,7 +31,7 @@ This is Phase 2: The Wicklow Way
 
 Best place to start is the cartographer and draughtsman; J.B. Malone. Since the 1940's he wrote several books, a weekly newspaper column and made multiple documentaries that popularised hiking in Wicklow. Always encouraging young people to get outside, he pushed for years to establish a long distance trail network in Ireland. Much like the Appalachian Trail in the US.
 
-As head of the National Trails Committee, he negotiated rights of way with land-owners to make The Wicklow Way a reality. Opened in 1977, it was a historic first for the country. A memorial to J. B. Malone, who died in 1989, was erected on the Wicklow Way near Lough Tay. The now 42 national waymarked trails, including the Kerry Way and Dingle Way, are directly attributable to this one man.
+As head of the National Trails Committee, he negotiated rights of way with land-owners to make The Wicklow Way a reality. Opened in 1977, it was a historic first for the country. A memorial to J.B. Malone, who died in 1989, was erected on the Wicklow Way near Lough Tay. The now 42 national waymarked trails, including the [Kerry Way](kerry-way) and Dingle Way, are directly attributable to this one man.
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow2.webp">

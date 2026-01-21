@@ -21,7 +21,7 @@ Cycling Ireland's Most Famous Route - 672km
 
 Individually difficult, and when combined in one month they almost broke me. However, it was more spiritually fulfilling than I had anticipated. A personal triathlon, spanning the whole country and stoking memories of all my past adventures. Each phase deeply significant to me and representative of my journey up to now. A closing of chapters, and a fitting farewell to the places and hobbies that were my life. An odyssey both beautiful and terrifying. 
 
-This is a writeup of Phase 2: The Wicklow Way
+This is Phase 2: The Wicklow Way
 
 <p align="center" width="100%">
     <img width="500" src="/images/malin0.jpeg">

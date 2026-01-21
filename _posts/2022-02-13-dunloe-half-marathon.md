@@ -11,7 +11,7 @@ I stayed in Killarney the Saturday night and got my usual pre-race pizza. I've s
 Shortly before 9:00am, Alan Ryan led the pack a few hundred meters to the actual start (and a little further again for those doing the 10K). It cleared up as he gave the race briefing. He mentioned that Derek Griffin has been King of the Gap since 2016, but has his excuse ready having won the Tralee 10 mile (16km) yesterday in 54mins. There was quite a big crowd of us and soon we were counted down and took off. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/gapdunloe1.webp">
+    <img width="400" src="/images/gapdunloehalf1.webp">
 </p>
 
 This was my longest purely running race to date. I took it handy as I wasn't as warmed up as the cycle has you in triathlon. The first kilometres flew by with lovely views between the blanket of fog.
@@ -19,7 +19,7 @@ This was my longest purely running race to date. I took it handy as I wasn't as 
 The route is a 7km climb followed by 3.5km downhill to the turnpoint at Lord Brandon's Cottage. Then straight back. The first 7km wind their way through the valley and were great. I've driven this road countless times but never fully appreciated it until now. The only two real climbs felt very manageable and before long I was at the top of the Gap. Welcome to the Black Valley. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/gapdunloe2.jpeg">
+    <img width="400" src="/images/gapdunloehalf2.jpeg">
 </p>
 
 The other side was much steeper, losing height very quickly. The mist had been constant for the race but was much worse now. The Gearhameen river in the distance looked a perfect level for kayaking and water rushed to it from the mountainside. Everyone was quick to the bottom of the valley but it was a long slog to the turn point. I was excited to see which runner would pass on the way back first, but of course it was Derek Griffin well in the lead (he won with 1hr 15mins). 
@@ -33,5 +33,5 @@ The 7km back was miserable. The rain worsened, the roads were much wetter and wi
 A few chats, then back to the B&B for a well earned shower. All in all this is a challenging route, but fits the HARDMAN brand and is rewarding. A good test and reminder to train on hills!
 
 <p align="center" width="100%">
-    <img width="400" src="/images/gapdunloe3.webp">
+    <img width="400" src="/images/gapdunloehalf3.webp">
 </p>

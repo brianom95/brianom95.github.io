@@ -19,8 +19,8 @@ The original Bass List remains the most widely accepted and is shown below:
 </p>
 
 #### My Climbs
-1. [Kilimanjaro, Tanzania (5,895)](/_posts/kilimanjaro) - 11 September 2022
-2. [Kosciuszko, Australia (2,228m)](/_posts/kosciuszko) - 25 November 2022
+1. [Kilimanjaro, Tanzania (5,895)](https://www.brianbeyond.com/kilimanjaro) - 11 September 2022
+2. [Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko) - 25 November 2022
 3. Elbrus, Russia (5,642m) - 29 July 2024
 4. Aconcagua, Argentina (6,961m) - 09 February 2025
 5. Denali, USA (6,190m) - 10 June 2025

@@ -175,11 +175,11 @@ As I started lap 10, Jamie veered off to the finish and I heard his name announc
 
 14hrs 21mins 16s
 
+The finish line was the happiest moment of my life. I was an overwhelmed, confused mess of emotions, but euphorically proud of what Jamie and I had done.
+
 <p align="center" width="100%">
     <img width="400" src="/images/hardman24.jpeg">
 </p>
-
-The finish line was the happiest moment of my life. I was an overwhelmed, confused mess of emotions, but euphorically proud of what Jamie and I had done.
 
 We were in no rush as we took our photos and had some of the free food. We packed our gear, loaded bikes onto the car (took them down again because I forgot the carpark had height barriers) and went back to our AirBnB. 
 

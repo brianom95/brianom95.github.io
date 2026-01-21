@@ -132,6 +132,10 @@ This is the most dynamic game I've played, with endless scenarios. Surprisingly 
 #### 1. Catan  
 2 to 4 players - 60 mins
 
+<p align="center" width="100%">
+    <img width="400" src="/images/games0.webp">
+</p>
+
 Players try to be the dominant force on the island of Catan by building settlements, cities, and roads. 
 
 Made in 1995, this is said to have redefined board games. This was definitely the case for me. It was in Uganda in 2017 that I was introduced to this game and we played it non stop in the evenings. I bought it within a week of getting home and my family got equally addicted. It was endless nights of playing this that have stemmed the rest of this list. It's always a favourite to go back to and has a lot of sentimental value for me.

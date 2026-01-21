@@ -131,7 +131,7 @@ The ring roads of Tralee are tied with Mayo for worst in Ireland for me. The lin
 
 Fighting my way over rolling hills I got to see the MacGillycuddy's Reeks emerging. It was another long day rolling into Killarney at 7:00pm. I checked into the only available, and my least favourite hostel in Killarney. Even though I'd sworn a few months ago I'd never stay here again.
 
-After a shower and a pizza I went for a walk in the national park. I found myself sitting at the spot where my family and friends had supported me for the Ironman in 2021. I've been reliving years of memories throughout this trip and this one in particular was special. Deer roamed the fields below and the sun set over Carrauntoohil. I had drinks with two guys from the hostel that night and got some rest for what was originally planned to be my last day. More on that below.
+After a shower and a pizza I went for a walk in the national park. I found myself sitting at the spot where my family and friends had supported me in the [Ironman](killarney-full-ironman). I've been reliving years of memories throughout this trip and this one in particular was special. Deer roamed the fields below and the sun set over Carrauntoohil. I had drinks with two guys from the hostel that night and got some rest for what was originally planned to be my last day. More on that below.
 
 <p align="center" width="100%">
     <img width="500" src="/images/malin8.webp">

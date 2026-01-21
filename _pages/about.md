@@ -18,20 +18,19 @@ When COVID closed borders, I turned inward and local. That period produced some 
 - “Brian’s Big Three”: kayaking the full length of the River Shannon source-to-sea unsupported, hiking the Wicklow Way, and cycling Malin Head to Mizen Head — all in one month
 
 As travel reopened, so did bigger horizons. To date, I’ve:
-	•	Visited 75 countries
-	•	Run 25+ marathons, including a marathon on every continent
-	•	Completed 23 marathons at the time of writing, with more planned
-	•	Climbed five of the Seven Summits: Kilimanjaro, Kosciuszko, Elbrus, Aconcagua, and Denali
-	•	Summited major peaks including Mont Blanc, Cotopaxi, Chimborazo, and Huayna Potosí
+- Visited 75 countries
+- Run 23 marathons, including one on every continent
+- Climbed five of the Seven Summits: Kilimanjaro, Kosciuszko, Elbrus, Aconcagua and Denali
+- Summited major peaks including Mont Blanc, Cotopaxi, Chimborazo, and Huayna Potosí
 
-Every climb and expedition so far has been a first-time success, something I attribute not to luck, but to obsessive preparation, patience, and respect for the environment I’m moving through.
+Every climb and expedition so far has been a first-time success, something I attribute to obsessive preparation, patience, and respect for the environment I’m moving through.
 
-What I’m working toward
+#### What I’m working toward
 
 My long-term goal, to be completed before I turn 40, is simple to say and hard to do:
-	•	Run 100 marathons
-	•	Visit 100 countries
-	•	Climb the Seven Summits
+- Run 100 marathons
+- Visit 100 countries
+- Climb the Seven Summits
 
 In the nearer term, I’m working toward something more specific: becoming the first person to complete both the Seven Summits and a marathon on every continent. Everest is planned for 2027, with Vinson to follow.
 

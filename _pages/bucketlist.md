@@ -1,12 +1,8 @@
 ---
 layout: page
 title:  Bucket List
-description: Everything I hope to achieve and then some!
-date:   2014-08-01 12:00:00 +0000
+permalink: /bucketlist/
 image:  '/images/bucket0.jpeg'
-video_embed: 
-tags:   [Off-The-Trail]
-
 ---
 
 #### The World Traveler (55/100)

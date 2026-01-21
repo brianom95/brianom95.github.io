@@ -3,7 +3,7 @@ layout: post
 title:  Quest Kenmare
 description: Time for more suffering! My second race of the Quest series in normally beautiful Kenmare
 date:   2022-03-12 12:00:0 +0000
-image:  '/images/qkenmare0.webp'
+image:  '/images/qkenmare0.jpeg'
 tags:   [Adventure-Racing]
 ---
 After a tough [QUEST Glendalough](quest-glendalough) last year, I had a better appreciation for the distance. The routes are hilly, but feel adventurous and I was nervously excited. March can bring any type of weather, so we hoped for the best but definitely got the worst.

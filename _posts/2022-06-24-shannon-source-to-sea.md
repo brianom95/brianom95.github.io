@@ -3,7 +3,7 @@ layout: post
 title:  Shannon Source to Sea
 description: Phase 1 - The first solo unsupported descent of Ireland’s longest river. 10yrs of kayaking led to this
 date:   2022-06-24 12:00:0 +0000
-image:  '/images/shannon0.jpeg'
+image:  '/images/shannon0.webp'
 tags:   [Kayaking]
 ---
 #### Brian's Big Three
@@ -23,6 +23,10 @@ Individually difficult, and when combined in one month they almost broke me. How
 
 This is Phase 1: Shannon Source to Sea
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon1.jpeg">
+</p>
+
 #### The Shannon Pot
 
 On the Northern Irish border is a tiny, unassuming pond named the Shannon Pot. Pagans believed this to be a bottomless portal to the underworld, and used the site for rituals and ceremonies. Legend says it was here that ancient Druids planted the Tree of Knowledge. One day Sionnan, granddaughter of Manannán Mac Lir (the God of the Sea), came to eat its forbidden fruit. The water sprang up, pulled her in and flowed over the land to form a river named on her behalf. 
@@ -30,6 +34,10 @@ On the Northern Irish border is a tiny, unassuming pond named the Shannon Pot. P
 The Shannon Pot is also where the poet Finn Eces found the Salmon of Knowledge after seven years of searching. By the banks he had his young helper, Fionn Mac Cumhaill cook it for him. A spatter of oil burned Fionn’s finger and in soothing it he was inadvertently first to eat the fish. Gaining him all the knowledge of the world, to Finn Eces’ dismay. Fionn would go on to lead the Fianna, Ireland’s ancient warriors, and have a family central in Irish mythology. Fionn is said to have built the Giants Causeway, and it was his son Oisín who travelled to Tír na nÓg.
 
 These days we know that Cavan’s complicated cave network is the explanation for a river that seems to emerge from nowhere. Not bottomless, but divers have reached depths of 14.8m (remarkable for a pond 5m across) and noted strong currents coming from tight, unstable shafts. In high water they’ve proven links to nearby ponds but above ground this remains the source of the Shannon. 
+
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon2.jpeg">
+</p>
 
 #### The Shannon River
 
@@ -39,6 +47,10 @@ The river forms the border between Connaught & Leinster, with one fifth of the c
 
 For me, this water holds the rapids that made me love kayaking, the places I learned to swim, islands I’ve camped on, banks I’ve walked and lakes I’ve explored. In Limerick it meets tidal waters to form Gower: the famous surf wave where I spent my college days (pictured below). Downstream again is the estuary, where busy shipping routes feed Irish industry including my last job. I've explored and worked on several sections of this river which makes me feel connected to it. At times sustained by it.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon3.jpeg">
+</p>
+
 #### Preparation & Planning
 
 I chose to start in Dowra, the first floatable section on the river (leave the 10km of bushwhacking to Gavin Sheehan & Mac Skelly). The end point would be Limerick City; my home for the past nine years, and where the river meets tidal sea water. This is the typically documented route and at 250km, I estimated five equal days. I debated continuing further into the estuary, but having paddled the 90km from Limerick to Tarbert before (in one gruelling day), I was happy to end in a more personally significant place for this.
@@ -46,6 +58,10 @@ I chose to start in Dowra, the first floatable section on the river (leave the 1
 I believe this to be the first solo, fully unsupported (no resupplies) descent of the river. I saw this deemed impossible due to the long portages (boat carries), a statement which really motivated me. Lorcan Keyes was nice enough to loan me a sea kayak, and he also had a set of wheels for it. After a quick trial I could tell these would be the key to making it all possible.
 
 I've paddled most of the river before with friends so had some familiarity. Planning the remainder consisted of avoiding weirs, routing through lakes and identifying possible campspots. I packed food and supplies for the whole trip. Also bringing extra warm clothing and full safety kit given that I'd be remote and alone. Here I am the day before starting:
+
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon4.webp">
+</p>
 
 #### Day 1 - Dowra to Battlebridge (32km)
 
@@ -57,6 +73,10 @@ Next was a 6km canal which includes three portages. The wind wasn't as much of a
 
 Two other kayakers had been exploring the river below and camped in the same spot. An unplanned evening of stories over dinner was a great surprise. Everything from adventures in the snowy Northwest Territories of Canada, to homemade bows & arrows. I slept well that night, tired but happy that I had persevered through physically and mentally difficult conditions.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon5.webp">
+</p>
+
 #### Day 2 - Battlebridge to Lough Ree (67km)
 
 This day was stunning. Glassy reflections on the water and the sun beating down. Still windy, especially on straight river sections, but I worked hard for 13hrs straight to make up for yesterdays shorter day. Lots of interesting bridges, fields of donkeys and people in boats passing and talking to me regularly. One guy threw me a Mars bar from 100m away with incredible accuracy. I also learned that Mars bars float!
@@ -67,6 +87,10 @@ Open water crossings are usually minimised on lakes, utilising headlands and isl
 
 Finally I saw an island too good to pass up and setup camp there. Definitely the best camp spot of the trip, with an island all to myself and a great sunset. Burritos for dinner and another tired but fulfilled Brian.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon6.webp">
+</p>
+
 #### Day 3 - Lough Ree to Shannonbridge (49km)
 
 This day was characterised by endless lakes, starting with the rest of Lough Ree which passed without issue. The morning was gloomy and overcast, but relatively still. I was able to make long crossings and exit the lake with a minimum of unnecessary distance. I was feeling the low water levels with no real flow in the river, but I put the head down through the headwinds regardless. I was excited for Athlone weir which is usually a fun slide but today was another annoying portage.
@@ -74,6 +98,10 @@ This day was characterised by endless lakes, starting with the rest of Lough Ree
 Passing Clonmacnoise I had a mishap where an open hatch filled with water. Luckily the lids are tied on but it was a nuisance to say the least. I had trouble lighting a wet stove that night and some food got wet. Lesson learned to double check they're sealed! 
 
 Downstream of Shannonbridge, I passed West Offaly Power Station. After 10hrs of paddling I climbed a muddy bank and setup camp. It was actually very muddy, destroyed my gear and almost stole my shoe. Wouldn't recommend this spot but I slept very well.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon7a.webp">
+</p>
 
 #### Day 4 - Shannonbridge to Lough Derg (54km)
 
@@ -91,6 +119,10 @@ An otherwise flat lake, just me and the two meter conductive paddle in my hands.
 
 When I eventually reached the bank it wasn't necessary to get off the water anymore, but my heart was still racing so I chose to camp not long after. A spot I'd camped at before had a nice picnic bench and made for a well deserved, comfortable night.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon8.webp">
+</p>
+
 #### Day 5 - Lough Derg to Limerick (48km)
 
 I woke to an eerily calm lake. Complete silence and no ripples from any distant boats. It was still overcast so I did the last of my long crossings quickly. It was a slog. Killaloe was waking up as I celebrated ticking off the last lake, and the sun even came out. Parteen Weir in the distance marked the next phase and through the headwinds I eventually got there.
@@ -107,6 +139,10 @@ A group of women were celebrating a retirement there and gave me a slice of cake
 
 250km in 96hrs
 
+<p align="center" width="100%">
+    <img width="400" src="/images/shannon10.webp">
+</p>
+
 #### Afterthoughts
 
 A big storm swept over Ireland the day after I finished. I'm so thankful I kept the pace up during the tough times to finish when I did. The blisters faded fast but some aches and pains remained for a long time after. 
@@ -121,4 +157,4 @@ Finally, I'd struggle to list all the memories this trip evoked. In a way I'd ex
 
 Sitting by the bank with my cake I was aware that this is a huge bucket list item for me and many other kayakers. A massive achievement worth celebrating, and I would, but my mind was drawn to the future. Both excited and nervous of my prevailing thought: 'One Down..'
 
-Click here to read Phase 2: The Wicklow Way 
+Click here for Phase 2: [The Wicklow Way](wicklow-way)

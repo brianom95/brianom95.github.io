@@ -16,7 +16,7 @@ In June 2022, I left my job for a year of full-time travel. Before flying away I
 **[The Wicklow Way](wicklow-way)</p>**  
 <p style="text-align:center">Hiking Ireland’s Oldest Trail - 130km</p>
 
-**[Malin to Mizen](malin-to-mizen)</p>**  
+[Malin to Mizen](malin-to-mizen)</p>  
 <p style="text-align:center">Cycling Ireland's Most Famous Route - 672km</p>
 
 

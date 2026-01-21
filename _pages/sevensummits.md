@@ -10,7 +10,7 @@ In 1985, Richard Bass became the first person to reach the highest point of all 
 
 Reinhold Messner refutes that Indonesia's Puncak Jaya (Carstensz Pyramid) is a more deserving high point than the modest Kosciuszko, calling the continent Oceania rather than Australia. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders (by most definitions Indonesia is in Asia). Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. 
 
-In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& [Mont Blanc](mont-blanc) in Europe which has similar claims) to cover all bases and avoid debates.
+In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& [Mont Blanc](https://www.brianbeyond.com/mont-blanc) in Europe which has similar claims) to cover all bases and avoid debates.
 
 The original Bass List remains the most widely accepted and is shown below:
 

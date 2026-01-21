@@ -6,16 +6,12 @@ date:   2022-02-01 12:00:0 +0000
 image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]
 ---
-The Presidents Award, or Gaisce, is a self directed challenge for young people to better themselves. The Bronze, Silver & Gold awards are for maintaining weekly activities over 3, 6 & 12 months respectively, with some additional requirements and time. The activities are chosen to challenge and benefit each participant personally, within the following areas:
+The Presidents Award, or Gaisce, is a self directed challenge for young people to better themselves. The Bronze, Silver & Gold awards are for maintaining weekly activities over 3, 6 & 12 months respectively,  with a few additional requirements. The activities are chosen to challenge and benefit each participant personally, within the following areas:
 1. Personal Skill
 2. Physical Activity
 3. Community Involvement
 4. Adventure Journey
 5. Residential Project (Gold only)
-
-> Gaisce is driven by a commitment to a better society, by the enthusiasm, ability and resilience of young people. Through the Gaisce programme, young people are encouraged and guided so that their innate talents and abilities, as well as their sense of citizenship and social agency, can be realised to their full potential.
-> 
-> <cite>President Michael D. Higgins, 2021</cite>
 
 I first heard of the award in Scouts, where we were encouraged to signup for Bronze. I put my beautiful blue Gaisce book into a ziploc bag, where it would live for almost a decade, and I dreamt of the day I'd meet the president to get my Gold. My leaders helped me make a plan. This included guitar lessons (which became a huge passion), a gym training plan (which did not!) and volunteering in a local charity shop. I built my routine around this for my Junior Cert year, and felt very motivated to see them out. For the adventure journey we did a 2-day hike across the Nagle mountains and Bronze was awarded by our group leader at a small ceremony. Success!
 

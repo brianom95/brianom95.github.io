@@ -85,11 +85,11 @@ After I walked a lap of the run and I drank a tonne of water. My last dinner was
 
 At 3:00am I had my tried and tested breakfast; porridge with honey and a banana, followed by a Berocca. My Dad was up to wish me luck before I left. He's done endurance events I wouldn't dream of and likely inspired all of this, so it meant a lot to me. The roads were empty on the drive over, but the start was busy with headtorches. I joined the crowd in prepping my transition area and suiting up.
 
-The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces.
-
 <p align="center" width="100%">
     <img width="400" src="/images/hardman7.webp">
 </p>
+
+The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces.
 
 Alan Ryan gave his usual few words, after which the fastest swimmers entered the water. It was beautifully calm and clear, with the events music filling the otherwise silent lake. It wasn't long before Jamie and I were migrating towards the water. I waved to my family and two by two we jumped in.
 

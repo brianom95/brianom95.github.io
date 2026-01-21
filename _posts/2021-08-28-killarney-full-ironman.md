@@ -19,9 +19,7 @@ This one off event became todays Ironman brand, with 46 races globally. These ar
 
 An Ironman is widely considered one of the most difficult one-day sporting events in the world. No longer reserved for the elite, more and more 'everyday people' are culminating years of training by becoming an Ironman. Crossing the finish line is described as a life changing and emotional experience. Adopted by triathlon as a whole, the full Ironman distance is the longest typically facilitated in the sport:
 
-<p align="center" width="100%">
-    <img width="400" src="/images/hardman1.webp">
-</p>
+<img width="400" src="/images/hardman1.webp">
 
 #### First Steps
 

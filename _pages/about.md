@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-image: '/images/about0.jpg'
+image: '/images/about.jpeg'
 ---
 My name is Brian O’Mahony. I’m a mechanical engineer from Fermoy, Co. Cork, with an unhealthy appetite for long days, hard goals, and places that are difficult to reach. I’ve always been drawn to challenge, exploration, and seeing how far preparation and persistence can take me.
 

@@ -27,13 +27,13 @@ Every climb and expedition so far has been a first-time success, something I att
 
 #### What I’m working toward
 
-My long-term goal, to be completed before I turn 40, is simple to say and hard to do:
+My long-term goal, hopefully before I turn 40, is simple to say and hard to do:
 - Run 100 marathons
 - Visit 100 countries
 - Climb the Seven Summits
 
-In the nearer term, I’m working toward something more specific: becoming the first person to complete both the Seven Summits and a marathon on every continent. Everest is planned for 2027, with Vinson to follow.
+In the nearer term, I’m working toward becoming the first person to complete both the Seven Summits and a marathon on every continent. Everest planning is underway, with Vinson to follow.
 
-This blog exists to document the process — not just the highlights, but the planning, failures, logistics, training, and lessons that sit behind big goals. If there’s a common thread to everything here, it’s this: meaningful achievements are built long before the summit photo.
+This blog exists to document the process. The planning, failures, logistics, training, and lessons that sit behind big goals. If there’s a common thread to everything here, it’s this: meaningful achievements are built long before the summit photo.
 
 If you’re here for mountains, endurance, travel, or the honest reality of chasing ambitious goals alongside a full-time career — you’re in the right place.

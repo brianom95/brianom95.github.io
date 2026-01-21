@@ -15,7 +15,7 @@ When COVID closed borders I turned inward and local. That period produced some o
 - Walking 100,000 steps in a day
 - Self-supported FKT for climbing the highest point in every Irish county in one week
 - Self-supported FKT for climbing Ireland’s 13 peaks over 3,000 ft in one day
-- Brian’s Big Three; kayaking the River Shannon from source to sea, hiking the Wicklow Way, and cycling Malin Head to Mizen Head — all in one month
+- Brian’s Big Three; kayaking the River Shannon from source to sea, hiking the Wicklow Way and cycling Malin Head to Mizen Head — all in one month
 
 As travel reopened, so did bigger horizons. To date, I’ve:
 - Visited 75 countries

@@ -175,7 +175,3 @@ Thank you for reading.
 
 #### Trip Video
 TBC
-
-Click here for Phase 1: [Shannon Source to Sea](shannon-source-to-sea)
-
-Click here for Phase 2: [The Wicklow Way](wicklow-way)

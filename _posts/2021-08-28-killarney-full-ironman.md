@@ -19,6 +19,10 @@ This one off event became todays Ironman brand, with 46 races globally. These ar
 
 An Ironman is widely considered one of the most difficult one-day sporting events in the world. No longer reserved for the elite, more and more 'everyday people' are culminating years of training by becoming an Ironman. Crossing the finish line is described as a life changing and emotional experience. Adopted by triathlon as a whole, the full Ironman distance is the longest typically facilitated in the sport:
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman1.webp">
+</p>
+
 #### First Steps
 
 I completed the [Valentia Island Sprint Triathlon](valentia-sprint1) in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
@@ -35,11 +39,27 @@ I won't go into detail on the plans format or reasoning as the book is incredibl
 
 I knew anything like this is better shared, but this was a level of craziness beyond my friends. The only hope was Jamie Fennell so I asked him. Somehow, he signed up too! He had more experience in the water and a lot more on the bike, so maybe that would balance us out. His old athletics coach assured him that signing up was half the battle and gave some good tips too. Following the same plan, we both started into the initial weeks.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman2.webp">
+</p>
+
 Swimming was my weakest area and made me most nervous. The pools were closed throughout so I only swam in open water. The early days were horrific, with thermals, wetsuit, neoprene hood, gloves and booties still not enough. An Orca swimming wetsuit I invested in made me slower with less buoyancy, but now I looked the part. As the weather got better, so did I. We had a lot of nice sunny days in the Shannon river, swimming with friends over the summer. My pace was always slow, but Ironman swimming is inefficient anyway. It relies mainly on arms to save the legs for what's to come. Slow was fine once you made the cutoff and felt okay starting onto the bike. I think the early icy days had me ready for anything.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman3.webp">
+</p>
 
 Cycling like this was new to me, but it got easier when I bought a used racer online. My muscles (back especially) took a while to adjust to the lower position, but the benefit was obvious. Long cycles in the rain and hail were awful but again as the weather got better so did I. The milestones flew by, cycling my first of many 50km and 100km routes. I fitted aerobars and clipped in shoes which terrified me, but could never go without now. I realised I basically hadn't known how to cycle and went back to basics on core strength, cadence and revolutions (it's all in the book). This made a massive difference, and slowly my confidence built up. The first time I hit a bump in my aerobars my life flashed before my eyes. Now I'll do a speedbump in them on a windy day, which is more impressive than it sounds! One goal was to not have a bike crash which thank God was successful. With punctures I was less lucky but with some help from Jamie I learned all the bike maintenance I needed.
 
-Running was my strongest area, having done a marathon before. The plan focused on managing heart rate zones. Targeted zone work trains fast recovery, and prepares you for raceday where you can never go above Zone 2 (that's the trick). I quickly realised Zone 1 & 2 for me was freely talking, Zone 3 was panting. That was easier for me to track and seemed to work fine. The workouts were manageable because even in bad weather they took a lot less time than the cycles. My only 'injury' was early on; a sore calf from rushing on some stairs at work. I felt like an idiot and forced myself to do nothing stupid until the race was done. My fitness came on hugely and I did a half marathon every month as well as focussed a lot on technique. In general, the runs where my stomach behaved were great, and I prayed from early on that the race would be one of those days. 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman12.jpeg">
+</p>
+
+Running was my strongest area, having done a marathon before. The plan focused on managing heart rate zones. Targeted zone work trains fast recovery, and prepares you for raceday where you can never go above Zone 2 (that's the trick). I quickly realised Zone 1 & 2 for me was freely talking, Zone 3 was panting. That was easier for me to track and seemed to work fine. The workouts were manageable because even in bad weather they took a lot less time than the cycles. My only 'injury' was early on; a sore calf from rushing on some stairs at work. I felt like an idiot and forced myself to do nothing stupid until the race was done. My fitness came on hugely and I did a half marathon every month as well as focussed a lot on technique. In general, the runs where my stomach behaved were great, and I prayed from early on that the race would be one of those days.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman4.webp">
+</p>
 
 The best workouts were the brics (combined cycle and run). The faster you transition to running, the more you get used to the jelly legs. I'd do this once a week, and towards the end did a sprint triathlon every Wednesday after work with Eoghan Calnan. This was incredibly helpful and bless his soul for never missing one over the months.
 
@@ -47,9 +67,17 @@ They say in triathlon that the transitions are the fourth discipline. However, i
 
 Throughout my plan I did two half Ironman's, in [Waterville](waterville-half-ironman) & [Bantry](bantry-half-ironman). From the beginning I could visualise a half, understand how someone could finish it, but could never say the same for the full. These races were incredibly challenging and made it even more difficult to visualise Killarney. However as the saying goes, you just have to be naïve enough to start and stubborn enough to finish.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman5.webp">
+</p>
+
 In the final weeks I was the fittest I've ever been. Iron Fit as the book calls it. I swam 5km on one beautiful sunny day (very slowly but I was so proud), cycled my first century (100 miles or 160km) and did half marathons like they were nothing. I had missed a lot more workouts from the plan than I care to admit (life gets in the way) but I felt excited to run into the unknown and test what I could do. The last two weeks tapered off to allow the body to recover and all of a sudden the race was staring us down. 
 
-I got an AirBnB in Killarney with my family. The day before I filled my bottles and finalised the chaotic contents of all the different bags. That night Jamie & I scoped out the swim while dropping off transition bags, our bikes and collecting race packs. 
+I got an AirBnB in Killarney with my family. The day before I filled my bottles and finalised the chaotic contents of all the different bags. That night Jamie & I scoped out the swim while dropping off transition bags, our bikes and collecting race packs.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman6.webp">
+</p>
 
 After I walked a lap of the run and I drank a tonne of water. My last dinner was a pizza and I was in bed by 8:00pm. Feeling as excited as nervous.
 
@@ -57,9 +85,17 @@ After I walked a lap of the run and I drank a tonne of water. My last dinner was
 
 At 3:00am I had my tried and tested breakfast; porridge with honey and a banana, followed by a Berocca. My Dad was up to wish me luck before I left. He's done endurance events I wouldn't dream of and likely inspired all of this, so it meant a lot to me. The roads were empty on the drive over, but the start was busy with headtorches. I joined the crowd in prepping my transition area and suiting up.
 
-The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces. 
+The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman7.webp">
+</p>
 
 Alan Ryan gave his usual few words, after which the fastest swimmers entered the water. It was beautifully calm and clear, with the events music filling the otherwise silent lake. It wasn't long before Jamie and I were migrating towards the water. I waved to my family and two by two we jumped in.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman13.jpeg">
+</p>
 
 Slow but comfortable. That was both my goal and my experience of the swim. The lake was warm, deep and had no reeds or fish anywhere. The fresh water is slow with less buoyancy, but I'd practiced in rivers and this may have been the nicest swim I've ever done. Our course was two laps around a triangle of yellow buoys, with smaller orange ones to guide between. The farthest one looked an eternity away. I focussed on my breathing, making sure to do nothing but the relaxed pace I knew. Even the first and closest buoy took a long time to pass, but it eventually did. Early in the race it was crowded. There were several times I had people hitting or kicking me, but I just moved or stopped to let them pass. I did worry about the ankle timing chip being knocked off when people were hitting that, but no such issues. 
 
@@ -67,11 +103,23 @@ The swimmers spread out a lot towards the end of the first lap. For a long time 
 
 The sun was fully risen now and the mountain views looked incredible. I had been very emotional for the entire swim. This discipline had scared me most, terrified I'd miss the 2hr 20min cutoff. Actually being here, and having it all go so well made me tear up at a lot of points. I was nothing but excited for the bike and what was to come. At 1hr 47min I climbed out of the water, delighted. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman14.jpeg">
+</p>
+
 There's a joke that it's easy to find your bike in transition when it's the only one left. I was towards the back of the pack so I benefitted from this. I still took my time to dry off and change into my favourite cycling gear. I found the trisuit got uncomfortable in the first half Ironman, and made it so awkward to pee that it wasn't worth it. I had some water, put on sun cream (badly) and jumped on the bike.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman15.jpeg">
+</p>
 
 I'd been wanting to cycle the Ring of Kerry anyway so this was exciting. It was quickly becoming incredibly sunny so I drank plenty of water as I left Killarney and climbed towards Moll's Gap. The first road is fantastic, the tight bends make it super fun. Feeling fresh and overwhelmingly happy, the climb was no issue. The decline was great down to Kenmare, just before which we turned onto Ireland's most famous coastal road.
 
 The idea of doing the Ring of Kerry backwards is to have the main traffic and tour buses against you. As the day goes on, the benefit becomes apparent. The coastal road to Sneem dragged on, the climb after it did too, and with the sun high in the sky I was feeling tired approaching the halfway point in Waterville. The views out here were incredible, with nothing stopping your sight for miles, out to the Skelligs and beyond. In Waterville we collected the bags we'd dropped off last night. I took a minute to eat my Nutella sandwich here and fill up my water.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman16.jpeg">
+</p>
 
 If the cycle had been this distance I would have been very happy. While I felt okay and kept a good pace, my back was aching. I had a worrying tightness in my right foot, but relying on my left more was easing that. The route felt relentless, a rollercoaster of peaks and valleys combined with headwinds, seeming never ending.
 
@@ -79,25 +127,57 @@ My plan was to always spin my legs, stay in a low gear with high cadence and don
 
 I'd hoped Cahersiveen at 120km would feel like a home stretch but was far from it. Headwinds hit hard and the hilly road all the way home was tough. Kell's and Mountain Stage are very scenic but you work hard to get up there. I took my only other stop here to do a minute of stretching as my back was very sore now. Through Glenbeigh at 145km I was so ready to run.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman17.jpeg">
+</p>
+
 Finally I reached Killorglin. There was a water station here that I used. Traffic was at a standstill with bikes queued in it. I overtook a few people coming through the town, some of whom followed my cheeky lead. Crossing the bridge I took the last turn right and saw the sign; Killarney 20km. This was the longest 20km I've ever cycled, and one of the longest hours of my life. Anyone I spoke to agreed on this. All the aches were adding up and I just wanted to be off that seat. After a long day, I rolled into Killarney to finish a 7hr 10min bike split (better than I'd hoped) and headed for my marathon.
 
 I dropped the bike in transition, changed clothes and put on more sun cream. I was shattered, but so happy to be off the bike. A voice in my head told me this run would be as hard as that cycle, but I chose to ignore that. With my running belt full of snacks and water, I was off.
 
 The run used to be three laps of a 14km loop until some 2020 flooding. Then it became ten laps of a hillier 4.2km loop which they've continued. I liked the route because you passed supporters and aid stations more often. Early in my first lap I spotted Jamie who was on his second, and we stuck together. The legs felt good and that lap flew by, except for the hill.
 
-Jamie's parents and girlfriend Anna cheered us on every lap. My family and friends; Seán, Joe, Katie & Eoghan had all came to support us too, sitting on top of the worst hill. Primed to get the worst photos, but also giving jellies to everyone where they were needed most. They had signs and t-shirts that were extremely embarrassing, but also a funny surprise and much appreciated. 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman18.jpeg">
+</p>
+
+Jamie's parents and girlfriend Anna cheered us on every lap. My family and friends; Seán, Joe, Katie & Eoghan had all came to support us too, sitting on top of the worst hill. Primed to get the worst photos, but also giving jellies to everyone where they were needed most. They had signs and t-shirts that were extremely embarrassing, but also a funny surprise and much appreciated.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman19.jpeg">
+</p>
 
 Then came the depths. Everyone would ask are you counting up (Lap 1-5) or counting down (Lap 6-10). It was a tough place to be on Lap 2, knowing what's ahead, but we put the heads down and kept moving. My stomach didn't want food or water but I forced it in. It was intensely hot but half the loop had tree cover so we tried to enjoy that. I tried to puke behind a tree at one point. Only air came out and this settled my stomach making me feel ten times better. I did the same at that tree on every lap from then on.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman8.webp">
+</p>
+
 The supporters were a huge motivation and source of energy, cheering all evening. By Lap 5 Jamie and I had split up, running the same speed but apart kept us both faster. Like everyone we were running on empty. They say at some point your mind must take over. I could see that all around me, people who looked on the brink of death, but nothing could stop them moving. There was an energy in the air, pulling all of us forward. I've never felt it before or since, but it was like magic.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman20.jpeg">
+</p>
 
 As the laps went on it was an internal battle. I'd start to walk and have to confront myself about it. My muscles were fine, legs and feet were good, I wasn't even out of breath. I'd give myself a mental nudge and take off running again. Rinse and repeat. Most people followed that format and I heard a guy who'd finished top five cheering: 'run, walk, run... whatever it takes, just keep moving'.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman21.jpeg">
+</p>
+
 Whatever was in the air dragged me forward and every lap as I passed the finish line I'd dream of my turn. It became routine towards the end. I'd have some flat coke twice per lap, a jelly at another point, visit my tree at another and all the while give out to myself when I'd walk. It was always amazing to see my crew on top of the hill, even though I was most shattered here.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman9.webp">
+</p>
 
 As I started lap 10, Jamie veered off to the finish and I heard his name announced. It was getting dark but I knew every crack in the path by now. When I got to the hill, my supporters were gone to wait at the finish, but my Dad and Seán had waited. I was dead at this point, but didn't stop as we ran the last kilometre together. Under a pitch black sky, the end got louder and closer. Turning the last bend my body was completely overwhelmed, it had no idea what had happened to it today. I heard the speakers call my name as I approached and ran through the finish line.
 
 14hrs 21mins 16s
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman24.jpeg">
+</p>
 
 The finish line was the happiest moment of my life. I was an overwhelmed, confused mess of emotions, but euphorically proud of what Jamie and I had done.
 
@@ -106,6 +186,10 @@ We were in no rush as we took our photos and had some of the free food. We packe
 The finish had given me new energy. I unpacked that night and stayed up for all the celebrations. Eoghan and Seán stayed over and it was a perfect end. I stuck to water instead of alcohol (mostly) and couldn't believe how good my legs and body felt. Salt & Vinegar Pringles were like a gift from the Gods and I slept as amazingly well as you'd expect.
 
 We met Jamie and Anna the next day for breakfast. Lying out on the grass with them we talked about the experience. Our legs and bodies felt remarkably well and we talked about all the possibilities now that we'd broken that barrier. Neither of us were sure what would be next, but it was very clear that anything was possible.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman22.jpeg">
+</p>
 
 #### Afterthoughts
 
@@ -118,6 +202,10 @@ The race itself was one of the best days of my life. I'll never forget the energ
 I owe massive thanks to everyone who helped me through the year. Swimming with Sinéad Ryall, Adam Ryan and my Mam. All the cycles with Jamie and Anna. Runs with my Dad and Limerick Sanctuary Runners. Eoghan Calnan for doing all three, every single week. Other friends in Limerick who joined me throughout. 
 
 Most of all my family and friends who put up with every word being triathlon related for a year. Who let me be obsessed and were only ever supportive. Who gave me advice, but never deterred me from this ridiculous goal. To all of you, thank you so much.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman11.webp">
+</p>
 
 If anyone is considering an Ironman these would be my five tips:
 
@@ -135,6 +223,10 @@ The race was everything I'd hoped for and more. The journey I barely have words 
 
 Happy adventuring,  
 Brian
+
+<p align="center" width="100%">
+    <img width="400" src="/images/hardman10.webp">
+</p>
 
 #### Finish Time
 <div class="table-container">

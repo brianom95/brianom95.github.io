@@ -13,6 +13,9 @@ In June 2022, I left my job for a year of full-time travel. Before flying away I
 [<p style="text-align:center">Shannon Source to Sea</p>](shannon-source-to-sea)  
 <p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
 
+**<p style="text-align:center">Shannon Source to Sea</p>**  
+<p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
+
 **[<p style="text-align:center">The Wicklow Way</p>](wicklow-way)**  
 <p style="text-align:center">Hiking Ireland’s Oldest Trail - 130km</p>
 

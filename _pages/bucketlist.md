@@ -235,8 +235,8 @@ image:  '/images/bucket0.jpeg'
 7. <mark style="background-color: limegreen">Take a 24hr+ Bus</mark>
 8. <mark style="background-color: limegreen">Compete in the Irish Catan Championships</mark>
 9. <mark style="background-color: limegreen">Beat Minecraft</mark>
-10. [<mark style="background-color: limegreen">Do a Bungee Jump</mark>]([https://youtu.be/VyN2m9aq0i0?si=cWe6DJC-jQOB-xfl])
-11. [<mark style="background-color: limegreen">Do a Skydive</mark>]([backpacking](https://youtu.be/qjbD3ZG_9jk?si=7MJaQ26U5ovIe9nJ))
+10. [<mark style="background-color: limegreen">Do a Bungee Jump</mark>](https://youtu.be/VyN2m9aq0i0?si=cWe6DJC-jQOB-xfl)
+11. [<mark style="background-color: limegreen">Do a Skydive</mark>](https://youtu.be/qjbD3ZG_9jk?si=7MJaQ26U5ovIe9nJ)
 12. Scuba Dive at a Shipwreck
 13. <mark style="background-color: limegreen">Swim with Sharks</mark>
 14. [<mark style="background-color: limegreen">Fly in a Hot Air Balloon</mark>](backpacking-sea)

@@ -10,16 +10,14 @@ tags:   [Kayaking]
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
-<p style="text-align:center">test</p>
+**<p style="text-align:center">[Shannon Source to Sea](shannon-source-to-sea)</p>**  
+<p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
 
-**[Shannon Source to Sea](shannon-source-to-sea)**  
-Kayaking Ireland’s Longest River - 250km
+**[The Wicklow Way](wicklow-way)</p>**  
+<p style="text-align:center">Hiking Ireland’s Oldest Trail - 130km</p>
 
-**[The Wicklow Way](wicklow-way)**  
-Hiking Ireland’s Oldest Trail - 130km
-
-**[Malin to Mizen](malin-to-mizen)**  
-Cycling Ireland's Most Famous Route - 672km
+**[Malin to Mizen](malin-to-mizen)</p>**  
+<p style="text-align:center">Cycling Ireland's Most Famous Route - 672km</p>
 
 
 Individually difficult, and when combined in one month they almost broke me. However, it was more spiritually fulfilling than I had anticipated. A personal triathlon, spanning the whole country and stoking memories of all my past adventures. Each phase deeply significant to me and representative of my journey up to now. A closing of chapters, and a fitting farewell to the places and hobbies that were my life. An odyssey both beautiful and terrifying. 

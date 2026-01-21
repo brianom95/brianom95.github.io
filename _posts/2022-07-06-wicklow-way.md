@@ -11,13 +11,13 @@ tags:   [Thru-Hiking]
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
 **[Shannon Source to Sea](shannon-source-to-sea)**  
-Kayaking Ireland’s Longest River (250km)
+Kayaking Ireland’s Longest River - 250km
 
 **[The Wicklow Way](wicklow-way)**  
-Hiking Ireland’s Oldest Trail (132km)
+Hiking Ireland’s Oldest Trail - 132km
 
 **[Malin to Mizen](malin-to-mizen)**  
-Cycling Ireland's Most Famous Bike Route (672km)
+Cycling Ireland's Most Famous Route - 672km
 
 Individually difficult, and when combined in one month they almost broke me. However, it was more spiritually fulfilling than I had anticipated. A personal triathlon, spanning the whole country and stoking memories of all my past adventures. Each phase deeply significant to me and representative of my journey up to now. A closing of chapters, and a fitting farewell to the places and hobbies that were my life. An odyssey both beautiful and terrifying. 
 

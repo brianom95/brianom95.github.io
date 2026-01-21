@@ -10,30 +10,14 @@ tags:   [Kayaking]
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
-[<p style="text-align:center">Shannon Source to Sea</p>](shannon-source-to-sea)  
-<p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
+**[Shannon Source to Sea](shannon-source-to-sea)**  
+Kayaking Ireland’s Longest River - 250km
 
-**<p style="text-align:center">Shannon Source to Sea</p>**  
-<p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
+**[The Wicklow Way](wicklow-way)**  
+Hiking Ireland’s Oldest Trail - 130km
 
-**[<p style="text-align:center">The Wicklow Way</p>](wicklow-way)**  
-<p style="text-align:center">Hiking Ireland’s Oldest Trail - 130km</p>
-
-**<p style="text-align:center">[Malin to Mizen](malin-to-mizen)</p>**  
-<p style="text-align:center">Cycling Ireland's Most Famous Route - 672km</p>
-
-
-
-
-
-**<p style="text-align:center">Shannon Source to Sea</p>**  
-<p style="text-align:center">Kayaking Ireland’s Longest River - 250km</p>
-
-**<p style="text-align:center">The Wicklow Way</p>**  
-<p style="text-align:center">Hiking Ireland’s Oldest Trail - 130km</p>
-
-**<p style="text-align:center">Malin to Mizen</p>**  
-<p style="text-align:center">Cycling Ireland's Most Famous Route - 672km</p>
+**[Malin to Mizen](malin-to-mizen)**  
+Cycling Ireland's Most Famous Route - 672km
 
 Individually difficult, and when combined in one month they almost broke me. However, it was more spiritually fulfilling than I had anticipated. A personal triathlon, spanning the whole country and stoking memories of all my past adventures. Each phase deeply significant to me and representative of my journey up to now. A closing of chapters, and a fitting farewell to the places and hobbies that were my life. An odyssey both beautiful and terrifying. 
 
@@ -174,4 +158,6 @@ Finally, I'd struggle to list all the memories this trip evoked. In a way I'd ex
 Sitting by the bank with my cake I was aware that this is a huge bucket list item for me and many other kayakers. A massive achievement worth celebrating, and I would, but my mind was drawn to the future. Both excited and nervous of my prevailing thought: 'One Down..'
 
 Click here for Phase 2: [The Wicklow Way](wicklow-way)
-Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
+
+#### Trip Video
+TBC

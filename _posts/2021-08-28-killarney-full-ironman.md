@@ -109,17 +109,13 @@ The sun was fully risen now and the mountain views looked incredible. I had been
 
 There's a joke that it's easy to find your bike in transition when it's the only one left. I was towards the back of the pack so I benefitted from this. I still took my time to dry off and change into my favourite cycling gear. I found the trisuit got uncomfortable in the first half Ironman, and made it so awkward to pee that it wasn't worth it. I had some water, put on sun cream (badly) and jumped on the bike.
 
+I'd been wanting to cycle the Ring of Kerry anyway so this was exciting. It was quickly becoming incredibly sunny so I drank plenty of water as I left Killarney and climbed towards Moll's Gap. The first road is fantastic, the tight bends make it super fun. Feeling fresh and overwhelmingly happy, the climb was no issue. The decline was great down to Kenmare, just before which we turned onto Ireland's most famous coastal road.
+
 <p align="center" width="100%">
     <img width="400" src="/images/hardman15.jpeg">
 </p>
 
-I'd been wanting to cycle the Ring of Kerry anyway so this was exciting. It was quickly becoming incredibly sunny so I drank plenty of water as I left Killarney and climbed towards Moll's Gap. The first road is fantastic, the tight bends make it super fun. Feeling fresh and overwhelmingly happy, the climb was no issue. The decline was great down to Kenmare, just before which we turned onto Ireland's most famous coastal road.
-
 The idea of doing the Ring of Kerry backwards is to have the main traffic and tour buses against you. As the day goes on, the benefit becomes apparent. The coastal road to Sneem dragged on, the climb after it did too, and with the sun high in the sky I was feeling tired approaching the halfway point in Waterville. The views out here were incredible, with nothing stopping your sight for miles, out to the Skelligs and beyond. In Waterville we collected the bags we'd dropped off last night. I took a minute to eat my Nutella sandwich here and fill up my water.
-
-<p align="center" width="100%">
-    <img width="400" src="/images/hardman16.jpeg">
-</p>
 
 If the cycle had been this distance I would have been very happy. While I felt okay and kept a good pace, my back was aching. I had a worrying tightness in my right foot, but relying on my left more was easing that. The route felt relentless, a rollercoaster of peaks and valleys combined with headwinds, seeming never ending.
 

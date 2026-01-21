@@ -129,7 +129,7 @@ I woke to an eerily calm lake. Complete silence and no ripples from any distant 
 
 The gate on Parteen Weir was broken. After 30 minutes of ESB staff 'fixing it', I just climbed around. Last time this portage took an hour with multiple people, slings and ropes. I had really hoped to avoid doing this alone but put a sling around my shoulder, dragged the boat and got it done in half the time. Around the weir, back into the headrace, over the middle bank and back into the Shannon. With the worst and final portage done I was truly on the home stretch.
 
-The sun was blazing at this stage. I met morning swimmers and kayakers in O'Briensbridge. Passed my old Ironman training ground in Warrell's End. My helmet went on for a low but fun lap of my local rapids in Castleconnell. This in particular was great, the novelty of a sea kayak on the rapids, combined with finally feeling like I was home!
+The sun was blazing at this stage. I met morning swimmers and kayakers in O'Briensbridge. Passed Warrell's End where I trained for the [Ironman](killarney-full-ironman). My helmet went on for a low but fun lap of my local rapids in Castleconnell. This in particular was great, the novelty of a sea kayak on the rapids, combined with finally feeling like I was home!
 
 Through the University of Limerick, stressfully past an army of swans at Corbally Bridge, meeting fishermen and boat users on the water. It wasn't long before King John's Castle was on the horizon to welcome me home. 
 

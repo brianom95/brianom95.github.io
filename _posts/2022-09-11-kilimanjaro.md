@@ -187,4 +187,4 @@ Thank you for reading,
 Asante Sana 🙏 
 
 #### Trip Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NMBZwbp5cmc?si=sl_Bg-pEpIE1HMtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/NMBZwbp5cmc?si=sl_Bg-pEpIE1HMtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

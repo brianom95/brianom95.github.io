@@ -14,7 +14,7 @@ In June 2022, I left my job for a year of full-time travel. Before flying away I
 Kayaking Ireland’s Longest River - 250km
 
 **[The Wicklow Way](wicklow-way)**  
-Hiking Ireland’s Oldest Trail - 132km
+Hiking Ireland’s Oldest Trail - 130km
 
 **[Malin to Mizen](malin-to-mizen)**  
 Cycling Ireland's Most Famous Route - 672km

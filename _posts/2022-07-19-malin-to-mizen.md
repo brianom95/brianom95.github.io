@@ -62,7 +62,7 @@ It was a 55km cycle north to my B&B. Fairly hilly, and made much tougher by how 
 After a shower and a cup of tea, I laid out my things for the morning. I'd been caught in the start of a bad rainstorm which raged all night. From my window I watched the road to Malin Head become increasingly grey and wet. As the wind howled I went over and back on my plan for the morning.
 
 <p align="center" width="100%">
-    <img width="500" src="/images/malin3.webp">
+    <img width="500" src="/images/malin4.webp">
 </p>
 
 #### Day 1 - Malin Head to Bundoran (159km)
@@ -76,7 +76,7 @@ It was a battle to reach Letterkenny, Ballybofey and Donegal town. A B&B here wo
 I couldn't believe how hard this day was. Stunningly beautiful, but I was left at a standstill by the wind at times. I like frontloading trips, starting with harder efforts to grant shorter days later. Every day from here would be shorter, but the wind scared me. I got a late dinner in the town and fell asleep shortly after.
 
 <p align="center" width="100%">
-    <img width="500" src="/images/malin4.webp">
+    <img width="500" src="/images/malin3.webp">
 </p>
 
 #### Day 2 - Bundoran to Castlebar (122km)

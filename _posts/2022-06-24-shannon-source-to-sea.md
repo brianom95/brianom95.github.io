@@ -29,11 +29,11 @@ This is Phase 1: Shannon Source to Sea
 
 #### The Shannon Pot
 
-On the Northern Irish border is a tiny, unassuming pond named the Shannon Pot. Pagans believed this to be a bottomless portal to the underworld, and used the site for rituals and ceremonies. Legend says it was here that ancient Druids planted the Tree of Knowledge. One day Sionnan, granddaughter of Manannán Mac Lir (the God of the Sea), came to eat its forbidden fruit. The water sprang up, pulled her in and flowed over the land to form a river named on her behalf. 
+On the Northern Irish border is a tiny, unassuming pond named the Shannon Pot. Pagans believed this to be a bottomless portal to the underworld and used the site for rituals and ceremonies. Legend says it was here that ancient Druids planted the Tree of Knowledge. One day Sionnan, granddaughter of Manannán Mac Lir (God of the Sea), came to eat its forbidden fruit. The water sprang up, pulled her in and flowed over the land to form a river named on her behalf. 
 
 The Shannon Pot is also where the poet Finn Eces found the Salmon of Knowledge after seven years of searching. By the banks he had his young helper, Fionn Mac Cumhaill cook it for him. A spatter of oil burned Fionn’s finger and in soothing it he was inadvertently first to eat the fish. Gaining him all the knowledge of the world, to Finn Eces’ dismay. Fionn would go on to lead the Fianna, Ireland’s ancient warriors, and have a family central in Irish mythology. Fionn is said to have built the Giants Causeway, and it was his son Oisín who travelled to Tír na nÓg.
 
-These days we know that Cavan’s complicated cave network is the explanation for a river that seems to emerge from nowhere. Not bottomless, but divers have reached depths of 14.8m (remarkable for a pond 5m across) and noted strong currents coming from tight, unstable shafts. In high water they’ve proven links to nearby ponds but above ground this remains the source of the Shannon. 
+These days we know that Cavan’s complicated cave network is the explanation for this river that seems to emerge from nowhere. Not bottomless, but divers have reached depths of 14.8m (remarkable for a pond 5m across) and noted strong currents coming from tight, unstable shafts. In high water they’ve proven links to nearby ponds but above ground this remains the source of the Shannon. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/shannon2.jpeg">
@@ -53,9 +53,9 @@ For me, this water holds the rapids that made me love kayaking, the places I lea
 
 #### Preparation & Planning
 
-I chose to start in Dowra, the first floatable section on the river (leave the 10km of bushwhacking to Gavin Sheehan & Mac Skelly). The end point would be Limerick City; my home for the past nine years, and where the river meets tidal sea water. This is the typically documented route and at 250km, I estimated five equal days. I debated continuing further into the estuary, but having paddled the 90km from Limerick to Tarbert before (in one gruelling day), I was happy to end in a more personally significant place for this.
+I chose to start in Dowra at the first floatable section on the river. The end point would be Limerick City; my home for the past nine years and where the river meets tidal sea water. This is the typically documented route, and at 250km I estimated five equal days. I debated continuing further into the estuary, but having paddled the 90km stretch from Limerick to Tarbert before (in one gruelling day), I was happy to end in a more personally significant place for this.
 
-I believe this to be the first solo, fully unsupported (no resupplies) descent of the river. I saw this deemed impossible due to the long portages (boat carries), a statement which really motivated me. Lorcan Keyes was nice enough to loan me a sea kayak, and he also had a set of wheels for it. After a quick trial I could tell these would be the key to making it all possible.
+I believe this to be the first solo, fully unsupported (no resupplies) descent of the river. I saw this deemed impossible due to the long portages (boat carries), a statement which really motivated me. Lorcan Keyes was nice enough to loan me a sea kayak, and he also had a set of wheels for it. After a quick trial I could tell these would be the key to making it possible.
 
 I've paddled most of the river before with friends so had some familiarity. Planning the remainder consisted of avoiding weirs, routing through lakes and identifying possible campspots. I packed food and supplies for the whole trip. Also bringing extra warm clothing and full safety kit given that I'd be remote and alone. Here I am the day before starting:
 
@@ -67,9 +67,9 @@ I've paddled most of the river before with friends so had some familiarity. Plan
 
 After visiting the Shannon Pot, it was already 3:30pm when I unloaded the boat in Dowra. Exceptionally low river levels made it difficult to get on the water and to get going. The first 3km were so low that much had to be walked. It was scrapey, slow and frustrating but eventually eased as I approached Lough Allen. Then came the wind.
 
-Lough Allen was intense. A strong wind from the south west crashed waves into my boat for the entirety. It pushed me to the east bank which added distance and rockier sections. Rounding a central headland was a fight to stay on line, with waves breaking on top of my spray deck. Progress was slow against the wind with more hours than I anticipated on that lake. Finally I could see the end.
+Lough Allen was intense. A strong wind from the south west crashed waves into my boat for the entirety. It pushed me to the east bank which added distance and rockier sections. Rounding a central headland was a fight to stay on line, with waves breaking on top of my spraydeck. Progress was slow against the wind with more hours than I anticipated on that lake. Finally I could see the end.
 
-Next was a 6km canal which includes three portages. The wind wasn't as much of an issue in here and the rain even stopped. Now the fun of lugging this 40kg weight around could begin. It was definitely not easy, especially one terribly designed set of stairs in particular, but with some patience I made it. Embarrassingly, I almost capsized while climbing back in at one point, and I was desperately afraid of losing the small pins which were critical to the wheels, but all was okay. Halfway through my third and final walk of this canal I saw a perfect grassy spot to camp and decided to park it here. Not as far as I would have liked but it had been six difficult hours and was getting late.
+Next was a 6km canal which included three portages. The wind wasn't as much of an issue in here and the rain even stopped. Now the fun of lugging this 40kg weight around could begin. It was definitely not easy, especially one terribly designed set of stairs, but with some patience I made it. Embarrassingly, I almost capsized while climbing back in at one point, and I was desperately afraid of losing the small pins which were critical to the wheels, but all was okay. Halfway through my third and final walk of this canal I saw a perfect grassy spot to camp and decided to park it here. Not as far as I would have liked but it had been six difficult hours and was getting late.
 
 Two other kayakers had been exploring the river below and camped in the same spot. An unplanned evening of stories over dinner was a great surprise. Everything from adventures in the snowy Northwest Territories of Canada, to homemade bows & arrows. I slept well that night, tired but happy that I had persevered through physically and mentally difficult conditions.
 
@@ -81,14 +81,14 @@ Two other kayakers had been exploring the river below and camped in the same spo
 
 This day was stunning. Glassy reflections on the water and the sun beating down. Still windy, especially on straight river sections, but I worked hard for 13hrs straight to make up for yesterdays shorter day. Lots of interesting bridges, fields of donkeys and people in boats passing and talking to me regularly. One guy threw me a Mars bar from 100m away with incredible accuracy. I also learned that Mars bars float!
 
-There was some tough navigation on the oddly shaped lakes but I'd been ready for that. Rooskey town has a fish pass which made a fun slide. The day also brought two more tricky portages and a low weir in Carrick on Shannon. Soon after which I entered Ireland's 5th largest lake; Lough Ree.
+There was some tough navigation on the oddly shaped lakes but I'd been ready for that. Rooskey town has a fish pass which made a fun slide too. The day brought two more tricky portages and a low weir in Carrick on Shannon. Soon after which I entered Ireland's 5th largest lake; Lough Ree.
 
-Open water crossings are usually minimised on lakes, utilising headlands and islands for shelter and navigation. It's similar to crossing a street where a long diagonal might be the shortest overall distance, but not always the safest. Today the lake was pretty calm, allowing more direct routes that save some time. My body was aching but these great conditions made it worth pushing on. 
+Open water crossings are best minimised on lakes, utilising headlands and islands for shelter and navigation. It's similar to crossing a street where a long diagonal might be the shortest distance, but not always the safest. Today the lake was pretty calm, allowing more direct routes that saved some time. My body was aching but these great conditions made it worth pushing on. 
 
 Finally I saw an island too good to pass up and setup camp there. Definitely the best camp spot of the trip, with an island all to myself and a great sunset. Burritos for dinner and another tired but fulfilled Brian.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/shannon6.webp">
+    <img width="400" src="/images/shannon6.jpeg">
 </p>
 
 #### Day 3 - Lough Ree to Shannonbridge (49km)

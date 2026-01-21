@@ -29,13 +29,13 @@ As I was still recovering from last weeks [Rome Marathon](rome-marathon), my goa
 I set off a bit quick, but settled at 5:00min/km which felt great. Everyone was pushing hard and this definitely nudged me on. The route was unreal, retracing the loop we had done in the [Ironman](killarney-full-ironman) and all along the lake edge to Ross Castle. Two water stops, great views and only one small hill made the time fly by. My tummy felt a bit upset towards the end of the run but I pushed hard knowing the bike would allow recovery. At 48mins 58s I shattered my first target and was quick hopping onto the bike.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/duathlon4.webp">
+    <img width="300" src="/images/duathlon4.webp">
 </p>
 
 I've done very little cycling this year but don't feel like much has been lost. I used the aerobars for all windy sections (which there were a lot of), allowing my shoulders to rest everywhere else. It definitely got uncomfortable at times and the road felt long, but in the grand scheme of things time flew by. By 17km I'd passed a good few people and was turning in Killorglin. I hoped the breeze would help us now, but physics doesn't like cyclists so it was a windy slog all the way back too.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/duathlon3.webp">
+    <img width="300" src="/images/duathlon3.webp">
 </p>
 
 Making the final turn in Killarney, a car cut me off on the roundabout. The driver couldn't see behind the two marshall's who were too focussed on me to direct traffic. I pulled the brakes, skidded both sides and stopped just before I touched the car. Any faster I would have hit it and I'm not sure how I didn't fall off (glad I wasn't clipped in). They drove off and I was a bit shaken but the last 3km were cycle paths which was a relief. It was only as I entered transition I realised I'd taken ten minutes off my target, making it the fastest bike split I'd ever done for that distance at 1hr 19mins 21s (30.25km/hr).
@@ -45,7 +45,7 @@ I was excited for this run. Everything felt good and I tried to set the same pac
 2hrs 34mins 58s
 
 <p align="center" width="100%">
-    <img width="400" src="/images/duathlon5.webp">
+    <img width="300" src="/images/duathlon5.webp">
 </p>
 
 Jack finished less than two minutes after me, and Patrick smashed his 3.5hr target with 2hr 51mins. Once recovered we got a photo and were all delighted with the day. The weather had been much better than expected and there was a nice atmosphere around. With dinner and drinks in town that night it was a fun and easily recommendable weekend which hopefully has planted a seed in the two lads.

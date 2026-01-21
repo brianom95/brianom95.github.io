@@ -148,4 +148,4 @@ Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/1z03k7)
 
 #### Trip Video
-TBC
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Ac5iyTiMwM?si=SEUj7cmE8XO3pwzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

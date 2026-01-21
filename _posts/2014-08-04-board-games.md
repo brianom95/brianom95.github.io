@@ -133,7 +133,7 @@ This is the most dynamic game I've played, with endless scenarios. Surprisingly 
 2 to 4 players - 60 mins
 
 <p align="center" width="100%">
-    <img width="400" src="/images/games0.webp">
+    <img width="400" src="/images/boardgames0.webp">
 </p>
 
 Players try to be the dominant force on the island of Catan by building settlements, cities, and roads. 

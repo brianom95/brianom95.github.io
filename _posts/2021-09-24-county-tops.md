@@ -262,8 +262,11 @@ Brian
 </p>
 
 #### Trip Video
+TBC
 
-
+<p align="center" width="100%">
+    <img width="500" src="/images/ctops30.webp">
+</p>
 
 #### Strava Links
 1. [Mweelrea, Mayo](strava)
@@ -292,7 +295,3 @@ Brian
 24. [Trostan, Antrim](strava)
 25. [Sawel, Derry & Tyrone](strava)
 26. [Errigal, Donegal](strava)
-
-<p align="center" width="100%">
-    <img width="400" src="/images/ctops30.webp">
-</p>

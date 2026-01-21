@@ -75,5 +75,5 @@ It's strange to go from a comfortable bed to the blood, sweat and tears of those
 Overall I'm really happy with the day and I'm excited for upcoming races like [QUEST Killarney](quest-killarney), hopefully in nicer weather.
 
 <p align="center" width="100%">
-    <img width="500" src="/images/qkenmare7.jpeg">
+    <img width="500" src="/images/qkenmare7.webp">
 </p>

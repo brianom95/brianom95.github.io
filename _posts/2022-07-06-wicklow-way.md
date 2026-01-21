@@ -139,8 +139,6 @@ There is a case to be made for this being a 100km trail, with the southern road 
 
 Another goal complete, but I'm only two thirds of the way through my mission. I know once I'm moving I can get through anything, but for now I'm faced with the same nervous anticipation that I felt on the banks of the Shannon. The end is in sight, only an entire country in the way.
 
-Click here for Phase 1: [Shannon Source to Sea](shannon-source-to-sea)
-
 Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
 
 #### What I Carried

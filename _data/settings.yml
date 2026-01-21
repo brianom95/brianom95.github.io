@@ -18,7 +18,7 @@ menu_settings:
     - title: "Seven Summits"
       url: "/sevensummits/"
     - title: "Bucket List"
-      url: "/bucket-list"
+      url: "/bucketlist/"
     - title: "Contact"
       url: "/contact/"
 

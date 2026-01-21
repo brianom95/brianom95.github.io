@@ -4,20 +4,18 @@ title: About
 permalink: /about/
 image: '/images/about0.jpg'
 ---
-My name is Brian O’Mahony. I’m a mechanical engineer from Fermoy, Co. Cork, with an unhealthy appetite for long days, hard goals, and places that are difficult to reach.
+My name is Brian O’Mahony. I’m a mechanical engineer from Fermoy, Co. Cork, with an unhealthy appetite for long days, hard goals, and places that are difficult to reach. I’ve always been drawn to challenge, exploration, and seeing how far preparation and persistence can take me.
 
-By profession, I work as a mechanical engineer, currently with RUSAL, having previously spent several years in the pharmaceutical industry. By inclination, I’ve always been drawn to challenge, exploration, and seeing how far preparation and persistence can take me.
+I grew up in Scouting, where I learned self-reliance, leadership, and a love of the outdoors. I was one of the last people in Ireland to receive the original Chief Scout Award, later completing both the Venturer and Rover awards (the fourth person ever to do so, and the first to hold all three). I’ve also completed all levels of the Gaisce President’s Award, with Gold presented in 2021, and earned the Explorer Belt.
 
-I grew up in Scouting, where I learned self-reliance, leadership, and a love of the outdoors. I was one of the last people in Ireland to receive the original Chief Scout’s Award, later completing both the Venturer and Rover awards (the fourth person ever to do so, and the first to hold all three). I’ve also completed all levels of the Gaisce President’s Award, with Gold presented in 2021, and earned the Explorer Belt.
-
-At university, adventure took a sharper edge when I discovered whitewater kayaking. Over the following decade I paddled rivers up to Grade V, competing, traveling, and chasing water across the globe — including extended solo trips in Uganda (the Nile), the Zambezi, India, and paddling on every continent, Antarctica included.
+At university, adventure took a sharper edge when I discovered whitewater kayaking. Over the following decade I paddled rivers up to Grade V, competing, traveling, and chasing water across the globe; including trips to Uganda, the Zambezi, India, and paddling on every continent, Antarctica included.
 
 When COVID closed borders, I turned inward and local. That period produced some of the hardest and most rewarding challenges of my life:
-	•	Completing an Ironman after learning to swim from scratch
-	•	Walking 100,000 steps in a day
-	•	Fastest Known Time (self-supported) for climbing the highest point in every Irish county in one week
-	•	A self-supported FKT for climbing Ireland’s 13 peaks over 3,000 ft in a single day
-	•	“Brian’s Big Three”: kayaking the full length of the River Shannon source-to-sea unsupported, hiking the Wicklow Way, and cycling Malin Head to Mizen Head — all in one month
+- Completing an Ironman after learning to swim from scratch
+- Walking 100,000 steps in a day
+- Fastest Known Time for climbing the highest point in every Irish county in one week self-supported
+- A self-supported FKT for climbing Ireland’s 13 peaks over 3,000 ft in a single day
+- “Brian’s Big Three”: kayaking the full length of the River Shannon source-to-sea unsupported, hiking the Wicklow Way, and cycling Malin Head to Mizen Head — all in one month
 
 As travel reopened, so did bigger horizons. To date, I’ve:
 	•	Visited 75 countries

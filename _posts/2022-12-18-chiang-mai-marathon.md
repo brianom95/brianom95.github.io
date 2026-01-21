@@ -24,7 +24,7 @@ The race starts at 3:00am to avoid the heat and to finish at sunrise. It was hum
 
 The first section really was incredible. My legs and body felt great and I knew they'd last the night, but for some reason I was mentally exhausted. I think the darkness may have played a part, but from the get go I knew this would be a grind. Once we left the city walls and moved to long straight roads I struggled to stay awake. Luckily I had brought my headphones and they helped me to switch off for some sections.
 
-Everything about the race felt very well organised. Lots of aid stations with water, pineapple and watermelon which worked great for me. There were loads of photographers who all had massive studio lights that you'd see as you approached. Between these I'd keep my head down and fight the urge to walk, excited for when the sun would begin to rise and give me the energy I knew it would.
+Everything about the race felt well organised. Lots of aid stations with water, pineapple and watermelon which worked great for me. There were loads of photographers who all had massive studio lights that you'd see as you approached. Between these I'd keep my head down and fight the urge to walk, excited for when the sun would begin to rise and give me the energy I knew it would.
 
 <p align="center" width="100%">
     <img width="300" src="/images/chiang3.jpeg">

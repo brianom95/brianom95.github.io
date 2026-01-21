@@ -160,4 +160,4 @@ Sitting by the bank with my cake I was aware that this is a huge bucket list ite
 Click here for Phase 2: [The Wicklow Way](wicklow-way)
 
 #### Trip Video
-TBC
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Ac5iyTiMwM?si=SEUj7cmE8XO3pwzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

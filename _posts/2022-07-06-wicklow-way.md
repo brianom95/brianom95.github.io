@@ -3,7 +3,7 @@ layout: post
 title:  The Wicklow Way
 description: Phase 2 - Hiking 130km on Irelands oldest trail. Revisiting the hills and valleys that shaped me
 date:   2022-07-06 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/wicklow7.webp'
 tags:   [Thru-Hiking]
 ---
 #### Brian's Big Three
@@ -24,7 +24,7 @@ Individually difficult, and when combined in one month they almost broke me. How
 This is Phase 2: The Wicklow Way
 
 <p align="center" width="100%">
-    <img width="500" src="/images/malin0.jpeg">
+    <img width="400" src="/images/wicklow1.webp">
 </p>
 
 #### J.B. Malone
@@ -32,6 +32,10 @@ This is Phase 2: The Wicklow Way
 Best place to start is the cartographer and draughtsman; J.B. Malone. Since the 1940's he wrote several books, a weekly newspaper column and made multiple documentaries that popularised hiking in Wicklow. Always encouraging young people to get outside, he pushed for years to establish a long distance trail network in Ireland. Much like the Appalachian Trail in the US.
 
 As head of the National Trails Committee, he negotiated rights of way with land-owners to make The Wicklow Way a reality. Opened in 1977, it was a historic first for the country. A memorial to J. B. Malone, who died in 1989, was erected on the Wicklow Way near Lough Tay. The now 42 national waymarked trails, including the Kerry Way and Dingle Way, are directly attributable to this one man.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow2.webp">
+</p
 
 #### The Wicklow Way
 
@@ -41,13 +45,21 @@ There are plenty of accommodation options just off trail. Bag shuttle services a
 
 The Wicklow Mountains are Ireland's longest continuous mountain range. The trail follows forest tracks, mountain paths, boreens and quiet country roads. Mountains, upland lakes and steep-sided glacial valleys make up the terrain of the northern sections, with gentler hills to the south. The 6th century monastic settlement in Glendalough is a highlight, known for it's 30m round tower. 
 
-Maps generally divide the route into seven sections. In 2018, Siobhán O'Donovan and I did the final two; 41km from Roundwood to Marlay Park. In hindsight an additional day and section would have been better to include Glendalough, but it was a great experience. Having hiked all over Ireland since, it has always been on my mind to go back and complete it all. 
+Maps generally divide the route into seven sections. In 2018, Siobhán O'Donovan and I did the final two; 41km from Roundwood to Marlay Park. In hindsight an additional day and section would have been better to include Glendalough, but it was a great experience. Having hiked all over Ireland since, it has always been on my mind to go back and complete it all.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow3.jpeg">
+</p
 
 #### Preparation & Planning
 
 My goal was to complete a north bound thru-hike in five days. There is a shop to resupply on day three, meaning I would have two equal, 2.5 day food carries. I chose distances to meet the first and third of the trails huts. I'd never seen these before and always wanted to sleep in them. Route planning is easy and I packed light as always.
 
 I'd recommend to hike northbound. This saves the best sections for last, provides a more picturesque finish and simplifies transport after. Getting to Clonegal is awkward, but luckily I had a wedding in Carlow during this month. As everyone else headed home, Eoghan Calnan dropped me to the start.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow4.webp">
+</p
 
 #### Day 1 - Clonegal to Tinahely (26km)
 
@@ -57,6 +69,10 @@ The day was characterised by mostly road walking, with stretches of farmland tha
 
 When I passed the Dying Cow pub, I was ready to setup camp. It looked to be road for a while so I opted for one of the worst 'stealth camping' locations I've ever chosen. It was flat and comfy, with a picnic bench for cooking. On paper it was perfect, but beside a surprisingly busy road. Did the job but I wouldn't pick it again.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow5.webp">
+</p
+
 #### Day 2 - Tinahely to Mucklagh Hut (27km)
 
 Within an hour the trail goes off road and passes some amazing camp spots. I'll definitely push on to here if I ever hike it again. Donkeys, horses and some beautiful scenery as the hills ramp up. Crossing a nice river, I took a lunch break and filtered fresh water before facing the steepest hill. 
@@ -64,6 +80,10 @@ Within an hour the trail goes off road and passes some amazing camp spots. I'll 
 With most of the road walking done, the next sections have a lot of Coillte forest tracks. I met a Norwegian couple who were amazed by our woodlands. They're from Bergen and have hiked all over Europe, yet somehow this blew them away. I guess the grass is always greener!
 
 After a hilly day, I arrived at Mucklagh hut. My legs were wrecked and I was delighted to sit down and cook dinner. I stayed under the shelter, with just the tent inner to keep any bugs away. There was a cold wind into the hut all night so I wasn't a big fan of this. I now think it's better to camp behind the huts, which is also better if others arrive late or are loud. Glad I got to try it though.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow6.webp">
+</p
 
 #### Day 3 - Mucklagh Hut to Brushers Gap Hut (36km)
 
@@ -73,7 +93,11 @@ A tough climb up and over a hill had some of the nicest boardwalks. Coming over 
 
 My plan was to get this days dinner at Lynham's pub in Laragh. It was a bit earlier than planned but I did just that and was able to charge my phone and powerbank too. Words can't describe how nice this burger was!
 
-On the short hike out of Laragh I saw four deer. Tight trails became beautiful, expansive meadowlands. Before long I was at Brusher's Gap Hut which was better than the last in every way. I had a nice chat with a mother and daughter who were reading the hiker logbook, and a couple who were cycling the full trail. It was a busier and more sociable night with people arriving at all hours, so a good decision to camp in the grass behind, rather than in the hut itself. 
+On the short hike out of Laragh I saw four deer. Tight trails became beautiful, expansive meadowlands. Before long I was at Brusher's Gap Hut which was better than the last in every way. I had a nice chat with a mother and daughter who were reading the hiker logbook, and a couple who were cycling the full trail. It was a busier and more sociable night with people arriving at all hours, so a good decision to camp in the grass behind, rather than in the hut itself.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow7.webp">
+</p
 
 #### Day 4 - Brushers Gap Hut to Glencullen (33km)
 
@@ -87,6 +111,10 @@ One section I'd looked forward to was the huge descent to a stream, with an equa
 
 I had planned to camp around here but pushed on so my final day would be shorter. I rounded the amazing section that overlooks Powerscourt Waterfall, met some really interesting people, and eventually setup camp. Tonight probably had the worst flies and they love my tent, so I ate dinner quickly and watched a movie in bed where they couldn't bother me.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow8.webp">
+</p
+
 #### Day 5 - Glencullen to Marlay Park (15km)
 
 The sunrise was amazing, rising over the iconic Great Sugarloaf hill. As I crossed from the Wicklow Mountains into the Dublin Mountains I could see the city lights in the distance. The last section is quite unique, like exposed desert, until tracks bring you down into the city. It's amazing how quickly it goes from open mountain side to busy city roads. 
@@ -96,6 +124,10 @@ The long descent to the city had great views before crossing under the M50 motor
 There's always something strange about being back in civilisation after adventures like these. Switching from the primal needs of a hike, back to the everyday stresses of life. Or in this case the stresses of the Dublin bus service! Eventually I was on the road home, tired and delighted. It had been tougher than I'd anticipated, but once again I'd made it through.
 
 I had gotten a text during the week to confirm that my bike was waiting for me in Derry. In three days time I would face into the final and scariest leg of this adventure. Celebrations would soon blend into preparations, but for now I was taking great pride in what was an amazing hike.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow9.webp">
+</p
 
 #### Afterthoughts
 
@@ -110,5 +142,7 @@ Another goal complete, but I'm only two thirds of the way through my mission. I 
 Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
 
 #### What I Carried
-
+<p align="center" width="100%">
+    <img width="400" src="/images/wicklow10.webp">
+</p
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/1z03k7)

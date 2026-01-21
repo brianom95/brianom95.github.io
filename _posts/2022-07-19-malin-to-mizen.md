@@ -172,3 +172,6 @@ I haven't really got recommendations for this one. Others may prefer to cycle in
 In a week I'll be abroad, pursuing new adventures on an uncertain path. I feel blessed to have formed this unique connection with my country before that trip. To have seen and experienced things which many will only dream of, things which will always connect me to home. The month as a whole was a fitting reminder of all I love about Ireland. All the people, the passions and the adventures which shaped my life up to now. This was an unfathomably difficult task, far beyond what I anticipated, but ultimately it was the send-off we both deserved.
 
 Thank you for reading.
+
+#### Trip Video
+TBC

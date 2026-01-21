@@ -3,34 +3,39 @@ layout: post
 title:  Malin to Mizen
 description: Phase 3 - Cycling the Length of Ireland. A personal journey from Donegal to Cork, battling the wind!
 date:   2022-07-19 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/malin10.webp'
 tags:   [Adventure-Racing]
 ---
 #### Brian's Big Three
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
-**[Shannon Source to Sea](shannon-source-to-sea)**
-
+**[Shannon Source to Sea](shannon-source-to-sea)**  
 250km, Kayaking Ireland’s Longest River 
 
-**[The Wicklow Way](wicklow-way)**
-
+**[The Wicklow Way](wicklow-way)**  
 131km, Hiking Ireland’s Oldest Trail
 
-**[Malin to Mizen](malin-to-mizen)**
-
+**[Malin to Mizen](malin-to-mizen)**  
 672km, Cycling Home via Ireland's Most Famous Bike Route
 
 Individually difficult, and when combined in one month they almost broke me. However, it was more spiritually fulfilling than I had anticipated. A personal triathlon, spanning the whole country and stoking memories of all my past adventures. Each phase deeply significant to me and representative of my journey up to now. A closing of chapters, and a fitting farewell to the places and hobbies that were my life. An odyssey both beautiful and terrifying. 
 
 This is a writeup of Phase 3: Malin to Mizen
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin0.jpeg">
+</p>
+
 #### Malin to Mizen 
 
 Cycling the length of Ireland, from Malin Head in Donegal to Mizen Head in Cork. There's no one route or timeframe, with the 100's who do it each year all slightly differing. That's the beauty of the trip, allowing for a tailored itinerary to see and stay in the places you want. Even the most direct routes showcase some of Ireland's best mountains, valleys, lakes and coastlines.
 
-The shortest route is 569km. The longest is 2,350km; following the jagged Wild Atlantic Way coastline. Most people aim for a week, choosing a route between 600-650km. The cycling record is 15hrs 30mins by Ronan McLoughlin from Donegal. The record for running the distance is an insane 3 days, 3hrs 47mins by Eoin Keith from Cork. Below are photos from Malin Head & Mizen Head respectively.
+The shortest route is 569km. The longest is 2,350km; following the jagged Wild Atlantic Way coastline. Most people aim for a week, choosing a route between 600-650km. The cycling record is 15hrs 30mins by Ronan McLoughlin from Donegal. The record for running the distance is an insane 3 days, 3hrs 47mins by Eoin Keith from Cork. Photo below of me at from Malin Head.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/malin1.jpeg">
+</p>
 
 #### Preparation & Planning
 
@@ -42,6 +47,10 @@ I had seven days if I was to complete The Big Three in a month as planned. I als
 
 I had one waterproof pannier which held my spare clothes and toiletries. A waterproof handlebar bag held my phone, electronics and snacks. I packed some extra spares and patches for the bike just incase. And the weather was looking good so I had two water bottles, lots of electrolyte tabs and plenty of suncream. I wore padded bike shorts under normal clothes because I didn't expect to go very fast, and I didn't want to look goofy wearing tight cycling kit in towns and shops.
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin2.webp">
+</p>
+
 #### Day 0 - Getting to Malin Head
 
 The bike started its journey first. My uncle Timmy had a wedding in Derry a few weeks beforehand. He drove the bike up for me, leaving it in a garage that I'd be able to access.
@@ -52,6 +61,10 @@ It was a 55km cycle north to my B&B. Fairly hilly, and made much tougher by how 
 
 After a shower and a cup of tea, I laid out my things for the morning. I'd been caught in the start of a bad rainstorm which raged all night. From my window I watched the road to Malin Head become increasingly grey and wet. As the wind howled I went over and back on my plan for the morning.
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin3.webp">
+</p>
+
 #### Day 1 - Malin Head to Bundoran (159km)
 
 After a wet and windy climb, I was alone at the top of Ireland at 7:30am. I've good memories of camping here in the past. Sunsets over my favourite sea cliffs and sunrises over the Éire 80 marking. I read plaques from similar trips which I'd never noticed on the castle before. I'd also never noticed the painted start line on the ground, where I sat imagining how far away the finish was. This moment was such a distant thought when I began the Shannon an eternity ago. It was surreal to really be here. I set off, downhill back to the B&B, where I dried off and had some breakfast. 
@@ -61,6 +74,10 @@ I hit the road properly at 9:00am, leaving the storm behind me an hour later. Cy
 It was a battle to reach Letterkenny, Ballybofey and Donegal town. A B&B here would have been worth if I'd known how strong the sun and wind would be, but the Bundoran hostel was booked so I pushed on. Lots of music got me to Ballyshannon and finally rolling into Bundoran at 10:00pm!
 
 I couldn't believe how hard this day was. Stunningly beautiful, but I was left at a standstill by the wind at times. I like frontloading trips, starting with harder efforts to grant shorter days later. Every day from here would be shorter, but the wind scared me. I got a late dinner in the town and fell asleep shortly after.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/malin4.webp">
+</p>
 
 #### Day 2 - Bundoran to Castlebar (122km)
 
@@ -74,6 +91,10 @@ I had booked a hostel in Westport, but it would be 9:30pm when I got there at th
 
 The B&B owner was amazing. Her son is a cyclist so she had me bring in the bike, insisted on washing my cycling clothes, and dishwashing my bottles so I wouldn't get sick. A shower brought me back to life and I treated myself to dinner at an Indian restaurant and some ice cream. I walked around the town trying to focus on the good, and to pull myself out of the slump I was in. I made a slight change to tomorrows route that avoided Westport, and I ultimately realigned myself with why I was here. The wind howled on through the night but I felt infinitely better going to sleep.
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin5.webp">
+</p>
+
 #### Day 3 - Castlebar to Galway (76km)
 
 The B&B really was amazing. My washed clothes were outside my room when I woke up and the breakfast was incredible. I had a nice chat with the owner and two other guests before setting off into the sun at 9:00am again.
@@ -82,13 +103,21 @@ Time for the hard efforts to pay off, finally I could enjoy a shorter day. I pus
 
 I checked in, met some nice people there and had a beer by the Spanish arches, where a tightrope show was on. Niall Crosbie came in to meet me later and we got dinner and drinks together. I was over halfway in the cycle and my mood showed it. Every single muscle in my body ached when I went to sleep that night but I knew there was no stopping me now.
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin6.webp">
+</p>
+
 #### Day 4 - Galway to Quilty (92km)
 
 I set off an hour earlier at 8:00am today. The busy roads of Galway calmed as I approached Oranmore. From here I followed the Wild Atlantic Way which had great views of the ocean. In Kilcolgan, I headed west towards Clare, stopping in Kinvarra to see the castle and the farmers market. There was live music and great pancakes in the market, making for a perfect second breakfast. Not long after I crossed into Clare and the Burren.
 
 I'd been looking forward to this. Fun, winding roads with a great surface and almost no cars. The bushes on either side even helped to block the wind. I always love seeing Mullaghmore and met a really kind woman when I stopped at Father Ted's house. Other highlights included a cool lizard, loads of donkeys and getting to see the Only Fools & Horses car in Corrofin up close, rather than driving past it as usual.
 
-No hostels were open so I'd booked a nice B&B in Quilty. Being only an hour from Limerick meant Katie was able to come up and join me for the night. We got dinner in Milltown Malbay and spent the evening exploring the beaches. 
+No hostels were open so I'd booked a nice B&B in Quilty. Being only an hour from Limerick meant Katie was able to come up and join me for the night. We got dinner in Milltown Malbay and spent the evening exploring the beaches.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/malin7.webp">
+</p>
 
 #### Day 5 - Quilty to Killarney (107km)
 
@@ -104,6 +133,10 @@ Fighting my way over rolling hills, I got to see the McGillycuddy Reeks emerging
 
 After a shower and a pizza I went for a walk in the national park. I found myself sitting at the spot where my family and friends had supported me for the Ironman in 2021. I've been reliving years of memories throughout this trip and this one in particular was special. Deer roamed the fields below and the sun set over Carrauntoohil. I had drinks with two guys from the hostel that night and got some rest for what was planned to be my last day. More on that below.
 
+<p align="center" width="100%">
+    <img width="500" src="/images/malin8.webp">
+</p>
+
 #### Day 6 - Killarney to Bantry (68km)
 
 Today was originally to be a 115km day to finish it out. However, the weather was incredible and I felt I'd earned my shorter, more enjoyable days, so I split it. A new B&B was booked in Bantry and I was on the road at 9:00am as usual. Heading out the beautiful road which crosses the Flesk river.
@@ -111,6 +144,10 @@ Today was originally to be a 115km day to finish it out. However, the weather wa
 After another overly indulgent snack break, I found myself surrounded by huge cliff faces and mountains. Joining back to the main road I crossed the Roughty river and eventually reached Kilgarvan for an ice cream, (it was very hot today). A sheep tried to run with me as I passed the Slaheny river, and came to the tunnel this road is famous for. It had been a tough climb up to here, but the road and views were spectacular. Likely the most scenic of the whole trip.
 
 The tough climb continued up and over Borlin Pass. Reaching the top had me entering Cork, which meant I was on the home straight. Unfortunately, it also meant the roads got instantly worse. The downhill couldn't be fully enjoyed due to gravel and potholes, but I barely pedalled all the way to the ocean. Rolling into Bantry Bay, I checked into my B&B around 4:00pm. This gave me loads of time to enjoy a dinner and evening in town, while still getting a good rest. I was indescribably excited for the next morning.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/malin9.webp">
+</p>
 
 #### Day 7 - Bantry to Mizen Head (47km)
 
@@ -121,6 +158,10 @@ I could feel all the aches and pains of the month at once. As if every fibre of 
 I had an hour before my Mum collected me, time I was glad to have. I sat by the cliffs with my thoughts and an ice cream. I met a big group of cyclists who were about to setoff for Malin Head and wished them luck. I can say with confidence they chose the correct direction given the wind. 
 
 On the drive home I felt a deep appreciation for the journey and the beauty on my doorstep. Fulfilled in every way after doing what I thought might be impossible. The next year is going to challenge me in every way, but in this moment it all felt a little less daunting.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/malin10.webp">
+</p>
 
 #### Afterthoughts
 

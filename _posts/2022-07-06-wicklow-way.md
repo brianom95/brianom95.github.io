@@ -14,7 +14,7 @@ In June 2022, I left my job for a year of full-time travel. Before flying away I
 Kayaking Ireland’s Longest River - 250km
 
 **[The Wicklow Way](wicklow-way)**  
-Hiking Ireland’s Oldest Trail - 132km
+Hiking Ireland’s Oldest Trail - 130km
 
 **[Malin to Mizen](malin-to-mizen)**  
 Cycling Ireland's Most Famous Route - 672km
@@ -35,7 +35,7 @@ As head of the National Trails Committee, he negotiated rights of way with land-
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow2.webp">
-</p
+</p>
 
 #### The Wicklow Way
 
@@ -49,7 +49,7 @@ Maps generally divide the route into seven sections. In 2018, Siobhán O'Donovan
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow3.jpeg">
-</p
+</p>
 
 #### Preparation & Planning
 
@@ -59,7 +59,7 @@ I'd recommend to hike northbound. This saves the best sections for last, provide
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow4.webp">
-</p
+</p>
 
 #### Day 1 - Clonegal to Tinahely (26km)
 
@@ -71,7 +71,7 @@ When I passed the Dying Cow pub, I was ready to setup camp. It looked to be road
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow5.webp">
-</p
+</p>
 
 #### Day 2 - Tinahely to Mucklagh Hut (27km)
 
@@ -83,7 +83,7 @@ After a hilly day, I arrived at Mucklagh hut. My legs were wrecked and I was del
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow6.webp">
-</p
+</p>
 
 #### Day 3 - Mucklagh Hut to Brushers Gap Hut (36km)
 
@@ -97,7 +97,7 @@ On the short hike out of Laragh I saw four deer. Tight trails became beautiful, 
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow7.webp">
-</p
+</p>
 
 #### Day 4 - Brushers Gap Hut to Glencullen (33km)
 
@@ -113,7 +113,7 @@ I had planned to camp around here but pushed on so my final day would be shorter
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow8.webp">
-</p
+</p>
 
 #### Day 5 - Glencullen to Marlay Park (15km)
 
@@ -127,7 +127,7 @@ I had gotten a text during the week to confirm that my bike was waiting for me i
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow9.webp">
-</p
+</p>
 
 #### Afterthoughts
 
@@ -144,5 +144,5 @@ Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
 #### What I Carried
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow10.webp">
-</p
+</p>
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/1z03k7)

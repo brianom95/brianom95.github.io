@@ -146,3 +146,6 @@ Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
     <img width="400" src="/images/wicklow10.jpeg">
 </p>
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/1z03k7)
+
+#### Trip Video
+TBC

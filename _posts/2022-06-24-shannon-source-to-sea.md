@@ -93,7 +93,7 @@ Finally I saw an island too good to pass up and setup camp there. Definitely the
 
 #### Day 3 - Lough Ree to Shannonbridge (49km)
 
-This day was characterised by endless lakes, starting with the rest of Lough Ree which passed without issue. The morning was gloomy and overcast, but relatively still. I was able to make long crossings and exit the lake with a minimum of unnecessary distance. I was feeling the low water levels with no real flow in the river, but I put the head down through the headwinds regardless. I was excited for Athlone weir which is usually a fun slide but today was another annoying portage.
+This day felt like endless lakes, starting with the rest of Lough Ree which passed without issue. The morning was gloomy and overcast, but relatively still. I was able to make long crossings and exit the lake with a minimum of unnecessary distance. I was feeling the low water levels with no real flow in the river, but I put the head down through the headwinds regardless. I was excited for Athlone weir which is usually a fun slide but today was another annoying portage.
 
 Passing Clonmacnoise I had a mishap where an open hatch filled with water. Luckily the lids are tied on but it was a nuisance to say the least. I had trouble lighting a wet stove that night and some food got wet. Lesson learned to double check they're sealed! 
 
@@ -109,11 +109,11 @@ Nice sections of river today brought cool trees, lots of curious cows and the fi
 
 Headwinds made this another 10hr day with essentially no breaks. I had a lot of aches and pains, particularly in my lower back, as well as over ten blisters on my hands. The river widened a lot so I was tactical with my cornering. Or at least I was whenever overly aggressive swans didn't force me out wide!
 
-I was filtering water directly from the river but suspect by now I hadn't been drinking enough (getting out to pee was very inconvenient). I did eat plenty, but this day required lots of music and podcasts to grind through. It was a beautiful moment when I reached Portumna and entered Lough Derg; Ireland's 2nd biggest lake. Gloomy and overcast again, but thankfully calm.
+I was filtering water directly from the river but suspect by now I hadn't been drinking enough (getting out to pee was very inconvenient). I did eat plenty, but this day required lots of music and podcasts to grind through. It was a beautiful moment when I reached Portumna and entered Lough Derg; Ireland's 2nd largest lake. Gloomy and overcast again, but thankfully calm.
 
 I kept crossings short, jumping between the cover of headlands and islands. The longest crossing was an unavoidable 6km stretch. As I approached it there was a strong headwind so I estimated 1hr 20mins. Skies had cleared a little with sun poking through so it looked perfect to tackle it. 
 
-You're never more alone than during these long crossings. As I approached halfway across it I thought someone had it out for me. The skies darkened to near pitch black, the wind picked up and torrential rain pelted me. Then a bright flash.
+You're never more alone than during these long crossings. As I approached halfway across I thought someone had it out for me. The skies darkened to near pitch black, the wind picked up and torrential rain pelted me. Then a flash.
 
 An otherwise flat lake, just me and the two meter conductive paddle in my hands. I counted 21 seconds before the thunder banged. The next only 15 seconds. The third struck just west of the lake. The sky was rumbling and taunting. I kept myself and the paddle as low as possible for the toughest effort of the trip. After several more stressful flashes of lightning, the storm finally moved away. 
 
@@ -127,7 +127,7 @@ When I eventually reached the bank it wasn't necessary to get off the water anym
 
 I woke to an eerily calm lake. Complete silence and no ripples from any distant boats. It was still overcast so I did the last of my long crossings quickly. It was a slog. Killaloe was waking up as I celebrated ticking off the last lake, and the sun even came out. Parteen Weir in the distance marked the next phase and through the headwinds I eventually got there.
 
-The gate on Parteen Weir was broken. After 30 minutes of ESB staff 'fixing it', I just climbed around. Last time this portage took an hour with multiple people, slings and ropes. I had really hoped to avoid this but put a sling around my shoulder, dragged the boat and got it done in half the time. Around the weir, back into the headrace, over the middle bank and back into the Shannon. With the worst and final portage done I was truly on the home stretch.
+The gate on Parteen Weir was broken. After 30 minutes of ESB staff 'fixing it', I just climbed around. Last time this portage took an hour with multiple people, slings and ropes. I had really hoped to avoid doing this alone but put a sling around my shoulder, dragged the boat and got it done in half the time. Around the weir, back into the headrace, over the middle bank and back into the Shannon. With the worst and final portage done I was truly on the home stretch.
 
 The sun was blazing at this stage. I met morning swimmers and kayakers in O'Briensbridge. Passed my old Ironman training ground in Warrell's End. My helmet went on for a low but fun lap of my local rapids in Castleconnell. This in particular was great, the novelty of a sea kayak on the rapids, combined with finally feeling like I was home!
 
@@ -135,7 +135,7 @@ Through the University of Limerick, stressfully past an army of swans at Corball
 
 It was high tide so Gower was deep underwater, but I stopped for a while by the castle. A boat covered in Limerick flags was conveniently placed for a celebratory photo. I paddled slowly through the bridges to the end of the city. Lifting the boat up a slipway for the last time, I couldn't wait for my back to get some relief.
 
-A group of women were celebrating a retirement there and gave me a slice of cake on hearing what I had done. It was overwhelming to sit in the sun and think about how much had happened this week. Relive the highs and lows, feeling proud of somehow making it, and knowing I didn't have to paddle tomorrow. 
+A group of women were celebrating a retirement and gave me a slice of cake on hearing what I had done. It was overwhelming to sit in the sun and think about how much had happened this week. Relive the highs and lows, feeling proud of somehow making it, and knowing I didn't have to paddle tomorrow. 
 
 250km in 96hrs
 
@@ -149,11 +149,11 @@ A big storm swept over Ireland the day after I finished. I'm so thankful I kept 
 
 The Shannon is uniquely suited to trips like this. Lots of towns along the way to resupply, toilets & showers in the most random of places and an abundance of islands to camp on. At times it feels more like France, bringing you through some beautiful countryside. I've done shorter weekend trips before and these are a great option to any paddler.
 
-I was happy with the type and quantity of food I brought. All my usual gear worked great with the MVP being the Katadyn BeFree water filter and my bug net. My most important things were in a Watershed DryBag, but better drybags for the rest of my kit would have been handy. I wore a drysuit for the week which was hot at times but in the event of a swim I didn't want to risk being underprepared. 
+I was happy with the type and quantity of food I brought. All my usual gear worked great with the MVP being the Katadyn BeFree water filter and my bug net. My most important things were in a watershed drybag, but better drybags for the rest of my kit would have been handy. I wore a drysuit for the week which was hot at times but in the event of a swim I didn't want to risk being underprepared. 
 
-The prevailing wind in Ireland is up the country from the south west. This is a killer and most days it halved my pace from what I'd planned. Paired with low flow in the river, this felt like a treadmill at times. Source to sea is such an established idea that I wouldn't have changed anything, but if only I had a cycle coming up which could benefit from this hard earned knowledge...
+The prevailing wind in Ireland is up the country from the south west. This is a killer and most days it halved my pace from what I'd planned. Pairing that with low flow in the river made it feel like a treadmill at times. Source to sea is such an established idea that I wouldn't have changed anything, but if only I had a cycle coming up which could benefit from this hard earned knowledge...
 
-Finally, I'd struggle to list all the memories this trip evoked. In a way I'd expected this, but underestimated just how profound they would be. For the past decade my life has revolved around this river. The whole trip felt spiritually significant and called me for a time. Having just moved out of Limerick it was a fitting goodbye to end the journey there. My path is uncertain so it was a privilege to have this send-off to what's become my home.
+Finally, I'd struggle to list all the memories this trip evoked. In a way I'd expected this, but underestimated just how profound they would be. For the past decade my life has revolved around this river. The whole trip felt spiritually significant and called me for a long time. Having now just moved out of Limerick it was a fitting goodbye to end the journey there. My path is uncertain so it was a privilege to have this send-off to what's become my home.
 
 Sitting by the bank with my cake I was aware that this is a huge bucket list item for me and many other kayakers. A massive achievement worth celebrating, and I would, but my mind was drawn to the future. Both excited and nervous of my prevailing thought: 'One Down..'
 

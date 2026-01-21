@@ -205,7 +205,7 @@ image:  '/images/bucket0.jpeg'
 7. Devizes to Westminster, UK
 8. [<mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>](shannon-source-to-sea)
 9. <mark style="background-color: limegreen">Kayak on all 7 Continents</mark>
-10. <mark style="background-color: limegreen">[Land an Airscrew](https://youtu.be/3CPIpQOSNLA?si=Ahj1dcmM9UMwqLbM&start=29)</mark>
+10. [<mark style="background-color: limegreen">Land an Airscrew</mark>](https://youtu.be/3CPIpQOSNLA?si=Ahj1dcmM9UMwqLbM&start=29)
 
 ---
 

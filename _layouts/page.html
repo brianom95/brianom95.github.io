@@ -19,7 +19,7 @@ layout: default
       {% else page.id or page.path contains '_pages' or page.url contains '404' %}
 
       {%if page.image %}
-      <div class="col col-12">
+      <div class="col col-6">
         <div class="page-image">
           <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
         </div>

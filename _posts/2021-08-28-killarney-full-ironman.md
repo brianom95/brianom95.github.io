@@ -46,7 +46,7 @@ I knew anything like this is better shared, but this was a level of craziness be
 Swimming was my weakest area and made me most nervous. The pools were closed throughout so I only swam in open water. The early days were horrific, with thermals, wetsuit, neoprene hood, gloves and booties still not enough. An Orca swimming wetsuit I invested in made me slower with less buoyancy, but now I looked the part. As the weather got better, so did I. We had a lot of nice sunny days in the Shannon river, swimming with friends over the summer. My pace was always slow, but Ironman swimming is inefficient anyway. It relies mainly on arms to save the legs for what's to come. Slow was fine once you made the cutoff and felt okay starting onto the bike. I think the early icy days had me ready for anything.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hardman3.webp">
+    <img width="300" src="/images/hardman3.webp">
 </p>
 
 Cycling like this was new to me, but it got easier when I bought a used racer online. My muscles (back especially) took a while to adjust to the lower position, but the benefit was obvious. Long cycles in the rain and hail were awful but again as the weather got better so did I. The milestones flew by, cycling my first of many 50km and 100km routes. I fitted aerobars and clipped in shoes which terrified me, but could never go without now. I realised I basically hadn't known how to cycle and went back to basics on core strength, cadence and revolutions (it's all in the book). This made a massive difference, and slowly my confidence built up. The first time I hit a bump in my aerobars my life flashed before my eyes. Now I'll do a speedbump in them on a windy day, which is more impressive than it sounds! One goal was to not have a bike crash which thank God was successful. With punctures I was less lucky but with some help from Jamie I learned all the bike maintenance I needed.
@@ -162,13 +162,13 @@ The supporters were a huge motivation and source of energy, cheering all evening
 As the laps went on it was an internal battle. I'd start to walk and have to confront myself about it. My muscles were fine, legs and feet were good, I wasn't even out of breath. I'd give myself a mental nudge and take off running again. Rinse and repeat. Most people followed that format and I heard a guy who'd finished top five cheering: 'run, walk, run... whatever it takes, just keep moving'.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hardman21.jpeg">
+    <img width="300" src="/images/hardman21.jpeg">
 </p>
 
 Whatever was in the air dragged me forward and every lap as I passed the finish line I'd dream of my turn. It became routine towards the end. I'd have some flat coke twice per lap, a jelly at another point, visit my tree at another and all the while give out to myself when I'd walk. It was always amazing to see my crew on top of the hill, even though I was most shattered here.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hardman9.webp">
+    <img width="300" src="/images/hardman9.webp">
 </p>
 
 As I started lap 10, Jamie veered off to the finish and I heard his name announced. It was getting dark but I knew every crack in the path by now. When I got to the hill, my supporters were gone to wait at the finish, but my Dad and Seán had waited. I was dead at this point, but didn't stop as we ran the last kilometre together. Under a pitch black sky, the end got louder and closer. Turning the last bend my body was completely overwhelmed, it had no idea what had happened to it today. I heard the speakers call my name as I approached and ran through the finish line.

@@ -38,10 +38,6 @@ The 5km run was one circular lap taking you past the Johnson & Johnson windmill.
 
 Stephen Watkins was back now, to where Trish Flynn had set up the finish line for me. A 3 today banner we all ran through, and a table with goodie bags for each person. We'd a nice crowd of spectators to cheer everyone on and it was great to see how much everyone had enjoyed it. I'd charged €5 for entry which got loads of snacks and drinks, and it was lovely and sunny at this point.
 
-<p align="center" width="100%">
-    <img width="400" src="/images/compostella5.webp">
-</p>
-
 I gave everyone the medals that Trish and I had painted the night before, with Gold for Jamie and Anna who won. I gave thank you gifts to Stephen, Trish & Gavin for their help and thanked everyone for coming. I got great feedback from everyone and suspect it won't be my last time organising such an event.
 
 <p align="center" width="100%">

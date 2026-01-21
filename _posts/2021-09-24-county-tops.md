@@ -268,6 +268,8 @@ Brian
     <img width="500" src="/images/ctops30.webp">
 </p>
 
+<img src="/images/ctops30.webp">
+
 #### Strava Links
 1. [Mweelrea, Mayo](https://strava.app.link/3lZi1c9j7Zb)
 2. [Benbaun, Galway](https://strava.app.link/cCtHxOek7Zb)

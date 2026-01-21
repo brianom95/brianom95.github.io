@@ -15,7 +15,9 @@ The event tests communication, physical endurance and teamwork during immersion 
 
 Upon reaching basecamp, teams undergo interviews which question all their decisions from the trip while work is reviewed. At a final award ceremony, those who hiked the full 200km receive a certificate. Completing all requirements earns the event badge, and exceeding all expectations earns the coveted explorer belt, for which the event is named. Since 1980, this subtle belt has been a revered symbol of achievement within Scouting.
 
-![]({{site.baseurl}}/images/belt1.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt1.webp">
+</p>
 
 #### The Venturer Challenge
 My journey began with the Challenge, a sibling event for Venturer Scouts aged 15 to 17. Based only in Ireland, teams cover at least 100km over 5 days with all the same format, projects and award structure. The highest award is a pewter woggle, worn with pride as this in itself is no easy feat.
@@ -36,7 +38,9 @@ Looking back, I couldn't be happier with how every aspect of the trip went. Afte
 
 Eoin was an amazing team mate and we chatted and sang non stop for the whole trip. We never argued and were closer after then we ever were before. It was a great decision to do this with him, and his unbreakable positivity is what made it so fun. 
 
-![]({{site.baseurl}}/images/belt2.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt2.webp">
+</p>
 
 #### Belt Preparations
 As the only 17 year old on the Venturer Challenge, I was alone in looking to next years Explorer Belt. Unfortunately Eoin wouldn't be 18 yet, but I wanted to go while I was motivated. Eoin's older brother Adam was a good friend who also did the Challenge a year before me, so we decided to take it on together. We were amongst the youngest to signup but knew we were ready.
@@ -49,7 +53,9 @@ We fine tuned our gear and went truly ultralight. Bags are usually 10-12kg, with
 
 We'd been told it would be Slovakia or Hungary, so we made notes and learned common phrases like asking to stay in a garden or finding water. The two day training weekend was great fun, and a fantastic opportunity to see where we were at. We'd no issues and before long we found ourselves at the airport. This was it.
 
-![]({{site.baseurl}}/images/belt3.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt3.webp">
+</p>
 
 #### Day 1 - Plešivec to Tornal'a
 The start was a blur. Our surprise flights were to a remote airport via Heathrow. Driven in a bus we anxiously awaited being dropped off, watching daylight fade with no idea where we were. At a small unmarked bus shelter our team number was called and off we went.
@@ -60,7 +66,9 @@ The bus shelter had no hints so I ran 500m and I found a sign; Plešivec. Not ob
 
 After 10km we reached Tornal'a, and it was already getting late. We had a funny interaction asking a woman about sleeping in her garden. In Slovak; Yes is Áno, shortened to 'No'. Very confusing when she's smiling and opening the gate for us repeating no no no. Not a word of English (like most people we met), but was very welcoming and gave us some flavoured tea. That night was madness trying to buy food, start the workload and get a good nights sleep with very limited time, but we did what we could.
 
-![]({{site.baseurl}}/images/belt4.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt4.webp">
+</p>
 
 #### Day 2 - Tornal'a to Martinová
 We chose a route that was roughly half and half in each country. Starting south towards the border, we'd move to smaller rural roads heading west until the next main border crossing. We set off early and the smaller roads had a very different feel. The first town we walked through didn't feel very safe, with lots of barbed wire and unwelcoming looks. Every house has a guard dog and they all went crazy as we approached. A big concrete prison in the town centre and a statue of a man with an AK-47 had us happy to leave.
@@ -69,7 +77,9 @@ It was the next town we were to stay. Much smaller with maybe twenty houses but 
 
 One of the fun projects was to cook a local meal. They didn't speak English but after a game of charades we found ourselves around a campfire cooking Szalonna with our hosts. Essentially fatty pork and an onion that you roast on a stick, putting the drippings onto a slice of bread. It took atleast an hour to cook and although we couldn't understand a word we said to one another, it was a lovely time spent with them. That night we got intense rains and the tent swayed in the wind, we prayed that wouldn't continue.
 
-![]({{site.baseurl}}/images/belt5.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt5.webp">
+</p>
 
 #### Day 3 - Martinová to Ožďany
 We decided to only sleep along the main road after yesterdays towns. Walk the back roads but don't sleep there. It had been hot all along, but went over 40 degrees today. No amount of water was enough and 5km short of our goal we were shattered and headed for a row of houses. 
@@ -78,7 +88,9 @@ The first few looked run down and dodgy. We tried one with a beautiful garden an
 
 Todays lesson was don't judge a book by its cover. The farmers daughter came down to get us and back at the house we were given tea and snacks with the whole family. Not a word of English between them but a lovely gesture. Fifteen deadbolts on the thick door looked like a vault and you'd have never guessed how beautiful the interior was from outside. That night the same daughter dropped us down a 2L coke bottle of fresh milk, still warm. We were a little slow to drink it, but it was a nice change to the water.
 
-![]({{site.baseurl}}/images/belt6.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt6.webp">
+</p>
 
 #### Day 4 - Ožďany to Radzovce
 The heat had now dictated an unsociable schedule. From now on we got up at 4:00am, walking by 5:30am latest. We preferred to not stop until the walk was over as this is easier on the feet. Being done the walk well before midday was always a nice mental treat too. 
@@ -89,7 +101,9 @@ We were behind on logs and projects at this point as there simply weren't enough
 
 What a night. He got his daughter and her husband to call over because they spoke English. We were still in Slovakia but they were Hungarian and taught us some phrases and pronunciations for over the border. Massive barbeque, a few beers, tonnes of great information for our projects. This was such a good night!
 
-![]({{site.baseurl}}/images/belt7.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt7.webp">
+</p>
 
 #### Day 5 - Radzovce to Kisterenye
 Bright and early we crossed the border into Hungary. Through the awfully busy city of Salgotarjan, which we were glad to leave, and along some stunning countryside roads. We'd been disciplined today and finished our walk in Kisterenye at 9:30am. 
@@ -102,7 +116,9 @@ With English it was easy to explain ourselves and they'd no problem with us stay
 
 That night we got our first and only shower of the trip. A black barrel full of rainwater at the end of the garden, heated by the sun and fitted with a tap. We waited until it was pitch black to use this but it was good to feel clean again.
 
-![]({{site.baseurl}}/images/belt8.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt8.webp">
+</p>
 
 #### Day 6 - Kisterenye to Jobbágyi
 There had to be bad days and this was it! During our walk a man stopped us who'd been cutting hedges and tried to steal Adam's watch that was on his shoulder strap. We pushed him off and he took Adam's sunglasses instead. We walked away and he didn't come after us, but there was a machete on the ground that he'd been cutting with so it was nerve wracking. 
@@ -111,7 +127,9 @@ The town we were to stay at was weird. First guy we met led us to what was eithe
 
 On route two young teenage boys on their bikes started following us and made us uneasy. A nice man agreed to let us stay but insisted on the front garden. With the two boys watching us over the low wall we used charades to get the back garden, hoping it was enclosed. It was not. There was a low fence to a playground where the two boys sat on swings watching us until it was pitch black. Adam didn't really sleep that night and bright and early we were gone. Not a great day.
 
-![]({{site.baseurl}}/images/belt9.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt9.webp">
+</p>
 
 #### Day 7 - Jobbágyi to Gyöngyössolymos
 Mostly laughing off yesterdays troubles, we felt good. How could it get worse! The walk went fine and some writeups in town the same. At 4:00pm we looked for a place to stay. Our rates had been okay so far, usually with 30mins max to find a place. Not today. 
@@ -120,7 +138,9 @@ Twenty houses and two hours later no one would take us. Beaten from rejection an
 
 I dropped my bag and helped Adam over. I set up the tent, we cooked dinner and had Adam sitting with the ankle raised, iced and bandaged. We managed the swelling and relaxed in the sun. That night we moved gear so I took more weight and we crossed our fingers going to sleep.
 
-![]({{site.baseurl}}/images/belt10.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt10.webp">
+</p>
 
 #### Day 8 - Gyöngyössolymos to Detk
 Success, he could walk on it. By the end of this day I felt like I was doing damage to my own joints with the weight, but we managed 20km. The roads were beautiful and we passed a castle and a small zoo.
@@ -142,25 +162,33 @@ First house didn't answer (even though they were there). Second house said yes i
 
 This was a busy night and once again I fell asleep onto the books with my head torch still on. Definitely sleep deprived but I managed to clear it all. Just a short summary to do tomorrow, but all projects and logbook entries done. Adam was mostly the same too.
 
-![]({{site.baseurl}}/images/belt12.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt12.webp">
+</p>
 
 #### Day 10 - Verpelét to Eger
 The last early start and a cheerful walk brought us to Eger, clocking a total of 222.5km. There was a one hour window for finishing and we joined all the teams at picnic benches close by. Quick write ups and we used some of our remaining money to get ice creams and relaxed in the sun. It was surreal to walk into base camp after preparing so long for this journey. All anxieties of injuries and issues gone. Tired, sun burnt, stinky and delighted.
 
-![]({{site.baseurl}}/images/belt13.webp)
+<p align="center" width="100%">
+    <img width="300" src="/images/belt13.webp">
+</p>
 
 #### Base Camp
 Showers, food, beers and messy celebrations. We had great fun exploring the town with everyone for a few days. Mountain trails, nice food and the Eger Wine Festival which was €2 for a glass and free wine then! Understandably another messy night.
 
 All in all the few days were great. Nothing too crazy, but nice to relax with the other teams that we were now so bonded with. It was a well deserved rest for us all and lots of fun stories were made as the blisters healed.
 
-![]({{site.baseurl}}/images/belt14.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt14.webp">
+</p>
 
 In this time, work was reviewed and we had three interviews over two days. Ours were relatively relaxed as we had everything done by the book. There was stress and tears elsewhere which was tough to see, but our late nights had paid off at least. All of a sudden the famous final dinner approached.
 
 It was a nice moment getting ready as there's a lot of pride in the uniforms. For Adam and I it's a strong reminder of all that's been done for us in our Fermoy group. Adrian and Trish in particular have been mentors to us for years and helped shape us into the adults we are. Their guidance was everything in what we've achieved and we’re both so grateful to have met them.
 
-![]({{site.baseurl}}/images/belt15.webp)
+<p align="center" width="100%">
+    <img width="300" src="/images/belt15.webp">
+</p>
 
 We were all confused when we were led past the campsite dining area and up the mountain trails. We'd explored these and there's certainly no restaurants up there. On a small side trail we veered off and were led to a small cave. All standing inside there were candles and a small vigil was said for a previous Chief Scout of Ireland who had died that week. Following this a door opened revealing a long narrow hallway, leading you deep into the cave.
 
@@ -172,7 +200,9 @@ After dinner a presentation on the dark wall ran through photos of each team. St
 
 Team 6. Adam and Brian are awarded the certificate..... badge..... and belt. Congratulations!
 
-![]({{site.baseurl}}/images/belt16.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt16.webp">
+</p>
 
 A beautiful moment that I'll never forget. It's awful when the gap never ends for some. It transitions to clapping and they collect the badges bittersweetly. After the ceremony the belts go straight into your bag out of respect for those few. That night was fairly relaxed and the next morning we packed up everything to leave.
 
@@ -180,7 +210,9 @@ To end the trip we all had a day and night in Budapest. Exploring the city was a
 
 After grabbing our bags we put on our uniforms and the belts for the final photo. Once everyone was ready we walked through the last gate to arrivals where all our families were waiting! It was amazing and took me completely by surprise. We took our last photo's, said our goodbyes and it was a great end to a life changing trip.
 
-![]({{site.baseurl}}/images/belt17.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt17.webp">
+</p>
 
 #### Afterthoughts
 The Explorer Belt is an intimate and enriching cultural immersion experience, disguised as an endurance race. In reality, the challenges are as much social as physical. Sharing every second with another person, approaching strangers and dealing with language barriers. Balancing self sufficiency with an ability to ask for and receive help. Putting faith in the inherent kindness of others and being mindful of every interaction that guides your steps. The shiny belt is what catches the eye, but there's a deeper meaning to this event.
@@ -191,7 +223,9 @@ The experience would never have been what it was without Adam. He was by my side
 
 Adam and I have gone on to do some incredible things in our lives. We often reminisce on memories from this trip and have no doubt it shaped us. As I write this in 2022, Adam is now married to Ciara who he met as she earned her Belt the same year. They're not alone in this with two others now married after the same circumstances from our year. Even with completely unique trips, the bond we all share has stood the test of time.
 
-![]({{site.baseurl}}/images/belt18.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt18.webp">
+</p>
 
 #### Thinking About It?
 Everyone knows the basics. The format, the distance and the requirements. What no one knows is what unique stories will define your Belt. Who will you meet? What mistakes will you make? How will the experiences change you? What friends will go on to affect your life? What crazy idea will seem more achievable for having done this?
@@ -200,8 +234,9 @@ Caolan is a friend who attempted the Belt the year before us. Injury ended the t
 
 If anyone is considering this trip, I'd say just sign up. There are important factors like partner selection and adequate training, but anyone willing to put in the work will be rewarded. Be kind, be open minded and be prepared. Both to succeed, and to be amazed. If anyone ever has any questions I'm always happy to lend a helping hand.
 
-Happy adventuring,
-
+Happy adventuring,  
 Brian
 
-![]({{site.baseurl}}/images/belt19.webp)
+<p align="center" width="100%">
+    <img width="400" src="/images/belt19.webp">
+</p>

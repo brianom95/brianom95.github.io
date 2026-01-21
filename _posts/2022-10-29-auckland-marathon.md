@@ -20,7 +20,7 @@ When I got to athlete check-in on Queens Wharf I was soaked to the bone. A man h
 
 It was a rough start having my porridge at 2:30am, listening to the winds raging outside. I left at 3:00am, clothed in a black plastic bag to keep some warmth in. Walking down the main street of Auckland I got looks from those who were huddled under shelter after their nights out. We'd been told to arrive early in case the ferries would be cancelled, and it was a very rough crossing.
 
-The ferry dropped us in Devonport, on the north side of the waitematā harbour. From there we would run what should be a beautiful 20km of coastline to cross the harbour bridge into Auckland centre, followed by an 11km out and back on the southern coast. It was still pitch black but I could see the flooded start line. Everyone hid inside the ferry port.
+The ferry dropped us in Devonport, on the north side of the Waitematā Harbour. From there we would run what should be a beautiful 20km of coastline to cross the harbour bridge into Auckland CBD, followed by an 11km out and back on the southern coast. It was still pitch black but I could see the flooded start line. Everyone hid inside the ferry port.
 
 I feel like people bonded over the bleak misery of it all. I watched others frantically search for body glide to ease the inevitable chafing. I cursed the cotton t-shirt I wore and all of us got some final water in as we mentally prepared for the storm. I sat with an Ironman on one side and a guy doing his first marathon on the other. Their nervousness was equal.
 
@@ -28,7 +28,7 @@ I feel like people bonded over the bleak misery of it all. I watched others fran
     <img width="400" src="/images/auckland1.jpeg">
 </p>
 
-I stood in ankle deep water at the start line and my clothes couldn't soak up any more rain. It felt apologetic as the organisers counted us down and we set off. Beginning what turned out to be a hilly route, where the 346m of elevation gain brought windy highs and less flooded slopes.
+I stood in ankle deep water at the start line and my clothes couldn't soak up any more rain. It sounded apologetic as the organisers counted us down and we set off. Beginning what turned out to be a hilly route, where the 346m of elevation gain brought windy highs and less flooded slopes.
 
 The initial rolling suburbia and windy beaches passed quickly. I ran with robotically rigid arms to limit chafing and actually enjoyed the cold wind and rain as I warmed up. I watched big waves crashing on the coast and saw the silhouettes of swaying palm trees begin to catch the morning light. At our northernmost point we turned onto a huge highway and headed south for the city hidden in fog.
 
@@ -36,7 +36,7 @@ The initial rolling suburbia and windy beaches passed quickly. I ran with roboti
     <img width="400" src="/images/auckland2.webp">
 </p>
 
-At the 15km mark, I heard the beating of an approaching tunnel. Inside, a group of Māori drummers shook the whole road with their music. I felt the beats vibrating deep in my chest as the tunnel curved right. The exit revealed a previously hidden harbour bridge, with the feint skyline of Auckland behind. Running out of this tunnel to the deafening energy of the drums was the most memorable moment of the race.
+At the 15km mark, I heard the beating of an approaching tunnel. Inside, a group of Māori drummers shook the whole road with their music. I felt the beats vibrating deep in my chest as the tunnel curved right. The exit revealed the previously hidden harbour bridge, with the feint skyline of Auckland behind. Running out of this tunnel to the deafening energy of the drums was the most memorable moment of the race.
 
 The bridge was so windy that I seemed to dry off quicker than rain could fall. At the other side we circled round to the huge pillars at its base, and headed out along the coast. I ate all I could at each aid station and I turned often to see the bridge beginning to emerge from the fog. At times the rain even eased to a light mist which everyone celebrated in unison.
 
@@ -52,7 +52,7 @@ When I reached the turning point it was like a new day. A calm that defied the f
     <img width="400" src="/images/auckland4.webp">
 </p>
 
-The finish was chaotic due to a kids run ending the same time. It was hard to get to the medals and impossible to get a photo, but I was filled with pride nonetheless. It had been such a rough start that normal 'bad weather' felt amazing by the end. I walked home with a constant smile on my face and celebrated that night with the same pizza from the night before. What a race!
+The finish was chaotic due to a kids run ending the same time. It was hard to get to the medals and impossible to get a photo, but I was filled with pride nonetheless. It had been such a rough start that normal 'bad weather' felt amazing by the end. I walked home with a constant smile on my face and celebrated that night with the same pizza as the night before. What a race!
 
 <p align="center" width="100%">
     <img width="300" src="/images/auckland5.webp">

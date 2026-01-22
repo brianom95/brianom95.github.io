@@ -31,7 +31,7 @@ I made it about twenty minutes before I started leaning on walls unable to suppo
 As I held the fence, the sun started to rise, and my body's circadian rhythm decided it was time to wake up. I didn't understand it at first but I was walking strong. I sang all the way to Warrell's End where I snapped the photo below, more and more energised as time went on. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hundredsteps3.webp">
+    <img width="400" src="/images/hundredsteps3.jpeg">
 </p>
 
 I hit 50,000 steps at exactly 40km. I picked up the pace knowing the sooner I get back, the sooner Seán would be out with me again. I managed to do what had been a 6hr loop in just 5hrs, including fence time! It was just gone 11:00am and my sore legs had walked 70,000 steps. It finally felt so achievable, and Seán was back and fresh.
@@ -39,13 +39,13 @@ I hit 50,000 steps at exactly 40km. I picked up the pace knowing the sooner I ge
 Disgracefully we went to Inver for my fourth time today (we ate a lot), and then wandered the river paths into Limerick City. At this sociable hour everything looks so nice. Solid chats, energetic people everywhere, and while Seán was petting some horses I thought this couldn't be farther from the depths of 6:00am that morning. Crossing a bridge on route to Corbally, I snapped a photo at 80,000 steps.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hundredsteps4.webp">
+    <img width="400" src="/images/hundredsteps4.jpeg">
 </p>
 
 The remainder flew by. My feet and legs ached and felt like I was one trip from ripping a muscle. Seán wasn't long behind those feelings either, but we'd no blisters which was amazing. We explored town and returned along the river path back towards my house. We'd planned it out and just as we entered my estate I approached 100,000. I walked the final few and snapped a screenshot when it hit at 5:47pm.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/hundredsteps5.webp">
+    <img width="400" src="/images/hundredsteps5.jpeg">
 </p>
 
 With Seán having just hit 75,000, the plan was to get showered and head to the pub, but as soon as we took this photo he changed his mind. Told me to send on the pubs address and he'd meet me there when it was done. 

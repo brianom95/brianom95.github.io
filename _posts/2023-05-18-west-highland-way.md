@@ -147,6 +147,7 @@ I was very lucky to have met and shared this experience with Eddy, Anna, Clara, 
 So that wraps up another great trip to Scotland. I flew home from Edinburgh, allowing me to meet up with Ben who I hadn't seen since we hiked the [Tour du Mont Blanc](tmb) last year. I also had a chance run in with Travis who I travelled alongside while [Backpacking New Zealand](backpacking-nz). The world was feeling so small, but the next challenge still seemed huge. In one week I'd be back in France, staring up at the white mountain that dominates the skyline of Chamonix. Preparing to take on the highest mountain in Western Europe; [Mont Blanc](mont-blanc).
 
 #### What I Carried
+
 <p align="center" width="100%">
     <img width="500" src="/images/westhigh11.webp">
 </p>

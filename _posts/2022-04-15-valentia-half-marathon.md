@@ -37,5 +37,5 @@ Seán had a great experience for his first race and already knew he wanted to si
 The rest of the weekend had a miserable (but great) climb up Carrauntuohill, a nicer climb up Galty Mór, an Easter Sunday dinner with my family, board games, movies, drinks and lots of time with friends. A long weekend doesn't get much better!
 
 <p align="center" width="100%">
-    <img width="400" src="/images/valhalf4.webp">
+    <img width="300" src="/images/valhalf4.webp">
 </p>

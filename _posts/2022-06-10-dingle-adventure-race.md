@@ -3,7 +3,7 @@ layout: post
 title:  Dingle Adventure Race
 description: Our most iconic mixed-sport event, through the water, roads and hills of the Dingle peninsula
 date:   2022-06-10 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/dinglear0.webp'
 tags:   [Adventure-Racing]
 ---
 This race has you kayak in Dingle harbour, cycle Slea Head and run up Mount Brandon; our 9th highest mountain. A highly regarded race, and for good reason.
@@ -12,17 +12,29 @@ I camped on a beach nearby the night before. I felt fresh at registration in the
 
 It was a brutal sprint with others having the same idea as us, but we pushed hard to stay ahead. 1km of road, followed by a narrow dirt track that became a rocky beach. We were first on the water and made up so much distance that the next people were only halfway around as we got out. A quick sprint over some slippery seaweed had us grabbing our bikes and hitting the road.
 
+<p align="center" width="100%">
+    <img width="300" src="/images/dinglear1.webp">
+</p>
+
 The Slea Head cycle is a beautiful 44km route. For ten minutes we led the pack before the fastest cyclists rocketed past us. From there we stuck together, kept the heads down through the wind and enjoyed the day. Past the beehive huts, the "Hold a Baby Lamb" sign and all the way out to the cross at the tip of the peninsula. The road was closed to cars so taking these narrow cliff roads at full speed was a great novelty.
 
 The return leg brought us past Dunquin Pier and through some fast downhills that I hadn't expected. Conor hadn't either as he took one turn too fast and ended up in the ditch, but no harm done and some laughs had. Eventually the fast roads were traded for narrow country ones which led up to a stormy Mount Brandon. We racked our bikes and set off running.
 
 I hadn't climbed Brandon this way before but really enjoyed the ascent. The route was a 15.5km run, up via stations of the cross to the top ridge, and down the opposite side. The weather was pretty rough as we approached the cross on top and I was glad I wore my thermal leggings. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/dinglear2.webp">
+</p>
+
 The ridge was tough with strong wind and slippery sections. I saw a few people fall so took a lot of care, but still gave myself a big fright when it happened to me. My head narrowly missed a wooden pole after sliding a few meters and I slowed down even more after. The descent was long awaited and beautiful, getting below the clouds and onto solid footing again. It dragged on a bit too long with lots more little climbs, but eventually we had rounded the mountain and saw the bikes.
 
 The final 9km cycle was more like a victory lap, feeling like you're done long before reaching the end. The bikes were racked in the same transition area and the last run had you approaching the music and crowds. It felt like life or death only an hour before so I was delighted to be enjoying my sprint finish now.
 
 4hrs 50mins 56s
+
+<p align="center" width="100%">
+    <img width="300" src="/images/dinglear3.webp">
+</p>
 
 Soup and beers at the finish line were well earned and the medals were worn with pride. All in all a great event that lived up to the hype. Between the ocean views, the rugged mountain and the atmosphere they create, this truly feels like an adventure. Great to have had Conor alongside for it too, and for us to finally put our kayaking skills to some use! Even if our early lead was short lived.
 

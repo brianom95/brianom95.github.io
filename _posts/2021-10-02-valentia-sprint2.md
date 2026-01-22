@@ -3,7 +3,7 @@ layout: post
 title:  Valentia Triathlon As An Ironman
 description: A return to Valentia for my favourite sprint triathlon, this time as an experienced triathlete
 date:   2021-10-02 12:00:0 +0000
-image:  '/images/valentia2-1.webp'
+image:  '/images/valentia2-0.webp'
 tags:   [Triathlon]
 ---
 A fitting end to a year of triathlon. I was a complete novice when I did this race in [2020](valentia-sprint1). Everything was new, and my body hadn't been adapted. At the time I'd have told you that was it for me and this sport. Yet here I was, back again but after completing two half-Ironman's in [Waterville](waterville-half-ironman) & [Bantry](bantry-half-ironman) and a full Ironman in [Killarney](killarney-full-ironman). The fittest I'd ever been in my life and now happily beyond all the worries of this year. Able to close this chapter with one last, purely fun race. Sinéad and her brother Daithí joined, as was now tradition.

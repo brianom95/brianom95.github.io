@@ -52,22 +52,22 @@ image:  '/images/bucket0.jpeg'
 44. Run the Pyongyang Marathon, DPRK
 45. Street Karting in Tokyo, Japan
 46. Drink Sake in Kyoto, Japan
-47. [<mark style="background-color: limegreen">Overnight Cruise in Ha Long Bay, Vietnam</mark>](backpacking-sea)
-48. [<mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>](backpacking-sea)
-49. [<mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>](backpacking-sea)
-50. [<mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>](backpacking-sea)
+47. [<mark style="background-color: limegreen">Overnight Cruise in Ha Long Bay, Vietnam</mark>](https://www.brianbeyond.com/backpacking-sea)
+48. [<mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>](https://www.brianbeyond.com/backpacking-sea)
+49. [<mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>](https://www.brianbeyond.com/backpacking-sea)
+50. [<mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>](https://www.brianbeyond.com/backpacking-sea)
 51. Stay in the Marina Bay Sands Hotel, Singapore
 52. Surf in Bali, Indonesia
-53. [<mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>](backpacking-nz)
-54. [<mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>](backpacking-nz)
-55. [<mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>](backpacking-nz)
-56. [<mark style="background-color: limegreen">See a Show in the Sydney Opera House</mark>](kosciuszko)
+53. [<mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
+54. [<mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
+55. [<mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
+56. [<mark style="background-color: limegreen">See a Show in the Sydney Opera House</mark>](https://www.brianbeyond.com/kosciuszko)
 57. Dive at the Great Barrier Reef
 58. Stand on the World's Tallest Building
 59. <mark style="background-color: limegreen">Float in the Dead Sea; the Lowest Place on Earth</mark>
 60. <mark style="background-color: limegreen">Visit Petra, Jordan</mark>
 61. <mark style="background-color: limegreen">Visit the Pyramids, Egypt</mark>
-62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](marrakech-marathon)
+62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](https://www.brianbeyond.com/marrakech-marathon)
 63. <mark style="background-color: limegreen">Go to a Hammam</mark>
 64. Ride the World's Longest Train, Mauritania
 65. Do an African Overland Tour
@@ -75,8 +75,8 @@ image:  '/images/bucket0.jpeg'
 67. See the Ducor Hotel & Monkey Island, Liberia
 68. Voodoo Ceremony in Benin
 69. <mark style="background-color: limegreen">See the Big Five on Safari</mark>
-70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>](uganda)
-71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](zambia)
+70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>](https://www.brianbeyond.com/uganda)
+71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](https://www.brianbeyond.com/zambia)
 72. Visit the Giant Redwoods & Alcatraz, California
 73. See a Show in The Comedy Mothership in Austin, Texas
 74. See a Show on Broadway
@@ -110,7 +110,7 @@ image:  '/images/bucket0.jpeg'
 ---
 
 #### The Irish Traveler (23/50)
-1. [<mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>](malin-to-mizen)
+1. [<mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>](https://www.brianbeyond.com/malin-to-mizen)
 2. Cycle all 5 Greenways (3 Complete)
 3. Camp in all 32 Counties (19 Complete)
 4. Visit all 191 Wild Atlantic Way Markers (100 Complete)
@@ -120,8 +120,8 @@ image:  '/images/bucket0.jpeg'
 8. Bioluminescence Paddle on Lough Hyne, Cork
 9. Cycle the Ring of Beara, Cork (140km)
 10. Go into a Copper Mine in Allihies, Cork
-11. [<mark style="background-color: limegreen">Cycle the Ring of Kerry (180km)</mark>](killarney-full-ironman)
-12. [<mark style="background-color: limegreen">Cycle Slea Head, Kerry (55km)</mark>](dingle-adventure-race)
+11. [<mark style="background-color: limegreen">Cycle the Ring of Kerry (180km)</mark>](https://www.brianbeyond.com/killarney-full-ironman)
+12. [<mark style="background-color: limegreen">Cycle Slea Head, Kerry (55km)</mark>](https://www.brianbeyond.com/dingle-adventure-race)
 13. <mark style="background-color: limegreen">Hike the Kerry Camino (57km)</mark>
 14. Visit Skellig Michael, Kerry
 15. <mark style="background-color: limegreen">Climb Mangerton, Kerry</mark>
@@ -152,20 +152,20 @@ image:  '/images/bucket0.jpeg'
 40. <mark style="background-color: limegreen">Complete all 3 Gaelforce Adventure Races</mark>
 41. <mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>
 42. Complete all 11 HARDMAN Races (10 Complete)
-43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](mourne-seven-sevens)
-44. [<mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>](donegal-seven-sisters)
+43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](https://www.brianbeyond.com/mourne-seven-sevens)
+44. [<mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
 45. <mark style="background-color: limegreen">Hike the Galtee Crossing, Limerick</mark>
 46. Hike the Twelve Bens, Galway
 47. Climb all 275 VL's (2,000ft+)
-48. [<mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>](irish-munros)
-49. [<mark style="background-color: limegreen">Climb all 32 County High Points</mark>](county-tops)
+48. [<mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>](https://www.brianbeyond.com/irish-munros)
+49. [<mark style="background-color: limegreen">Climb all 32 County High Points</mark>](https://www.brianbeyond.com/county-tops)
 50. Hike all 42 Irish Waymarked Trails (5 Complete)
 
 ---
 
 #### The Seven Summits (5/7)
-1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](kilimanjaro)
-2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](kosciuszko)
+1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](https://www.brianbeyond.com/kilimanjaro)
+2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](https://www.brianbeyond.com/kosciuszko)
 3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
 4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
 5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
@@ -175,16 +175,16 @@ image:  '/images/bucket0.jpeg'
 ---
 
 #### The Alpine Trilogy (1/3)
-1. [<mark style="background-color: limegreen">Mont Blanc, France (4,808m)</mark>](mont-blanc)
+1. [<mark style="background-color: limegreen">Mont Blanc, France (4,808m)</mark>](https://www.brianbeyond.com/mont-blanc)
 2. Eiger, Switzerland (3,967m)
 3. Matterhorn, Switzerland (4,478m)
 
 ---
 
 #### The Thru-Hiker (3/10)
-1. [<mark style="background-color: limegreen">The Explorer Belt (222km)</mark>](explorer-belt)
-2. [<mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>](tmb)
-3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](west-highland-way)
+1. [<mark style="background-color: limegreen">The Explorer Belt (222km)</mark>](https://www.brianbeyond.com/explorer-belt)
+2. [<mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>](https://www.brianbeyond.com/tmb)
+3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](https://www.brianbeyond.com/west-highland-way)
 4. GR20 Corsica (180km)
 5. Alta Via 1, Dolomites (160km)
 6. Kungsleden, Sweden (450km)
@@ -196,27 +196,27 @@ image:  '/images/bucket0.jpeg'
 ---
 
 #### The Kayaker (6/10)
-1. [<mark style="background-color: limegreen">The White Nile, Uganda</mark>](uganda)
-2. [<mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>](india)
-3. [<mark style="background-color: limegreen">The Zambezi, Zambia</mark>](zambia)
+1. [<mark style="background-color: limegreen">The White Nile, Uganda</mark>](https://www.brianbeyond.com/uganda)
+2. [<mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>](https://www.brianbeyond.com/india)
+3. [<mark style="background-color: limegreen">The Zambezi, Zambia</mark>](https://www.brianbeyond.com/zambia)
 4. The Tara Canyon, Montenegro
 5. The Grand Canyon, USA
 6. The Kaituna, New Zealand
 7. Devizes to Westminster, UK
-8. [<mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>](shannon-source-to-sea)
+8. [<mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>](https://www.brianbeyond.com/shannon-source-to-sea)
 9. <mark style="background-color: limegreen">Kayak on all 7 Continents</mark>
 10. [<mark style="background-color: limegreen">Land an Airscrew</mark>](https://youtu.be/3CPIpQOSNLA?si=Ahj1dcmM9UMwqLbM&start=29)
 
 ---
 
 #### The Athlete (7/12)
-1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](killarney-full-ironman)
+1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](https://www.brianbeyond.com/killarney-full-ironman)
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
 3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
-4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](donegal-seven-sisters)
-5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](hundred-thousand-steps)
+4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
+5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](https://www.brianbeyond.com/hundred-thousand-steps)
 6. <mark style="background-color: limegreen">Swim 5km Nonstop</mark>
-7. [<mark style="background-color: limegreen">100 Days of Running 5K's</mark>](hundred-days-of-running)
+7. [<mark style="background-color: limegreen">100 Days of Running 5K's</mark>](https://www.brianbeyond.com/hundred-days-of-running)
 8. Compete in a Beer Mile
 9. Complete the Goggins 4.4.48
 10. Complete a Crossfit Murph

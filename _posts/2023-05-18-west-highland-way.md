@@ -10,6 +10,8 @@ The West Highland Way is Scotland's first and most popular long distance trail, 
 
 Approximately 36,000 people hike the entire trail each year, with more again doing shorter sections or day hikes. It's known to be a sociable route where you're guaranteed to meet others in the campsites, towns or while walking. This makes it far from an "off the beaten path" adventure, but one I was excited to take on none the less. Everything about the trail is great and I loved the whole experience.
 
+
+
 #### Preparation & Planning
 
 The hike is usually done between April and October, but midge can be an issue from June to August. You'll hear horror stories of swarms turning the sky black at the worst times, so I played it safe and chose May. I decided to hike it in seven days, saving maps with my route and campspots. Normally I would have opted for less days, but I wanted to take it slow and be well rested for a more difficult hike I had planned in France the following week. It also let me align with those I met, rather than overtaking everyone. I tried to treat this as a fun holiday, rather than a challenge for once.

@@ -19,7 +19,7 @@ The original Bass List remains the most widely accepted and is shown below:
 </p>
 
 #### My Climbs
-1. **[Kilimanjaro, Tanzania (5,895)](https://www.brianbeyond.com/kilimanjaro)**  
+1. **[Kilimanjaro, Tanzania (5,895m)](https://www.brianbeyond.com/kilimanjaro)**  
    11 September 2022  
    
 2. **[Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko)**  

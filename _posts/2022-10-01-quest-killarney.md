@@ -3,7 +3,7 @@ layout: post
 title:  Quest Killarney
 description: The hardest race of the year, from the lakes to Mangerton. Good thing I'm getting used to these
 date:   2022-10-01 12:00:0 +0000
-image:  '/images/qkillarney3.webp'
+image:  '/images/qkillarney2.webp'
 tags:   [Adventure-Racing]
 ---
 After rookie mistakes at [QUEST Glendalough](quest-glendalough), and horrendous weather at [QUEST Kenmare](quest-kenmare); I was back for the third and longest of all the QUEST expert routes. 

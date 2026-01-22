@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chiang Mai Marathon
-description: Running through Thailand's ancient city at night to beat the heat
+description: Running through Thailand's ancient city at night to beat the heat. It was still very hot
 date:   2022-12-18 12:00:0 +0000
 image:  '/images/7cc4.jpeg'
 tags:   [Running]

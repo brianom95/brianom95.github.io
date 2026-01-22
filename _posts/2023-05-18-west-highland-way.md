@@ -10,7 +10,9 @@ The West Highland Way is Scotland's first and most popular long distance trail, 
 
 Approximately 36,000 people hike the entire trail each year, with more again doing shorter sections or day hikes. It's known to be a sociable route where you're guaranteed to meet others in the campsites, towns or while walking. This makes it far from an "off the beaten path" adventure, but one I was excited to take on none the less. Everything about the trail is great and I loved the whole experience.
 
-
+<p align="center" width="100%">
+    <img width="300" src="/images/westhigh1.webp">
+</p>
 
 #### Preparation & Planning
 
@@ -29,6 +31,10 @@ I instantly loved the gates. They were the same for the whole route; spring load
 
 Our fast pace had me at my planned campsite at 12:00am. They weren't even letting people in until 2:00pm, so I continued on to the town of Drymen and left Luke from there. I had my lunch in town and chilled out for the afternoon, then opted to wild camp just after rather than backtrack. I found the most beautiful woodland by a stream, where I watched a movie, had a big dinner and a great sleep. My mind was telling me to keep hiking but I'd promised myself this wasn't a speed challenge.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh2.webp">
+</p>
+
 #### Day 2 - Drymen to Loch Lomond  
 *Distance: 19.4km. Ascent: 506m*
 
@@ -38,12 +44,20 @@ There was every sort of terrain today, and I particularly loved the stone steps.
 
 That night I met Eddy; a climber and PhD candidate (now Doctor), who shared my sense of humour and inspired me with her stories. I had funny chats with her and a Czech man who became known as Oman, based on his never ending tales of hiking there. There were some nice Germans and other solo hikers too, which made up a nice group for the evening. We ate dinner together and watched the sunset over the lake as all the clouds had lifted. Some went for a swim and we all made plans for tomorrow before going to sleep.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh3.webp">
+</p>
+
 #### Day 3 - Loch Lomond to Beinglas  
 *Distance: 29km. Ascent: 929m*
 
 Eddy and I hiked together and were blessed with the weather all day. Beautiful statues, fields of bluebells, loads of birds, wild goats and lake views, all topped off with an intense sun overhead. I was admiring hand carved sculptures all the way and time flew by while chatting. Eddy had planned to sleep in a shelter on route but it was so full of people that she opted for my campsite instead, which we arrived at around 4:00pm. 
 
 I excitedly tucked into a big meaty dinner with extra haggis, and a Guinness in the sun. Eddy's vegan equivalent looked less appetising to me after a long day, but still nice. Others arrived and the night passed by quickly, finding myself falling asleep early, appreciative of the campsites shower!
+
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh4.webp">
+</p>
 
 #### Day 4 - Beinglas to Bridge of Orchy  
 *Distance: 31.37km. Ascent: 875m*
@@ -52,12 +66,20 @@ It was foggier today, passing more sculptures and a weird totem pole as I left t
 
 Around 3:00pm I reached Bridge of Orchy, setting up my tent beside the low river. It was here the midge made their first appearance and hurried me into the hotel for dinner and drinks. I got chatting to a few hikers who were taking the luxury approach of hotels all the way, and everyone seemed to love the trail so far. The burger and dessert were great and ensured I slept soundly that night, listening to the flowing rapids beside me. I had been admiring the old photos of kayakers on the Orchy in the hotel, and thought back on my own kayaking memories in Scotland and these valleys that night.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh5.webp">
+</p>
+
 #### Day 5 - Bridge of Orchy to Kingshouse  
 *Distance: 19.6km. Ascent: 534m*
 
 An unfortunate start to the day; finding that a mouse had eaten through my rucksack to steal my bag of nuts. Lesson learnt on leaving it out in the porch! Todays route followed nice signs to a rolling landscape that looked empty and desolate. I caught up to a couple from Colorado named Sandy & Hal, see cute photo below. They were on a package trip with bags shuttled between hotels, as they've done around the world on other trails. We hiked the last hour together.
 
 A strong wind blew from one of the valleys ahead, which had us happy to arrive at the Kingshouse Hotel by lunchtime. I set up my tent outside where I'd planned to camp, and went in to join them for lunch. They told stories of world travel, climbing the Colorado 14'ers, and of their son who climbed Aconcagua this year (which I had lots of questions about). That evening I was reunited with Eddy for dinner, drinks, chocolate and card games. We watched deer running around the fields, and camped under a sky full of stars.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh6.webp">
+</p>
 
 #### Day 6 - Kingshouse to Kinlochleven  
 *Distance: 34km. Ascent: 983m*
@@ -70,6 +92,10 @@ While in the pub I spotted a woman with such fancy ultralight gear that I knew t
 
 The clouds cleared and the weather was far nicer than we expected. Time flew by too, with the help of nerdy hiking gear talk. Eddy had a ridge in mind that was a bit off trail, but where she wanted to camp in hopes of a nice sunrise. At a small junction in the path we said our goodbyes until Fort William, and I headed on with Anna towards the sunset. Every time we spotted somewhere to camp there seemed to be a tent already, but after a really fun evening of chatting and laughing we found a perfect fenced off area to set up. The stars came out as we had our dinners on the grass, and there was no doubt that continuing was the right decision.
 
+<p align="center" width="100%">
+    <img width="300" src="/images/westhigh7.webp">
+</p>
+
 #### Day 7 - Kinlochleven to Fort William  
 *Distance: 15.6km. Ascent: 309m*
 
@@ -78,6 +104,10 @@ The final day was short and sweet. Anna wanted to visit the Isle of Skye before 
 Anna & I got photos together at the original end point and said our goodbyes just as her bus arrived. I continued through the town to the updated end point, where I sat under a glimmer of sun feeling delighted in the week I'd just had. I chatted to the next man who finished and we were both already nostalgic, sharing memories of the midge and storms which bonded us beyond all the crowds of tourists that filled the town. A shared understanding that is hard to replicate outside of endeavours like these.
 
 Later that day, I met Eddy and three German friends from the trail. We got dinner in Wetherspoons, did some shopping and walked out to our campsite to get checked in. Once clean and showered everyone was in a celebratory mood, having drinks around a picnic table, sharing stories from the trail and discussing plans for the coming days. I however was looking up at Ben Nevis, which was casting a shadow over the campsite. Headtorches lit up the steep trail all night, and with a short but perfect weather window due the next morning I set my alarm.
+
+<p align="center" width="100%">
+    <img width="300" src="/images/westhigh8.webp">
+</p>
 
 #### Day 8 - Ben Nevis  
 *Distance: 15.2km. Ascent: 1,320m*
@@ -94,6 +124,10 @@ The time was ultimately irrelevant, but after a week of slow hiking it felt libe
 
 My tired, red face struck fear into those just starting, but my happiness was even more obvious. I spoke with a few charity climbers and wandered the gift shop before heading back to get showered. It was a long day of exploring, learning parkour and drinking too much coffee. The Hogwarts Express passes through Fort William and there's lots more to see, so we were all kept busy. We went out for a group dinner that evening and I took pride in my tired legs, recognising it as the feeling of a job well done. Another adventure completed and a perfect celebration before we all went our separate ways.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh9.webp">
+</p>
+
 #### Afterthoughts
 
 The West Highland Way is a wonderful experience. It's very busy at times, but I expected that and met such lovely people that it made it all worth it. The climbs are usually gradual and all trail surfaces are well maintained. It would be an easy trail to hike quickly, but I'm happy I took the extra days to relax and get to know the others alongside me. The memories of chilling out at campsites are more vivid to me now than any of the actual walking.
@@ -104,6 +138,17 @@ Cold soaking turned out to be amazing. I treated myself to meals out most evenin
 
 I was very lucky to have met and shared this experience with Eddy, Anna, Clara, Martin, Sebastian, Sandy, Hal & Oman. Reminiscing on the hike always makes me think of them and how lucky we can be in chance meetings. It's so strange to wonder what hike I'd have had a day earlier or later. Who would I have met that would define the trip. It makes realise why people return for this hike year after year, and why I've come to love challenges like these.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/westhigh10.webp">
+</p>
+
 #### What's Next
 
 So that wraps up another great trip to Scotland. I flew home from Edinburgh, allowing me to meet up with Ben who I hadn't seen since we hiked the [Tour du Mont Blanc](tmb) last year. I also had a chance run in with Travis who I travelled alongside while [Backpacking New Zealand](backpacking-nz). The world was feeling so small, but the next challenge still seemed huge. In one week I'd be back in France, staring up at the white mountain that dominates the skyline of Chamonix. Preparing to take on the highest mountain in Western Europe; [Mont Blanc](mont-blanc).
+
+#### What I Carried
+
+<p align="center" width="100%">
+    <img width="00" src="/images/westhigh11.webp">
+</p>
+Full Gearlist on Lighterpack

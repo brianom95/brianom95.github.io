@@ -147,5 +147,5 @@ As for gear, I was warm and comfortable on what was a chilly summit night. The b
 All in all, it was a trip filled with learning. It opened my eyes to the world of Alpinism and lit a spark for what's to come. It's an experience that was invaluable to me, especially given the great people I got to meet along the way, so looking back the price feels like great value. I've fallen in love with Chamonix and look forward to going back, though I now have so many mountains in my head that I may be much more of a mountaineer when that time comes. Lots of ideas on the horizon.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/mb12.webp">
+    <img width="400" src="/images/mb11.webp">
 </p>

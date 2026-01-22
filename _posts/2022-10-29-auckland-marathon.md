@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Auckland Marathon
-description: Continent No.3
+description: Racing through the most beautiful country on Earth, during their worst rainstorm!
 date:   2022-10-29 12:00:0 +0000
 image:  '/images/7cc3.jpeg'
 tags:   [Running]

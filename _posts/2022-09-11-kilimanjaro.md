@@ -23,7 +23,7 @@ In 1889, Hans Meyer and Ludwig Purtscheller became the first people to reach the
 Kilimanjaro has five ecological climate zones. The Arctic Summit (Ice Cap) has seasonal snow, year round glaciers and is devoid of almost all life. The Alpine Desert is slightly less inhospitable, but mostly sand and rugged rock formations. The Moorland has hardy shrubs, grasses and heathers, sometimes compared to the Scottish Highlands. The Rainforest surrounds the mountain with a dense and damp home to all sorts of plants and animals. Then finally the surrounding area benefits from rain and rich volcanic soil to form the Civilisation or Cultivation Zone; full of human life and arable farmland.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro2.webp">
+    <img width="400" src="/images/kilimanjaro2.jpeg">
 </p>
 
 #### Acclimatisation is Key
@@ -37,7 +37,7 @@ Kilimanjaro's summit (just below 6,000m) has 50% the oxygen of sea level. The si
 For completeness I'll note that acclimatisation is slower for higher altitudes due to exceptionally slow recovery. For 7,000m (42% oxygen) it takes two weeks on average with specific rotations/altitudes being key. As for 8,000m (33% oxygen) it takes six weeks, although this is a misnomer as that is just beyond what a human body can adapt to. Anything from there up to Everest's peak at 8,848m is purely survival and is only recommended with supplemental oxygen.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro3.webp">
+    <img width="400" src="/images/kilimanjaro3.jpeg">
 </p>
 
 #### Routes & Guides

@@ -149,6 +149,6 @@ So that wraps up another great trip to Scotland. I flew home from Edinburgh, all
 #### What I Carried
 
 <p align="center" width="100%">
-    <img width="00" src="/images/westhigh11.webp">
+    <img width="500" src="/images/westhigh11.webp">
 </p>
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/vy2yhx)

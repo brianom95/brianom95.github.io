@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Marrakech Marathon
-description: A very Irish race, in the ancient red city. Camels, deserts and reunions. A fun trip!
+description: A very Irish race, in the ancient red city. Camels, deserts, tea & Will Smith. A fun trip!
 date:   2023-01-29 12:00:0 +0000
 image:  '/images/7cc5.jpeg'
 tags:   [Running]

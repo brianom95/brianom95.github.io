@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rome Marathon
-description: My first official marathon, featuring ancient wonders, cobbled streets and a heat stroked novice!
+description: My first official marathon, with ancient wonders, cobbled streets and a heat stroked Brian!
 date:   2022-03-27 12:00:0 +0000
 image:  '/images/7cc1.jpeg'
 tags:   [Running]

@@ -226,7 +226,7 @@ image:  '/images/bucket0.jpeg'
 ---
 
 #### The Rest of Me (13/25)
-1. [<mark style="background-color: limegreen">Meet the President of Ireland</mark>](gaisce-journey)
+1. [<mark style="background-color: limegreen">Meet the President of Ireland</mark>](https://www.brianbeyond.com/gaisce-journey)
 2. <mark style="background-color: limegreen">Get a Guinness World Record</mark>
 3. Publish a Book
 4. Experience Van Life
@@ -239,7 +239,7 @@ image:  '/images/bucket0.jpeg'
 11. [<mark style="background-color: limegreen">Do a Skydive</mark>](https://youtu.be/qjbD3ZG_9jk?si=7MJaQ26U5ovIe9nJ)
 12. Scuba Dive at a Shipwreck
 13. <mark style="background-color: limegreen">Swim with Sharks</mark>
-14. [<mark style="background-color: limegreen">Fly in a Hot Air Balloon</mark>](backpacking-sea)
+14. [<mark style="background-color: limegreen">Fly in a Hot Air Balloon</mark>](https://www.brianbeyond.com/backpacking-sea)
 15. <mark style="background-color: limegreen">Fly in a Helicopter</mark>
 16. Pilot a Plane
 17. Live in a Different Country

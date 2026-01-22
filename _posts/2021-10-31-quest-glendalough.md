@@ -3,7 +3,7 @@ layout: post
 title:  Quest Glendalough
 description: Bike, run, bike, run, kayak, run! A whole new challenge through beginners eyes
 date:   2021-10-31 12:00:0 +0000
-image:  '/images/tbc.jpg'
+image:  '/images/qglendo3.webp'
 tags:   [Adventure-Racing]
 ---
 For years people recommended the QUEST series to me, so I finally decided to try one out. Scheduled for October, this was set to be cold and mucky. With (mistaken) confidence in my triathlon fitness I signed up for the expert route.
@@ -16,17 +16,33 @@ I mistakenly brought my rugged adventure bike because I didn't have the tools to
 
 Nonetheless I was lined up and excited as they counted us down. Then off we went. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/qglendo1.webp">
+</p>
+
 The bike route was insanely hilly. I had cycled 180km only six weeks ago, yet the first 10km killed me. On top of one particularly large hill we racked the bikes and took off 'running'.
 
 I say 'running' because it was wet, windy and some trails were more like mucky streams. There were a lot of stages you had to walk to not fall, and they were intensely steep. The whole group moved slowly up the mountain at what was mostly just a fast walk. Running where we could, but really struggling.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/qglendo2.webp">
+</p>
 
 On top, the wind howled as a marshal scanned our tags. From there an even steeper path down was impossible to run on, and we eventually were back at the bikes. It lashed rain and I felt wrecked. Good God, what had I signed up for.
 
 The next cycle was very similar, down a valley and up an even bigger hill. From there a similarly mucky run/walk to another barren, windy summit. On the bike once more we completed the long loop that meandered back to Glendalough. Racking the bike I was delighted, but had no energy. All in all it had only been a 40km cycle with a 5km & 6km trail run. The hills made it feel like double that.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/qglendo3.webp">
+</p>
+
 From here we had a 5km run to our kayaking loop, then a different 5km run back. I like that this was much busier, joining up with people doing the two shorter courses. They were instantly obvious as they all smiled full of energy, while the 'experts' with our black race numbers stood out a mile away. Struggling now with even the subtlest of inclines, myself included. This run dragged on a lot, but I loved that kayaking would break it up.
 
-Reaching the lake it was Sue Doyle, an old friend of mine, putting on the buoyancy aids. I found the energy to say hello and hopped in a boat. It's a short loop in double sit on tops with the nearest person. As a kayaker I would like it solo and longer, but this day 1km was enough. We chatted as we passed out a lot of others, my partner confused by our speed. 
+Reaching the lake it was Sue Doyle, an old friend of mine, putting on the buoyancy aids. I found the energy to say hello and hopped in a boat. It's a short loop in double sit on tops with the nearest person. As a kayaker I would like it solo and longer, but this day 1km was enough. We chatted as we passed out a lot of others, my partner confused by our speed.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/qglendo4.webp">
+</p>
 
 Once on dry land I took off running fast. There was renewed energy, but it didn't last long.
 
@@ -34,10 +50,22 @@ The last section required digging deep. Fighting my bodies urge to walk with eve
 
 5hrs 17mins 33s
 
+<p align="center" width="100%">
+    <img width="400" src="/images/qglendo5.webp">
+</p>
+
 Holy crap. I could have dropped dead. It felt like it would never end, but I couldn't be happier to have made it. I found some shade and sat in it for some time.
 
 I hadn't known anything about the afters of these races but was pleasantly surprised. Free food, free pints and the best flapjacks ever to speed up recovery. It was 30mins before I felt normal again though. I brought my bike to the free bike valet (a really nice touch) and we left. All in all, it's a pricey event but it's very well run in many ways.
 
+<p align="center" width="100%">
+    <img width="300" src="/images/qglendo6.webp">
+</p>
+
 We met Gavin and Emer after. He'd had a great day, if a little wet and cold at times, and they headed home to begin photo editing. I did my usual touristing with a stay at a local B&B. Two others staying there had also done the race and it was nice to hear that it wasn't just me that found it so tough! I said never again, meaning it in the moment, but knowing it would probably be a lie. 
 
 It was a week later that I looked up the other races and convinced myself they couldn't be as tough. Maybe [QUEST Kenmare](quest-kenmare) next?
+
+<p align="center" width="100%">
+    <img width="300" src="/images/qglendo7.webp">
+</p>

@@ -6,7 +6,7 @@ date:   2023-06-02 12:00:0 +0000
 image:  '/images/montblanc1.jpeg'
 tags:   [Mountaineering]
 ---
-This is my experience of climbing the highest mountain in Western Europe. A multi-day trek through snow and glaciers, to reach the peak where modern mountaineering was born. An adventure I couldn't recommend more highly.
+This is my experience of climbing the highest mountain in Western Europe. A multi-day trek through snow and glaciers, to reach the peak where modern mountaineering was born. An adventure I couldn't recommend more highly to those capable.
 
 #### Introduction
 
@@ -20,9 +20,9 @@ Joined by Niall & Will, I reached the summit at 6:00am on the 2nd of June 2023. 
 
 #### History
 
-Modern mountaineering can be traced back to Horace Bénédict de Saussure; a Swiss physicist who was fascinated by Alpine geology & botany, as well as altitude and its effects. In 1760, he offered prize money to whoever could reach the summit first, though still continued with his own attempts for years to come. While searching for routes he walked a 100 mile loop around the entire mountain range, which credits him as the pioneer of the [Tour du Mont Blanc](tmb), Europe's most famous thru-hike. This hike is what brought me to Chamonix in 2022, and inspired my summit climb less than one year later. But back to the first attempts:
+Modern mountaineering can be traced back to Horace Bénédict de Saussure; a Swiss physicist who was fascinated by Alpine geology & botany, as well as altitude and its effects. In 1760, he offered prize money to whoever could reach the summit first, though still continued with his own attempts for years to come. While searching for routes he walked a 100 mile loop around the entire mountain range, which credits him as the pioneer of the [Tour du Mont Blanc](tmb); Europe's most famous thru-hike. This hike is what brought me to Chamonix in 2022, and inspired my summit climb less than one year later. But back to the first attempts:
 
-Michel-Gabriel Paccard lived a poor life, travelling and selling crystals, until he too became obsessed with the peak. He spent years assessing routes and attempting the summit, which made locals think him crazy and almost certain to die penniless in his pursuit. In 1784, he hired Dr. Jacques Balmat of Chamonix as a porter, with the two making several summit bids together. In 1786, they were followed by telescope as they made an attempt in perfect weather. Two days later they reached the peak, with news spreading fast and Saussure personally paying the prize money. 
+Michel-Gabriel Paccard lived a poor life, travelling and selling crystals, until he too became obsessed with the peak. He spent years assessing routes and attempting the summit, which made locals think him crazy and almost certain to die penniless in his pursuit. In 1784, he hired Dr. Jacques Balmat of Chamonix as a porter, with the two making several summit bids together. In 1786 they were followed by telescope as they made an attempt in perfect weather. Two days later they reached the peak, with news spreading fast and Saussure personally paying the prize money. 
 
 Exactly one year after this, Saussure was guided up the same route, along with 18 servants and guides, spending a day on the summit conducting experiments. He recorded the most accurate elevation measurement to date, and found that water boils at 82°C up there.
 

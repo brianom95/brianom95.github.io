@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vancouver Marathon
-description: Continent No.2
+description: A week with the friends who emigrated, exploring the mountains, circus, escape room and marathon!
 date:   2022-04-30 12:00:0 +0000
 image:  '/images/van0.webp'
 tags:   [Running]

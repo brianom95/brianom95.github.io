@@ -8,6 +8,10 @@ tags:   [Mountaineering]
 ---
 This is the story of a week that Seán Ennis and I spent above the clouds. From the dust, cold and thin air that guards the summit, to the local hospitality and warmth that make it accessible. Rainforests turn to desert, and volcanic sand turns to ice, ascending 2km higher than most skydives. The city and it's worries fade away as you finally reach the coldest and most surreal sunrise imaginable. I learned a lot through this adventure and have tried to include as much as possible here. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/kilimanjaro1.webp">
+</p>
+
 #### Background
 
 Mount Kilimanjaro is a dormant volcano in an otherwise flat savannah of Tanzania, only 20km from the Kenyan border. It is Africa’s highest peak at 5,895m, one of the seven summits, and the tallest free-standing mountain in the world. Eruptions over 360,000 years ago left three volcanic cones; Kibo, Mawenzi & Shira. The summit is on Kibo’s crater rim, named Uhuru which is Swahili for 'freedom'. 

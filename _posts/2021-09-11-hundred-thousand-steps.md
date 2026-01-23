@@ -10,7 +10,7 @@ Having seen this challenge online, it was straight onto my bucket list. It's so 
 
 I'm both grateful that, and unsure why, Seán Ennis is always up for anything. It's the random adventures only he would consider that have elevated him from friend to brother. My house in Limerick was an obvious base with shops everywhere, nice river paths and it's essentially all flat (several people fail due to tackling mountains). Having hiked 55,000 steps once, I was estimating 80km is what I'd end up walking.
 
-I highly recommend summertime because you need the daylight, but this wasn't an option with other plans. We aimed for October, until a weather window in September was too good to miss (even if it was two weeks after my [Ironman](killarney-full-ironman) & one week before the [County Tops](county-tops)). My body felt like it had recovered enough. All of a sudden it was Friday after work and Seán was arriving at mine for midnight, no sleep for either of us (biggest mistake) and off we went. Naïve enough to start, and stubborn enough to finish. Hopefully.
+I highly recommend summertime because you need the daylight, but this wasn't an option with other plans. We aimed for October, until a weather window in September was too good to miss (even if it was two weeks after my [Ironman](killarney-full-ironman) & one week before the [County Tops](county-tops)). My body felt like it had recovered enough. All of a sudden it was Friday after work and Seán was arriving at mine for midnight, no sleep for either of us (biggest mistake) and off we went. Naive enough to start, and stubborn enough to finish. Hopefully.
 
 <p align="center" width="100%">
     <img width="400" src="/images/hundredsteps1.webp">

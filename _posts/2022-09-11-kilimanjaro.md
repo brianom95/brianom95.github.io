@@ -6,7 +6,7 @@ date:   2022-09-11 12:00:0 +0000
 image:  '/images/kili0.jpeg'
 tags:   [Mountaineering]
 ---
-This is the story of a week that Seán Ennis and I spent above the clouds. From the dust, cold and thin air that guards the summit, to the local hospitality and warmth that make it accessible. Rainforests turn to desert, and volcanic sand turns to ice, ascending 2km higher than most skydives. The city and it's worries fade away as you finally reach the coldest and most surreal sunrise imaginable. I learned a lot through this adventure and have tried to include as much as possible here. 
+This is the story of a week that Seán Ennis and I spent above the clouds. From the dust, cold and thin air that guards the summit, to the local hospitality and warmth that make it accessible. Rainforests turn to desert and volcanic sand turns to ice, ascending 2km higher than most skydives. The city and it's worries fade away as you finally reach the coldest and most surreal sunrise imaginable. I learned a lot through this adventure and have tried to include as much as possible here. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/kilimanjaro1.webp">
@@ -14,7 +14,7 @@ This is the story of a week that Seán Ennis and I spent above the clouds. From 
 
 #### Background
 
-Mount Kilimanjaro is a dormant volcano in an otherwise flat savannah of Tanzania, only 20km from the Kenyan border. It is Africa’s highest peak at 5,895m, one of the seven summits, and the tallest free-standing mountain in the world. Eruptions over 360,000 years ago left three volcanic cones; Kibo, Mawenzi & Shira. The summit is on Kibo’s crater rim, named Uhuru which is Swahili for 'freedom'. 
+Mount Kilimanjaro is a dormant volcano in an otherwise flat savannah of Tanzania, only 20km from the Kenyan border. It is Africa’s highest peak at 5,895m, one of the [Seven Summits](seven-summits/), and the tallest free-standing mountain in the world. Eruptions over 360,000 years ago left three volcanic cones; Kibo, Mawenzi & Shira. The summit is on Kibo’s crater rim, named Uhuru which is Swahili for 'freedom'. 
 
 The mountain was said to be made of gold & silver, with an approach guarded by spirits. Two German missionaries wrote in 1848 that upon realising the top was not a cloud, they finally understood the stories. The snow capped peak even has glaciers, something early explorers thought impossible in the area. The name is Swahili, from Kilima meaning 'mountain' & Njaro meaning 'white'. A name which echoes [Mont Blanc](mont-blanc) in Europe.
 

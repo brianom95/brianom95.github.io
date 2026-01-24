@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Brian Beyond
-description: A place to capture memories and experiences from adventures around the world. Ambitious goals in marathons, mountains and global adventures, documented here to share the preparation, lessons, and moments that make the journey meaningful. 
+description: A place to capture memories and experiences from adventures around the world. Mountains, marathons, global adventures and big goals. All documented here to share the preparation, lessons, and moments that make the journey meaningful. 
 logo: '/images/logolight.png'
 logo_dark: '/images/logodark.png'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.

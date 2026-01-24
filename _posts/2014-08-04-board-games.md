@@ -3,7 +3,7 @@ layout: post
 title:  My Favourite Board Games
 description: I love board games, so this is a completely subjective list of my favourites
 date:   2014-08-04 18:05:55 +0300
-image:  '/images/boardgames0.webp'
+image:  '/images/boardgames00.jpeg'
 tags:   [Off-The-Trail]
 ---
 #### 12. Colt Express    

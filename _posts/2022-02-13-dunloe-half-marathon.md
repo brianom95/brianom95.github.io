@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Gap of Dunloe Half Marathon
-description: The first race of the HARDMAN calendar; a hilly route through Ireland's most picturesque valley
+description: The first race of the HARDMAN calendar; a hilly route through Ireland's most picturesque valley.
 date:   2022-02-13 12:00:0 +0000
 image:  '/images/dunloehalf0.jpeg'
 tags:   [Running]

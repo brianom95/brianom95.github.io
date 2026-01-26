@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quest Kenmare
-description: Time for more suffering! My second race of the Quest series in normally beautiful Kenmare
+description: Time for more suffering! My second race of the Quest series in normally beautiful Kenmare.
 date:   2022-03-12 12:00:0 +0000
 image:  '/images/qkenmare0.jpeg'
 tags:   [Adventure-Racing]

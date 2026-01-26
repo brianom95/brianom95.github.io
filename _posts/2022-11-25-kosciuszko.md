@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mount Kosciuszo (2,228m)
-description: Climbing the Highest Peak in Australia 
+description: Climbing the Highest Peak in Australia.
 date:   2022-11-25 12:00:0 +0000
 image:  '/images/kosi0.jpeg'
 tags:   [Mountaineering]

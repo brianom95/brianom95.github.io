@@ -18,8 +18,8 @@ When COVID closed borders I turned inward and local. That period produced some o
 - Brian’s Big Three; kayaking the River Shannon from source to sea, hiking the Wicklow Way and cycling Malin Head to Mizen Head — all in one month
 
 As travel reopened, so did bigger horizons. To date, I’ve:
-- Visited 75 countries
-- Run 23 marathons, including one on every continent
+- Visited {{ site.data.settings.stats.countries }} countries
+- Run {{ site.data.settings.stats.marathons }} marathons, including one on every continent
 - Climbed five of the Seven Summits: Kilimanjaro, Kosciuszko, Elbrus, Aconcagua and Denali
 - Summited major peaks including Mont Blanc, Cotopaxi, Chimborazo, and Huayna Potosí
 

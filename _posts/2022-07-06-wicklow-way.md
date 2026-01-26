@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Wicklow Way
-description: Phase 2 - Hiking 130km on Irelands oldest trail. Revisiting the hills and valleys that shaped me
+description: Phase 2; Hiking 130km on Irelands oldest trail. Revisiting the hills and valleys that shaped me.
 date:   2022-07-06 12:00:0 +0000
 image:  '/images/wicklow7.webp'
 tags:   [Thru-Hiking]

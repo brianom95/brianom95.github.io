@@ -5,7 +5,7 @@ permalink: /bucketlist/
 image:  '/images/bucket0.jpeg'
 ---
 
-#### The World Traveler (55/100)
+#### World Travel (55/100)
 1. Visit 100 countries (75 Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
@@ -109,7 +109,7 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### The Irish Traveler (23/50)
+#### Irish Travel (23/50)
 1. [<mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>](https://www.brianbeyond.com/malin-to-mizen)
 2. Cycle all 5 Greenways (3 Complete)
 3. Camp in all 32 Counties (19 Complete)
@@ -181,7 +181,7 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### The Thru-Hiker (3/10)
+#### Thru-Hiking (3/10)
 1. [<mark style="background-color: limegreen">The Explorer Belt (222km)</mark>](https://www.brianbeyond.com/explorer-belt)
 2. [<mark style="background-color: limegreen">Tour du Mont Blanc (170km)</mark>](https://www.brianbeyond.com/tmb)
 3. [<mark style="background-color: limegreen">West Highland Way (154km)</mark>](https://www.brianbeyond.com/west-highland-way)
@@ -195,7 +195,7 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### The Kayaker (6/10)
+#### Kayaking (6/10)
 1. [<mark style="background-color: limegreen">The White Nile, Uganda</mark>](https://www.brianbeyond.com/uganda)
 2. [<mark style="background-color: limegreen">The Kopili & Kynshi, India</mark>](https://www.brianbeyond.com/india)
 3. [<mark style="background-color: limegreen">The Zambezi, Zambia</mark>](https://www.brianbeyond.com/zambia)
@@ -209,7 +209,7 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### The Athlete (7/12)
+#### Endurance (7/12)
 1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](https://www.brianbeyond.com/killarney-full-ironman)
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
 3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>

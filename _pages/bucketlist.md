@@ -6,7 +6,7 @@ image:  '/images/bucket0.jpeg'
 ---
 
 #### World Travel (55/100)
-1. Visit 100 countries (75 Complete)
+1. Visit 100 countries ({{ site.data.settings.stats.countries }} Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
 4. See the Mona Lisa & Catacombs in Paris

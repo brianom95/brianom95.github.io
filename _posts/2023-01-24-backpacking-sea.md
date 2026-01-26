@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking South East Asia
-description: The most famous backpacker route in the world. Temples, islands, hot air balloons and lots of food
+description: The most famous backpacker route in the world. Temples, islands, hot air balloons and lots of food.
 date:   2023-01-24 12:00:0 +0000
 image:  '/images/bpsea0.jpeg'
 tags:   [Travel]

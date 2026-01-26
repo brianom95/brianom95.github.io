@@ -8,6 +8,12 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 
 
 #-------------------------------
+
+stats:
+  marathons: 23
+  countries: 75
+
+#-------------------------------
 # Navigation Settings
 menu_settings:
   menu_items:

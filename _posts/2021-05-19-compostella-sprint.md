@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Compostella Sprint Triathlon
-description: I hosted my own triathlon! Here's how it went
+description: I hosted my own triathlon! Here's how it went.
 date:   2021-05-19 12:00:0 +0000
 image:  '/images/compostella0.webp'
 tags:   [Triathlon]

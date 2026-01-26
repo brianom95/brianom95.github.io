@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mont Blanc (4,808m)
-description: Climbing the Highest Peak in Western Europe
+description: Climbing the Highest Peak in Western Europe.
 date:   2023-06-02 12:00:0 +0000
 image:  '/images/montblanc1.jpeg'
 tags:   [Mountaineering]

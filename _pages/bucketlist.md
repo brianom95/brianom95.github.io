@@ -4,7 +4,8 @@ title:  Bucket List
 permalink: /bucketlist/
 image:  '/images/bucket0.jpeg'
 ---
-
+{{ site.data.settings.stats.countries }}
+{{ site.data.settings.stats.marathons }}
 #### World Travel (55/100)
 1. Visit 100 countries ({{ site.data.settings.stats.countries }} Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>

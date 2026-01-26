@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Seven Sisters Ultramarathon
-description: It doesn't get hillier than this! 4,600m of climbing across 55km of Donegals highest peaks
+description: It doesn't get hillier than this! 4,600m of climbing across 55km of Donegals highest peaks.
 date:   2023-09-22 12:00:0 +0000
 image:  '/images/donegal0.jpeg'
 tags:   [Running]

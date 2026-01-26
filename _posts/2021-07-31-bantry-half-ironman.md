@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bantry Half Ironman
-description: My jellyfish nightmare. An itentionally brutal race that's set on a remote airplane landing strip
+description: My jellyfish nightmare. An itentionally brutal race that's set on a remote airplane landing strip.
 date:   2021-07-31 12:00:0 +0000
 image:  '/images/halfbantry0.jpeg'
 tags:   [Triathlon]

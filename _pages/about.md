@@ -21,7 +21,7 @@ As travel reopened, so did bigger horizons. To date, I’ve:
 - Visited {{ site.data.settings.stats.countries }} countries
 - Run {{ site.data.settings.stats.marathons }} marathons, including one on every continent
 - Climbed five of the Seven Summits: Kilimanjaro, Kosciuszko, Elbrus, Aconcagua and Denali
-- Summited major peaks including Mont Blanc, Cotopaxi, Chimborazo, and Huayna Potosí
+- Summited major peaks including Mont Blanc, Cotopaxi, Chimborazo, Chachani and Huayna Potosí
 
 Every climb and expedition so far has been a first-time success, something I attribute to obsessive preparation, patience and respect for the environment I’m moving through.
 

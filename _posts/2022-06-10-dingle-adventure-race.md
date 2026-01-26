@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dingle Adventure Race
-description: Our most iconic mixed-sport event, through the water, roads and hills of the Dingle peninsula
+description: Our most iconic mixed-sport event, through the water, roads and hills of the Dingle peninsula.
 date:   2022-06-10 12:00:0 +0000
 image:  '/images/dinglear0.webp'
 tags:   [Adventure-Racing]

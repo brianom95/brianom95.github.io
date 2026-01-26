@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking New Zealand
-description: Seven weeks exploring the cities, mountains, rivers & skies of my favourite country in the world
+description: Seven weeks exploring the cities, mountains, rivers & skies of my favourite country in the world.
 date:   2022-11-22 12:00:0 +0000
 image:  '/images/nz1.jpeg'
 tags:   [Travel]

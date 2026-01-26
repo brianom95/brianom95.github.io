@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quest Glendalough
-description: Bike, run, bike, run, kayak, run! A whole new challenge through beginners eyes
+description: Bike, run, bike, run, kayak, run! A whole new challenge through beginners eyes.
 date:   2021-10-31 12:00:0 +0000
 image:  '/images/qglendo3.webp'
 tags:   [Adventure-Racing]

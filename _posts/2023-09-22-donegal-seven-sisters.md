@@ -40,7 +40,7 @@ The first few hours of the return were almost enjoyable. There's something nice 
     <img width="400" src="/images/donegal4.webp">
 </p>
 
-I was 10 hours into the race when I took that turn, and got very emotional to know I could finish the full route. I ran the sweeping trail to the other side of Errigal, for a scramble up the back, after which we'd descend the normal route on the front. It was genuinely dodgy, with gusts that could easily blow you off the cliffs, but still not the worst conditions I've experienced up there. I passed some very nervous people as I followed my system of running between gusts, and hunkering down for the bad ones. Approaching the top I passed a mountain goat and climbed through the iconic rock arch.
+I was 10 hours into the race when I took that turn, and got very emotional to know I could finish the full route. I ran the sweeping trail to the other side of Errigal for a scramble up the back, after which we'd descend the normal route on the front. It was genuinely dodgy, with gusts that could easily blow you off the cliffs, but still not the worst conditions I've experienced up there. I passed some very nervous people as I followed my system of running between gusts, and hunkering down for the bad ones. Approaching the top I passed a mountain goat and climbed through the iconic rock arch.
 
 <p align="center" width="100%">
     <img width="400" src="/images/donegal5.webp">

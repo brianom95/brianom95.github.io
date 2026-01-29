@@ -12,6 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 stats:
   marathons: 23
   countries: 75
+  marathoncounties: 11
 
 #-------------------------------
 # Navigation Settings

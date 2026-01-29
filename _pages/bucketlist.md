@@ -209,19 +209,20 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### Endurance (7/12)
+#### Endurance (7/13)
 1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](https://www.brianbeyond.com/killarney-full-ironman)
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
-3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
-4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
-5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](https://www.brianbeyond.com/hundred-thousand-steps)
-6. <mark style="background-color: limegreen">Swim 5km Nonstop</mark>
-7. [<mark style="background-color: limegreen">100 Days of Running 5K's</mark>](https://www.brianbeyond.com/hundred-days-of-running)
-8. Compete in a Beer Mile
-9. Complete the Goggins 4.4.48
-10. Complete a Crossfit Murph
-11. Complete a HYROX Event
-12. Run 100 Marathons ({{ site.data.settings.stats.marathons }} Complete)
+3. Run a Marathon in all 32 Irish Counties ({{ site.data.settings.stats.marathoncounties }} Complete)
+4. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
+5. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
+6. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](https://www.brianbeyond.com/hundred-thousand-steps)
+7. <mark style="background-color: limegreen">Swim 5km Nonstop</mark>
+8. [<mark style="background-color: limegreen">100 Days of Running 5K's</mark>](https://www.brianbeyond.com/hundred-days-of-running)
+9. Compete in a Beer Mile
+10. Complete the Goggins 4.4.48
+11. Complete a Crossfit Murph
+12. Complete a HYROX Event
+13. Run 100 Marathons ({{ site.data.settings.stats.marathons }} Complete)
 
 ---
 

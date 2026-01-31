@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *4,300 runners from 44 countries, racing through the night on this flat and fast course. Chiang Mai was the ancient capital of a country named Lana, and is now Thailand's second biggest city. The race takes in the moat and walls of the original centre, the expanding suburbs, and ends at the statue of Lana's most revered monarch; King Naresuan.*
 
-This was the fourth marathon in my journey to join the [Seven Continents Club](seven-continents-club).
+This was the fourth marathon in my journey to join the Seven Continents Club.
 
 <p align="center" width="100%">
     <img width="300" src="/images/chiang4.jpeg">

@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *18,500 runners from 65 countries, racing around Canada's largest port and the gateway to beautiful British Columbia. This trip was full of sightseeing, adventuring and catching up with old friends. An incredible experience that inspired a leap of faith which would change my life. But more on that below.*
 
-This was the second marathon in my journey to join the [Seven Continents Club](seven-continents-club).
+This was the second marathon in my journey to join the Seven Continents Club.
 
 #### Background
 
@@ -16,7 +16,7 @@ It began with a British Airways flash sale. Dublin to Vancouver for €179 each 
 
 With other friends Anthony, Antonella, Sinéad, Aidan and Luke in the city too it was setup to be a great trip. A convenient flight via Heathrow, followed by an inconvenient random Covid test had me welcomed to Canada. Thirty minutes later I was at the house for a lovely evening meeting his housemates. 
 
-Collecting race packs from the expo on Saturday was fun. They had samples of the aid station food and drinks along with other free stuff. After that we walked for hours exploring the city, saw the steam clock and took the Aquabus (which Luke drives) to Granville Island for lunch and donuts. We met Oisin and the highlight of the day was Cirque de Soleis which blew my mind. Only a week before I said I'd love to see this, with no idea their tour was here. I would highly recommend it to anyone.
+Collecting race packs from the expo on Saturday was fun. They had samples of the aid station food and drinks along with other free stuff. After that we walked for hours exploring the city, saw the steam clock and took the Aquabus (which Luke drives) to Granville Island for lunch and donuts. We met Oisín and the highlight of the day was Cirque de Soleis which blew my mind. Only a week before I said I'd love to see this, with no idea their tour was here. I would highly recommend it to anyone.
 
 <p align="center" width="100%">
     <img width="400" src="/images/van1.webp">

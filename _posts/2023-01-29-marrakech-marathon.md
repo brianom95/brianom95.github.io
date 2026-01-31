@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *6,500 runners from 20 countries, racing through the busy streets of Morocco's former capital. An event I watched during a [Surf Kayaking Trip in 2019](morocco), at a time when kayaking was my life. I never would have guessed that I'd be returning for that race now.*
 
-This was the fifth marathon in my journey to join the [Seven Continents Club](seven-continents-club).
+This was the fifth marathon in my journey to join the Seven Continents Club.
 
 <p align="center" width="100%">
     <img width="400" src="/images/mar1.webp">

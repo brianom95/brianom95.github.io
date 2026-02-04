@@ -144,7 +144,7 @@ Made in 1995, this is said to have redefined board games. This was definitely th
     <img width="400" src="/images/games12.webp">
 </p>
 
-There are a few expansions and I can't speak for them all but I do have Explorers & Pirates which makes the board a behemoth with three different islands. There's a new dynamic for using ships to discover and settle lands, and ongoing missions to defeat pirates and collect fish and spices. At first it was a little daunting and setup is slow requiring the original game pieces, but recently I've fallen in love with this. For anyone who's played Catan to death, it adds endless variations and tactics that make each game unique. It's a much longer game (around 2hrs) but knowing this, it's always fun.
+There are a few expansions and I can't speak for them all but I do have Explorers & Pirates which makes the board a behemoth with three different islands. There's a new dynamic for using ships to discover and settle lands, and ongoing missions to defeat pirates, collect fish and trade spices. At first it was a little daunting and setup is slow requiring the original game pieces, but recently I've fallen in love with this. For anyone who's played Catan to death, it adds endless variations and tactics that make each game unique. It's a much longer game (around 2hrs) but knowing this, it's always fun.
 
 ## Honourable Mentions
 

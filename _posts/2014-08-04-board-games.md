@@ -170,7 +170,7 @@ A fast card game of risk and deduction. Simple, portable, elegant and unique. I 
 2 to 6 players - 60 mins
 
 <p align="center" width="100%">
-    <img width="400" src="/images/games15.webp">
+    <img width="400" src="/images/games16.webp">
 </p>
 
 A unique travel game across the towns and cities of Ireland. Players race to visit every location on their secret list and leave via their final port. There's roadblocks and backstabbing that always leads to unexpected results, which although frustrating does make this a fun game.
@@ -179,7 +179,7 @@ A unique travel game across the towns and cities of Ireland. Players race to vis
 2 players - 15 mins
 
 <p align="center" width="100%">
-    <img width="400" src="/images/games16.webp">
+    <img width="400" src="/images/games15.webp">
 </p>
 
 From the makers of Splendor this has a similar dynamic with cards and chips. Players take turns to buy and sell at the market, proving your abilities to become the Maharaja's personal trader. A very clever, portable and enjoyable game.

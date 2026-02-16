@@ -2,7 +2,7 @@
 layout: page
 title: Seven Summits
 permalink: /sevensummits/
-image: '/images/elbrus1.jpeg'
+image: '/images/elbrus14.jpeg'
 ---
 
 #### History

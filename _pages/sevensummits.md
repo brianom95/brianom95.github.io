@@ -27,7 +27,7 @@ The original Bass List remains the most widely accepted and is shown below:
 2. **[Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko)**  
    25 November 2022  
    
-3. **Elbrus, Russia (5,642m)**  
+3. **[Elbrus, Russia (5,642m)](https://www.brianbeyond.com/elbrus)**  
    29 July 2024  
    
 4. **Aconcagua, Argentina (6,961m)**  

@@ -8,7 +8,7 @@ tags:   [Travel]
 ---
 This is a writeup of my two month backpacking trip through Singapore, Malaysia, Thailand, Laos, Vietnam & Cambodia, following the Banana Pancake Trail. I hadn't anticipated how different each country would be in terms of people, food, scenery, climate and reception to tourism. Everyday I got to learn about the complex histories, landscapes, traditions and social influences that led to such unique cultures. I was immersed in local flavours, loud cities and new customs which took time to change from a chaotic novelty, to a familiar way of life. 
 
-I should include that the trip didn't always suit me. Many areas have a party culture that made me miss the quiet mountains of Ireland or [New Zealand](backpacking-nz). This was usually balanced by the food, fun activities and friendly locals that eventually left me with no regrets. I'm grateful for all the wonderful people I met, and for all I was lucky enough to learn about and experience. Below are my memories of these vibrant places, seen through a lens of naïve curiosity, on a trip that in hindsight was perfect for me. 
+I should include that the trip didn't always suit me. Many areas have a party culture that made me miss the quiet mountains of Ireland or [New Zealand](backpacking-nz). This was usually balanced by the food, fun activities and friendly locals that eventually left me with no regrets. I'm grateful for all the wonderful people I met, and for all I was lucky enough to learn about and experience. Below are my memories of these vibrant places, seen through a lens of naive curiosity, on a trip that in hindsight was perfect for me. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/Sea22.webp">

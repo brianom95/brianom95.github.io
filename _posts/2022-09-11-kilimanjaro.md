@@ -205,7 +205,7 @@ Back into the moorland, reaching Mweka Camp at 2:30pm. It was a beautiful route 
 That night, Hiza the wizard chef made more food which boggled my mind. Tips are always excluded in trip costs and left up to the individual. We thanked everyone and gave out the well earned $700 in tips that Seán & I settled on. Some of the guys spoke to us individually to thank us too and I truly felt blessed to have found such a perfect team.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro12.webp">
+    <img width="400" src="/images/kilimanjaro12.jpeg">
 </p>
 
 #### Day 7 - Back to Reality  

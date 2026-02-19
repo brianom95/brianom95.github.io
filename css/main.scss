@@ -109,3 +109,11 @@
 {% include_relative _4-layouts/post.scss %}
 /* >>>>>>>>>>>>>> :: 4.2-Tags Page <<<<<<<<<<<<<<< */
 {% include_relative _4-layouts/tags-page.scss %}
+
+/* Custom blockquote styling */
+blockquote {
+  font-size: 0.9rem;      /* smaller text */
+  text-align: center;     /* center text */
+  margin: 2rem auto;      /* center block */
+  max-width: 600px;       /* optional: limit width */
+}

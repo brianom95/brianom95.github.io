@@ -94,7 +94,7 @@ My favourite things were the lake walk and the giant redwoods of Whakarewarewa F
 
 Lake Taupō is New Zealand's largest lake and gets it's name from the ancient collapsed volcano which formed its crater. The town on the lake edge was my favourite place on the north island. Huka Falls and the Aratiatia Rapids were an obvious first stop as a kayaker. The river walk to them is beautiful, and it's amazing to see the Aratiatia Dam turn an empty river bed into raging rapids in minutes. Some other nice walks I enjoyed were Mount Tauhara, the Opepe Circuit, the Tookanu Thermal Park and Craters of the Moon.
 
-Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd meet repeatedly.
+Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corina, Travis & McRae who I'd meet repeatedly.
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz9.webp">

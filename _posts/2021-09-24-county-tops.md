@@ -261,12 +261,12 @@ Brian
     <img width="300" src="/images/ctops29.jpeg">
 </p>
 
-#### Trip Video
+## Trip Video
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2bUxNMIIM38?si=43dQ56GQownHTNif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <img src="/images/ctops30.webp">
 
-#### Strava Links
+## Strava Links
 1. [Mweelrea, Mayo](https://strava.app.link/3lZi1c9j7Zb)
 2. [Benbaun, Galway](https://strava.app.link/cCtHxOek7Zb)
 3. [Moylussa, Clare](https://strava.app.link/MvZCf1fk7Zb)

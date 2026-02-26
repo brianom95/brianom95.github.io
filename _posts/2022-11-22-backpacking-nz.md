@@ -252,7 +252,7 @@ The weather was ideal for exploring the sights and food of Te Anau itself, even 
 
 New Zealand's largest national park is centred around the 14 fjords of Southland. These fjords formed through repeated freezing and melting of glaciers, carving deep valleys that extend to the sea. The one road that passes through them is out of this world and I stopped at all the main hikes on route.
 
-Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air. This area is full of amazing hikes.
+Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got high enough to overlook the whole area. The best hike was to Lake Marian, which is hidden deep in the mountains. Fog rolls slowly over snowy peaks that look like Everest, and there's a serenity in the air. This area is amazing.
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz29.webp">

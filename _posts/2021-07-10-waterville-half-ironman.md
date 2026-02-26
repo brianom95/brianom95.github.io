@@ -78,7 +78,7 @@ This race revitalised my motivation for training and with one down and lessons l
     <img width="300" src="/images/halfwaterville8.webp">
 </p>
 
-#### Finish Time
+## Finish Time
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>

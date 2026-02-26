@@ -6,7 +6,7 @@ date:   2021-08-28 12:00:0 +0000
 image:  '/images/killironman0.jpeg'
 tags:   [Triathlon]
 ---
-#### Background
+## Background
 
 The Iron distance was born in 1978 on Oahu island, Hawaii. 15 people competed to settle a dispute on which sport had the fittest athletes. The format was inspired by triathlon and the winner named the Ironman, as a nod to a local runner. The route combined the islands three long races; the Waikiki Roughwater Swim, the Around-Oahu Bike Race & the Honolulu Marathon. Uncertain of whether anyone would finish, the hand written rules included: 
 
@@ -23,7 +23,7 @@ An Ironman is widely considered one of the most difficult one-day sporting event
     <img width="500" src="/images/hardman1.webp">
 </p>
 
-#### First Steps
+## First Steps
 
 I completed the [Valentia Island Sprint Triathlon](valentia-sprint1) in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
 
@@ -31,7 +31,7 @@ It was as mesmerising as it was insane. People crawling across the line after 17
 
 Looking only at the Ironman brand, I impulsively signed up for the 2021 Venice Half Ironman. Cancelled instantly due to Covid, this was a costly mistake. Closer to home, Ireland has only the Cork half and full. I didn't trust that race due to a cancelled swim in 2019 and entire race in 2020 (same happened in 2021). My Dad suggested HARDMAN, who organised the Valentia race, saying they have half and full Ironman races too. They've never cancelled a race or its swim, even through the pandemic. They seemed to appreciate the training involved and however guidelines require, they will run event. I debated it, then jumped in at the deep end by signing up for the full; Killarney 2021. The race looked spectacular. Swim in the lakes of Killarney under mountain views, cycle the Ring of Kerry and run in the national park. The price was €230 and I had 34 weeks to prepare. (Ironman Cork is €750 for reference) 
 
-#### Training
+## Training
 
 When seeking out a training plan all roads lead to Don Fink. He and his wife have won the Ironman World Champs in Kona and train athletes who've done the same. Their book on time efficient Ironman training is the bible, with three different 30 week plans. It guides the entire journey from nutrition and recovery to specific techniques and time management. The basic plan is Just Finish; targeting the standard 17 hour cutoff. HARDMAN uses a reduced 15 hour limit so I aimed to follow the intermediate plan and I put a small whiteboard on my bedroom wall to track everything. 
 
@@ -81,7 +81,7 @@ I got an AirBnB in Killarney with my family. The day before I filled my bottles 
 
 After I walked a lap of the run and I drank a tonne of water. My last dinner was a pizza and I was in bed by 8:00pm. Feeling as excited as nervous.
 
-#### Race Day
+## Race Day
 
 At 3:00am I had my tried and tested breakfast; porridge with honey and a banana, followed by a Berocca. My Dad was up to wish me luck before I left. He's done endurance events I wouldn't dream of and likely inspired all of this, so it meant a lot to me. The roads were empty on the drive over, but the start was busy with headtorches. I joined the crowd in prepping my transition area and suiting up.
 
@@ -187,7 +187,7 @@ We met Jamie and Anna the next day for breakfast. Lying out on the grass with th
     <img width="400" src="/images/hardman22.jpeg">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 HARDMAN Killarney deserves to be the premier Ironman distance race for Ireland. The routes are second to none, and there's no better setting for international athletes to experience our country. As a smaller company they struggle to get the participation levels of Ironman, but through their good track record and lower costs this will likely improve. This race truly is spectacular.
 
@@ -224,7 +224,7 @@ Brian
     <img width="400" src="/images/hardman10.webp">
 </p>
 
-#### Finish Time
+## Finish Time
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>

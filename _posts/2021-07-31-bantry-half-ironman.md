@@ -84,7 +84,7 @@ I hope this doesn't turn anyone away from doing this race. On a day with no sea 
     <img width="400" src="/images/halfbantry10.jpeg">
 </p>
 
-#### Finish Time
+## Finish Time
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>

@@ -5,7 +5,7 @@ permalink: /sevensummits/
 image: '/images/elbrus14.jpeg'
 ---
 
-#### History
+## History
 In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America and South America. His book titled 'The Seven Summits' was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
 
 Reinhold Messner refutes that Indonesia's Puncak Jaya (Carstensz Pyramid) is a more deserving high point than the modest Kosciuszko, calling the continent Oceania rather than Australia. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders (by most definitions Indonesia is in Asia). Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. 
@@ -20,7 +20,7 @@ The original Bass List remains the most widely accepted and is shown below:
 
 ---
 
-#### My Climbs
+## My Climbs
 1. **[Kilimanjaro, Tanzania (5,895m)](https://www.brianbeyond.com/kilimanjaro)**  
    11 September 2022  
    

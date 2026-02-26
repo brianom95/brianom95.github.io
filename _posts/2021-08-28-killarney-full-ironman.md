@@ -143,7 +143,7 @@ Jamie's parents and girlfriend Anna cheered us on every lap. My family and frien
     <img width="400" src="/images/hardman19.jpeg">
 </p>
 
-Then came the depths. Everyone would ask are you counting up (Lap 1-5) or counting down (Lap 6-10). It was a tough place to be on Lap 2, knowing what's ahead, but we put the heads down and kept moving. My stomach didn't want food or water but I forced it in. It was intensely hot but half the loop had tree cover so we tried to enjoy that. I tried to puke behind a tree at one point. Only air came out and this settled my stomach making me feel ten times better. I did the same at that tree on every lap from then on.
+Then came the depths. Everyone would ask are you counting up (Lap 1-5) or counting down (Lap 6-10). It was a tough place to be on Lap 2, knowing what's ahead, but we put the heads down and kept moving. My stomach didn't want food or water but I forced it in. It was intensely hot but half the loop had tree cover so we made sure to enjoy that. I tried to puke behind a tree at one point. Only air came out and this settled my stomach making me feel ten times better. I did the same at that tree on every lap from then on.
 
 <p align="center" width="100%">
     <img width="400" src="/images/hardman8.webp">

@@ -12,7 +12,7 @@ This is the story of a week that Seán Ennis and I spent above the clouds. From 
     <img width="400" src="/images/kilimanjaro1.webp">
 </p>
 
-#### Background
+## Background
 
 Mount Kilimanjaro is a dormant volcano in an otherwise flat savannah of Tanzania, only 20km from the Kenyan border. It is Africa’s highest peak at 5,895m, one of the [Seven Summits](sevensummits/), and the tallest free-standing mountain in the world. Eruptions over 360,000 years ago left three volcanic cones; Kibo, Mawenzi & Shira. The summit is on Kibo’s crater rim, named Uhuru which is Swahili for 'Freedom'. 
 
@@ -26,7 +26,7 @@ Kilimanjaro has five ecological climate zones. The Arctic Summit (Ice Cap) has s
     <img width="400" src="/images/kilimanjaro2.jpeg">
 </p>
 
-#### Acclimatisation is Key
+## Acclimatisation is Key
 
 Air is less dense or thinner at altitude. Oxygen molecules are more spread out resulting in each breath containing less of them. Our bodies must adapt to extract more than normal. This is what's known as acclimatisation. Breathing and heart rates naturally increase, allowing more air in and more oxygen to be transferred from the lungs to our blood. The body also ramps up the production of red blood cells, which are our oxygen carriers.
 
@@ -40,7 +40,7 @@ For completeness I'll note that acclimatisation is slower for higher altitudes d
     <img width="400" src="/images/kilimanjaro3.jpeg">
 </p>
 
-#### Routes & Guides
+## Routes & Guides
 
 First things first; it is illegal to climb Kilimanjaro without a guide. While it's seen as a fun challenge, there are real risks to climbing too fast. AMS can develop into brain swelling, and normal breathing difficulties can become fluid in the lungs. Guides know the signs and will test blood oxygen levels to confirm. They will discreetly carry a small oxygen tank and prophylaxis drugs which can delay effects, and they're trained in rapid evacuation which is the only real remedy. They're also experts on preventing issues before they happen, making them the sole reason that this climb is considered safe.
 
@@ -56,7 +56,7 @@ International operators typically charge two to three times higher than we paid,
     <img width="400" src="/images/kilimanjaro4.webp">
 </p>
 
-#### Preperation & Logistics
+## Preperation & Logistics
 
 Flights to Kilimanjaro International Airport were €650 return from Dublin, via Qatar. The airport is one hour from two regional capitals; Moshi the climbing hub, and Arusha the safari hub. We decided to stay in Moshi before and Arusha after, which I'd recommend. Moshi is great for meeting operators and renting gear, but Arusha is better setup for tourism as it's the gateway to the Serengeti.
 
@@ -78,7 +78,7 @@ You can find Diamox in Tanzania but it's not guaranteed, so we got it at home. O
     <img width="400" src="/images/kilimanjaro5.webp">
 </p>
 
-#### Arrival in Moshi
+## Arrival in Moshi
 
 The plane seemed huge for such a small airport. Mostly tourists bound for the Serengeti but we both looked through the warm, dry air for a mountain hidden in clouds. Security was done outside then a quick visa check (bring a pen) and our bags were neatly stacked and waiting. I was amazed by how clean the airport and surrounding area was, and that they actually enforced their country wide ban on plastic bags! Taxis to either city are $50 and the brand new highway passed villages and camels as we got a warm welcome from the driver.
 
@@ -96,7 +96,7 @@ That night we got dinner in town, finalised our packing and drank loads of water
     <img width="300" src="/images/kilimanjaro6.webp">
 </p>
 
-#### Day 1 - Rainforest Zone  
+## Day 1 - Rainforest Zone  
 Machame Gate (1,800m) to Machame Camp (2,835m)
 
 The bus arrived at 9:00am and I was amazed by the amount of gear strapped to the roof. Ally introduced us to our assistant guide Abou, chef Hiza, and the six porters; Juma, Fabian, Hemed, Seif, Musa & Ridhwan. We stopped at Elisante's office to pay the balance, store extra bags (coffee beans and soon to be coffee smelling clothes) and got a team photo. Elisante wished us luck and we hit the road, seeing glimpses of the summit through clouds.
@@ -115,7 +115,7 @@ There was a nice sunset over the summit which most campers watched. Ally and Abo
     <img width="400" src="/images/kilimanjaro7.webp">
 </p>
 
-#### Day 2 - Moorland Zone  
+## Day 2 - Moorland Zone  
 Machame Camp (2,835m) to Shira Camp (3,750m)
 
 Breakfast was always three courses too; fresh fruit, followed by porridge and then a fry with omelettes, sausages, pancakes and toast. It was ridiculous and we could never finish it all. We would leave our packed bags in the tent and set off with Ally & Abou, only to be overtaken by the porters who would have it all setup again at the next camp.
@@ -128,7 +128,7 @@ That night Ally took us for an acclimatisation walk which is surprisingly hard t
     <img width="400" src="/images/kilimanjaro8.webp">
 </p>
 
-#### Day 3 - Lava Tower  
+## Day 3 - Lava Tower  
 Shira Camp (3,750m) to Lava Tower (4,600m) to Baranco Camp (3,900m)
 
 An important acclimatisation day, climbing to the height of base camp but descending again to adjust. The morning was spectacular with sunny views of the summit (which still looked so high). As we climbed, any heather and grasses got less common. Once it was just sand and rock around us we could tell we were in the alpine desert. The open landscape was novel to walk on with winding paths and a bridge over a karst waterfall.
@@ -143,7 +143,7 @@ Ally had spent days repeatedly asking us to slow down (Pole Pole in Swahili), sa
     <img width="400" src="/images/kilimanjaro9.webp">
 </p>
 
-#### Day 4 - Baranco Wall  
+## Day 4 - Baranco Wall  
 Baranco Camp (3,900m) to Baranco Wall (4,150m) to Karanga Camp (3,995m)
 
 The Baranco Wall stands between this camp and the next. There are some simple but fun scrambles to get over it which although it causes some queues were really fun. I liked the kissing rock halfway up and even with the fog it was a great day. At the top we got the classic photos of jumping on the edge and stayed there for lunch.
@@ -160,7 +160,7 @@ It was a remarkably clear evening. Seán and I took the opportunity to get some 
     <img width="400" src="/images/kilimanjaro10.webp">
 </p>
 
-#### Day 5 - Base Camp  
+## Day 5 - Base Camp  
 Karanga Camp (3,995m) to Barafu Camp (4,673m)
 
 The big day had arrived and donuts in the morning fry showed it! We got a group photo and set off, keeping a fast pace. A foggy descent followed by a steep zig zag up a cliff, which brought us back to the alpine desert and into Barafu Camp for 10:30am. Several routes converge here so it was full of people, only a few choosing the higher Millennium Camp for worse quality sleep, but a shorter summit night.
@@ -177,7 +177,7 @@ We got in our usual 4 Liters of water early and slept most of the day. Dinner wa
     <img width="400" src="/images/kilimanjaro11.webp">
 </p>
 
-#### Day 6 - Arctic Summit  
+## Day 6 - Arctic Summit  
 Barafu Camp (4,673m) to Uhuru Peak (5,895m) to Mweka Camp (3,100m)
 
 When the alarm rang we felt groggy but ready. We put on all our clothes and had some tea and biscuits outside. We could see trails of head torches headed up the mountain, leaving us the only ones awake in the eerily silent campsite. It was very cold so we got going soon.
@@ -208,7 +208,7 @@ That night, Hiza the wizard chef made more food which boggled my mind. Tips are 
     <img width="400" src="/images/kilimanjaro12.jpeg">
 </p>
 
-#### Day 7 - Back to Reality  
+## Day 7 - Back to Reality  
 Mweka Camp (3,100m) to Mweka Gate (1,600m)
 
 It was an early start when we got up for a final breakfast. The two hours of rainforest flew by, mostly running as all the porters did. Everyone was excited to get home to their families, or in our case just a shower! We saw monkeys in the trees again, life which was non existent a day before. Through a gap in the forest we had a view of the summit, looking up and imagining all the tiny hikers struggling their way to the top. Rounding a final corner we saw the last sign at Mweka Gate. It read; 'Congratulations, Bon Voyage'.
@@ -219,7 +219,7 @@ There was a book to sign which held the names of all who summited. Certs were pr
     <img width="400" src="/images/kilimanjaro13.webp">
 </p>
 
-#### Arusha
+## Arusha
 
 The following few days were paradise. So much good food and Kilimanjaro beers. Mostly enjoyed by the pool but sometimes in questionable bars. Nice cafe's and restaurants in town, silly souvenirs at the curio markets and fun tours of the Tanzanite Experience & the Old Boma Museum. Plus an afternoon with a 100 year old giant tortoise. A run around town showed me so many cool sculptures and one day we got a taxi to the Cultural Heritage Centre which was full of Swahili artwork. I also made Seán try Zappa which was my favourite drink in Uganda. He was not a fan!
 
@@ -231,7 +231,7 @@ I was sad to leave by the end, having really enjoyed my time in Tanzania. We had
     <img width="400" src="/images/kilimanjaro14.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 So that's a wrap. The trip was truly spectacular, both on and off the mountain. Much easier than we anticipated as far as base camp, but every bit as difficult as people say for summit night. Achievable and rewarding, but a very tough grind for sure. I don't know if I've ever felt so cold.
 
@@ -248,5 +248,5 @@ Asante Sana
     <img width="400" src="/images/kilimanjaro15.webp">
 </p>
 
-#### Trip Video
+## Trip Video
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/NMBZwbp5cmc?si=sl_Bg-pEpIE1HMtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

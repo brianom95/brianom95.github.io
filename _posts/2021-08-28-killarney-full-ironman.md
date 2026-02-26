@@ -137,7 +137,7 @@ The run used to be three laps of a 14km loop until some 2020 flooding. Then it b
     <img width="400" src="/images/hardman18.jpeg">
 </p>
 
-Jamie's parents and girlfriend Anna cheered us on every lap. My family and friends; Seán, Joe, Katie & Eoghan had all come to support us too, sitting on top of the worst hill. Primed to get the worst photos, but also giving jellies to everyone where they were needed most. They had signs and t-shirts that were extremely embarrassing, but also a funny surprise and much appreciated.
+Jamie's parents and girlfriend Anna cheered us on every lap. My family and friends; Seán, Joe, Katie & Eoghan had all come to support us too, sitting on top of the worst hill. Primed to get the least flattering photos, but also giving jellies to everyone where they were needed most. They had signs and t-shirts that were extremely embarrassing, but also a funny surprise and much appreciated.
 
 <p align="center" width="100%">
     <img width="400" src="/images/hardman19.jpeg">

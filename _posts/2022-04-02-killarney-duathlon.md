@@ -14,7 +14,7 @@ For many this marks the start of triathlon season, just without the cold swim. F
     <img width="400" src="/images/duathlon1.webp">
 </p>
 
-#### The Race
+## The Race
 
 I stayed in my now usual B&B (lots of races are in Killarney) and had a nice dinner in town the night before. The morning was standard enough collecting race packs, pumping tyres, oiling chains and setting up an unusually simple transition that was essentially just the bike. 
 
@@ -54,7 +54,7 @@ Jack finished less than two minutes after me, and Patrick smashed his 3.5hr targ
     <img width="400" src="/images/duathlon6.jpeg">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 Duathlon felt unique in a few ways. I thought the 10km run left me more tired than the slow 1.5km swim of a similar triathlon. I still got the multisport benefit of being warmed up and loose on the bike, but it was a different and less fresh feeling than I was used to. It was nice to not get into cold water though, and it's very clear why some people opt for these races. 
 
@@ -64,7 +64,7 @@ Overall I really enjoyed the event, especially the run routes around the nationa
     <img width="400" src="/images/duathlon7.jpeg">
 </p>
 
-#### Finish Time
+## Finish Time
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>

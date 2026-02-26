@@ -10,7 +10,7 @@ tags:   [Running]
 
 This was the second marathon in my journey to join the Seven Continents Club.
 
-#### Background
+## Background
 
 It began with a British Airways flash sale. Dublin to Vancouver for €179 each way was too good to miss. Conall Sweeney emigrated last September and offered me his spare room and to join for the race. Originally he'd do the half marathon, but decided to go for the full, as did our friends Oisín & Cathal. 
 
@@ -22,7 +22,7 @@ Collecting race packs from the expo on Saturday was fun. They had samples of the
     <img width="400" src="/images/van1.webp">
 </p>
 
-#### The Race
+## The Race
 
 Jetlag gifted me four hours sleep and I questionably opted for a breakfast of donuts. A fifteen minute walk later, we were feeling the buzz at the start line. We met Cathal and awaited Oisín who was sprinting from home after sleeping in. Eventually Conall and I were slotted in behind the 4:00hr pacers and the countdown loomed. I wasn't sure if I'd manage that target based on my lack of training but it was a good place to start.
 
@@ -56,7 +56,7 @@ Post race we had well deserved showers, lots of food and went out for drinks. Hi
     <img width="300" src="/images/van4.webp">
 </p>
 
-#### The Trip
+## The Trip
 
 I really expected my marathon tiredness to cure the jetlag, but it didn't. I never slept more than four hours any night, this one included. At 6:00am the next day I was one of the first into Tim Horton's for some Tim Bits and explored all the nearby parks. 
 
@@ -98,7 +98,7 @@ My body clock was completely screwed up after two parties that night but entirel
     <img width="400" src="/images/van10.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 I couldn't fault the marathon and the Canadian support was top notch. I loved the variety of what you ran through and hilly as it was, I was never bored. I had never seen skyscrapers like the finish line before and loved the novelty of standing beneath them on what would normally be a busy main road. The coastal section around Stanley Park was pristine and I'd highly recommend this race.
 
@@ -114,7 +114,7 @@ The food was amazing too, be that the 'proper food' like the poutines, taco's, b
     <img width="400" src="/images/van11.webp">
 </p>
 
-#### In Closing
+## In Closing
 
 So that's a wrap. There wasn't much rest on the way home with a missed flight and some airport sprints. The jetlag was worse on the way back and sleep deprivation got pretty bad over the following week. 
 

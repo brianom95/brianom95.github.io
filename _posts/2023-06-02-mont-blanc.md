@@ -8,7 +8,7 @@ tags:   [Mountaineering]
 ---
 This is my experience of climbing the highest mountain in Western Europe. A multi-day trek through snow and glaciers, to reach the peak where modern mountaineering was born. An adventure I couldn't recommend more highly to those capable.
 
-#### Introduction
+### Introduction
 
 Mont Blanc is a 4,808m tall mountain on the border between France & Italy. The peak is dazzling white from year round snow and glaciers, owing to the name. It lies at the centre of the Mont Blanc Massif, one of the most iconic ranges in the Alps. This area has become a playground for adventurers of all outdoor pursuits, but especially mountaineers who dream of reaching the summit. Most expeditions centre around Chamonix; a beautiful village whose main square stares up at the peak. 
 
@@ -18,7 +18,7 @@ Joined by Niall & Will, I reached the summit at 6:00am on the 2nd of June 2023. 
     <img width="400" src="/images/mb12.webp">
 </p>
 
-#### History
+### History
 
 Modern mountaineering can be traced back to Horace Bénédict de Saussure; a Swiss physicist who was fascinated by Alpine geology & botany, as well as altitude and its effects. In 1760, he offered prize money to whoever could reach the summit first, though still continued with his own attempts for years to come. While searching for routes he walked a 100 mile loop around the entire mountain range, which credits him as the pioneer of the [Tour du Mont Blanc](tmb); Europe's most famous thru-hike. This hike is what brought me to Chamonix in 2022, and inspired my summit climb less than one year later. But back to the first attempts:
 
@@ -34,7 +34,7 @@ For the 100 year anniversary in 1887, a bronze statue was unveiled showing Balma
     <img width="300" src="/images/mb1.webp">
 </p>
 
-#### Preparation & Planning
+### Preparation & Planning
 
 The most popular way to climb Mont Blanc is via the Goûter Route. Unless you're experienced in glacier travel, crevasse rescue and Alpine navigation then a guided climb is a far safer option. Roughly 100 people die on Mont Blanc every year so it's not somewhere to take chances. Paul Swail is an Irish guide living in Chamonix who was recommended to me. I chose one of his set dates in May and had a great experience climbing with him. You can climb between May & September, but going earlier avoids the risk of rockfall and closures from excessive thawing.
 
@@ -48,7 +48,7 @@ Flights from Dublin to Geneva cost €75 each way, then a short bus to Chamonix.
     <img width="300" src="/images/mb2.webp">
 </p>
 
-#### Gran Paradiso
+### Gran Paradiso
 
 We all met at a café in town. Pat, Pádraig and Séamus were chirpy and outgoing, telling stories of climbing Island peak in Nepal two years ago, and of their attempt on Mont Blanc last year. Niall had done lots of caving and climbing, but had minimal snow experience like me. That would be our group of five Irish, bonded by our guides Paul & Will who laid out the plan, checked our gear and got us moving after coffees. We drove through the Mont Blanc tunnel to Italy, had one more café stop, and parked at the trail head of Gran Paradiso.
 
@@ -76,7 +76,7 @@ Although we were alone on the summit, we followed the one way system to avoid cl
     <img width="400" src="/images/mb5.webp">
 </p>
 
-#### Aiguille du Midi
+### Aiguille du Midi
 
 The next morning we met at the main gondola station which goes up to 3,842m on Aiguille du Midi; one of France's most popular tourist attractions. The name means Midday Needle because the sharp summit casts a shadow through the main square in Chamonix at exactly noon. On the way up we met hikers and skiiers headed for Mont Blanc via different routes, and saw complex ski slopes which involve abseils or end with paragliding. As we disappeared into clouds it seemed like the lift could rise forever.
 
@@ -88,7 +88,7 @@ We had planned for Niall & I to do a climb up Cosmiques Ridge with Will today, 
     <img width="400" src="/images/mb6.webp">
 </p>
 
-#### Mont Blanc
+### Mont Blanc
 
 The day had come! Bright and early we drove to the next town over; Saint-Gervais-les-Bains. Here we met Dan, our third guide from here on. Normally you take a gondola from the town, then a funicular train to the start of the Goûter Route, but these weren't open this early in the season. Walking the train tracks was tough in heavy boots, but from the top we put on our crampons and it felt good to be back on snow. We left the official start point at 9:30am.
 
@@ -134,7 +134,7 @@ The sixth day in the itinerary was a contingency one in case the weather had bee
     <img width="400" src="/images/mb10.webp">
 </p>
 
-#### Afterthoughts
+### Afterthoughts
 
 The Goûter Route is brilliant. Not easy, but it is accessible, especially with an itinerary like this. I would recommend staying in the Goûter Hut rather than the Tête Rousse Hut, both for the shorter summit night and because of how cool it is. The huts book out months in advance so guides often have their dates fixed before advertising trips. If you end up in the Tête Rousse Hut it's probably due to booking late. I loved the steep scramble up to the Goûter Ridge, but was glad not to do it during our summit night.
 

@@ -89,7 +89,7 @@ At 3:00am I had my tried and tested breakfast; porridge with honey and a banana,
     <img width="400" src="/images/hardman7.webp">
 </p>
 
-The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces.
+The sun began to rise as our families arrived and the start approached. We finalised the last of our gear, took a few photos and lined up at our spaces. We were reminded often to keep masks on until the start, but most threw them away around now.
 
 Alan Ryan gave his usual few words, after which the fastest swimmers entered the water. It was beautifully calm and clear, with the events music filling the otherwise silent lake. It wasn't long before Jamie and I were migrating towards the water. I waved to my family and two by two we jumped in.
 

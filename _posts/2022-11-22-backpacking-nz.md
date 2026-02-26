@@ -14,7 +14,7 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
     <img width="400" src="/images/nz28.webp">
 </p>
 
-#### Introduction
+## Introduction
 
 New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, many large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
 

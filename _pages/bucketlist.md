@@ -166,7 +166,7 @@ image:  '/images/bucket0.jpeg'
 #### The Seven Summits (5/7)
 1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](https://www.brianbeyond.com/kilimanjaro)
 2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](https://www.brianbeyond.com/kosciuszko)
-3. <mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>
+3. [<mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>](https://www.brianbeyond.com/elbrus)
 4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
 5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
 6. Everest, Nepal (8,848m)

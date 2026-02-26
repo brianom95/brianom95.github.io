@@ -14,7 +14,7 @@ The Presidents Award, or Gaisce, is a self directed challenge for young people t
 4. Adventure Journey
 5. Residential Project (Gold only)
 
-#### Bronze
+## Bronze
 
 I first heard of the award in Scouts where we were encouraged to signup for Bronze. I remember putting the blue Gaisce logbook into a ziploc bag to keep it safe, where it would live for almost a decade. Even then I dreamt of the day I'd meet the president to get my Gold. 
 
@@ -24,7 +24,7 @@ My scout leaders helped me make a plan. This included guitar lessons (which beca
     <img width="400" src="/images/presaward1.jpeg">
 </p>
 
-#### Silver
+## Silver
 
 Scouting Ireland was transitioning at the time, replacing the old awards programme to make it more transferable. It was a great idea; align awards so that earning a certain stage in hillwalking or paddling for example, would transfer to actual certs from Hillwalking Ireland or Canoeing Ireland. Making the work you put in more valuable in the wider world.
 
@@ -42,7 +42,7 @@ The adventure skills were organised into 9 areas, each with 9 stages of proficie
     <img width="400" src="/images/presaward3.webp">
 </p>
 
-#### Gold
+## Gold
 
 Having realised these CSA's were all or nothing, I was not as fast to jump into the Rover award. As much as I wanted to do it via that route, it made me nervous. The requirements included an 8 and two 7's, as well as a host of other things that made the Gold Gaisce look easy. Proud that I saw the previous one through, and annoyed with myself that I ever tried to give up, I signed up and promised myself no matter what happened; I was not quitting.
 

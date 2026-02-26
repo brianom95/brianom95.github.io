@@ -6,7 +6,7 @@ date:   2023-07-28 12:00:0 +0000
 image:  '/images/munro1.jpeg'
 tags:   [Mountaineering]
 ---
-#### Background
+## Background
 
 In 1891, Hugh Munro compiled a list of Scotland's 282 peaks above 3,000ft (914m). Known as the Munro's, they vary from simple walks to roped climbs like The Inaccessible Pinnacle. The Scottish Mountaineering Club credit 7,098 people with summiting them all as of 2023. The first was Archie Robertson in 1901, with his 12 year journey detailed in a biography; The First Munroist.
 
@@ -18,7 +18,7 @@ Ireland has 13 such mountains, often called The Irish Munro's, but technically c
     <img width="500" src="/images/munro1.webp">
 </p>
 
-#### The Sub 48hr Attempt 
+## The Sub 48hr Attempt 
 
 Seán Ennis & I planned to make it happen in June 2022. I had been hiking and running all year so I felt ready, but we ended up changing it to a two day challenge last minute. This was the right decision at the time, and ultimately proved useful to try the route in full daylight. Two days is probably what I'd recommend to others looking at this challenge also. It was rewardingly tough, but still fun, with none of the delirious hallucinations of a 24hr attempt.
 
@@ -28,7 +28,7 @@ We started with Lugnaquilla, then Galty Mór and camped at the base of Carraunto
     <img width="400" src="/images/munro2.webp">
 </p>
 
-#### The Sub 24hr Attempt
+## The Sub 24hr Attempt
 
 Jamie Fennell and I were ready when we got a perfect weather window in July 2023. We had both done recent trail marathons (three in three days in his case), and we knew nothing would stop us. We targeted one calendar day, meaning we start at the carpark of Lugnaquilla at midnight on Friday, and had to be back at the carpark of Mount Brandon before midnight on Saturday. 
 
@@ -101,7 +101,7 @@ It was the next day before any of it really set in. This experience and how it f
     <img width="400" src="/images/munro1.jpeg">
 </p>
 
-#### Strava Links
+## Strava Links
 1. [Lunaquillia](https://www.strava.com/activities/9540669753)
 2. [Galty Mór](https://www.strava.com/activities/9540934514)
 3. [Macgillycuddy's Reeks](https://www.strava.com/activities/9544825360)

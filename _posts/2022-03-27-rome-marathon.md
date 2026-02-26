@@ -14,7 +14,7 @@ This was also the first marathon in my journey to join the Seven Continents Club
     <img width="400" src="/images/rome1.webp">
 </p>
 
-#### The Race
+## The Race
 
 I flew out Saturday and my first stop was the race expo. It's a fun experience collecting race packs, t-shirts and wandering the stalls. I couldn't believe how busy it was and it made me appreciate the sheer number of people. It was a quiet night from there with a nice pizza and lots of water.
 
@@ -68,7 +68,7 @@ The last bend was incredible, facing us towards Piazza Venezia. It looked astoni
 
 I was 30 minutes in shade before I finally cooled down and felt okay. Some light stretching had the legs alright, but after at least 6 litres of electrolytes and water that day I still felt dehydrated. I made my way home via the Colosseum, where I had even more water and some well earned Nutkao and cookies.
 
-#### The Trip
+## The Trip
 
 My Dad advised I do the touristy bits after the race, not before. This turned out to be wise, keeping the legs fresh for the day of. After the Sunday race I stayed until late Wednesday seeing the sights. The Colosseum, Trevi Fountain, Pantheon and Saint Angelo's Castle were all amazing but the Vatican was definitely a highlight. 
 
@@ -78,7 +78,7 @@ I loved St. Peter's Basilica and especially the view from on top of the dome. Th
     <img width="400" src="/images/rome7.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 I loved the atmosphere of this race and it's easily recommendable. The huge crowds and spectacular scenery make up for any long queues. Although I'm clearly not built for heat, I couldn't fault the aid stations and couldn't have done it without them. The bands, DJ's and drummers are fantastic and I thought the pacers did a great job. They were a never ending bundle of energy for every step.
 

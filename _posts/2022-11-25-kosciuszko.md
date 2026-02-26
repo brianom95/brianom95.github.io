@@ -10,7 +10,7 @@ Mount Kosciuszko is Australia's highest peak at 2,228m. It is the smallest of th
 
 This mountain was on my mind ever since summiting [Kilimanjaro](kilimanjaro). I reached out to my friends Eoin & Emily who live in Melbourne and luckily they wanted to climb it too. We chose springtime which coincided perfectly with the end of my trip to [New Zealand](backpacking-nz). 
 
-#### My Trip
+## My Trip
 
 I first flew to Sydney for a fun few days of walking tours, cycling tours, beaches and a memorable show in the opera house. A nine hour train brought me to Albury, where I met Eoin & Emily for the last four hour drive to Jindabyne. Right on the edge of Kosciuszko National Park, this little ski town is surrounded by mountains and snow that looked nothing like the idea I had of Australia. We saw a few kangaroos on route and had a wallaby knock on our cabin door one night.
 

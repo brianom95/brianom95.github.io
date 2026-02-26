@@ -2,7 +2,7 @@
 layout: post
 title:  My Gaisce Journey
 description: The project that shaped my life for ten years. The Bronze, Silver & Gold Gaisce Awards.
-date:   2022-02-01 12:00:0 +0000
+date:   2018-12-10 12:00:0 +0000
 image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]
 ---

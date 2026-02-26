@@ -62,7 +62,7 @@ In the evenings we explored more of the city, hiked up Mount Eden and had nice f
 
 #### Waitomo & Hamilton
 
-Andrew, Olivia & I drove to Waitomo's famous glow worm caves. In thick wetsuits, you sit in inflatable tubes and float through a jet black cave, staring up at the glowing dots that look like distant stars. Tiny, invisible strings hang down to catch bugs who think their flying to the night sky. As the worms eat they emit excess energy as light to continue the cycle. It's an incredible experience when you turn off the headtorches and float past the sprawling galaxies.
+Andrew, Olivia & I drove to Waitomo's famous glow worm caves. In thick wetsuits, you sit in inflatable tubes and float through a jet black cave, staring up at the glowing dots that look like distant stars. Tiny, invisible strings hang down to catch bugs who think their flying to the night sky. As the worms eat they emit excess energy as light to continue the cycle. It's an incredible experience when you turn off the headtorches and float past what looks like sprawling galaxies.
 
 That evening I was dropped in Hamilton to continue alone. Wasn't much to the town, but they did have a huge botanical garden. Sections were themed on places like Egypt and India, or trippy concepts like modernist or surrealist; with robotic moving trees and giant elements like those in Alice in Wonderland. Very well done and took ages to explore it all. Random fact: Hamilton is the antipode (exact opposite side of the world) to Córdoba in Spain. Around the world records usually require you to visit two antipodes and these are the most common choice.
 

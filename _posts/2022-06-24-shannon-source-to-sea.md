@@ -6,7 +6,7 @@ date:   2022-06-24 12:00:0 +0000
 image:  '/images/shannon0.webp'
 tags:   [Kayaking]
 ---
-#### Brian's Big Three
+## Brian's Big Three
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
@@ -27,7 +27,7 @@ This is Phase 1: Shannon Source to Sea
     <img width="400" src="/images/shannon1.jpeg">
 </p>
 
-#### The Shannon Pot
+## The Shannon Pot
 
 On the Northern Irish border is a tiny, unassuming pond named the Shannon Pot. Pagans believed this to be a bottomless portal to the underworld and used the site for rituals and ceremonies. Legend says it was here that ancient Druids planted the Tree of Knowledge. One day Sionnan, granddaughter of Manannán Mac Lir (God of the Sea), came to eat its forbidden fruit. The water sprang up, pulled her in and flowed over the land to form a river named on her behalf. 
 
@@ -39,7 +39,7 @@ These days we know that Cavan’s complicated cave network is the explanation fo
     <img width="400" src="/images/shannon2.jpeg">
 </p>
 
-#### The Shannon River
+## The Shannon River
 
 Somehow this trickle of a stream goes on to become the longest river in the country. Carving its way to the Atlantic Ocean via the mountains, lakes and towns of eleven counties. Sustaining life along the way with people living and working on every bit of this water. It holds everything from freshwater fish to bottlenose dolphins in the estuary. When I stood at the source, I was far from home yet connected to places I’ve lived, worked, studied and adventured. Years of memories, all physically linked.
 
@@ -51,7 +51,7 @@ For me, this water holds the rapids that made me love kayaking, the places I lea
     <img width="400" src="/images/shannon3.jpeg">
 </p>
 
-#### Preparation & Planning
+## Preparation & Planning
 
 I chose to start in Dowra at the first floatable section on the river. The end point would be Limerick City; my home for the past nine years and where the river meets tidal sea water. This is the typically documented route, and at 250km I estimated five equal days. I debated continuing further into the estuary, but having paddled the 90km stretch from Limerick to Tarbert before (in one gruelling day), I was happy to end in a more personally significant place for this.
 
@@ -63,7 +63,7 @@ I've paddled most of the river before with friends so had some familiarity. Plan
     <img width="400" src="/images/shannon4.webp">
 </p>
 
-#### Day 1 - Dowra to Battlebridge (32km)
+## Day 1 - Dowra to Battlebridge (32km)
 
 After visiting the Shannon Pot, it was already 3:30pm when I unloaded the boat in Dowra. Exceptionally low river levels made it difficult to get on the water and to get going. The first 3km were so low that much had to be walked. It was scrapey, slow and frustrating but eventually eased as I approached Lough Allen. Then came the wind.
 
@@ -77,7 +77,7 @@ Two other kayakers had been exploring the river below and camped in the same spo
     <img width="400" src="/images/shannon5.webp">
 </p>
 
-#### Day 2 - Battlebridge to Lough Ree (67km)
+## Day 2 - Battlebridge to Lough Ree (67km)
 
 This day was stunning. Glassy reflections on the water and the sun beating down. Still windy, especially on straight river sections, but I worked hard for 13hrs straight to make up for yesterdays shorter day. Lots of interesting bridges, fields of donkeys and people in boats passing and talking to me regularly. One guy threw me a Mars bar from 100m away with incredible accuracy. I also learned that Mars bars float!
 
@@ -91,7 +91,7 @@ Finally I saw an island too good to pass up and setup camp there. Definitely the
     <img width="400" src="/images/shannon6.jpeg">
 </p>
 
-#### Day 3 - Lough Ree to Shannonbridge (49km)
+## Day 3 - Lough Ree to Shannonbridge (49km)
 
 This day felt like endless lakes, starting with the rest of Lough Ree which passed without issue. The morning was gloomy and overcast, but relatively still. I was able to make long crossings and exit the lake with a minimum of unnecessary distance. I was feeling the low water levels with no real flow in the river, but I put the head down through the headwinds regardless. I was excited for Athlone weir which is usually a fun slide but today was another annoying portage.
 
@@ -103,7 +103,7 @@ Downstream of Shannonbridge, I passed West Offaly Power Station. After 10hrs of 
     <img width="400" src="/images/shannon7a.webp">
 </p>
 
-#### Day 4 - Shannonbridge to Lough Derg (54km)
+## Day 4 - Shannonbridge to Lough Derg (54km)
 
 Nice sections of river today brought cool trees, lots of curious cows and the first rapid that required my helmet at Meelick Weir. I even saw a white tailed eagle overhead. All fun things but I was feeling zapped. The long days were taking their toll by now. 
 
@@ -123,7 +123,7 @@ When I eventually reached the bank it wasn't necessary to get off the water anym
     <img width="400" src="/images/shannon8.webp">
 </p>
 
-#### Day 5 - Lough Derg to Limerick (48km)
+## Day 5 - Lough Derg to Limerick (48km)
 
 I woke to an eerily calm lake. Complete silence and no ripples from any distant boats. It was still overcast so I did the last of my long crossings quickly. It was a slog. Killaloe was waking up as I celebrated ticking off the last lake, and the sun even came out. Parteen Weir in the distance marked the next phase and through the headwinds I eventually got there.
 
@@ -143,7 +143,7 @@ A group of women were celebrating a retirement and gave me a slice of cake on he
     <img width="400" src="/images/shannon10.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 A big storm swept over Ireland the day after I finished. I'm so thankful I kept the pace up during the tough times to finish when I did. The blisters faded fast but some aches and pains remained for a long time after. 
 
@@ -159,5 +159,5 @@ Sitting by the bank with my cake I was aware that this is a huge bucket list ite
 
 Click here for Phase 2: [The Wicklow Way](wicklow-way)
 
-#### Trip Video
+## Trip Video
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Ac5iyTiMwM?si=SEUj7cmE8XO3pwzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

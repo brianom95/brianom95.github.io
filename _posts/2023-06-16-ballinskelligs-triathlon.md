@@ -32,7 +32,7 @@ Only a 10km out-and-back run to go, starting and ending with 1km on the beach. R
 
 A brilliant race, especially with that weather, and which marks my completion of all the HARDMAN events. I was already soaked so I got straight into the ocean to cool off, watching the others finish from the water. There was so much support and the music made a lovely atmosphere. It was a great novelty to have the whole race centred on a beach, even if the sand in my socks was annoying. It's a very fun race that's easy to recommend.
 
-#### Finish Time
+## Finish Time
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>

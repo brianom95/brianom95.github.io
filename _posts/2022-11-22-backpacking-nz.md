@@ -230,7 +230,7 @@ I did a tough trail run up Ben Lomond which overlooks the town and the swirling 
 
 #### Otago Region
 
-Exploring around Queesntown, I pushed my rental car to it's absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day I canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
+Exploring around Queesntown, I pushed my rental car to its absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day I canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
 
 Finally the thing I dreaded most since booking my flight to New Zealand; a bungy jump! AJ Hackett first commercialised the 'sport' when he opened the Kawarau Bridge Bungy in 1986. I knew I had to do this original one, even though it terrified me. After several weigh-ins and a questionable towel with velcro strapped around my legs, I was stood on the edge. Looking back I almost can't believe I did it. I opted for the water 'touch' which was more of a concussive slap. The adrenaline lasted days and although I'll probably never do one again, I'm so glad I did.
 

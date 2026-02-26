@@ -252,7 +252,7 @@ This place felt like a fitting end to my two month trip. A final sunset in the s
     <img width="400" src="/images/Sea21.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 It took time to process this trip fully. The tourism is often based on day trips or tours, with less emphasis on solo exploration of open mountains or countryside than I'm used to. I found myself missing my tent and the freedom to leave the crowds, but the real draw is the people and cultural diversity. There are 6,000 languages on Earth and 1,000 of those are in South East Asia. It's a paradise for curious exploration in it's own way, and I only realised after how much I gained from this time.
 

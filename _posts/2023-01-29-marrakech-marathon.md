@@ -14,7 +14,7 @@ This was the fifth marathon in my journey to join the Seven Continents Club.
     <img width="400" src="/images/mar1.webp">
 </p>
 
-#### How Did We Get Here
+## How Did We Get Here
 
 I chose Marrakech as it was the most exotic race my Dad was willing to run with me (for now). He and my Mam booked the cheap flight from Dublin for a long weekend, joined by other Irish runners. For me it was the last stop on a slow journey home from [Backpacking New Zealand](backpacking-nz) and [Backpacking South East Asia](backpacking-sea). I was excited for the reunion, having been away from home longer than ever before. My flight was from Bangkok to Casablanca, where I'd spend a few days relaxing before my train to meet them in Marrakech.
 
@@ -30,7 +30,7 @@ The race expo was the day before the marathon. Basic but nice, and set around a 
     <img width="300" src="/images/mar2.webp">
 </p>
 
-#### The Race
+## The Race
 
 The sun began to rise as we walked to the start line. Here we met the other Irish, most of whom my Dad knew, and we got a few photos between our movements to keep warm. The days were sunny and cloudless, but very cold, and the race was no different. Music played at the start and there was a bandstand full of people cheering. As they counted us down, my Dad wished me luck and we set off.
 
@@ -50,7 +50,7 @@ I wasn't feeling my best so the last 10km was a tough grind. I listened to music
 
 My Dad finished in 3hr 36mins so he and my Mam were waiting as I crossed the line. A simple finish that looked nicer now in full daylight. We walked home slowly with plenty of stops for photos. I was so thankful for the apartment and chilled out there for most of the day, with lots of local snacks. That night we had dinner with all the Irish which gave a nice community feel and was a fitting celebration.
 
-#### The Trip
+## The Trip
 
 The next few days with my parents were spent eating as much tagine, cous-cous and local food as we could. Each morning I'd go out and get a selection of breads, some filled with cream cheese, others with Nutella, and we'd have them on our terrace. We ate in cafe's and restaurants that overlooked Jemaa-El-Fna, enjoying a view of the chaos. 
 

@@ -6,7 +6,7 @@ date:   2022-07-06 12:00:0 +0000
 image:  '/images/wicklow7.webp'
 tags:   [Thru-Hiking]
 ---
-#### Brian's Big Three
+## Brian's Big Three
 
 In June 2022, I left my job for a year of full-time travel. Before flying away I had three Irish adventures on my mind. A tight schedule saw them barely fit amidst two triathlons, two weddings and an already busy month. This logistical nightmare was the most physically demanding challenge of my life. Just thirty days to complete:
 
@@ -27,7 +27,7 @@ This is Phase 2: The Wicklow Way
     <img width="400" src="/images/wicklow1.webp">
 </p>
 
-#### J.B. Malone
+## J.B. Malone
 
 Best place to start is the cartographer and draughtsman; J.B. Malone. Since the 1940's he wrote several books, a weekly newspaper column and made multiple documentaries that popularised hiking in Wicklow. Always encouraging young people to get outside, he pushed for years to establish a long distance trail network in Ireland. Much like the Appalachian Trail in the US.
 
@@ -37,7 +37,7 @@ As head of the National Trails Committee, he negotiated rights of way with land-
     <img width="400" src="/images/wicklow2.webp">
 </p>
 
-#### The Wicklow Way
+## The Wicklow Way
 
 A 130km long-distance trail that crosses the Wicklow Mountains. It runs from Marlay Park in the southern suburbs of Dublin, through County Wicklow, to the village of Clonegal in County Carlow. Proximity to Dublin make it Ireland's busiest long distance trail. Thru-hikers typically take 5-7 days to complete, but shorter section hikes are more common. It is also used by trail runners with the current record set at 12hrs 11mins.
 
@@ -51,7 +51,7 @@ Maps generally divide the route into seven sections. In 2018 I hiked the final t
     <img width="400" src="/images/wicklow3.jpeg">
 </p>
 
-#### Preparation & Planning
+## Preparation & Planning
 
 My goal was to complete a north bound thru-hike in five days. There is a shop to resupply on day three, meaning I would have two equal, 2.5 day food carries. I chose distances to meet the first and third of the trails huts. I'd never seen these before and always wanted to sleep in them. Route planning is easy and I packed light as always.
 
@@ -61,7 +61,7 @@ I'd recommend to hike northbound. This saves the best sections for last, provide
     <img width="400" src="/images/wicklow4.webp">
 </p>
 
-#### Day 1 - Clonegal to Tinahely (26km)
+## Day 1 - Clonegal to Tinahely (26km)
 
 It was cloudy and warm when I setoff at 10:00am. Clonegal was both tiny and empty, though I did meet some other groups in the first few hours. Five Belgian lads had stopped to cook dinner only 5km from the start, and a Czech couple were struggling to find their location on paper maps. Both groups doing the full trail and in for a long week with very heavy bags. 
 
@@ -73,7 +73,7 @@ When I passed the Dying Cow pub, I was ready to setup camp. It looked to be road
     <img width="400" src="/images/wicklow5.webp">
 </p>
 
-#### Day 2 - Tinahely to Mucklagh Hut (27km)
+## Day 2 - Tinahely to Mucklagh Hut (27km)
 
 Within an hour the trail goes off road and passes some amazing camp spots. I would push on to here the first day if I ever hike it again. I saw donkeys, horses and some beautiful scenery as the hills ramp up. Crossing a nice river, I took a lunch break and filtered fresh water before facing the steepest hill. 
 
@@ -85,7 +85,7 @@ After a hilly day, I arrived at Mucklagh hut. My legs were wrecked and I was del
     <img width="400" src="/images/wicklow6.webp">
 </p>
 
-#### Day 3 - Mucklagh Hut to Brushers Gap Hut (36km)
+## Day 3 - Mucklagh Hut to Brushers Gap Hut (36km)
 
 The long day! More forest roads led to some beautiful boardwalk sections. I met tonnes of hikers, none of whom were Irish but all loving it. Mostly older people who were on package tours with fancy hotels and bag shuttles. The day brought lots of hills, rivers, sheep and eventually the official halfway sign! 
 
@@ -99,7 +99,7 @@ On the short hike out of Laragh I saw four deer. Tight trails became beautiful, 
     <img width="400" src="/images/wicklow7.webp">
 </p>
 
-#### Day 4 - Brushers Gap Hut to Glencullen (33km)
+## Day 4 - Brushers Gap Hut to Glencullen (33km)
 
 Definitely into the best of the trail now, with lots of cool sections. Also sheep everywhere and a nice house that had a drinking water tap for hikers. Soon I was passing Roundwood which meant I was onto the section I'd done previously. Begin the trip down memory lane!
 
@@ -115,7 +115,7 @@ I had planned to camp around here but pushed on so my final day would be shorter
     <img width="400" src="/images/wicklow8.webp">
 </p>
 
-#### Day 5 - Glencullen to Marlay Park (15km)
+## Day 5 - Glencullen to Marlay Park (15km)
 
 The sunrise was amazing, rising over the iconic Great Sugarloaf hill. As I crossed from the Wicklow Mountains into the Dublin Mountains I could see the city lights in the distance. The last section is quite unique, like exposed desert, until tracks bring you down into the city. It's amazing how quickly it goes from open mountain to busy city roads. 
 
@@ -129,7 +129,7 @@ I had gotten a text during the week to confirm that my bike was waiting for me i
     <img width="400" src="/images/wicklow9.webp">
 </p>
 
-#### Afterthoughts
+## Afterthoughts
 
 This trail is historic for both Ireland and for me. It was my first taste of a national waymarked trail back in 2018, and retracing those steps was memorable to say the least. A chance to reflect on all that's changed in my life, all that's stayed the same, and how much I've grown. In this respect it was everything I'd hoped for and more. Years of my hiking and kayaking adventures have passed through these valleys. This was a nod to them all.
 
@@ -141,11 +141,11 @@ Another goal complete, but I'm only two thirds of the way through my mission. I 
 
 Click here for Phase 3: [Malin to Mizen](malin-to-mizen)
 
-#### What I Carried
+## What I Carried
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow10.jpeg">
 </p>
 Full Gearlist on [Lighterpack](https://lighterpack.com/r/1z03k7)
 
-#### Trip Video
+## Trip Video
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Ac5iyTiMwM?si=SEUj7cmE8XO3pwzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>

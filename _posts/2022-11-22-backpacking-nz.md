@@ -262,7 +262,7 @@ Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got 
 
 At the end of the Fjordland road, is a long tunnel that reveals New Zealand's 8th wonder of the world. Milford Sound is the largest of the fjords, full of huge cliffs and islands. It rains almost every day, totalling 8,000mm per year (Ireland averages 1,000mm per year!). This forms huge waterfalls and a rolling fog that makes the stillness seem eerie. You can't feel them, but sensors monitor at least ten minor earthquakes per day. This place is truly wild.
 
-The boat trip around Milford Sound was unbelievable. A constant layer of rain and mineral runoff leaves the sea water extra dark. This and the perfectly flat side walls make whales think it's deeper than it is, allowing you to find them alongside the dolphins, seals and penguins. After going to the ocean and back we docked at a natural aquarium, down to a ten meter deep glass room where you watch fish swim amongst rare black coral (which is bright white when alive). This is one of the top attractions of the whole country and not something to miss. 
+The boat trip around Milford Sound was unbelievable. A constant layer of rain and mineral runoff leaves the sea water extra dark. This and the perfectly flat side walls make whales think it's deeper than it is, allowing you to find them alongside the dolphins, seals and penguins. After going to the ocean and back we docked at a natural aquarium, with a ten meter deep glass room to watch fish swim amongst rare black coral (which is bright white when alive). Milford Sound is one of the top attractions of the whole country and not something to miss. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz23.webp">

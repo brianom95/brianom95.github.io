@@ -5,7 +5,7 @@ permalink: /bucketlist/
 image:  '/images/bucket0.jpeg'
 ---
 
-#### World Travel (55/100)
+#### World Travel (56/100)
 1. Visit 100 countries ({{ site.data.settings.stats.countries }} Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
@@ -30,7 +30,7 @@ image:  '/images/bucket0.jpeg'
 22. <mark style="background-color: limegreen">Sauna & Lake Plunge in Finland</mark>
 23. Hike to Trolltunga, Norway
 24. Scuba dive between Tectonic Plates, Iceland
-25. See the Northern Lights
+25. <mark style="background-color: limegreen">See the Northern Lights</mark>
 26. <mark style="background-color: limegreen">Windmill Tour in Netherlands</mark>
 27. <mark style="background-color: limegreen">Visit Lake Bled, Slovenia</mark>
 28. <mark style="background-color: limegreen">Plitvice Lakes National Park, Croatia</mark>

@@ -28,8 +28,6 @@ Unlike its Asian counterpart, the Gringo Trail can feel a little less polished a
     <img width="400" src="/images/bpca2.webp">
 </p>
 
----
-
 ## Mexico
 
 #### Cancún
@@ -87,8 +85,6 @@ Bacalar is a tranquil lagoon town famed for its “Lake of Seven Colours,” whe
     <img width="400" src="/images/bpca6.jpeg">
 </p>
 
----
-
 ## Belize
 
 #### Caye Caulker
@@ -107,34 +103,37 @@ San Ignacio is a rugged inland base for jungle adventures, where caving expediti
     <img width="400" src="/images/bpca8.jpeg">
 </p>
 
----
-
 ## Guatemala
 
 #### Flores (Tikal)
 
 Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-back gateway to the vast ruins of Tikal while offering sunset lake swims and cobbled streets packed into a postcard-perfect setting.
 
+[tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN)
+
 #### Semuc Champey
+
+[ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb)
 
 #### Antigua
 
-#### Lake Atitlán
+#### Acatenango
 
----
+[Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
+
+[Nighttime](https://youtube.com/shorts/xb4hBlwnhXY?is=VX_hE-jaqp4oqwjC)
+
+#### Lake Atitlán
 
 ## Honduras
 
 #### Copan Ruinas
-
----
 
 ## El Salvador
 
 #### Santa Ana
 
 #### San Salvador
----
 
 ## Nicaragua
 
@@ -146,8 +145,6 @@ Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-
 
 #### Ometepe
 
----
-
 ## Costa Rica
 
 #### La Fortuna
@@ -155,8 +152,6 @@ Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-
 #### Tortuguero
 
 #### Puerto Viejo
-
----
 
 ## Panama
 
@@ -168,6 +163,4 @@ Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-
 
 #### San Blas Islands
 
----
-
-## Afterthoughts
+[dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k)

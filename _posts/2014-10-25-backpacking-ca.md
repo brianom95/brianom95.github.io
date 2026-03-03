@@ -94,7 +94,7 @@ Bacalar is a tranquil lagoon town famed for its “Lake of Seven Colours,” whe
 Caye Caulker is a barefoot Caribbean Island where golf carts replace cars, the motto is “Go Slow,” and days revolve around reef snorkelling, rum punches, and sunset swims at The Split.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca6.jpeg">
+    <img width="400" src="/images/bpca7.jpeg">
 </p>
 
 #### San Ignacio
@@ -102,7 +102,7 @@ Caye Caulker is a barefoot Caribbean Island where golf carts replace cars, the m
 San Ignacio is a rugged inland base for jungle adventures, where caving expeditions, river tubing, and nearby Mayan ruins offer a wilder, more off-grid contrast to Belize’s Caribbean coast.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca7.jpeg">
+    <img width="400" src="/images/bpca8.jpeg">
 </p>
 
 ---

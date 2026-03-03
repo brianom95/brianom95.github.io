@@ -61,9 +61,9 @@ The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring M
 
 #### Cozumel
 
-Cozumel is a relaxed Caribbean Island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far away from the bustle of the mainland. I got the ferry from Playa Del Carmen and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt recently broke the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
+Cozumel is a relaxed Caribbean Island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far away from the bustle of the mainland. I got the ferry from Playa Del Carmen (where I saw the Danza de los Voladores) and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt recently broke the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
 
-Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Goddess of Fertility. When the Spanish brought smallpox, the population fell to near zero and the island spent over a century as a hub for pirates. Around the time Mexicans began to resettle, Abraham Lincoln tried to buy it as a home for newly freed slaves, fearing having them live alongside previous slave owners. Mexico refused. I loved the museum in the town, which had a huge amount about the sea life and specific conservation efforts taking place on the island.  
+Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Goddess of Fertility. When the Spanish brought smallpox, the population fell to near zero and the island spent over a century as a hub for pirates. Around the time Mexicans began to resettle, Abraham Lincoln tried to buy it as a home for newly freed slaves, fearing having them live alongside previous slave owners. Mexico refused. I loved the museum in the town, which had displays about the sea life and conservation efforts that are central to the island.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca4.jpeg">

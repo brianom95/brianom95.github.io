@@ -25,7 +25,7 @@ The trail winds its way through colonial cities, surf towns, jungle outposts, an
 Unlike its Asian counterpart, the Gringo Trail can feel a little less polished and occasionally more chaotic. Border crossings test your patience, roads can be slow, language barriers are the norm, and plans change often. Yet that friction is part of the appeal. Travel here demands a touch more flexibility, a willingness to lean into the unknown, and a sense of humour when things inevitably go wrong. For those prepared to embrace it, the rewards are immense: dramatic landscapes, generous people, and the quiet satisfaction that comes from earning each new destination. Below is the route I followed from Mexico to Panama.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca2.jpeg">
+    <img width="400" src="/images/bpca2.webp">
 </p>
 
 ---

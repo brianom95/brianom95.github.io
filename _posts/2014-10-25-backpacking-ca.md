@@ -72,18 +72,7 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 #### Tulum
 
 Tulum blends carefree beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle, offering a mix of yoga-retreat calm and late-night jungle party energy.
-
-<div style="max-width: 300px; margin: 0 auto 40px auto;">
-  <div style="position: relative; padding-bottom: 177.78%; height: 0;">
-    <iframe 
-      src="https://www.youtube.com/embed/tTCvuEGcBK0?rel=0"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-      allowfullscreen
-      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-    </iframe>
-  </div>
-</div>
-
+      
 #### Bacalar
 
 Bacalar is a tranquil lagoon town famed for its “Lake of Seven Colours,” where impossibly clear freshwater and slow, sun-drenched days make it one of Mexico’s most peaceful backpacker stops.

@@ -71,7 +71,7 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 
 #### Tulum
 
-Tulum blends carefree beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle, offering a mix of yoga-retreat calm and late-night jungle party energy.
+Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is somewhere I'd definitely return.
 
 [cenote jump](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC)
 

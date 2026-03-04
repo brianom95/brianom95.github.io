@@ -71,7 +71,11 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 
 #### Tulum
 
-Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is somewhere I'd definitely return.
+Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is where I met Kevin; a cheerful fashion photographer from Texas on a one month trip. We had spoken briefly in Cancún and in Valladolid, both times one of us rushing somewhere, so when I saw him at my hostel again I knew we were supposed to be friends. Bonded over cheap margaritas, the best birria tacos of the trip, and Carls Jr ice cream we quickly became inseperable. 
+
+We rented bikes and cycled 50km on the beach road to Sian Ka'an Nature Reserve, somehow in 40degC heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge and saw families of manatees, and a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and had more great (and cheap) food with friends from the hostel. The next day we didn't want to see a bike, so walked to the Tulum Ruins (fantastic tour), saw more beaches, and spent most of the day swimming in a cenote. 
+
+
 
 [cenote jump](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC)
 

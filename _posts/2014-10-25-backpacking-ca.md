@@ -73,7 +73,7 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 
 Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is where I met Kevin; a cheerful fashion photographer from Texas on a one month trip. We spoke briefly in Cancún and Valladolid, both times one of us rushing somewhere, so when I saw him at my hostel again I knew we were supposed to be friends. Bonded over cheap margaritas, the best birria tacos of the trip, and Carls Jr ice cream we quickly became inseperable. 
 
-We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40degC heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge and saw families of manatees, and a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and retruned for drinks and more cheap tacos with friends from the hostel. The next day we walked to the Tulum Ruins (amazing), saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC).
+We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40degC heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge, saw families of manatees, and watched a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and retruned for drinks and more cheap tacos with friends from the hostel. The next day we walked to the Tulum Ruins (amazing), saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC).
 
 <p align="center" width="100%">
     <img width="300" src="/images/bpca5.jpeg">
@@ -81,7 +81,7 @@ We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Natur
       
 #### Bacalar
 
-Bacalar is a tranquil lagoon town famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night!
+Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We became part of a large group for our time here, 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">

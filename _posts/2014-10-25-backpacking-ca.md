@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking Central America
-description: TBC
+description: DRAFT ONLY - WORK IN PROGRESS
 date:   2014-10-25 12:00:00 +0000
 image:  '/images/bpca0.jpeg'
 tags:   [Travel]
@@ -34,7 +34,9 @@ Unlike its Asian counterpart, the Gringo Trail can feel a little less polished a
 
 Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes). The coastal areas are very touristy, but there’s still some culture left in the city itself, very close to the stalls that charge $1 for five tacos!  It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route to move toward Belize. 
 
-After a quick stopover in Toronto (Niagara Falls was amazing), I arrived into the heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large, outdoor food court which had music and shows each night. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat nice food and meet likeminded people who were keen to pass on the highlights of their own trips.
+**Add Niagara link**
+
+After a quick stopover in Toronto to see Niagara Falls, I arrived into the heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large plaza that always had food stalls, music and shows. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat nice food and meet likeminded people who were keen to pass on the highlights of their own trips.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca3.jpeg">
@@ -42,9 +44,9 @@ After a quick stopover in Toronto (Niagara Falls was amazing), I arrived into th
 
 #### Valladolid
 
-Valladolid is a laid-back colonial town in Mexico’s Yucatán. Moving 2.5hrs inland by bus brings a much greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plazas, large cathedral and busy food halls. Evenings by the pool were great. My favourite thing in the town was the Convent of San Bernardino de Siena, built over a cenote with direct access from their kitchen, and which houses artefacts from the Castle War of 1847.
+Valladolid is a laid-back colonial town in Yucatán; the province named after what invading Spanish heard locals saying repeatedly, now known to mean: "I don't Understand". Moving 2.5hrs inland by bus brings a much greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plazas, large cathedral and busy food halls. Evenings by the pool were great. My favourite thing in the town was the Convent of San Bernardino de Siena, built over a cenote with direct access from their kitchen, and which houses artefacts from the Castle War of 1847.
 
-The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring Mayan archaeological site that dominates its jungle landscape, and was named one of the Seven Wonders of the World. It was hot, and it was crowded, but it is amazing. I spent the day with Alon, exploring the surprisingly large number of temples, learning about the ancient ball games that only use hips (you may have seen it in *The Road to El Dorado*) and staring up at the El Castillo pyramid whose steps echo a bird sound when you clap. It was built beside cenotes for drinking water, as is the case for most towns here, but nowadays these are used as unique public pools. On the way back I stopped in [Cenote Ik-Kil](https://youtube.com/shorts/Gap7w5dV6kM?is=KjDKEEo3BYq-eibL) to cool off by jumping from jungle into the deep, quiet sinkhole.
+The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring Mayan archaeological site that dominates its jungle landscape, and was named one of the Seven Wonders of the World. It was hot, and it was crowded, but it is amazing. I spent the day with Alon, exploring the surprisingly large number of temples, learning about the ancient ball games that only use hips (you may have seen it in *The Road to El Dorado*) and staring up at the El Castillo Pyramid whose steps echo a bird sound when you clap. Chichén Itzá was built beside cenotes for drinking water, as is the case for most towns, but nowadays these are more commonly used as public pools. On the way back I stopped in [Cenote Ik-Kil](https://youtube.com/shorts/Gap7w5dV6kM?is=KjDKEEo3BYq-eibL) to cool off by jumping from jungle into the deep, quiet sinkhole.
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
@@ -59,9 +61,9 @@ The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring M
 
 #### Cozumel
 
-Cozumel is a relaxed Caribbean Island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far away from the bustle of the mainland. I got the ferry from Playa Del Carmen (where I saw the [Danza de los Voladores](https://youtube.com/shorts/Xhn9nOciRJU?is=vdC4rniZf-mpQvK5)) and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt recently broke the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
+Cozumel is a relaxed Caribbean island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far away from the bustle of the mainland. I got the ferry from Playa Del Carmen (where I saw the [Danza de los Voladores](https://youtube.com/shorts/Xhn9nOciRJU?is=vdC4rniZf-mpQvK5)) and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt recently broke the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
 
-Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Goddess of Fertility. When the Spanish brought smallpox, the population fell to near zero and the island spent over a century as a hub for pirates. Around the time Mexicans began to resettle, Abraham Lincoln tried to buy it as a home for newly freed slaves, fearing having them live alongside previous slave owners. Mexico refused. I loved the museum in the town, which had displays about the sea life and conservation efforts that are central to the island.
+Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Goddess of Fertility. When the Spanish brought smallpox, the population fell to near zero and the island spent over a century as a hub for pirates. Abraham Lincoln attempted to buy it as a home for newly freed slaves, fearing having them live alongside previous owners, but Mexico refused and around that time began to resettle. I loved the museum in the town, which had great displays about the sea life and conservation efforts that are central to the island.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca4.jpeg">

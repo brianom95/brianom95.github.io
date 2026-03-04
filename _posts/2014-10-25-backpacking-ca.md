@@ -34,9 +34,7 @@ Unlike its Asian counterpart, the Gringo Trail can feel a little less polished a
 
 Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes). The coastal areas are very touristy, but there’s still some culture left in the city itself, very close to the stalls that charge $1 for five tacos! It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route as I wanted to move toward Belize. 
 
-**Add Niagara link**
-
-After a quick stopover in Toronto to see Niagara Falls, I arrived into the heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large plaza that always had food stalls, music and shows. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat nice food and meet likeminded people who were keen to pass on the highlights of their own trips.
+After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/shorts/l-yBj1apXTI?is=zkqhwtcl29irVe1I), I arrived into the heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large plaza that always had food stalls, music and shows. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat nice food and meet likeminded people who were keen to pass on the highlights of their own trips.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca3.jpeg">

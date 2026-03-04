@@ -32,7 +32,7 @@ Unlike its Asian counterpart, the Gringo Trail can feel a little less polished a
 
 #### Cancún
 
-Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes). The coastal areas are very touristy, but there’s still some culture left in the city itself, very close to the stalls that charge $1 for five tacos!  It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route to move toward Belize. 
+Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes). The coastal areas are very touristy, but there’s still some culture left in the city itself, very close to the stalls that charge $1 for five tacos! It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route as I wanted to move toward Belize. 
 
 **Add Niagara link**
 

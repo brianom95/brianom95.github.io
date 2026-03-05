@@ -138,7 +138,7 @@ TBC
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
     <iframe 
-    src="[https://www.youtube.com/embed/2cJ6PKUKBqg?rel=0"
+    src="https://www.youtube.com/embed/2cJ6PKUKBqg?rel=0"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
       allowfullscreen
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">

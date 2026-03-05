@@ -79,7 +79,9 @@ We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Natur
       
 #### Bacalar
 
-Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We joined a large group for our time here which was a nice change.
+Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We joined a large group here which was a nice change. Highlights of exploring the town were an all you can eat local breakfast with Aaron, and getting tacos from someones house at 2am.
+
+The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day spent with our big group. Aside from that we spent our time as you should, eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to hold travellers far longer than they plan. From here Kevin headed north for his flight and I boarded a bus to the border.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">
@@ -88,6 +90,8 @@ Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of
 ## Belize
 
 #### Caye Caulker
+
+
 
 Caye Caulker is a barefoot Caribbean Island where golf carts replace cars, the motto is “Go Slow,” and days revolve around reef snorkelling, rum punches, and sunset swims at The Split.
 

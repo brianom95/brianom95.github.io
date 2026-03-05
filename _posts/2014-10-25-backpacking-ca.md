@@ -103,7 +103,9 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 #### San Ignacio
 
-San Ignacio is a rugged inland base for jungle adventures, where caving expeditions, river tubing, and nearby Mayan ruins offer a wilder, more off-grid contrast to Belize’s Caribbean coast.
+San Ignacio was a rugged inland base, hostorically used for extracting mahogony and gum trees. It's now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people bus through it on route to Guatemala, but I was glad to spend time here.
+
+Cahal Pech, Green Iguana Conservation Project
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca8.jpeg">

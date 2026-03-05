@@ -93,7 +93,7 @@ From here Kevin headed north for his flight and I boarded a bus to the border. T
 
 #### Caye Caulker
 
-Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punches, and sunset swims.
+Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punches, and sunset swims. In 1961, Hurricane Hattie divided the island in two, leading to a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca7.jpeg">

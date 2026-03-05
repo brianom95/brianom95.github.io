@@ -79,9 +79,11 @@ We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Natur
       
 #### Bacalar
 
-Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We joined a large group here which was a nice change. Highlights of exploring the town were an all you can eat local breakfast with Aaron, and getting tacos from someones house at 2am.
+Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue for now. We joined a large group here which was a nice change. Highlights of exploring the town were an all you can eat local breakfast with Aaron, and getting tacos from someones house at 2am.
 
-The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day spent with our big group. Aside from that we spent our time as you should, eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to hold travellers far longer than they plan. From here Kevin headed north for his flight and I boarded a bus to the border.
+The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day. Aside from that we spent our time as you should; eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to always keep travellers longer than they plan. 
+
+From here Kevin headed north for his flight and I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of it, but not today. Then it was good roads all the way to Belize City where I boarded my ferry.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">
@@ -91,9 +93,7 @@ The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reed
 
 #### Caye Caulker
 
-
-
-Caye Caulker is a barefoot Caribbean Island where golf carts replace cars, the motto is “Go Slow,” and days revolve around reef snorkelling, rum punches, and sunset swims at The Split.
+Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punches, and sunset swims.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca7.jpeg">

@@ -127,8 +127,13 @@ Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-
 
 [tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN)
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca9.jpeg">
+</p>
+
 #### Semuc Champey
 
+TBC
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
@@ -140,8 +145,6 @@ Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-
     </iframe>
   </div>
 </div>
-
-
 
 [ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb)
 

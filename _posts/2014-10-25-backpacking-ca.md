@@ -42,7 +42,7 @@ After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/sho
 
 #### Valladolid
 
-Valladolid is a laid-back colonial town in Yucatán; the province named after what invading Spanish heard locals saying repeatedly, now known to mean: "I don't Understand". Moving 2.5hrs inland by bus brings a much greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plazas, large cathedral and busy food halls. Evenings by the pool were great. My favourite thing in the town was the Convent of San Bernardino de Siena, built over a cenote with direct access from their kitchen, and which houses artefacts from the Castle War of 1847.
+Valladolid is a laid-back colonial town in Yucatán; the province named after what invading Spanish observed locals saying repeatedly, now known to mean: "I don't Understand". Moving 2.5hrs inland brings a greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plazas, cathedral and food hall. Evenings by the pool were great. My favourite thing in the town was the Convent of San Bernardino de Siena, built over a cenote with direct access from their kitchen, and which houses artefacts from the Castle War of 1847.
 
 The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring Mayan archaeological site that dominates its jungle landscape, and was named one of the Seven Wonders of the World. It was hot, and it was crowded, but it is amazing. I spent the day with Alon, exploring the surprisingly large number of temples, learning about the ancient ball games that only use hips (you may have seen it in *The Road to El Dorado*) and staring up at the El Castillo Pyramid whose steps echo a bird sound when you clap. Chichén Itzá was built beside cenotes for drinking water, as is the case for most towns, but nowadays these are more commonly used as public pools. On the way back I stopped in [Cenote Ik-Kil](https://youtube.com/shorts/Gap7w5dV6kM?is=KjDKEEo3BYq-eibL) to cool off by jumping from jungle into the deep, quiet sinkhole.
 
@@ -59,7 +59,7 @@ The main reason people come to Valladolid is Chichén Itzá. The awe-inspiring M
 
 #### Cozumel
 
-Cozumel is a relaxed Caribbean island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far away from the bustle of the mainland. I got the ferry from Playa Del Carmen (where I saw the [Danza de los Voladores](https://youtube.com/shorts/Xhn9nOciRJU?is=vdC4rniZf-mpQvK5)) and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt recently broke the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
+Cozumel is a relaxed Caribbean island known for world-class scuba diving, reef-lined turquoise waters, and a slower pace that feels far removed from the bustle of the mainland. I got the ferry from Playa Del Carmen (where I saw the [Danza de los Voladores](https://youtube.com/shorts/Xhn9nOciRJU?is=vdC4rniZf-mpQvK5)) and spent a few days snorkelling, enjoying the cool breeze and walking the long beaches. This is where Kristian Blummenfelt had recently broken the Ironman World Record, which appeared to be a source of pride with my accommodation being on Ironman Street.
 
 Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Goddess of Fertility. When the Spanish brought smallpox, the population fell to near zero and the island spent over a century as a hub for pirates. Abraham Lincoln attempted to buy it as a home for newly freed slaves, fearing having them live alongside previous owners, but Mexico refused and around that time began to resettle. I loved the museum in the town, which had great displays about the sea life and conservation efforts that are central to the island.
 
@@ -69,7 +69,7 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 
 #### Tulum
 
-Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is where I met Kevin; a cheerful fashion photographer from Texas on a one month trip. We spoke briefly in Cancún and Valladolid, both times one of us rushing somewhere, so when I saw him at my hostel again I knew we were supposed to be friends. Bonded over cheap margaritas, the best birria tacos of the trip, and Carls Jr ice cream we quickly became inseperable. 
+Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is where I met Kevin; a cheerful fashion photographer from Texas on his own one month trip. We spoke briefly in Cancún and Valladolid, both times one of us rushing somewhere, so when I saw him at my hostel again I knew we were supposed to be friends. Bonded over cheap margaritas, the best birria tacos of the trip, and Carls Jr ice cream we quickly became inseperable. 
 
 We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40degC heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge, saw families of manatees, and watched a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and retruned for drinks and more cheap tacos with friends from the hostel. The next day we walked to the Tulum Ruins (amazing), saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC).
 
@@ -79,7 +79,7 @@ We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Natur
       
 #### Bacalar
 
-Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We became part of a large group for our time here, 
+Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue as would become a pattern. We joined a large group for our time here which was a nice change.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">

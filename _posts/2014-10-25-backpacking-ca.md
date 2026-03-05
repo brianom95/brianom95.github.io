@@ -4,7 +4,7 @@ title:  Backpacking Central America
 description: DRAFT ONLY - WORK IN PROGRESS
 date:   2014-10-25 12:00:00 +0000
 image:  '/images/bpca0.jpeg'
-tags:   []
+tags:   
 ---
 DRAFT ONLY - WORK IN PROGRESS
 

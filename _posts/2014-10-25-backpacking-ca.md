@@ -123,7 +123,7 @@ Actun Tunichil Muknal)
 
 #### Flores (Tikal)
 
-Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-back gateway to the vast ruins of Tikal while offering sunset lake swims and cobbled streets packed into a postcard-perfect setting.
+Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-back gateway to the vast ruins of Tikal while offering sunset lake swims and cobbled streets packed into a postcard-perfect setting...
 
 [tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN)
 

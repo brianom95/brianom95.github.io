@@ -131,15 +131,13 @@ The main chamber is a solemn place where shoes are left outisde and pockets must
 
 2hrs of nice roads, with a fast border crossing brought me to my third country and next stop.
 
-## Add volleyball & concert videos
+## Add volleyball
 
-Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets and lake views. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial style town was built in its place, and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food and watching a volleyball tournament that was on, which ended with a local concert. The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
+Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets and lake views. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial style town was built in its place, and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food and watching a volleyball tournament that was on, which ended with a [local concert](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
 
 Tikal was the capital and largest city of the Mayan Civilisation, peaking with a population of 100,000 before its abandonment in 900 AD. It has over 3,000 structures including towering limestone temples, palaces and plazas. Also sophisticated urban infrastructure including causweays, resovoirs and water filtration systems. Only 20-30% has been excavated, with most mapped only by lidar scanning of the jungle. It feels like a hidden city that's been reclaimed by nature. It's all preserved in a 575 square kilometer national park full of spider monkeys, crocodiles, toucans and even elusive jaguars. There's a feeling of exploration here, it seems more authentic and significant than Chichén Itzá in many ways.
 
-## full panorama
-
-I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) he spotted (a mother would be three times larger). From the top of towers is when you get a real idea of the scale, seeing the full panorama. 
+I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) he spotted (a mother would be three times larger). From the top of towers is when you get a real idea of the scale, seeing the [full panorama](https://youtube.com/shorts/qq3X61cVDS8?is=OkxcgySEU3S45Dir). 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca9.jpeg">

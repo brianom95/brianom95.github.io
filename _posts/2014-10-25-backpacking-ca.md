@@ -97,7 +97,7 @@ From here Kevin headed north for his flight as I boarded a bus to the border. Th
 
 Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punch and sunset swims. In 1961, Hurricane Hattie divided the island in two, leaving a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards. I stayed in a small, beach style hostel that was so hot in the day that you had to go explore. I walked a lap of the island, nervously looking for crocodiles in the mangrove, and marvelling at the walls made of shells. Cocktail bars overlook beautiful piers and a creepy stingray beach where they swim over your feet. The nightlife was really fun, spent with nice people from the hostel and 50 cent bottles of rum.
 
-The real draw is the Belize Barrier Reef; second largest in the world after Australia. I did a full day of snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned all about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when you eat favourite fried breakfast of fryjacks which leave you in a food coma.
+The real draw is the Belize Barrier Reef; second largest in the world after Australia. I did a full day of snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned all about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca7.jpeg">
@@ -105,13 +105,11 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 #### San Ignacio
 
-San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. It's now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here, joined by Molly & Martine who I'd met in Bacalar & Caye Caulker. The town is  quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
+San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here, joined by Molly & Martine who I'd met in Bacalar & Caye Caulker. The town is  quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
 
-I visited the Mayan ruins of Cahal Pech which was amazing, before I was hit wiith biblical rain! The Mayans ruled this area for 3,500 years before the Spanish  The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and the tails are like razors.
+I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rains! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails razor sharp.
 
-Despite being tiny, Belize has thousands of caves, with over 90% containing Mayan artefacts like pottery. So much so that it's been deemed impossible to remove to museums. It's thought
-
-Actun Tunichil Muknal)
+Despite being tiny, Belize has thousands of caves, with over 90% of what's been explored containing Mayan artefacts and pottery. So much that it's been deemed impossible to remove to museums. In rare cases they've found cave paintings, carvings and human remains all of which are present in the most famous Actun Tunichil Muknal; the ATM caves.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca8.jpeg">

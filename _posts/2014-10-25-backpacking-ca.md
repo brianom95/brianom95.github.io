@@ -186,6 +186,10 @@ TBC
 
 #### Copan Ruinas
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca15.jpeg">
+</p>
+
 ## El Salvador
 
 #### Santa Ana

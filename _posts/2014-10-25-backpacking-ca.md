@@ -131,9 +131,11 @@ The main chamber is a solemn place where shoes are left outisde and pockets must
 
 2hrs of nice roads, with a fast border crossing brought me to my third country and next stop.
 
-Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled street and lake views. It was once known as Nojpetén; meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial style town was built in its place, and a bridge now joins to the mainland. There's not a lot to do here, so evenings revolved around food and watching a volleyball tournament that was on, which ended with an local concert. The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
+Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled street and lake views. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial style town was built in its place, and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food and watching a volleyball tournament that was on, which ended with a local concert. The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
 
-Tikal
+Tikal was the largest city and capital of the Mayan Civilisation, peaking with a population of 100,000 before its abandonment in 900 AD. It has over 3,000 structures including towering limestone temples, palaces and plazas. Also sophisticated urban infrastructure including causweays, resovoirs and water filtration systems. Only 20-30% has been excavated, with most mapped only by lidar scanning of the jungle. It feels like a hidden city that's been reclaimed by nature.
+
+I did a day trip here with Molly & Martine who I'd met and travelled with since Bacalar & Caye Caulker. Our guide grew up in Tikal, making money 
 
 [tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN)
 

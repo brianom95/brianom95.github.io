@@ -109,6 +109,12 @@ San Ignacio is a rugged inland town, historically used for extracting mahogony a
 
 I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rains! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails razor sharp.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca10.jpeg">
+</p>
+
+#### ATM Caves
+
 Despite being tiny, Belize has thousands of caves, with over 90% containing Mayan artefacts. So much so that it's been deemed impossible to remove to museums. Caving is popular, and people are trusted to not interfere with items. In rare cases they've found human remains, the most famous of being the 14 skeletons found in the ATM caves.
 
 Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitch black passages to reach huge rooms with pillars that look like cathedrals. Thousands of pots contained grains, water and sometimes blood, in what's thought to have been offerings. Carbon dating places everything between 800 to 1000AD, corresponding with the drought which would have dried the entrance and made access possible. Cave painting and carvings also depict Chaac, the god of rain. The main chamber is a solemn place where shoes are left outisde and pockets must be empty to protect what's within. Our small group were alone in the cave as we sat with the most well preserved of the sacrifices, calcified but unmoved in 1,000 years. It was a deeply spiritual place that I'll never forget.
@@ -148,6 +154,10 @@ TBC
 
 #### Antigua
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca11.jpeg">
+</p>
+
 #### Acatenango
 
 [Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
@@ -168,6 +178,10 @@ TBC
 
 #### Lake Atitlán
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca12.jpeg">
+</p>
+
 ## Honduras
 
 #### Copan Ruinas
@@ -176,7 +190,15 @@ TBC
 
 #### Santa Ana
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca13.jpeg">
+</p>
+
 #### San Salvador
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca14.jpeg">
+</p>
 
 ## Nicaragua
 

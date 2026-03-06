@@ -139,8 +139,7 @@ Tikal was the capital and largest city of the Mayan Civilisation, peaking with a
 
 ## full panorama
 
-I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) he spotted (a mother would be three times larger). From the top of towers is when you get a real scale seeing the full panorama.
-
+I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) he spotted (a mother would be three times larger). From the top of towers is when you get a real idea of the scale, seeing the full panorama. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca9.jpeg">
@@ -165,14 +164,17 @@ TBC
 
 #### Antigua
 
+TBC
+
 <p align="center" width="100%">
     <img width="400" src="/images/bpca11.jpeg">
 </p>
 
 #### Acatenango
 
-[Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
+TBC
 
+[Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
@@ -189,6 +191,8 @@ TBC
 
 #### Lake Atitlán
 
+TBC
+
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">
 </p>
@@ -196,6 +200,8 @@ TBC
 ## Honduras
 
 #### Copan Ruinas
+
+TBC
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca15.jpeg">
@@ -205,11 +211,15 @@ TBC
 
 #### Santa Ana
 
+TBC
+
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">
 </p>
 
 #### San Salvador
+
+TBC
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca14.jpeg">
@@ -219,28 +229,50 @@ TBC
 
 #### Léon
 
+TBC
+
 #### Granada
+
+TBC
 
 #### San Juan del Sur
 
+TBC
+
 #### Ometepe
+
+TBC
 
 ## Costa Rica
 
 #### La Fortuna
 
+TBC
+
 #### Tortuguero
 
+TBC
+
 #### Puerto Viejo
+
+TBC
 
 ## Panama
 
 #### Bocas del Toro
 
+TBC
+
 #### Boquete
+
+TBC
 
 #### Panama City
 
+TBC
+
 #### San Blas Islands
+
+TBC
 
 [dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k)

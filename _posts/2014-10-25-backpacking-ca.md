@@ -109,7 +109,9 @@ San Ignacio is a rugged inland town, historically used for extracting mahogony a
 
 I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rains! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails razor sharp.
 
-Despite being tiny, Belize has thousands of caves, with over 90% of what's been explored containing Mayan artefacts and pottery. So much that it's been deemed impossible to remove to museums. In rare cases they've found cave paintings, carvings and human remains all of which are present in the most famous Actun Tunichil Muknal; the ATM caves.
+Despite being tiny, Belize has thousands of caves, with over 90% containing Mayan artefacts. So much so that it's been deemed impossible to remove to museums. Caving is very popular, and people are trusted to not interfere with items. In rare cases they've found human remains, the most famous of which being the 14 skeletons found in the ATM caves.
+
+Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitch black passages to reach huge rooms with pillars that look like cathedrals. Thousands of pots contained grains, water and sometimes blood, in what's thought to have been offerings. Carbon dating places everything between 800 to 1000AD, corresponding with the drought which would have dried the chambers and made access possible. Cave painting and carvings also depict Chaac, the god of rain. The main hall is a solemn place where shoes are left outisde and pockets must be empty to protect the 14 skeletons that were found inside. Our small group were alone in the cave as we sat with the most well preserved of the sacrifices.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca8.jpeg">

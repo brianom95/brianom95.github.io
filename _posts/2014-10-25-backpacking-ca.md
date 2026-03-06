@@ -85,7 +85,7 @@ Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of
 
 The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day. Aside from that we spent our time as you should; eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to consistently keep travellers longer than they plan. 
 
-From here Kevin headed north for his flight as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of it, but not today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different too as we drove the good roads to Belize City, where I boarded my ferry.
+From here Kevin headed north for his flight as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of paying, but not today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different as we drove the good roads to Belize City, where I boarded my ferry.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">
@@ -97,7 +97,7 @@ From here Kevin headed north for his flight as I boarded a bus to the border. Th
 
 Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punch and sunset swims. In 1961, Hurricane Hattie divided the island in two, leaving a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards. I stayed in a small, beach style hostel that was so hot in the day that you had to go explore. I walked a lap of the island, nervously looking for crocodiles in the mangrove, and marvelling at the walls made of shells. Cocktail bars overlook beautiful piers and a creepy stingray beach where they swim over your feet. The nightlife was really fun, spent with nice people from the hostel and 50 cent bottles of rum.
 
-The real draw is the Belize Barrier Reef; second largest in the world after Australia. I did a full day of snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned all about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
+The real draw is the Belize Barrier Reef; second largest in the world after Australia. I spent a full day snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca7.jpeg">
@@ -105,9 +105,9 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 #### San Ignacio
 
-San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here, joined by Molly & Martine who I'd met in Bacalar & Caye Caulker. The town is  quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
+San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most pass through on route to Guatemala, but I was glad to spend time here. The town is  quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
 
-I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rains! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails razor sharp.
+I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rain! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca10.jpeg">
@@ -115,9 +115,11 @@ I visited the Mayan ruins of Cahal Pech where you could see a clear distinction 
 
 #### ATM Caves
 
-Despite being tiny, Belize has thousands of caves, with over 90% containing Mayan artefacts. So much so that it's been deemed impossible to remove to museums. Caving is popular, and people are trusted to not interfere with items. In rare cases they've found human remains, the most famous of being the 14 skeletons found in the ATM caves.
+Despite being tiny, Belize has thousands of caves, with over 90% containing Mayan artefacts. So much so that it's been deemed impossible to move it to museums. Caving is popular, and people are trusted to not interfere with items. In rare cases they've found human remains, the most famous being the 14 skeletons found in the ATM caves.
 
-Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitch black passages to reach huge rooms with pillars that look like cathedrals. Thousands of pots contained grains, water and sometimes blood, in what's thought to have been offerings. Carbon dating places everything between 800 to 1000AD, corresponding with the drought which would have dried the entrance and made access possible. Cave painting and carvings also depict Chaac, the god of rain. The main chamber is a solemn place where shoes are left outisde and pockets must be empty to protect what's within. Our small group were alone in the cave as we sat with the most well preserved of the sacrifices, calcified but unmoved in 1,000 years. It was a deeply spiritual place that I'll never forget.
+Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitch black passages to reach huge rooms with pillars that look like cathedrals. Thousands of pots contained grains, water and sometimes blood, in what was likely offerings. Carbon dating places everything between 800 to 1000 AD, corresponding with the drought which would have dried the entrance and made access possible. Cave paintings and carvings also depict Chaac, the god of rain. 
+
+The main chamber is a solemn place where shoes are left outisde and pockets must be empty to protect what's within. Our small group were alone in the cave as we sat with the most well preserved skeleton, calcified but unmoved for 1,000 years. It was a deeply spiritual place that I'll never forget. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca8.jpeg">
@@ -125,9 +127,13 @@ Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitc
 
 ## Guatemala
 
-#### Flores (Tikal)
+#### Flores & Tikal
 
-Flores is a colourful island town set on Lake Petén Itzá, serving as the laid-back gateway to the vast ruins of Tikal while offering sunset lake swims and cobbled streets packed into a postcard-perfect setting...
+2hrs of nice roads, with a fast border crossing brought me to my third country and next stop.
+
+Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled street and lake views. It was once known as Nojpetén; meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial style town was built in its place, and a bridge now joins to the mainland. There's not a lot to do here, so evenings revolved around food and watching a volleyball tournament that was on, which ended with an local concert. The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
+
+Tikal
 
 [tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN)
 

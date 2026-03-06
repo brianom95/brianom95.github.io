@@ -145,7 +145,7 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 #### Semuc Champey
 
-TBC
+Semuc Champey is a remote jungle paradise where a series of turquoise limestone pools cascade above a hidden underground river, rewarding the long journey with one of Central America’s most spectacular natural sights.
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
@@ -162,7 +162,7 @@ TBC
 
 #### Antigua
 
-TBC
+Antigua is a beautifully preserved colonial city framed by volcanoes, where cobbled streets, pastel facades, and rooftop cafés make it one of Central America’s most atmospheric backpacker hubs.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca11.jpeg">
@@ -170,7 +170,7 @@ TBC
 
 #### Acatenango
 
-TBC
+Acatenango is a challenging overnight volcano trek that rewards hikers with sweeping views above the clouds and the unforgettable sight of neighbouring Volcán de Fuego erupting spectacularly through the night.
 
 [Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
 
@@ -189,7 +189,7 @@ TBC
 
 #### Lake Atitlán
 
-TBC
+Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">
@@ -199,7 +199,7 @@ TBC
 
 #### Copan Ruinas
 
-TBC
+Copán Ruinas is a charming colonial village best known as the gateway to the intricate Mayan ruins of Copán, where carved stelae, jungle temples, and a relaxed plaza atmosphere make it one of Central America’s most rewarding archaeological stops.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca15.jpeg">
@@ -209,7 +209,7 @@ TBC
 
 #### Santa Ana
 
-TBC
+Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to some of El Salvador’s best hiking.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">
@@ -217,7 +217,7 @@ TBC
 
 #### San Salvador
 
-TBC
+San Salvador is a sprawling and energetic capital set beneath a dramatic volcanic backdrop, offering a glimpse into modern Salvadoran life alongside museums, markets, and reminders of the country’s turbulent past.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca14.jpeg">
@@ -227,11 +227,11 @@ TBC
 
 #### Léon
 
-TBC
+León is a gritty and characterful colonial city known for its revolutionary history, vibrant student energy, and the adrenaline rush of volcano boarding down the black slopes of nearby Cerro Negro.
 
 #### Granada
 
-TBC
+Granada is a colourful colonial city on the shores of Lake Nicaragua, where grand Spanish architecture, lively plazas, and boat trips through the nearby Isletas create one of the country’s most picturesque stops.
 
 #### San Juan del Sur
 

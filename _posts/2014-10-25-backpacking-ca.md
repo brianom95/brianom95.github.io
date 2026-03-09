@@ -160,20 +160,9 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 Semuc Champey is a remote jungle paradise known for its turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible at night, so evenings were spent watching the sunset from the pool, surrounded by the warm glow of fairy lights and an endless jungle. The national park itself was 30 mins away, which we reached by hitch-hiking.
 
-Semuc Champey translates to *Underground River*
+The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the [giant ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally a day of relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the many ledges and waterfalls to see all it has to offer. 
 
-<div style="max-width: 300px; margin: 0 auto 40px auto;">
-  <div style="position: relative; padding-bottom: 177.78%; height: 0;">
-    <iframe 
-    src="https://www.youtube.com/embed/2cJ6PKUKBqg?rel=0"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-      allowfullscreen
-      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-    </iframe>
-  </div>
-</div>
 
-[ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb)
 
 #### Antigua
 

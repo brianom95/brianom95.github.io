@@ -14,8 +14,7 @@ Bacalar (Los Rápidos)
 San Ignacio (Biblical Rain)  
 San Ignacio (Green Iguana)  
 Flores (volleyball tournament)  
-Antigua (Café No Sé)
-Acatenango (first view of Fuego)
+Antigua (Café No Sé)  
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
@@ -180,13 +179,9 @@ Days in the town included a walking tour, several parfaits, local markets, churc
 
 #### Acatenango & Fuego
 
-Acatenango (3,976m) is an overnight volcano trek that rewards hikers with views above the clouds, and of neighbouring Volcán de Fuego (3,763m). Fuego is the most active volcano in Central America, erupting with gases and lava every 15 minutes. Camps on Acatenango are positioned where you can watch the eruptions glow through the night from the comfort of your campfire. Hikers can optionally climb to within 200m of Fuego's summit where you feel the rumble of being so close, and also can summit Acatenango for sunrise, both of which Kevin & I did.
+Acatenango (3,976m) is an overnight volcano trek that rewards hikers with views above the clouds, and of neighbouring Volcán de Fuego (3,763m). Fuego is the most active volcano in Central America, erupting with gases and lava every 15 minutes. Camps on Acatenango are positioned where you can watch the eruptions glow through the night from the comfort of your campfire. Hikers can optionally climb to within 200m of Fuego's summit where you feel the rumble below your feet, and also can summit Acatenango for sunrise. Both of which Kevin & I did.
 
-I loved this hike, especially as you reach camp and get your first view of Fuego. The elevation is enough to make it surprisingly challenging, but it's good trail all the way to camp 
-
-was okay, but paired with the volcanic sand of the optional hikes can make it surprisingly challenging at times, but it's rewarded at every step. The reveal of Fuego as you reach camp was unforgettable.
-
-[Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
+I loved this hike, especially as you reach camp and get your [first view of Fuego](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_). The elevation makes it quite challenging for most people, but it's a good trail all the way up. The optional hikes are much tougher, with a volcanic sand that's hard to walk on, and in our case very poor weather. When we stood on Fuego we could feel the eruptions, but only saw eerie glimpses of lava through a dense fog. A sudden lightning storm forced a quick retreat to camp, and we had similar bad luck with the weather at sunrise. All was made up for though as we sat in camp with hot chocolate, watching the lava rain down through the night. Better weather is advisable, but this hike was completely unforgettable.
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
@@ -198,8 +193,6 @@ was okay, but paired with the volcanic sand of the optional hikes can make it su
     </iframe>
   </div>
 </div>
-
-[Nighttime](https://youtube.com/shorts/xb4hBlwnhXY?is=VX_hE-jaqp4oqwjC)
 
 #### Lake Atitlán
 

@@ -8,10 +8,6 @@ tags:
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
-## Shorts
-San Ignacio (Biblical Rain)  
-Flores (volleyball tournament)  
-
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
@@ -113,7 +109,7 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle hikes, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here. The town is quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
 
-I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rain! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered [Green Iguana](https://youtube.com/shorts/MPq81Aj3eTY?is=VfKn7uy2L1_B15-7) which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
+I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith [biblical rain](https://youtube.com/shorts/XSftKutkdCQ?is=ksxf0xaNQUcb1I32)! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered [Green Iguana](https://youtube.com/shorts/MPq81Aj3eTY?is=VfKn7uy2L1_B15-7) which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca10.jpeg">
@@ -137,7 +133,7 @@ The main chamber is a solemn place where shoes are left outisde and pockets must
 
 2hrs of nice roads, with a fast border crossing brought me to my third country. The exchange rate and low value notes in Guatemala meant everyone has thick stacks of money and feels like a millionaire.
 
-Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial town was built in its place and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food, ice cream and watching a volleyball tournament that was on, which ended with a [local concert](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
+Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial town was built in its place and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food, ice cream and watching a [volleyball tournament](https://youtube.com/shorts/MGhfLhWbEVo?is=yFoKVwBDcV9RwmXf) that was on, which ended with a [local concert](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca16.jpeg">
@@ -215,6 +211,8 @@ Much of this is likely an over reaction, when the country has very little petty 
 supposedly taking a lot of the criminals who fled El Salvador during the 2022 clamp down on gangs
 
 Copán Ruinas is a charming colonial village best known as the gateway to the intricate Mayan ruins of Copán, where carved stelae, jungle temples, and a relaxed plaza atmosphere make it one of Central America’s most rewarding archaeological stops.
+
+screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPvPa1nQc)
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca15.jpeg">

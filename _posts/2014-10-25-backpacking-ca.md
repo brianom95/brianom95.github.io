@@ -9,11 +9,8 @@ tags:
 DRAFT ONLY - WORK IN PROGRESS
 
 ## Shorts
-Tulum (Cenote Calavera)  
-Bacalar (Los Rápidos)  
 San Ignacio (Biblical Rain)  
 Flores (volleyball tournament)  
-Lake Atitlan (12m diving platform)
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
@@ -82,7 +79,7 @@ Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dott
 
 We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40°C heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge, saw families of manatees, and watched a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and returned for drinks and more cheap tacos with friends from the hostel. 
 
-The next day we walked to the Tulum Ruins which sit impressively on a cliff, saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC). All cenotes are unique, but this was the best one I came across, and it had a cocktail bar!
+The next day we walked to the Tulum Ruins which sit impressively on a cliff, saw more beaches, and spent most of the day swimming in [Cenote Calavera](https://youtube.com/shorts/8HrmWAsa8Mo?is=kbTh0YhrL7zMD08M), which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC). All cenotes are unique, but this was the best one I came across, and it had a cocktail bar!
 
 <p align="center" width="100%">
     <img width="300" src="/images/bpca5.jpeg">
@@ -197,7 +194,7 @@ I loved this hike, especially as you reach camp and get your [first view of Fueg
 
 Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm. The Mayan people who lived here were some of the most isolated, which has helped in preserving their languages, traditions, and customs. Kevin & I spent two nights in San Pedro, and two nights in Santa Cruz; small towns on opposite ends of the lake. It's a very calm place, where you meet lots of backpackers doing Spanish courses to benefit from the particularly slow and clear speech in Guatemala. 
 
-We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spending hours in the sun [practicing our dives](https://youtube.com/shorts/J0j9527J1fo?is=yNtYojFSFDZ-bWtY). We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
+We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic [12m diving platform](https://youtube.com/shorts/RI2lB4zsfvs?is=UPNZ2_wYReE4_eCe). It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spending hours in the sun [practicing our dives](https://youtube.com/shorts/J0j9527J1fo?is=yNtYojFSFDZ-bWtY). We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
 
 The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras. I chose to spend four nights in Copan Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went.
 
@@ -214,7 +211,6 @@ In 2024, the UK updated their visa to make entry much harder for them. Honduras 
 Much of this is likely an over reaction, when the country has very little petty crime, especially in touristy areas. Crime is generally between gangs, or in the most impoverished slums which would be near impossible to accidentally find yourself in. I'm still happy with my decision to just see Copan, as it suited my itinerary and right now
 
 #### Copan Ruinas
-
 
 supposedly taking a lot of the criminals who fled El Salvador during the 2022 clamp down on gangs
 

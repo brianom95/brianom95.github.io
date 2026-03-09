@@ -14,6 +14,7 @@ Bacalar (Los Rápidos)
 San Ignacio (Biblical Rain)  
 San Ignacio (Green Iguana)  
 Flores (volleyball tournament)  
+Antigua (Café No Sé)
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
@@ -158,9 +159,9 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 #### Semuc Champey
 
-Semuc Champey is a remote jungle paradise known for its turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible at night, so evenings were spent watching the sunset from the pool, surrounded by the warm glow of fairy lights and an endless jungle. The national park itself was 30 mins away, which we reached by hitch-hiking.
+Semuc Champey is a remote jungle paradise known for turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible here. Evenings were well spent watching sunsets from the pool, surrounded by the glow of fairy lights and an endless jungle. The national park itself was 30 mins away, which we reached by hitch-hiking.
 
-The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the [giant ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally a day of relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the many ledges and waterfalls to see all it has to offer. 
+The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the giant [rope swing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the ledges and waterfalls to see all it has to offer. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca17.jpeg">
@@ -168,7 +169,9 @@ The park sits where the Cahabón River disappears into deep limestone caves. Thi
 
 #### Antigua
 
-Antigua is a beautifully preserved colonial city framed by volcanoes, where cobbled streets, pastel facades, and rooftop cafés make it one of Central America’s most atmospheric backpacker hubs.
+Antigua is a beautifully preserved colonial city framed by huge volcanoes that dominate the skyline. The town is very popular with backpackers because of its great food, pretty cobbled streets, pastel facades, and many rooftop cafés. It was here I reunited with Kevin, who had changed his flights to extend his trip. In all we stayed a week here, feeling at home as we kept meeting lots of old and new friends at our hostel, which served free communal dinners. The cool breeze from the mountains was a welcome change for me too.
+
+Days in the town included a walking tour, several parfaits, local markets, churches, and walks to parks and viewpoints. Antigua has the *World's Most Beautiful McDonalds* which did look very nice, but we preferred the equally beautiful Taco Bell, complete with actual bell. There's a great nightlife here, in the quirky local bars like Café No Sé, or in the funny Irish bar which sold *Gennioss*, and where Kevin got two bullseyes in a row to win his first ever game of darts. The great food and homelike familiarity of Antigua had a recharging effect on me, making it my favourite place in Central America.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca11.jpeg">

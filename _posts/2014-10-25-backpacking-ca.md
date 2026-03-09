@@ -162,7 +162,9 @@ Semuc Champey is a remote jungle paradise known for its turquoise limestone pool
 
 The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the [giant ropeswing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally a day of relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the many ledges and waterfalls to see all it has to offer. 
 
-
+<p align="center" width="100%">
+    <img width="400" src="/images/bpca17.jpeg">
+</p>
 
 #### Antigua
 

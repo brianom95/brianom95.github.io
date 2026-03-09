@@ -8,6 +8,11 @@ tags:
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
+## Shorts
+Tulum (Cenote Calavera)
+Bacalar (Los Rápidos)
+San Ignacio (Biblical Rain)
+
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
@@ -73,7 +78,9 @@ Ancient Cozumel was a site for pilgrims seeking blessings from Ixchel, the Godde
 
 Tulum blends beach culture with dramatic cliff-top Mayan ruins and a cenote-dotted jungle. It was my favourite stop in Mexico, and is where I met Kevin; a cheerful fashion photographer from Texas on his own one month trip. We spoke briefly in Cancún and Valladolid, both times one of us rushing somewhere, so when I saw him at my hostel again I knew we were supposed to be friends. Bonded over cheap margaritas, the best birria tacos of the trip, and Carls Jr ice cream we quickly became inseperable. 
 
-We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40°C heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge, saw families of manatees, and watched a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and returned for drinks and more cheap tacos with friends from the hostel. The next day we walked to the Tulum Ruins which sit impressively on a cliff, saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC). All cenotes are unique, but this was the best one I came across, and it had a cocktail bar!
+We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Nature Reserve, in 40°C heat! Despite broken handlebars, seats and brakes, we reached the Boca Paila Bridge, saw families of manatees, and watched a barracuda attack. On our return we stopped at picture perfect beaches and cured our heat exhaustion playing chess in a cafe. We got photos with the famous *Come Into Light* sculpture, swam to a small island for sunset, and returned for drinks and more cheap tacos with friends from the hostel. 
+
+The next day we walked to the Tulum Ruins which sit impressively on a cliff, saw more beaches, and spent most of the day swimming in Cenote Calavera, which had an addicitve jump into the [Underworld](https://youtube.com/shorts/80qxtnwrQ3g?is=XT8bNPFo1a6zDMnC). All cenotes are unique, but this was the best one I came across, and it had a cocktail bar!
 
 <p align="center" width="100%">
     <img width="300" src="/images/bpca5.jpeg">
@@ -83,9 +90,9 @@ We rented bikes one day and cycled 50km along the beach road to Sian Ka'an Natur
 
 Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of Seven Colours*. It has impossibly clear freshwater and sun-drenched days that make it one of Mexico’s slowest and most peaceful backpacker stops, except for Wednesday which is party night! Kevin hadn't intended to continue south as he had a flight home from Cancún in a week, but convinced himself to continue for now. We joined a large group here which was a nice change. Highlights of exploring the town were an all you can eat local breakfast with Aaron, and getting tacos from someones house at 2am.
 
-The town began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day. Aside from that we spent our time as you should; eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to consistently keep travellers longer than they plan. 
+Bacalar began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day. Aside from that we spent our time as you should; eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to consistently keep travellers longer than they plan. 
 
-From here Kevin headed north for his flight as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of paying, but not today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different as we drove the good roads to Belize City, where I boarded my ferry.
+From here Kevin headed north for his flight as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of paying, but no one today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different as we drove the good roads to Belize City, where I boarded my ferry.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">
@@ -105,7 +112,9 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 #### San Ignacio
 
-San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle adventures, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most pass through on route to Guatemala, but I was glad to spend time here. The town is  quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
+San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle hikes, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here. The town is quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
+
+## Add rain
 
 I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rain! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
 

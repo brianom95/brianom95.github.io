@@ -12,9 +12,7 @@ DRAFT ONLY - WORK IN PROGRESS
 Tulum (Cenote Calavera)  
 Bacalar (Los Rápidos)  
 San Ignacio (Biblical Rain)  
-San Ignacio (Green Iguana)  
 Flores (volleyball tournament)  
-Antigua (Café No Sé)  
 Lake Atitlan (12m diving platform)
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
@@ -118,7 +116,7 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle hikes, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here. The town is quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
 
-I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rain! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered Green Iguana which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
+I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith biblical rain! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered [Green Iguana](https://youtube.com/shorts/MPq81Aj3eTY?is=VfKn7uy2L1_B15-7) which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca10.jpeg">
@@ -172,7 +170,7 @@ The park sits where the Cahabón River disappears into deep limestone caves. Thi
 
 Antigua is a beautifully preserved colonial city framed by huge volcanoes that dominate the skyline. The town is very popular with backpackers because of its great food, pretty cobbled streets, pastel facades, and many rooftop cafés. It was here I reunited with Kevin, who had changed his flights to extend his trip. In all we stayed a week here, feeling at home as we kept meeting lots of old and new friends at our hostel, which served free communal dinners. The cool breeze from the mountains was a welcome change for me too.
 
-Days in the town included a walking tour, several parfaits, local markets, churches, and walks to parks and viewpoints. Antigua has the *World's Most Beautiful McDonalds* which did look very nice, but we preferred the equally beautiful Taco Bell, complete with actual bell. There's a great nightlife here, in the quirky local bars like Café No Sé, or in the funny Irish bar which sold *Gennioss*, and where Kevin got two bullseyes in a row to win his first ever game of darts. The great food and homelike familiarity of Antigua had a recharging effect on me, making it my favourite place in Central America.
+Days in the town included a walking tour, several parfaits, local markets, churches, and walks to parks and viewpoints. Antigua has the *World's Most Beautiful McDonalds* which did look very nice, but we preferred the equally beautiful Taco Bell, complete with actual bell. There's a great nightlife here, in the quirky local bars like [Café No Sé](https://youtube.com/shorts/SgfQEH9nM6Q?is=DDGEvcgs9Mc51839), or in the funny Irish bar which sold *Gennioss*, and where Kevin got two bullseyes in a row to win his first ever game of darts. The great food and homelike familiarity of Antigua had a recharging effect on me, making it my favourite place in Central America.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca11.jpeg">
@@ -199,7 +197,7 @@ I loved this hike, especially as you reach camp and get your [first view of Fueg
 
 Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm. The Mayan people who lived here were some of the most isolated, which has helped in preserving their languages, traditions, and customs. Kevin & I spent two nights in San Pedro, and two nights in Santa Cruz; small towns on opposite ends of the lake. It's a very calm place, where you meet lots of backpackers doing Spanish courses to benefit from the particularly slow and clear speech in Guatemala. 
 
-We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spedning hours in the sun practicing our dives. We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
+We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spending hours in the sun [practicing our dives](https://youtube.com/shorts/J0j9527J1fo?is=yNtYojFSFDZ-bWtY). We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
 
 The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras. I chose to spend four nights in Copan Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went.
 

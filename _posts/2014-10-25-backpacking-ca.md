@@ -15,6 +15,7 @@ San Ignacio (Biblical Rain)
 San Ignacio (Green Iguana)  
 Flores (volleyball tournament)  
 Antigua (Café No Sé)
+Acatenango (first view of Fuego)
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
@@ -177,9 +178,13 @@ Days in the town included a walking tour, several parfaits, local markets, churc
     <img width="400" src="/images/bpca11.jpeg">
 </p>
 
-#### Acatenango
+#### Acatenango & Fuego
 
-Acatenango is a challenging overnight volcano trek that rewards hikers with sweeping views above the clouds and the unforgettable sight of neighbouring Volcán de Fuego erupting spectacularly through the night.
+Acatenango (3,976m) is an overnight volcano trek that rewards hikers with views above the clouds, and of neighbouring Volcán de Fuego (3,763m). Fuego is the most active volcano in Central America, erupting with gases and lava every 15 minutes. Camps on Acatenango are positioned where you can watch the eruptions glow through the night from the comfort of your campfire. Hikers can optionally climb to within 200m of Fuego's summit where you feel the rumble of being so close, and also can summit Acatenango for sunrise, both of which Kevin & I did.
+
+I loved this hike, especially as you reach camp and get your first view of Fuego. The elevation is enough to make it surprisingly challenging, but it's good trail all the way to camp 
+
+was okay, but paired with the volcanic sand of the optional hikes can make it surprisingly challenging at times, but it's rewarded at every step. The reveal of Fuego as you reach camp was unforgettable.
 
 [Daytime](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_)
 

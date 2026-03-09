@@ -158,7 +158,7 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 #### Semuc Champey
 
-Semuc Champey is a remote jungle paradise where a series of turquoise limestone pools cascade above a hidden underground river, rewarding the long journey with one of Central America’s most spectacular natural sights.
+Semuc Champey is a remote jungle paradise known for its turquoise limestone pools that cascade above an underground river. It's a long but well rewarded journey.
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">

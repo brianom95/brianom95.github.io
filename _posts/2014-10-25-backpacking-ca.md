@@ -31,7 +31,7 @@ Just as South East Asia has the [Banana Pancake Trail](backpacking_sea), Central
 
 The trail winds its way through colonial cities, surf towns, jungle outposts, and volcanic landscapes. One week you can be hiking above the clouds at sunrise; the next you’re learning to surf or crammed into a chicken bus, rattling towards the next border. It attracts a mix of backpackers, some travelling for months with no fixed plans, others squeezing as much as possible into a few weeks. All drawn by the region’s beauty, affordability, and slightly unpredictable nature.
 
-Unlike its Asian counterpart, the Gringo Trail can feel a little less polished and occasionally more chaotic. Border crossings test your patience, roads can be slow, language barriers are the norm, and plans change often. Yet that friction is part of the appeal. Travel here demands a touch more flexibility, a willingness to lean into the unknown, and a sense of humour when things inevitably go wrong. For those prepared to embrace it, the rewards are immense: dramatic landscapes, generous people, and the quiet satisfaction that comes from earning each new destination. Below is the route I followed from Mexico to Panama.
+Unlike its Asian counterpart, the Gringo Trail can feel a little less polished and occasionally more chaotic. Border crossings test your patience, roads can be slow, language barriers are the norm, and plans change often. Yet that friction is part of the appeal. Travel here demands a touch more flexibility, a willingness to lean into the unknown, and a sense of humour when things inevitably go wrong. For those prepared to embrace it, the rewards are immense: dramatic landscapes, generous people, and the quiet satisfaction that comes from earning each new destination. Below is the route I followed from Mexico to Panama. None of these countries require a visa for Irish travellers.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca2.webp">
@@ -197,11 +197,11 @@ I loved this hike, especially as you reach camp and get your [first view of Fueg
 
 #### Lake Atitlán
 
-Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm. The Mayan people who lived here were some of the most isolated, which has helped in preserving their languages, traditions, and customs. Kevin & I spent two nights in San Pedro, and two nights in Santa Cruz; small towns on opposite ends of the lake. It's a very calm place, where you meet lots of people doing Spanish courses to benefit from the particularly slow and clear speech in Guatemala. 
+Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm. The Mayan people who lived here were some of the most isolated, which has helped in preserving their languages, traditions, and customs. Kevin & I spent two nights in San Pedro, and two nights in Santa Cruz; small towns on opposite ends of the lake. It's a very calm place, where you meet lots of backpackers doing Spanish courses to benefit from the particularly slow and clear speech in Guatemala. 
 
-We did two sunrise hikes, including the Indian Nose, and spent slow days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Then explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
+We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spedning hours in the sun practicing our dives. We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
 
-The rooftop of a nice Indian restauraunt is where we waved goodbye to the lake and bused onwards.
+The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras. I chose to spend four nights in Copan Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">
@@ -209,7 +209,14 @@ The rooftop of a nice Indian restauraunt is where we waved goodbye to the lake a
 
 ## Honduras
 
+In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
+
+In 2024, the UK updated their visa to make entry much harder for them. Honduras retaliated with the same back, now requiring a physical visa from an embassy to transit through the country. This has led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the transiting bus which was historically the only option. I strongly feel this has tainted the discussion with 
+
 #### Copan Ruinas
+
+
+supposedly taking a lot of the criminals who fled El Salvador during the 2022 clamp down on gangs
 
 Copán Ruinas is a charming colonial village best known as the gateway to the intricate Mayan ruins of Copán, where carved stelae, jungle temples, and a relaxed plaza atmosphere make it one of Central America’s most rewarding archaeological stops.
 

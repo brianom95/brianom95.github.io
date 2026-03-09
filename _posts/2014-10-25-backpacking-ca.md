@@ -158,7 +158,9 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 #### Semuc Champey
 
-Semuc Champey is a remote jungle paradise known for its turquoise limestone pools that cascade above an underground river. It's a long but well rewarded journey.
+Semuc Champey is a remote jungle paradise known for its turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible at night, so evenings were spent watching the sunset from the pool, surrounded by the warm glow of fairy lights and an endless jungle. The national park itself was 30 mins away, which we reached by hitch-hiking.
+
+Semuc Champey translates to *Underground River*
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">

@@ -211,7 +211,9 @@ The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, an
 
 In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
 
-In 2024, the UK updated their visa to make entry much harder for them. Honduras retaliated with the same back, now requiring a physical visa from an embassy to transit through the country. This has led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the transiting bus which was historically the only option. I strongly feel this has tainted the discussion with 
+In 2024, the UK updated their visa to make entry much harder for them. Honduras retaliated with the same back, now requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the transiting bus which was historically the best option. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to use the boat or avoid the country. 
+
+Much of this is likely an over reaction, when the country has very little petty crime, especially in touristy areas. Crime is generally between gangs, or in the most impoverished slums which would be near impossible to accidentally find yourself in. I'm still happy with my decision to just see Copan, as it suited my itinerary and right now
 
 #### Copan Ruinas
 

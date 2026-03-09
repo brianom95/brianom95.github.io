@@ -15,6 +15,7 @@ San Ignacio (Biblical Rain)
 San Ignacio (Green Iguana)  
 Flores (volleyball tournament)  
 Antigua (Café No Sé)  
+Lake Atitlan (12m diving platform)
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
@@ -196,7 +197,11 @@ I loved this hike, especially as you reach camp and get your [first view of Fueg
 
 #### Lake Atitlán
 
-Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm.
+Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and traditional Mayan villages, where slow boat journeys connect colourful towns each with their own distinct character and rhythm. The Mayan people who lived here were some of the most isolated, which has helped in preserving their languages, traditions, and customs. Kevin & I spent two nights in San Pedro, and two nights in Santa Cruz; small towns on opposite ends of the lake. It's a very calm place, where you meet lots of people doing Spanish courses to benefit from the particularly slow and clear speech in Guatemala. 
+
+We did two sunrise hikes, including the Indian Nose, and spent slow days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic 12m diving platform. It scared the crap out of me, but I'm glad I did it. We got last minute cancellations for Free Cerveza hostel, which books out months in advance and was unbelievably fun. Then explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
+
+The rooftop of a nice Indian restauraunt is where we waved goodbye to the lake and bused onwards.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">

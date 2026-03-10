@@ -216,9 +216,11 @@ In 2024, the UK updated their visa to make entry harder for them. Honduras retal
 
 #### Copán Ruinas
 
-Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of energy around, with constant music and parades to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED). The town and it's people are particularly friendly.
+Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of energy around, with constant music and parades to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED). The town and its people are particularly friendly.
 
-My hostel was cosy and quiet, with a small sign saying; *'Smile, you're on the fun side of Trumps wall'*. The owner told me lots about life in the country. How 
+The ruins are amazing, joined to the town by a scenic walking trail. What makes Copán so unique is that the main temples were built over previous ones. They've added tunnels where you can go down and see the excavated older versions, seeing the differences in building styles and carvings. They also have the largest known Maya inscription. It was normal for Mayans to use hieroglyphs on the bottom step of any stairs to say what a building is. Here they filled 63 large steps with the history of the city and it's many rulers. It's said to
+
+My hostel was cosy and quiet, with a small sign saying; *'Smile, you're on the fun side of Trumps wall'*. The owner told me lots about life in the country, how crime is almost entirely between gangs or in remote slums, and that 95% of towns are as safe as here. Tourism has plummeted through repeated 
 
 
 

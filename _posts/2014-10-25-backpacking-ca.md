@@ -227,7 +227,9 @@ We bonded as we explored the restauraunts, bars and lookout towers of the town. 
 
 #### Santa Ana
 
-Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to some of El Salvador’s best hiking.
+Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to hiking. Kevin had been here two days so he knew the best hostel and best restauraunt for papusas; El Salvador's national dish of thick stuffed pancakes. 
+
+One day we took local buses to Santa Ana volcano for the short hike to the top. The view is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate covered, frozen bananas on top did a lot of business. After we went to Lake Coatepeque with people from the hostel, for a day of drinks and lake jumping.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">

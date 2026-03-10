@@ -229,9 +229,11 @@ We bonded as we explored the restauraunts, bars and lookout towers of the town. 
 
 Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to hiking. Kevin had been here two days so he knew the best hostel and best restauraunt for papusas; El Salvador's national dish of thick stuffed pancakes. He also introduced me to Little Caesers Pizza.
 
-One day we took local buses to the Santa Ana Volcano hike. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate covered, frozen bananas on top did a lot of business. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
+One day we took local buses to hike up Santa Ana Volcano. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate coated frozen bananas got a lot of business in the heat. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
 
-Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad 4x4's, to where we'd climb up to 20m [waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-)
+Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's, to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m high waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives!
+
+On a walking tour we learned about the 40,000 person prison opened by President Bekele in 2022, which houses
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">

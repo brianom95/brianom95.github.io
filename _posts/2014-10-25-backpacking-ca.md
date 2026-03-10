@@ -195,7 +195,7 @@ Lake Atitlán is a breathtaking volcanic lake ringed by dramatic peaks and tradi
 
 We did two sunrise hikes, including the Indian Nose, and spent quiet days exploring the markets, churches, cafes and restaurants. We took the ferry to San Marcos, an entirely vegetarian town which feels like a hippie commune. They have amazing food, but are most famous for this iconic [12m diving platform](https://youtube.com/shorts/RI2lB4zsfvs?is=UPNZ2_wYReE4_eCe). It scared the crap out of me, but I'm glad I did it. The nature reserve here is the best thing about the lake, spending hours in the sun [practicing our dives](https://youtube.com/shorts/J0j9527J1fo?is=yNtYojFSFDZ-bWtY). We got last minute cancellations for Free Cerveza Hostel, which books out months in advance and was unbelievably fun. Finally we explored the largest town of Panajchel, which is where quiet lake life returns to the real world. 
 
-The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras. I chose to spend four nights in Copan Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went.
+The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras. I chose to spend four nights in Copán Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">
@@ -205,15 +205,17 @@ The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, an
 
 In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
 
-In 2024, the UK updated their visa to make entry harder for them. Honduras retaliated with the same back, now requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the normal transiting bus. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to also use the boat and avoid the country. 
+In 2024, the UK updated their visa to make entry harder for them. Honduras retaliated with the same back,  requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the normal transiting bus. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to also use the boat and avoid the country. 
 
-This is only somewhat justified. The vast majority of crime is between gangs, or in city slums which would be impossible to accidentally find yourself in. There are definite issues of corruption, but it's hard to say if the country is inherently riskier than its neighbours. I met lots of people backpacking around it, and though the tourist routes were quiet, with the right precautions they had no issues. I'm still happy with my decision to just see Copan Ruinas as it best suited my itinerary.
+In hindsight, this is likely an overreaction. The vast majority of crime is between gangs, or in city slums which would be impossible to accidentally find yourself in. There are definite issues of corruption, but it's hard to say if the country is inherently riskier than its neighbours. I met lots of people who were backpacking through it, and while the tourist routes were quiet, with the right precautions they had no safety issues. 
 
-#### Copan Ruinas
+I'm still happy with my decision to just see Copán Ruinas, as it best suited my itinerary and personal aversion to risk at the time. The border was slow and not the most friendly, but went without issue. 
 
-supposedly taking a lot of the criminals who fled El Salvador during the 2022 clamp down on gangs
+#### Copán Ruinas
 
-Copán Ruinas is a charming colonial village best known as the gateway to the intricate Mayan ruins of Copán, where carved stelae, jungle temples, and a relaxed plaza atmosphere make it one of Central America’s most rewarding archaeological stops.
+Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of life around the city, with days of parades taking place to mark their Independence Day.
+
+The owner of the hostel told me lots about life in the country
 
 screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPvPa1nQc)
 

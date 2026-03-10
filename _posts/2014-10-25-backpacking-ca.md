@@ -227,9 +227,11 @@ We bonded as we explored the restauraunts, bars and lookout towers of the town. 
 
 #### Santa Ana
 
-Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to hiking. Kevin had been here two days so he knew the best hostel and best restauraunt for papusas; El Salvador's national dish of thick stuffed pancakes. 
+Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to hiking. Kevin had been here two days so he knew the best hostel and best restauraunt for papusas; El Salvador's national dish of thick stuffed pancakes. He also introduced me to Little Caesers Pizza.
 
-One day we took local buses to Santa Ana volcano for the short hike to the top. The view is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate covered, frozen bananas on top did a lot of business. After we went to Lake Coatepeque with people from the hostel, for a day of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F).
+One day we took local buses to the Santa Ana Volcano hike. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate covered, frozen bananas on top did a lot of business. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
+
+Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad 4x4's, to where we'd climb up to 20m waterfalls
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">

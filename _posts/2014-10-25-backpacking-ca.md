@@ -213,7 +213,7 @@ I'm still happy with my decision to just see Copán Ruinas, as it best suited my
 
 #### Copán Ruinas
 
-Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of life around the city, with days of parades taking place to mark their Independence Day.
+Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of life around the city, with days of parades taking place to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED).
 
 The owner of the hostel told me lots about life in the country
 

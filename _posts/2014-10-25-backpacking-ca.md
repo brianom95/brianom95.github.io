@@ -45,7 +45,7 @@ After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/sho
 
 #### Valladolid
 
-Valladolid is a laid-back colonial town in Yucatán; the province named for what invading Spanish observed locals saying, now known to mean: "I don't Understand". Moving 2.5hrs inland brings a greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plaza, cathedral, food hall and swam in [Cenote Zaci](https://youtube.com/shorts/bSDBfkSsJxU?is=iukEug1UoDJnWxiU). Evenings by the pool were great, and I really enjoyed the Convent of San Bernardino de Siena. This was built over a cenote that gave direct access to water from their kitchen, and now houses artefacts from the Castle War of 1847. But the main reason people come to Valladolid is to see nearby Chichén Itzá; one of the Seven Wonders of the World.
+Valladolid is a laid-back colonial town in Yucatán; the province named for what invading Spanish observed locals saying, now known to mean: "I don't Understand". Moving three hours inland brings a greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plaza, cathedral, food hall and swam in [Cenote Zaci](https://youtube.com/shorts/bSDBfkSsJxU?is=iukEug1UoDJnWxiU). Evenings by the pool were great, and I really enjoyed the Convent of San Bernardino de Siena. This was built over a cenote that gave direct access to water from their kitchen, and now houses artefacts from the Castle War of 1847. But the main reason people come to Valladolid is to see nearby Chichén Itzá; one of the Seven Wonders of the World.
 
 Mayans lived in Mesoamerica for 3,500 years before the Spanish conquest. Their Preclassic Period saw the formation of early farming societies. Their Classic Period brought powerful city-states like Tikal with monumental temples, writing, and astronomy; ending suddenly in 900 AD when a theorised megadrought almost destroyed the civilisation. The following Postclassic Period saw power shift north to Mexico, where smaller cities were built near freshwater cenotes. It was a time of decline because of fragmentisation, but new technology also brought the most modern and intricate Mayan architecture. The best preserved example of this is Chichén Itzá.
 
@@ -154,7 +154,7 @@ I visited as a day trip with Molly & Martine who I'd travelled with since Bacala
 
 #### Semuc Champey
 
-Semuc Champey is a remote jungle paradise known for turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible here. Evenings were well spent watching sunsets from the pool, surrounded by the glow of fairy lights and an endless jungle. The national park was 30 mins away, which we reached by [hitch-hiking](https://youtube.com/shorts/G7fSvSi2JKg?is=crqMaAEnoypnEDf_).
+Semuc Champey is a remote jungle paradise known for turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible here. Evenings were well spent watching sunsets from the pool, surrounded by the glow of fairy lights and an endless jungle. The national park was thirty minutes away, which we reached by [hitch-hiking](https://youtube.com/shorts/G7fSvSi2JKg?is=crqMaAEnoypnEDf_).
 
 The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the giant [rope swing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the ledges and waterfalls to see all it has to offer. 
 
@@ -174,7 +174,7 @@ Days in the town included a walking tour, several parfaits, local markets, churc
 
 #### Acatenango & Fuego
 
-Acatenango (3,976m) is an overnight volcano trek that rewards hikers with views above the clouds, and of neighbouring Volcán de Fuego (3,763m). Fuego is the most active volcano in Central America, erupting with gases and lava every 15 minutes. Camps on Acatenango are positioned where you can watch the eruptions glow through the night from the comfort of your campfire. Hikers can optionally climb to within 200m of Fuego's summit where you feel the rumble below your feet, and also can summit Acatenango for sunrise. Both of which Kevin & I did.
+Acatenango (3,976m) is an overnight volcano trek that rewards hikers with views above the clouds, and of neighbouring Volcán de Fuego (3,763m). Fuego is the most active volcano in Central America, erupting with gases and lava every fifteen minutes. Camps on Acatenango are positioned where you can watch the eruptions glow through the night from the comfort of your campfire. Hikers can optionally climb to within 200m of Fuego's summit where you feel the rumble below your feet, and also can summit Acatenango for sunrise. Both of which Kevin & I did.
 
 I loved this hike, especially as you reach camp and get your [first view of Fuego](https://youtube.com/shorts/wQaZfRZmAPs?is=c4FrFgUx27dcWAK_). The elevation makes it quite challenging for most people, but it's a good trail all the way up. The optional hikes are much tougher, with a volcanic sand that's hard to walk on, and in our case very poor weather. When we stood on Fuego we could feel the eruptions, but only saw eerie glimpses of lava through a dense fog. A sudden lightning storm forced a quick retreat to camp, and we had similar bad luck with the weather at sunrise. All was made up for though as we sat in camp with hot chocolate, watching the lava rain down through the night. Better weather is advisable, but this hike was completely unforgettable.
 
@@ -197,7 +197,7 @@ We did two sunrise hikes, including the Indian Nose, and spent quiet days explor
 
 The rooftop of a nice Indian restauraunt is where I said goodbye to the lake, and to Kevin for now. There had been a lot of talk about Honduras lately, with most people skipping it due to safety concerns. I was nervous about their major cities, and wasn't interested in the scuba diving hub of Roatan off its coast, but I did want to experience something of Honduras and form my own opinion. 
 
-I chose to spend four nights in Copán Ruinas, which was 6hrs from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went. The border was slow and not the most friendly, but went without issue. 
+I chose to spend four nights in Copán Ruinas, which was six hours from Antigua on local buses. I arranged to meet Kevin in El Salvador after, and off I went. The border was slow and not the most friendly, but went without issue. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca12.jpeg">
@@ -205,24 +205,13 @@ I chose to spend four nights in Copán Ruinas, which was 6hrs from Antigua on lo
 
 ## Honduras
 
-In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
-
-In hindsight, this is likely an overreaction. The vast majority of crime is between gangs, or in city slums which would be impossible to accidentally find yourself in. There are definite issues of corruption, but it's hard to say if the country is inherently riskier than its neighbours. I met lots of people who were backpacking through it, and while the tourist routes were quiet, with the right precautions they had no safety issues. 
-
-I'm still happy with my decision to just see Copán Ruinas, as it best suited my itinerary and personal aversion to risk at the time. 
-
-In 2024, the UK updated their visa to make entry harder for them. Honduras retaliated with the same back,  requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the normal transiting bus. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to also use the boat and avoid the country. 
-
-
 #### Copán Ruinas
 
-Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like stuffed crepes. There was a lot of energy around, with constant music and parades to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED). The town and its people are particularly friendly.
+Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like savoury stuffed crepes. There was a lot of energy around, with constant music and parades to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED). The town and its people are particularly friendly.
 
-The ruins are amazing, joined to the town by a scenic walking trail. What makes Copán so unique is that the main temples were built over previous ones. They've added tunnels where you can go down and see the excavated older versions, seeing the differences in building styles and carvings. They also have the largest known Maya inscription. It was normal for Mayans to use hieroglyphs on the bottom step of any stairs to say what a building is. Here they filled 63 large steps with the history of the city and it's many rulers. It's said to
+The ruins are amazing, connected to the town by a scenic walking trail. What makes the site unique is that all the main temples were built on top of previous ones. Tunnels allow you to go underneath and see the differences in building styles and carvings. They also have the largest known Maya inscription. It was normal to use hieroglyphs on the bottom step of a stairs to say what a building is. Here they filled 63 large steps with the entire history of the city and it's many rulers. 
 
 My hostel was cosy and quiet, with a small sign saying; *'Smile, you're on the fun side of Trumps wall'*. The owner told me lots about life in the country, how crime is almost entirely between gangs or in remote slums, and that 95% of towns are as safe as here. Tourism has plummeted through repeated 
-
-
 
 screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPvPa1nQc)
 
@@ -233,6 +222,14 @@ screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPv
 ## El Salvador
 
 #### Santa Ana
+
+In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
+
+In hindsight, this is likely an overreaction. The vast majority of crime is between gangs, or in city slums which would be impossible to accidentally find yourself in. There are definite issues of corruption, but it's hard to say if the country is inherently riskier than its neighbours. I met lots of people who were backpacking through it, and while the tourist routes were quiet, with the right precautions they had no safety issues. 
+
+I'm still happy with my decision to just see Copán Ruinas, as it best suited my itinerary and personal aversion to risk at the time. 
+
+In 2024, the UK updated their visa to make entry harder for them. Honduras retaliated with the same back,  requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the normal transiting bus. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to also use the boat and avoid the country.
 
 Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to some of El Salvador’s best hiking.
 

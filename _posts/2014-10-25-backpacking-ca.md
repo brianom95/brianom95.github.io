@@ -227,28 +227,20 @@ We bonded as we explored the restauraunts, bars and lookout towers of the town. 
 
 #### Santa Ana
 
-Santa Ana is a lively colonial city that gives easy access to the turquoise crater lake of nearby Santa Ana Volcano. Kevin had been here two days already so he knew the best hostel and best restauraunt for papusas; the national dish of thick stuffed pancakes. He also introduced me to Little Caesers Pizza here. The town is nice to visit and the country is currently the safest in Central America, but this wasn't always the case.
+Santa Ana is a lively colonial city that gives easy access to the turquoise crater lake of nearby Santa Ana Volcano. Kevin had been here two days already so he knew the best hostel and best restauraunt for papusas; the national dish of thick stuffed pancakes. The town is nice to visit and the country is currently the safest in Central America, but this wasn't always the case.
 
 El Salvador was the murder capital of the world only a decade ago. This came from a young, orphaned population after the 1992 civil war, combined with 4,000 deported gang members from MS-13 & Barrio 18 in California. They essentially ran the country, imposing curfews, murdering at will (once 62 people in one night), and controlling every layer of police and media. They had 60,000 members, or 1% of the population, and ran a huge drug trade that benefitted from the country using the US Dollar. 
 
-In 2022, President Bukele opened a 40,000 person megaprison and gave life sentences to all gang members, most of whom had distinct face tattoos. Over the coming year violent crime completely stopped due to the zero tolerance approach. He's faced criticism in the west for the conditions in these prisons, which he argues are necessary for dismantling gangs. Several documentaries have been filmed inside to show both sides, but he's definitely correct when he says; *"by imprisoning thousands, we've freed millions"*. The country has already transformed, with a Google headquarters just opened, and Bitcoin as a national currency.
+In 2022, President Bukele opened a 40,000 person megaprison and gave life sentences to gang members, most of whom had distinct face tattoos. Within a year, this zero tolerance approach stopped all violent crime. He's faced criticism in the west for the conditions in these prisons, which he argues are necessary for dismantling gangs. Several documentaries have been filmed inside to show both sides, but he's definitely correct when he says; *"by imprisoning thousands, we've freed millions"*. The country has already transformed, with a Google headquarters just opened, and Bitcoin as a national currency.
 
-Kevin & I did a walking tour with a local woman who had family members killed, was robbed multiple times, and saw her first dead body at ten years old. To her Bukele was a hero, and he had just been re-elected for a second term with 90% of the vote. She showed us t
+Kevin & I did a walking tour with a local woman who had family members killed, was robbed multiple times, and saw her first dead body at ten years old. To her Bukele was a hero, and he had just been re-elected for a second term with 90% of the vote. She showed us the national theatre, library with 400 year old books, and the city hall which gives free classes in language, art and musical instruments. It's a place that's healing, admirably. She explained how all bars and restauraunts still keep doors closed and you knock for entry, now out of habit instead of safety. In one of these she drank and recommended a local favourite drink; half orange juice, half coffee. Kevin got one. It was not good.
 
-The country now has been transformed, into a m
-
-the On a tour of the town we learned about the troubled past. 
-
-El Salvador was a hub for drug trafficing because they use the US Dollar, leading to large gangs which essentially ran the country. They imposed curfews and made it the murder capital of the world. In 2022, this ended when a 40,000 person jail was built and all gang members were given life sentences.
-
-On a tour of the town we learned about the troubled past. 
 
 One day we took local buses to hike up Santa Ana Volcano. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate coated frozen bananas got a lot of business in the heat. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
 
 Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's, to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m high waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives!
 
-
-and the 40,000 person jail that was opened in 2022 to . 
+He also introduced me to Little Caesers Pizza.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">

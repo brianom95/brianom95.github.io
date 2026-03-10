@@ -209,11 +209,11 @@ I chose to spend four nights in Copán Ruinas, which was six hours from Antigua 
 
 Copán Ruinas is a quiet colonial village situated on an intricate system of Mayan ruins. It's one of Central America’s most unique and rewarding archaeological stops. The town itself is bright and colourful, full of cafes and ice cream shops. The local food of baleadas are incredible, like savoury stuffed crepes. There was a lot of energy around, with constant music and parades to mark their [Independence Day](https://youtube.com/shorts/19SvlGkumwk?is=_XB3POeGMcURQrED). The town and its people are particularly friendly.
 
-The ruins are amazing, connected to the town by a scenic walking trail. What makes the site unique is that all the main temples were built on top of previous ones. Tunnels allow you to go underneath and see the differences in building styles and carvings. They also have the largest known Maya inscription. It was normal to use hieroglyphs on the bottom step of a stairs to say what a building is. Here they filled 63 large steps with the entire history of the city and it's many rulers. 
+The ruins are amazing, connected to the town by a scenic walking trail. What makes the site unique is that temples were built over previous ones. Tunnels let you go underneath to see the differences in building styles and carvings. They also have the largest known Maya inscription. It was normal to use hieroglyphs on the bottom step of a stairs to say what a building is. Here they filled 63 large steps with the entire history of the city and gossip about its many rulers. I explored the residential areas of Las Sepulturas and all over the hilly site, walking below the constant screech of their national bird; the [scarlet macaw](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPvPa1nQc).
 
-My hostel was cosy and quiet, with a small sign saying; *'Smile, you're on the fun side of Trumps wall'*. The owner told me lots about life in the country, how crime is almost entirely between gangs or in remote slums, and that 95% of towns are as safe as here. Tourism has plummeted through repeated 
+My hostel was cosy and quiet, with a small sign saying: *'Smile, you're on the fun side of Trumps wall'*. The owner told me lots about life in the country, and how tourism had taken a setback after recent bad publicity. I did meet backpackers as they moved through who were finding it safe with the usual precautions. Corruption can be an issue, but the 95% of towns who are away from gang areas seem to be as safe as here. Hopefully someday tourism gets back to what it once was there.
 
-screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPvPa1nQc)
+Each day the hostel would put a post-it note on dorm doors with names of incoming guests. One day it said 3x Spanish, another day it said Mairéad. Copán is a small town, where new people stand out, so when I saw an Irish person in a cafe that day she was surprised that I knew her name.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca15.jpeg">
@@ -222,14 +222,6 @@ screams of [scarlet macaws](https://youtube.com/shorts/Z4kLYLIJkOg?is=2HZ995eLPv
 ## El Salvador
 
 #### Santa Ana
-
-In 2022, neighbouring El Salvador opened a 40,000 person megaprison and issued life sentences to all gang members, most of whom had face tattoos that made them easily identifiable. The country had been a hub for drug trafficing because they used the US Dollar, but harsh punishments made crime fall to near zero within a year. More on that later, but it had the opposite effect on Honduras, which shares the largest border and saw a huge influx of crime and gang activity. Since then Honduras has earned a bad reputation.
-
-In hindsight, this is likely an overreaction. The vast majority of crime is between gangs, or in city slums which would be impossible to accidentally find yourself in. There are definite issues of corruption, but it's hard to say if the country is inherently riskier than its neighbours. I met lots of people who were backpacking through it, and while the tourist routes were quiet, with the right precautions they had no safety issues. 
-
-I'm still happy with my decision to just see Copán Ruinas, as it best suited my itinerary and personal aversion to risk at the time. 
-
-In 2024, the UK updated their visa to make entry harder for them. Honduras retaliated with the same back,  requiring a physical visa from an embassy, which is not easy to get while on the road. This led to British travellers using an expensive boat service to go between El Salvador and Nicaragua, rather than the normal transiting bus. While this has no effect on Irish, European or American travellers, I think it's led to a lot of fear mongering in hostels, which convices people to also use the boat and avoid the country.
 
 Santa Ana is a lively colonial city that serves as the gateway to the striking turquoise crater lake of the nearby Santa Ana Volcano, blending grand architecture with easy access to some of El Salvador’s best hiking.
 

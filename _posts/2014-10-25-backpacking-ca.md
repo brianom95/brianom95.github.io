@@ -8,6 +8,9 @@ tags:
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
+## Videos
+Caye Caulker (shark)
+
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
@@ -42,7 +45,7 @@ After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/sho
 
 #### Valladolid
 
-Valladolid is a laid-back colonial town in Yucatán; the province named for what invading Spanish observed locals saying, now known to mean: "I don't Understand". Moving 2.5hrs inland brings a greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plaza, cathedral, food hall and [Cenote Zaci](https://youtube.com/shorts/bSDBfkSsJxU?is=iukEug1UoDJnWxiU). Evenings by the pool were great, and I really enjoyed the Convent of San Bernardino de Siena. This was built over a cenote that gave direct access to water from their kitchen, and now houses artefacts from the Castle War of 1847. But the main reason people come to Valladolid is to see nearby Chichén Itzá; one of the Seven Wonders of the World.
+Valladolid is a laid-back colonial town in Yucatán; the province named for what invading Spanish observed locals saying, now known to mean: "I don't Understand". Moving 2.5hrs inland brings a greener landscape, but also an intense heat. I met a nice group in the hostel, with whom I explored the quiet plaza, cathedral, food hall and swam in [Cenote Zaci](https://youtube.com/shorts/bSDBfkSsJxU?is=iukEug1UoDJnWxiU). Evenings by the pool were great, and I really enjoyed the Convent of San Bernardino de Siena. This was built over a cenote that gave direct access to water from their kitchen, and now houses artefacts from the Castle War of 1847. But the main reason people come to Valladolid is to see nearby Chichén Itzá; one of the Seven Wonders of the World.
 
 Mayans lived in Mesoamerica for 3,500 years before the Spanish conquest. Their Preclassic Period saw the formation of early farming societies. Their Classic Period brought powerful city-states like Tikal with monumental temples, writing, and astronomy; ending suddenly in 900 AD when a theorised megadrought almost destroyed the civilisation. The following Postclassic Period saw power shift north to Mexico, where smaller cities were built near freshwater cenotes. It was a time of decline because of fragmentisation, but new technology also brought the most modern and intricate Mayan architecture. The best preserved example of this is Chichén Itzá.
 
@@ -87,7 +90,7 @@ Bacalar is a tranquil lagoon town near the Belize border, famed for its *Lake of
 
 Bacalar began as a Mayan trade hub named Bak Halal, meaning *Surrounded by Reeds*. It became a target for 17th-century pirates, leading to construction of the Fort of San Felipe to protect against raids. This is now a piracy museum with great views. The best thing nearby is Los Rápidos; a lazy river where you walk baordwalks to the top and float back down, with breaks spent at the bar and sun loungers beside. This was a perfect day. Aside from that we spent our time as you should; eating tacos, jumping from the hostels pontoon and enjoying the peaceful lake which seems to consistently keep travellers longer than they plan. 
 
-From here Kevin headed north for his flight as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of paying, but no one today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different as we drove the good roads to Belize City, where I boarded my ferry.
+From here Kevin headed north for his flight, as I boarded a bus to the border. There's a $30 exit fee when leaving the state of Quintana Roo, which is paid by card and went smoothly. Some people talk their way out of paying, but no one today. Belize is the only English speaking country in Central America. They still have the Queen on their money, and their food is distinctly different to the rest of the region. I noticed the houses looked different as we drove the good roads to Belize City, where I boarded my ferry.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca6.jpeg">
@@ -97,7 +100,7 @@ From here Kevin headed north for his flight as I boarded a bus to the border. Th
 
 #### Caye Caulker
 
-Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punch and sunset swims. In 1961, Hurricane Hattie divided the island in two, leaving a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards. I stayed in a small, beach style hostel that was so hot in the day that you had to go explore. I walked a lap of the island, nervously looking for crocodiles in the mangrove, and marvelling at the walls made of shells. Cocktail bars overlook beautiful piers and a creepy stingray beach where they swim over your feet. The nightlife was really fun, spent with nice people from the hostel and 50 cent bottles of rum.
+Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punch and sunset swims. In 1961, Hurricane Hattie divided the island in two, leaving a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards. I stayed in a small, beach style hostel that was so hot in the day that it forced you to go explore. I walked a lap of the island, nervously looking for crocodiles in the mangrove, and marvelling at the walls made of shells. Cocktail bars overlook beautiful piers and a creepy stingray beach where they swim over your feet. The nightlife was really fun too, spent with nice people from the hostel and 50 cent bottles of rum.
 
 The real draw is the Belize Barrier Reef; second largest in the world after Australia. I spent a full day snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
 
@@ -109,7 +112,7 @@ The real draw is the Belize Barrier Reef; second largest in the world after Aust
 
 San Ignacio is a rugged inland town, historically used for extracting mahogony and gum trees. Now known for jungle hikes, caving expeditions, and off grid Mayan ruins that offer a wilder contrast to Belize’s Caribbean coast. Most people pass through on route to Guatemala, but I was glad to spend time here. The town is quiet, with nice markets and restauraunts. Plus the hostel was a lot of fun, with chill evenings of guitar, hammocks and movies, followed by live music in their bar.
 
-I visited the Mayan ruins of Cahal Pech where you could see a clear distinction in the Classic Period style, before being hit wiith [biblical rain](https://youtube.com/shorts/XSftKutkdCQ?is=ksxf0xaNQUcb1I32)! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered [Green Iguana](https://youtube.com/shorts/MPq81Aj3eTY?is=VfKn7uy2L1_B15-7) which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
+I visited the Mayan ruins of Cahal Pech, where I could see a clear distinction in the Classic Period style, before being hit wiith [biblical rain](https://youtube.com/shorts/XSftKutkdCQ?is=ksxf0xaNQUcb1I32)! The Iguana Conservation Project is a nice visit too, learning about the overpopulated Red Iguana that eats walls and foundations, contrasted to the endangered [Green Iguana](https://youtube.com/shorts/MPq81Aj3eTY?is=VfKn7uy2L1_B15-7) which struggles to survive alongside. The babies are exceptionally tiny, and their tails are razor sharp.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca10.jpeg">
@@ -121,7 +124,7 @@ Despite being tiny, Belize has thousands of caves, with over 90% containing Maya
 
 Actun Tunichil Muknal is incredible. Hours of swimming and climbing through pitch black passages to reach huge rooms with pillars that look like cathedrals. Thousands of pots contained grains, water and sometimes blood, in what was likely offerings. Carbon dating places everything between 800 to 1000 AD, corresponding with the drought which would have dried the entrance and made access possible. Cave paintings and carvings also depict Chaac, the god of rain. 
 
-The main chamber is a solemn place where shoes are left outisde and pockets must be empty to protect what's within. Our small group were alone in the cave as we sat with the most well preserved skeleton, calcified but unmoved for 1,000 years. It was a deeply spiritual place that I'll never forget. 
+The main chamber is a solemn place where shoes are left outisde and pockets must be empty to protect what's within. It's a huge room that makes you feel tiny. Our small group were alone in the cave as we sat with the most well preserved skeleton, calcified but unmoved for 1,000 years. It was an experience I'll never forget. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca8.jpeg">
@@ -131,9 +134,9 @@ The main chamber is a solemn place where shoes are left outisde and pockets must
 
 #### Flores
 
-2hrs of nice roads, with a fast border crossing brought me to my third country. The exchange rate and low value notes in Guatemala meant everyone has thick stacks of money and feels like a millionaire.
+Two hours of nice roads and another fast border crossing brought me to my third country. The exchange rate and low value notes in Guatemala has everyone carrying thick stacks of money. You feel like a millionaire.
 
-Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial town was built in its place and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food, ice cream and watching a [volleyball tournament](https://youtube.com/shorts/MGhfLhWbEVo?is=yFoKVwBDcV9RwmXf) that was on, which ended with a [local concert](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
+Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets. It was once known as Nojpetén meaning *Great Island*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial town was built in its place and a bridge now joins to the mainland. There's not a lot to do here besides nice cafes, so evenings revolved around food, ice cream and watching a [volleyball tournament](https://youtube.com/shorts/MGhfLhWbEVo?is=yFoKVwBDcV9RwmXf) that was on, which ended with a [big festival](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). The main reason Flores is famous is as the gateway for exploring the ancient Mayan cities.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca16.jpeg">
@@ -141,9 +144,9 @@ Flores is a colourful island town set on Lake Petén Itzá, with picture perfect
 
 #### Tikal
 
-Tikal was the capital and largest city of the Mayan Civilisation, peaking with a population of 100,000 before its abandonment in 900 AD. It has over 3,000 structures including towering limestone temples, palaces and plazas. Also sophisticated urban infrastructure including causweays, resovoirs and water filtration systems. Only 20-30% has been excavated, with most mapped only by lidar scanning of the jungle. It feels like a hidden city that's been reclaimed by nature. It's all preserved in a 575 square kilometer national park full of spider monkeys, crocodiles, toucans and even elusive jaguars. There's a feeling of exploration here, it seems more authentic and significant than Chichén Itzá in many ways.
+Tikal was the capital and largest city of the Mayan Civilisation, peaking with a population of 100,000 before its abandonment in 900 AD. It has over 3,000 structures including towering limestone temples, palaces and plazas. Also sophisticated urban infrastructure including causweays, reservoirs and water filtration systems. Only 20-30% has been excavated, with most mapped only by lidar scanning of the jungle. It feels like a hidden city that's been reclaimed by nature. It's all preserved in a 575 square kilometer national park full of spider monkeys, crocodiles, toucans and elusive jaguars. There's a feeling of exploration here, it seems more authentic and significant than Chichén Itzá in many ways.
 
-I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) he spotted (a mother would be three times larger). From the top of towers is when you get a real idea of the scale, seeing the [full panorama](https://youtube.com/shorts/qq3X61cVDS8?is=OkxcgySEU3S45Dir). 
+I visited as a day trip with Molly & Martine who I'd travelled with since Bacalar & Caye Caulker. Our guide was native Mayan and grew up in Tikal. He had a deep pride in the area, and an interesting insight into the positive impacts of global attention and archaeology. Meandering through jungle reveals glimpses of uncovered towers. As we walked we learned about the local plants and animals, stopping to see a [baby tarantula](https://youtube.com/shorts/LGgIXUn3MSc?is=qtoOZ_9p_WV40TCN) (a mother would be three times larger). From the top of the towers is when you get a real idea of the scale, seeing the [full panorama](https://youtube.com/shorts/qq3X61cVDS8?is=OkxcgySEU3S45Dir). 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca9.jpeg">
@@ -151,7 +154,7 @@ I did a day trip with Molly & Martine who I'd travelled with since Bacalar & Cay
 
 #### Semuc Champey
 
-Semuc Champey is a remote jungle paradise known for turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible here. Evenings were well spent watching sunsets from the pool, surrounded by the glow of fairy lights and an endless jungle. The national park itself was 30 mins away, which we reached by hitch-hiking.
+Semuc Champey is a remote jungle paradise known for turquoise limestone pools that cascade above an underground river. It's a long journey on terrible roads, but definitely worth visiting. I stayed in nearby Lanquin, which is tiny but very scenic. At my hilltop hostel I met Joe & Charlotte, with whom I played a lot of board games. No light pollution means the stars are incredible here. Evenings were well spent watching sunsets from the pool, surrounded by the glow of fairy lights and an endless jungle. The national park was 30 mins away, which we reached by hitch-hiking.
 
 The park sits where the Cahabón River disappears into deep limestone caves. This looks terrifying in person and gives Semuc Champey it's name; translating to *Underground River*. I did all the tourtisty things; caving through tight passages by candlelight, the giant [rope swing](https://youtube.com/shorts/2cJ6PKUKBqg?is=xTPMQTi-jBLF_aJb), swimming under a waterfall and tubing down the river. Then the steep hike to the main viewpoint, and finally relaxing in the many pools. It's a fun place to explore, jumping and swimming your way around the ledges and waterfalls to see all it has to offer. 
 

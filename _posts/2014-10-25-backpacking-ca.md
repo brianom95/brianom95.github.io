@@ -231,7 +231,7 @@ Santa Ana is a lively colonial city that serves as the gateway to the striking t
 
 One day we took local buses to the Santa Ana Volcano hike. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate covered, frozen bananas on top did a lot of business. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
 
-Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad 4x4's, to where we'd climb up to 20m waterfalls
+Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad 4x4's, to where we'd climb up to 20m [waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-)
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">

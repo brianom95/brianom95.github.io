@@ -99,7 +99,7 @@ From here Kevin headed north for his flight, as I boarded a bus to the border. T
 
 Caye Caulker is a tiny Caribbean island where golf carts replace cars, the motto is *Go Slow*, and days revolve around snorkelling, rum punch and sunset swims. In 1961, Hurricane Hattie divided the island in two, leaving a narrow channel called The Split which is the best place to spend evenings at the bars and diving boards. I stayed in a small, beach style hostel that was so hot in the day that it forced you to go explore. I walked a lap of the island, nervously looking for crocodiles in the mangrove, and marvelling at the walls made of shells. Cocktail bars overlook beautiful piers and a creepy stingray beach where they swim over your feet. The nightlife was really fun too, spent with nice people from the hostel and 50 cent bottles of rum.
 
-The real draw is the Belize Barrier Reef; second largest in the world after Australia. I spent a full day snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken or crab while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
+The real draw is the Belize Barrier Reef; second largest in the world after Australia. I spent a full day snorkelling around the Hol Chan Marine Reserve which manages and protects it. We swam with sharks and manatees, saw turtles and sea horses, learned about the bright coral, swam through an underwater tunnel looking for eels, and I got the fright of my life from a [jumping tarpon](https://youtube.com/shorts/6OHu3vhgVfk?is=8zwsV_oMvCekgzvg).  It's the perfect way to spend a hot day, topped off with jerk chicken and Marie Sharp's hot sauce while watching the sunset. Being on the island made me understand the *Go Slow* mentality, especially when their favourite fried breakfast of fryjacks leaves you in a food coma.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca7.jpeg">
@@ -280,9 +280,9 @@ The town was great for street food like the local shaved ice called raspado. The
 
 #### Ometepe
 
-Ometepe is a figure-8 shaped island formed by twin volcanoes rising from Lake Nicaragua, known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. We stayed first in the largest town of Moyogalpa, then moved to Santa Domingo on the narrow strip of land that joins the volcanos. Our hostel was well placed and cosy. It had easy beach access, but this is the only lake in the world with bull sharks so we didn't swim too much.
+Ometepe is a figure-8 shaped island formed by twin volcanoes rising from Lake Nicaragua. It's known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. We stayed first in the largest town of Moyogalpa, then moved to Santa Domingo on the narrow strip of land that joins the volcanos. Our hostel was well placed and cosy, with easy beach access. This is the only lake in the world with bull sharks though, so we didn't swim too much.
 
-We rented a scooter and explored both sides, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped to boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of Ojo de Agua.
+We rented a scooter and explored both sides of the island, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped across boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of Ojo de Agua.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">
@@ -294,6 +294,8 @@ San Juan del Sur is a lively surf town known for golden beaches and rolling wave
 
 What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
 
+A lot of backpackers skip Costa Rica because it's expensive. $10 beers, $25 dinners, $50 hostels and $75 buses, in a region where things usually cost ten times less. It was pricey, but was definitely worth it. It was a short bus to an easy border crossing, then three more buses to our first stop. 
+
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">
 </p>
@@ -302,7 +304,7 @@ What I remember most is the dramatically bright sunsets, best viewed from either
 
 #### La Fortuna
 
-La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most action-packed stops.
+La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

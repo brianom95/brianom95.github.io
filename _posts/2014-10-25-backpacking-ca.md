@@ -294,7 +294,7 @@ San Juan del Sur is a lively surf town known for golden beaches and rolling wave
 
 What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
 
-A lot of backpackers skip Costa Rica because it's expensive. $10 beers, $25 dinners, $50 hostels and $75 buses, in a region where things usually cost ten times less. It was pricey, but was definitely worth it. It was a short bus to an easy border crossing, then three more buses to our first stop. 
+A lot of backpackers skip Costa Rica because it's become so expensive from US expats. $10 beers, $25 dinners, $50 hostels and $75 buses, in a region where things usually cost ten times less. It was definitely pricey, but was worth it. We took a short bus to the easy border crossing, then three more buses to our first stop. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">
@@ -304,7 +304,9 @@ A lot of backpackers skip Costa Rica because it's expensive. $10 beers, $25 dinn
 
 #### La Fortuna
 
-La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. We did the hike around Arenal, seeing fields of hardened lava from past eruptions, and the strikingly green; Red-Eyed Tree Frog. The other pricey but unmissable endeavours were swimming below La Fortuna waterfall, and spending an evening at a very fancy themral baths. The hottest pool was boiling and had a fun slide into it that made for hilarious shocked moments.
+La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. We did the hike around Arenal, seeing fields of hardened lava from the 1968 eruption, and the strikingly green; Red-Eyed Tree Frog. The other pricey but unmissable things were swimming below La Fortuna waterfall, and spending an evening at a themral bath. The hottest pool was near boiling and had a slide into it that made for hilarious moments of shock.
+
+Our hostel was nice and quiet, with a guitar for the evenings. You meet a different demographic in Costa Rica, doing more short holidays and less long term travel. Public transport can be frustrating too, as everything runs via the capital of San Jose. Buses to our next stop (a remote boat dock) were near impossible until I found a hack. A rafting company in Tortuguero offers free pick up and drop off from anywhere in the country if you do a days rafting, which is $150 with dinner. We shuttled the entire width of the country to the east, where we stayed and rafted, then the entire length of the country south. Compared to buses it was a steal.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">
@@ -312,7 +314,13 @@ La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, whe
 
 #### Tortuguero
 
-Tortuguero is a remote jungle village woven through a maze of rainforest canals, where boat safaris reveal monkeys, sloths, and crocodiles in one of Costa Rica’s richest wildlife habitats.
+Tortuguero is a remote jungle village hidden in a maze of rainforest canals, where boat safaris reveal monkeys, sloths, and crocodiles in one of Costa Rica’s richest wildlife habitats. The name means *'Land of Turtles'* and it's the best place in the country to watch giant sea turtles nesting, and if you're lucky see the eggs hatch. The shuttle dropped us to our boat, then we winded through the canals to the tiny village.
+
+It's a basic but pretty place, with no roads and public water tanks on every path. On one side is endless beaches, which are covered in turtle trails every morning. The other is dense rainforest, where we took a boat one day to nearby Pococi to climb the areas highpoint and see another town. That day we saw huge spiders, bats, fighting fire ants, both types of poison dart frog, and finally a sloth! 
+
+The town had nice food and beer, which you could eat on the beach while building forts and watching sunsets. We cooked a bit to save money, but that was fun too in our little jungle kitchen. Every morning we walked the beach early hoping to see turtles hatching before it gets too warm. On one lucky day we saw this little guy make a run for it. We bought turtle bracelets to mark the day that haven't come off yet.
+
+When it came time to leave, we got a boat to the mainland and headed for a flooded Pacuare River. This is a steep, big-water Grade 4 run, all through dense jungle. I talked my way into a kayak while Mairéad was in a raft with other clients. It was a pushy but very fun day, some of the rapids reminding me of India. Off the water we were given a dinner and driven all the way to our next destination.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

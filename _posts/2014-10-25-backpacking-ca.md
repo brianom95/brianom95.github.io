@@ -265,7 +265,7 @@ Kitted out in free Volcano Day vests, and joined by a surprising amount of Mormo
 Public transport is surprisingly good in Nicaragua. We took a bus to nearby Telica another day to hike the most active volcano in the country, joined by Cap who we'd met at Cerro Negro. We had constant wind, rain and fog that meant we saw nothing on the summit. We did see some cool bubbling mud pits, that had a strong smell of sulfur. It was defiitely not worth it, but maybe type two fun. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca18.jpeg">
 </p>
 
 #### Granada
@@ -275,7 +275,7 @@ Granada is a colourful colonial city on the shores of Lake Nicaragua. Known for 
 The town was great for street food like the local shaved ice called raspado. There's good pizza and ice cream everywhere, and evenings were always interesting spent with people from the hostel. I went to the famous tree house party in the jungle on the Friday, where I seemed to bump into everyone I'd met since Mexico. Then did some fianl exploring of the town which included climbing the tallest tower.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca19.jpeg">
 </p>
 
 #### Ometepe
@@ -285,7 +285,7 @@ Ometepe is a figure-8 shaped island formed by twin volcanoes rising from Lake Ni
 We rented a scooter and explored both sides of the island, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped across boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of Ojo de Agua.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca20.jpeg">
 </p>
 
 #### San Juan del Sur
@@ -297,7 +297,7 @@ What I remember most is the dramatically bright sunsets, best viewed from either
 A lot of backpackers skip Costa Rica because it's become so expensive from US expats. $10 beers, $25 dinners, $50 hostels and $75 buses, in a region where things usually cost ten times less. It was definitely pricey, but was worth it. We took a short bus to the easy border crossing, then three more buses to our first stop. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca21.jpeg">
 </p>
 
 ## Costa Rica
@@ -335,7 +335,7 @@ The abundance of wildlife is definitely what makes Costa Rica special. Walking f
 From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to the next island.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca22.jpeg">
 </p>
 
 ## Panama
@@ -347,7 +347,7 @@ Bocas del Toro is a lively archipelago of jungle-covered islands, where backpack
 One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had sandy trails, others were just rings of beach where you could wander and find natural pools and quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca22.jpeg">
 </p>
 
 #### Boquete
@@ -355,7 +355,7 @@ One day we did a boat trip around Zapatilla Island. This included snorkelling at
 Boquete is a cool mountain town surrounded by cloud forest and coffee plantations, known for hiking, rafting, and as the gateway to the challenging climb of Volcán Barú.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca23.jpeg">
 </p>
 
 #### Panama City
@@ -363,7 +363,7 @@ Boquete is a cool mountain town surrounded by cloud forest and coffee plantation
 TBC
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca24.jpeg">
 </p>
 
 #### San Blas Islands
@@ -371,7 +371,7 @@ TBC
 TBC
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca25.jpeg">
 </p>
 
 [dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k)

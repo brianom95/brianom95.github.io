@@ -304,7 +304,7 @@ A lot of backpackers skip Costa Rica because it's expensive. $10 beers, $25 dinn
 
 #### La Fortuna
 
-La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. 
+La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. We did the hike around Arenal, seeing fields of hardened lava from past eruptions, and the strikingly green; Red-Eyed Tree Frog. The other pricey but unmissable endeavours were swimming below La Fortuna waterfall, and spending an evening at a very fancy themral baths. The hottest pool was boiling and had a fun slide into it that made for hilarious shocked moments.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

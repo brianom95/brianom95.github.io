@@ -236,7 +236,7 @@ She was very proud of her country, especially now. She showed us the national th
 
 One day we took local buses to hike Santa Ana Volcano. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate coated frozen bananas got a lot of business in the heat. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is crazy cheap here, with a thirty minute Uber costing $1.
 
-Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's, to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives! Back in Santa Ana we climbed the cathedral for a final panorama view, then boarded a bus to head onwards.
+Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's, to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives! Back in Santa Ana we climbed the cathedral for a final panorama view, ate a few more papusas, and boarded a bus to continue south.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">
@@ -244,7 +244,11 @@ Another day we did the Seven Waterfalls Hike in Juayúa. This involved going off
 
 #### San Salvador
 
-San Salvador is a sprawling and energetic capital set beneath a dramatic volcanic backdrop, offering a glimpse into modern Salvadoran life alongside museums, markets, and reminders of the country’s turbulent past.
+San Salvador is an energetic capital set beneath dramatic volcanos. It gives a glimpse of modern Salvadoran life by looking like a US city in places, while still holding reminders of the country’s past. We stayed on the outskirts near the national craft market, some great restauraunts and Republik Bar, which had GAA jerseys and the Irish proclamation on the wall. In the centre we saw the KM.0 centre of the country, the National Palace, and the most impressive library I'd ever seen.
+
+We took a $1 Uber to El Boquerón, which has a volcanic crater in its volcanic crater. We walked all the trails of the national park, then made our way to Volcatenango; an old theme park overlooking the city with games, rides, slides and a mini Hobbiton. Further ddown the mountain we had a burger recommended to us, then found this rainbow slide which was way faster than we expected. 
+
+This was the end of the road for Kevin, needing to finally fly home. We said our goodbyes and I boarded a local bus that drove  overnight through Honduras to Nicaragua. This was the worst experience of the trip. Endless traffic, chaos at the Honduras border, corrupt police pulling us over to hassle people, an even worse border in Nicaragua, and all through my very broken Spanish. I was so happy to reach my next hostel and collapse into bed.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca14.jpeg">

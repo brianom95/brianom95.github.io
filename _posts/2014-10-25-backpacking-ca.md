@@ -18,7 +18,7 @@ Below is all I learned from every long bus or awkward border crossing, and the e
 
 ## The Gringo Trail
 
-Just as South East Asia has the [Banana Pancake Trail](backpacking_sea), Central America has its own well-trodden backpacker route; the Gringo Trail. It isn’t a fixed path, nor is it officially marked on any map, but if you travel through this part of the world, you notice the same towns appear in hostel conversations, shuttle bus routes, and travel blogs. Follow them in sequence and you find yourself moving with a lively community of travellers all chasing the same promise of adventure.
+Just as South East Asia has the [Banana Pancake Trail](https://www.brianbeyond.com/backpacking-sea), Central America has its own well-trodden backpacker route; the Gringo Trail. It isn’t a fixed path, nor is it officially marked on any map, but if you travel through this part of the world, you notice the same towns appear in hostel conversations, shuttle bus routes, and travel blogs. Follow them in sequence and you find yourself moving with a lively community of travellers all chasing the same promise of adventure.
 
 The trail winds its way through colonial cities, surf towns, jungle outposts, and volcanic landscapes. One week you can be hiking above the clouds at sunrise; the next you’re learning to surf or crammed into a chicken bus, rattling towards the next border. It attracts a mix of backpackers, some travelling for months with no fixed plans, others squeezing as much as possible into a few weeks. All drawn by the region’s beauty, affordability, and slightly unpredictable nature.
 

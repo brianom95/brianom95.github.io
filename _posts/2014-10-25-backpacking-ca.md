@@ -309,7 +309,7 @@ La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, whe
 Our hostel was nice and quiet, with a guitar for the evenings. You meet a different demographic in Costa Rica, doing more short holidays and less long term travel. Public transport can be frustrating too, as everything runs via the capital of San Jose. Buses to our next stop (a remote boat dock) were near impossible until I found a hack. A rafting company in Tortuguero offers free pick up and drop off from anywhere in the country if you do a days rafting, which is $150 with dinner. We shuttled the entire width of the country to the east, where we stayed and rafted, then the entire length of the country south. Compared to buses it was a steal.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca23.jpeg">
+    <img width="300" src="/images/bpca23.jpeg">
 </p>
 
 #### Tortuguero

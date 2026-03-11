@@ -264,35 +264,35 @@ Granada is a colourful colonial city on the shores of Lake Nicaragua, where gran
 
 #### San Juan del Sur
 
-TBC
+San Juan del Sur is a lively Pacific surf town where backpackers gather for golden beaches, rolling waves, and legendary Sunday Funday parties overlooking the bay.
 
 #### Ometepe
 
-TBC
+Ometepe is a wild and otherworldly island formed by twin volcanoes rising from Lake Nicaragua, where jungle hikes, waterfalls, and quiet lakeside villages create one of the region’s most memorable escapes.
 
 ## Costa Rica
 
 #### La Fortuna
 
-TBC
+La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most action-packed stops.
 
 #### Tortuguero
 
-TBC
+Tortuguero is a remote jungle village woven through a maze of rainforest canals, where boat safaris reveal monkeys, sloths, and crocodiles in one of Costa Rica’s richest wildlife habitats.
 
 #### Puerto Viejo
 
-TBC
+Puerto Viejo de Talamanca is a laid-back Caribbean surf town where reggae rhythms, Afro-Caribbean culture, and palm-lined beaches create one of Costa Rica’s most relaxed and colourful coastal escapes.
 
 ## Panama
 
 #### Bocas del Toro
 
-TBC
+Bocas del Toro is a lively Caribbean archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels in one of Panama’s most social tropical escapes.
 
 #### Boquete
 
-TBC
+Boquete is a cool mountain town surrounded by cloud forest and coffee plantations, known for hiking, rafting, and as the gateway to the challenging climb of Volcán Barú.
 
 #### Panama City
 

@@ -328,7 +328,7 @@ When it came time to leave, we got a boat to the mainland and headed for a flood
 
 #### Puerto Viejo
 
-Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the United Fruit Company of America. That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
+Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the American United Fruit Company (now Chiquita). That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
 
 The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and several sloths. We explored Talamanca Viewpoint on the way to Cocles Beach, which has great swimming and bars. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza, enjoyed the fun hostel, sang some terrible karaoke, and played darts equally badly. 
 
@@ -342,7 +342,9 @@ From here, it was a short bus to the final country of Central America. Just over
 
 #### Bocas del Toro
 
-Bocas del Toro is a lively Caribbean archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels in one of Panama’s most social tropical escapes.
+Bocas del Toro is a lively archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels. The islands were a pirate hub, then had a banana boom, and now suvive off tourism and conservation. The area gets hit hard by storms and was rebuilding while we were there. Every hostel in Panama offers *'free breakfast'* in the form of pancake powder. We ate a lot of pancakes while this was still novel. Long walks across the island brought us to nice beaches, a pool, yet another pizza, and cheap bottles of Cerveza Panama by the sunset.
+
+One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had sandy trails, others were just rings of beach where you could wander and find natural pools and quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

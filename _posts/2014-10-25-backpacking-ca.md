@@ -316,7 +316,7 @@ Our hostel was nice and quiet, with a guitar for the evenings. You meet a differ
 
 Tortuguero is a remote jungle village hidden in a maze of rainforest canals, where boat safaris reveal monkeys, sloths, and crocodiles in one of Costa Rica’s richest wildlife habitats. The name means *'Land of Turtles'* and it's the best place in the country to watch giant sea turtles nesting, and if you're lucky see the eggs hatch. The shuttle dropped us to our boat, then we winded through the canals to the tiny village.
 
-It's a basic but pretty place, with no roads and public water tanks on every path. On one side is endless beaches, which are covered in turtle trails every morning. The other is dense rainforest, where we took a boat one day to nearby Pococi to climb the areas highpoint and see another town. That day we saw huge spiders, bats, fighting fire ants, both types of poison dart frog, and finally a sloth! 
+It's a basic but pretty place, with no roads and public water tanks on every path. On one side is endless beaches, which are covered in turtle trails every morning. The other is dense rainforest, where we took a boat one day to nearby Pococi to climb the areas highpoint and see another town. That day we saw huge spiders, bats, fighting fire ants, red poison frogs, and finally a sloth! 
 
 The town had nice food and beer, which you could eat on the beach while building forts and watching sunsets. We cooked a bit to save money, but that was fun too in our little jungle kitchen. Every morning we walked the beach early hoping to see turtles hatching before it gets too warm. On one lucky day we saw this little guy make a run for it. We bought turtle bracelets to mark the day that haven't come off yet.
 
@@ -328,7 +328,11 @@ When it came time to leave, we got a boat to the mainland and headed for a flood
 
 #### Puerto Viejo
 
-Puerto Viejo de Talamanca is a laid-back Caribbean surf town where reggae rhythms, Afro-Caribbean culture, and palm-lined beaches create one of Costa Rica’s most relaxed and colourful coastal escapes.
+Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the United Fruit Company of America. That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
+
+The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and several sloths. We explored Talamanca Viewpoint on the way to Cocles Beach, which has great swimming and bars. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza, enjoyed the fun hostel, sang some terrible karaoke, and played darts equally badly. 
+
+From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to the next island.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

@@ -8,8 +8,6 @@ tags:
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
-salsa calss
-
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
@@ -246,7 +244,7 @@ Another day we did the Seven Waterfalls Hike in Juayúa. This involved going off
 
 #### San Salvador
 
-San Salvador is an energetic capital set beneath dramatic volcanos. It gives a glimpse of modern Salvadoran life by looking like a US city in places, while still holding reminders of the country’s past. We stayed on the outskirts near the national craft market, some great restauraunts and Republik Bar, which had GAA jerseys and the Irish proclamation on the wall. In the centre we saw the KM.0 centre of the country, the National Palace, and the most impressive library I'd ever seen.
+San Salvador is an energetic capital set beneath dramatic volcanos. It gives a glimpse of modern Salvadoran life by looking like a US city in places, while still holding reminders of the country’s past. We stayed on the outskirts near the national craft market, some great restauraunts and [Republik Bar](https://youtube.com/shorts/TaIaUL672Ag?is=7rO5ql2u9xw26c8l), which had GAA jerseys and the Irish proclamation on the wall. In the centre we saw the KM.0 centre of the country, the National Palace, and the most impressive library I'd ever seen.
 
 We took a $1 Uber to El Boquerón, which has a volcanic crater in its volcanic crater. We walked all the trails of the national park, then made our way to Volcatenango; an old theme park overlooking the city with games, rides, slides and a mini Hobbiton. Further ddown the mountain we had a burger recommended to us, then found this rainbow slide which was way faster than we expected. 
 
@@ -274,7 +272,7 @@ Public transport is surprisingly good in Nicaragua. We took a bus to nearby Teli
 
 Granada is a colourful colonial city on the shores of Lake Nicaragua. Known for grand Spanish architecture, lively plazas, and picturesque boat trips through nearby islands. The boat trip was fun, and the long walks by the lake too. I did a walking tour of the markets, plazas and churches where I learned about the rivalry between Léon & Granada. It led to the capital city being placed halfway between in the odd choice of Managua to keep both happy.
 
-The town was great for street food like the local shaved ice called raspado. There's good pizza and ice cream everywhere, and evenings were always interesting spent with people from the hostel. I went to the famous tree house party in the jungle on the Friday, where I seemed to bump into everyone I'd met since Mexico. Then did some fianl exploring of the town which included climbing the tallest tower.
+The town was great for street food like the local shaved ice called raspado. There's good pizza and ice cream everywhere, and evenings were always interesting spent with people from the hostel, one night at a salsa class. I went to the famous tree house party in the jungle on the Friday, where I seemed to bump into everyone I'd met since Mexico. Then did some fianl exploring of the town which included climbing the tallest tower.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca19.jpeg">
@@ -284,7 +282,7 @@ The town was great for street food like the local shaved ice called raspado. The
 
 Ometepe is a figure-8 shaped island formed by twin volcanoes rising from Lake Nicaragua. It's known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. We stayed first in the largest town of Moyogalpa, then moved to Santa Domingo on the narrow strip of land that joins the volcanos. Our hostel was well placed and cosy, with easy beach access. This is the only lake in the world with bull sharks though, so we didn't swim too much.
 
-We rented a scooter and explored both sides of the island, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped across boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of Ojo de Agua.
+We rented a scooter and explored both sides of the island, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped across boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of [Ojo de Agua](https://youtube.com/shorts/JczzpBIm16U?is=e0MMHf11T6xjdNBy).
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca20.jpeg">

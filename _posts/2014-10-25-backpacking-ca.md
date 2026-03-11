@@ -325,7 +325,7 @@ The town had nice food and beer, which you could eat on the beach while building
 When it came time to leave, we got a boat to the mainland and headed for a flooded Pacuare River. This is a steep, big-water Grade 4 run, all through dense jungle. I talked my way into a kayak while Mairéad was in a raft with other clients. It was a pushy but very fun day, some of the rapids reminding me of India. Off the water we were given a dinner and driven all the way to our next destination.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpcaXX.jpeg">
+    <img width="400" src="/images/bpca28.jpeg">
 </p>
 
 #### Puerto Viejo

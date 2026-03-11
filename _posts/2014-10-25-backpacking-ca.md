@@ -278,21 +278,21 @@ The town was great for street food like the local shaved ice called raspado. The
     <img width="400" src="/images/bpcaXX.jpeg">
 </p>
 
-#### San Juan del Sur
+#### Ometepe
 
-San Juan del Sur is a lively surf town known for golden beaches and rolling waves. It was my first time reaching the Pacific coast, and I did two days of surfing on Playa Remanso that went surprisingly well. The first being taught by Eddie, and the second trying to pass on my new knowledge to Mairéad. The town is full of outdoor shops, nice restaurants, and cocktail bars that overlook the water. It's a chilled out place to spend a few days, where I had the best tacos since Mexico. 
+Ometepe is a figure-8 shaped island formed by twin volcanoes rising from Lake Nicaragua, known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. We stayed first in the largest town of Moyogalpa, then moved to Santa Domingo on the narrow strip of land that joins the volcanos. Our hostel was well placed and cosy. It had easy beach access, but this is the only lake in the world with bull sharks so we didn't swim too much.
 
-What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
+We rented a scooter and explored both sides, which was perfect on these empty roads. We hiked up Concepción until the muddy trails and leaf cutter ants forced a retreat, then drove the coast instead. We jumped to boulders in the water, ate constant good food (lots of Italian), climbed a huge treehouse, and the highlight was swimming in the natural springs of Ojo de Agua.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">
 </p>
 
-#### Ometepe
+#### San Juan del Sur
 
-Ometepe is an island formed by twin volcanoes rising from Lake Nicaragua. Known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. Mairéad & I stayed in Santa Domingo, on the narrow piece of land that joins the two, which was convenient for seieng both sides. Our hostel was nice, with easy beach access, though this is the only lake in the world with bull sharks so we didn't swim much.
+San Juan del Sur is a lively surf town known for golden beaches and rolling waves. It was my first time reaching the Pacific coast, and I did two days of surfing on Playa Remanso that went surprisingly well. The first being taught and the second trying to pass on my new knowledge to Mairéad. The town is full of outdoor shops, nice restaurants, and cocktail bars that overlook the water. It's a chilled out place to spend a few days, where I had the best tacos since Mexico. 
 
-We rented a scooter and explored it all. Attempting to climb Concepción and having to retreat from the muddy trails and ants, then instead driving all around it
+What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpcaXX.jpeg">

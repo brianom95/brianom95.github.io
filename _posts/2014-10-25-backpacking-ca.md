@@ -264,11 +264,19 @@ Kitted out in free Volcano Day vests, and joined by a surprising amount of Mormo
 
 Public transport is surprisingly good in Nicaragua. We took a bus to nearby Telica another day to hike the most active volcano in the country, joined by Cap who we'd met at Cerro Negro. We had constant wind, rain and fog that meant we saw nothing on the summit. We did see some cool bubbling mud pits, that had a strong smell of sulfur. It was defiitely not worth it, but maybe type two fun. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### Granada
 
 Granada is a colourful colonial city on the shores of Lake Nicaragua. Known for grand Spanish architecture, lively plazas, and picturesque boat trips through nearby islands. The boat trip was fun, and the long walks by the lake too. I did a walking tour of the markets, plazas and churches where I learned about the rivalry between Léon & Granada. It led to the capital city being placed halfway between in the odd choice of Managua to keep both happy.
 
 The town was great for street food like the local shaved ice called raspado. There's good pizza and ice cream everywhere, and evenings were always interesting spent with people from the hostel. I went to the famous tree house party in the jungle on the Friday, where I seemed to bump into everyone I'd met since Mexico. Then did some fianl exploring of the town which included climbing the tallest tower.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
 
 #### San Juan del Sur
 
@@ -276,9 +284,19 @@ San Juan del Sur is a lively surf town known for golden beaches and rolling wave
 
 What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### Ometepe
 
-Ometepe is a wild island formed by twin volcanoes rising from Lake Nicaragua. Known for jungle hikes, waterfalls, and quiet lakeside villages in one of the region’s most memorable escapes. We rented 
+Ometepe is an island formed by twin volcanoes rising from Lake Nicaragua. Known for jungle hikes, waterfalls, and quiet lakeside villages. The slow ferry gives a lot of time to see the towering peaks of Concepción and Maderas. Mairéad & I stayed in Santa Domingo, on the narrow piece of land that joins the two, which was convenient for seieng both sides. Our hostel was nice, with easy beach access, though this is the only lake in the world with bull sharks so we didn't swim much.
+
+We rented a scooter and explored it all. Attempting to climb Concepción and having to retreat from the muddy trails and ants, then instead driving all around it
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
 
 ## Costa Rica
 
@@ -286,13 +304,25 @@ Ometepe is a wild island formed by twin volcanoes rising from Lake Nicaragua. Kn
 
 La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most action-packed stops.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### Tortuguero
 
 Tortuguero is a remote jungle village woven through a maze of rainforest canals, where boat safaris reveal monkeys, sloths, and crocodiles in one of Costa Rica’s richest wildlife habitats.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### Puerto Viejo
 
 Puerto Viejo de Talamanca is a laid-back Caribbean surf town where reggae rhythms, Afro-Caribbean culture, and palm-lined beaches create one of Costa Rica’s most relaxed and colourful coastal escapes.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
 
 ## Panama
 
@@ -300,16 +330,32 @@ Puerto Viejo de Talamanca is a laid-back Caribbean surf town where reggae rhythm
 
 Bocas del Toro is a lively Caribbean archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels in one of Panama’s most social tropical escapes.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### Boquete
 
 Boquete is a cool mountain town surrounded by cloud forest and coffee plantations, known for hiking, rafting, and as the gateway to the challenging climb of Volcán Barú.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
 
 #### Panama City
 
 TBC
 
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
+
 #### San Blas Islands
 
 TBC
+
+<p align="center" width="100%">
+    <img width="400" src="/images/bpcaXX.jpeg">
+</p>
 
 [dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k)

@@ -337,7 +337,7 @@ The abundance of wildlife is definitely what makes Costa Rica special. Walking f
 From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to the next island.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca22.jpeg">
+    <img width="400" src="/images/bpca26.jpeg">
 </p>
 
 ## Panama
@@ -357,7 +357,7 @@ One day we did a boat trip around Zapatilla Island. This included snorkelling at
 Boquete is a cool mountain town surrounded by cloud forest and coffee plantations, known for hiking, rafting, and as the gateway to the challenging climb of Volcán Barú.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/bpca23.jpeg">
+    <img width="400" src="/images/bpca27.jpeg">
 </p>
 
 #### Panama City

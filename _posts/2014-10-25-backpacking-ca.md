@@ -258,19 +258,27 @@ This was the end of the road for Kevin, needing to finally fly home. We said our
 
 #### Léon
 
-León is a gritty and characterful colonial city known for its revolutionary history, vibrant student energy, and the adrenaline rush of volcano boarding down the black slopes of nearby Cerro Negro.
+León is a gritty and characterful colonial city known for its revolutionary history, student energy, and the rush of volcano boarding. Mairéad arrived the day before me, so she was able to give a tour of the markets, church and brought me to a local restauraunt with her friends from Honduras. My only addition was to introduce her to the ice cream at Carls Jr. There wasn't much to the city itself, with the streets being quiet and unusually dark. Mostly people are here for the same thing. Cerro Negro; the world's youngest active volcano.
+
+Kitted out in free Volcano Day vests, and joined by a surprising amount of Mormons, we made the trip to the jet black volcano that's risen from an otherwise green landscape. We carried awkwardly sized boards to the top, enjoyed the view, donned boiler suits and face coverings, then did what's arguably the most iconic thing in Central America; volcano boarding. You get filthy, and it feels faster than it looks with some losing control and flipping, but it's so much fun. Easily a highlight of the whole trip.
+
+Public transport is surprisingly good in Nicaragua. We took a bus to nearby Telica another day to hike the most active volcano in the country, joined by Cap who we'd met at Cerro Negro. We had constant wind, rain and fog that meant we saw nothing on the summit. We did see some cool bubbling mud pits, that had a strong smell of sulfur. It was defiitely not worth it, but maybe type two fun. 
 
 #### Granada
 
-Granada is a colourful colonial city on the shores of Lake Nicaragua, where grand Spanish architecture, lively plazas, and boat trips through the nearby Isletas create one of the country’s most picturesque stops.
+Granada is a colourful colonial city on the shores of Lake Nicaragua. Known for grand Spanish architecture, lively plazas, and picturesque boat trips through nearby islands. The boat trip was fun, and the long walks by the lake too. I did a walking tour of the markets, plazas and churches where I learned about the rivalry between Léon & Granada. It led to the capital city being placed halfway between in the odd choice of Managua to keep both happy.
+
+The town was great for street food like the local shaved ice called raspado. There's good pizza and ice cream everywhere, and evenings were always interesting spent with people from the hostel. I went to the famous tree house party in the jungle on the Friday, where I seemed to bump into everyone I'd met since Mexico. Then did some fianl exploring of the town which included climbing the tallest tower.
 
 #### San Juan del Sur
 
-San Juan del Sur is a lively Pacific surf town where backpackers gather for golden beaches, rolling waves, and legendary Sunday Funday parties overlooking the bay.
+San Juan del Sur is a lively surf town known for golden beaches and rolling waves. It was my first time reaching the Pacific coast, and I did two days of surfing on Playa Remanso that went surprisingly well. The first being taught by Eddie, and the second trying to pass on my new knowledge to Mairéad. The town is full of outdoor shops, nice restaurants, and cocktail bars that overlook the water. It's a chilled out place to spend a few days, where I had the best tacos since Mexico. 
+
+What I remember most is the dramatically bright sunsets, best viewed from either peninsula that surrounds the town. On one side is a surprisingly big Christ the Redeemer statue. I did a very steep run to this to see the sky light up like it was on fire. Another night, Mairéad and I hiked the other peninsula to a lighthouse, with a great view back over the town. We were surrounded by fireflies for the walk back, to get piña coladas on the beach. What a life!
 
 #### Ometepe
 
-Ometepe is a wild and otherworldly island formed by twin volcanoes rising from Lake Nicaragua, where jungle hikes, waterfalls, and quiet lakeside villages create one of the region’s most memorable escapes.
+Ometepe is a wild island formed by twin volcanoes rising from Lake Nicaragua. Known for jungle hikes, waterfalls, and quiet lakeside villages in one of the region’s most memorable escapes. We rented 
 
 ## Costa Rica
 

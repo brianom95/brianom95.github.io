@@ -8,7 +8,7 @@ tags:
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
-This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. Trying to understand the complex history helps explain the distinct local identities, which I've tried my best to include here.
+This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. Trying to understand the complex history helps explain the distinct local identities, all of which I've tried to include here.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
 
@@ -32,9 +32,9 @@ Unlike its Asian counterpart, the Gringo Trail can feel a little less polished a
 
 #### Cancún
 
-Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes, now used as public pools). The coastal areas are very touristy, but there’s still some culture left in the city itself, very close to the stalls that charge $1 for five tacos! It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route as I wanted to move toward Belize. 
+Cancún is the sun-soaked gateway to Mexico’s Caribbean coast, where all-inclusive resorts and spring-break energy meet turquoise water, white-sand beaches, and easy access to Mayan ruins and cenotes (natural water holes, now used as public pools). The coastal areas are very touristy, but there’s still a little culture left in the city, very close to the stalls that charge $1 for five tacos! It would have been nice to start my trip in Mexico City, but flights were a lot cheaper to here, and it suited my route as I wanted to move toward Belize. 
 
-After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/shorts/l-yBj1apXTI?is=zkqhwtcl29irVe1I), I arrived into a heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large plaza that always had food stalls, music and shows. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat nice food and meet likeminded people who were keen to pass on the highlights of their own trips.
+After a quick stopover in Toronto to see [Niagara Falls](https://youtube.com/shorts/l-yBj1apXTI?is=zkqhwtcl29irVe1I), I arrived into a heat and humidity that made my jumper useless for months. I stayed in a downtown hostel, beside a large plaza that always had street food, music and shows. I explored the city with Ludwig, eating our way around the colourful streets and along the beaches of the Hotel Zone. Cancún is a place many avoid as it almost feels like a caricature of a Mexican town, but it was a nice stop for me to cure my jetlag, eat lots of burritos, and meet likeminded people who were keen to pass on the highlights of their own trips.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca3.jpeg">

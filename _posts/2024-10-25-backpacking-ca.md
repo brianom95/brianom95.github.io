@@ -9,7 +9,7 @@ tags:   [Travel]
 
 This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. Trying to understand the complex history helps explain the distinct local identities, all of which I've tried to include here.
 
-Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
+Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. Look out for links in bold to see short videos of all of these.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca1.jpeg">
@@ -209,7 +209,7 @@ My hostel was cosy and quiet, with a small sign saying: *'Smile, you're on the f
 
 Each day, my door had a note on it with names of incoming guests. One day it said 2x Spanish, another day it said Mairéad. In a small town like Copán, new people stand out. So when I saw an Irish person in a cafe that day, I confused her by correctly guessing her name.
 
-Mairéad was a vet from Dublin on a six month solo trip. So far she had paddled the Yukon in Canada, almost died from food poisoning in Mexico, sailed the length of Belize, camped in the jungle in Guatemala and surfed in El Salvador. Now she was making her way towards Panama and Grenada to volunteer, and to visit Rihanana's house in Barbados. We bonded as we explored the quiet restauraunts, bars and lookout towers of the town. When the day came time to go our seperate ways, we made a plan to meet in Nicaragua as we overlapped there next. She headed deeper into Honduras, and after a final baleada, I boarded a bus to El Salvador.
+Mairéad was a vet from Dublin on a six month solo trip. So far she had paddled the Yukon in Canada, almost died from food poisoning in Mexico, sailed the length of Belize, camped in the jungle in Guatemala and surfed in El Salvador. Now she was making her way towards Panama and Grenada to volunteer, and to visit Rihanna's house in Barbados. We bonded as we explored the quiet restaurants, bars and lookout towers of the town. When the day came time to go our seperate ways, we made a plan to meet in Nicaragua as we overlapped there next. She headed deeper into Honduras, and after a final baleada, I boarded a bus to El Salvador.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca15.jpeg">
@@ -299,7 +299,7 @@ A lot of backpackers skip Costa Rica because it's become so expensive from US ex
 
 #### La Fortuna
 
-La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. We did the hike around Arenal, seeing fields of hardened lava from the 1968 eruption, and the strikingly green; Red-Eyed Tree Frog. The other pricey but unmissable things were swimming below La Fortuna waterfall, and spending an evening at a thermal bath. The hottest pool was near boiling and had a slide into it that made for hilarious moments of shock. We randomly tried shooting blow darts at a target too. It's very easy!
+La Fortuna is an adventure hub beneath the perfectly conical Arenal Volcano, where rainforest hikes, waterfalls, hot springs, and wildlife encounters make it one of Costa Rica’s most popular stops. We did the hike around Arenal, seeing fields of hardened lava from the 1968 eruption, and the strikingly green; Red-Eyed Tree Frog. The other pricey but unmissable things were swimming below La Fortuna waterfall, and spending an evening at a thermal bath. The hottest pool was near boiling and had a slide into it that made for hilarious moments of shock. 
 
 Our hostel was nice and quiet, with a guitar for the evenings. You meet a different demographic in Costa Rica, doing more short holidays and less long term travel. Public transport can be frustrating too, as everything runs via the capital of San Jose. Buses to our next stop (a remote boat dock) were near impossible until I found a hack. A rafting company in Tortuguero offers free pick up and drop off from anywhere in the country if you do a days rafting, which is $150 with dinner. We shuttled the entire width of the country to the east, where we stayed and rafted, then the entire length of the country south. Compared to buses it was a steal.
 

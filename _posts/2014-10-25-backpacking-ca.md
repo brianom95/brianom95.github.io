@@ -340,7 +340,7 @@ From here, it was a short bus to the final country of Central America. Just over
 
 Bocas del Toro is a lively archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels. The islands were a pirate hub, then had a banana boom, and now suvive off tourism and conservation. The area gets hit hard by storms and was rebuilding while we were there. Every hostel in Panama offers *'free breakfast'* in the form of pancake powder. We ate a lot of pancakes while this was still novel. Long walks across the island brought us to nice beaches, a pool, yet another pizza, and cheap bottles of Cerveza Panama by the sunset.
 
-One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had trails, others were just rings of beach where you could wander and find natural pools or quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen. Back in Bocas we watched a local parade, sang terrible karaoke, and played darts equally badly. Then boated back to the mainland to catch a bus.
+One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had trails, others were just rings of beach where you could wander and find natural pools or quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen. Back in Bocas we watched a local parade, sang terrible karaoke, and played darts equally badly. Then boated back to the mainland to catch our bus.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca22.jpeg">
@@ -348,7 +348,11 @@ One day we did a boat trip around Zapatilla Island. This included snorkelling at
 
 #### Boquete
 
-Boquete is a cool mountain town surrounded by cloud forest, coffee plantations and Volcán Barú. It's great for hiking, and was actually cold which made it feel cosy. The town 
+Boquete is a cool mountain town surrounded by cloud forest, coffee plantations and Barú Volcano. It's great for hiking, and was actually cold which made it feel cosy. We were finally becoming sick of the free pancakes, so made use of the nice restauraunts in town with meaty BBQ's and huge platters from Dale Pues. There's nice parks and walks along the Caldera River, and we visited a chocolate factory and some cool souvenir shops.
+
+There's an easy local bus up the valley, which we used to access the Lost Waterfalls Trail. It was a little muddy and cold, but worth it to see the three huge drops. I swam in them all for a birthday video I was making, and Mairéad braved the best one. There were friendly dogs and cool bridges on the route, and we had it all to ourselves due to it being freezing cold up there. 
+
+This was the end of the road for Mairéad & I, taking buses in opposite directions. We made plans to meet again, but neither of us realised how soon that would be.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca27.jpeg">
@@ -356,7 +360,11 @@ Boquete is a cool mountain town surrounded by cloud forest, coffee plantations a
 
 #### Panama City
 
-Panama City is a striking modern capital where a glittering skyline rises beside the colonial streets of Casco Viejo and the engineering marvel of the Panama Canal.
+Panama City is a modern capital with a glittering skyline over colonial streets, and home to the engineering marvel of the Panama Canal. The weather was horrible while I was here, so a lot of time was spent in shopping malls, but I did see the main streets and ate in the worlds only Coca Cola Cafe. The oldest cafe in the country, which was built for canal workers. The hostel was fun, and I seem to be improving at playing pool.
+
+In the few hours of clear weather, I took a bus to Miraflores Lock to see the ships passing through the canal. Viewing decks make it a fun visit, and the story is narrated by Morgan Freeman in an IMAX cinema. Being there gave context to just how crazy the project was. The 25,000 people who died in construction, the issues of swampland, and the shear scale of it all. I found it incredibly interesting, especially the previous failed attempts through Panama and Nicaragua.
+
+For trips down Central America, this airport can seem like the end point, but it definitely is not. I heard countless times that sailing to/from Colombia was either peoples highlight, or if they skipped it their biggest regret. Sailing boats take four days to go from here to Cartagena, via the San Blas Islands. I booked the four day crossing on a ten person yacht with Blue Sailing, and it was incredible.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca24.jpeg">
@@ -364,13 +372,15 @@ Panama City is a striking modern capital where a glittering skyline rises beside
 
 #### San Blas Islands
 
-San Blas Islands are a remote chain of idyllic Caribbean islands where palm-fringed sandbars, turquoise waters, and the autonomous Guna communities create one of Central America’s most untouched tropical escapes.
+This remote chain of islands is known for palm trees, sandbars, turquoise water, and local Guna communities that make up the regions most untouched tropical location. Joined by the nicest group I could have hoped for, and in the good hands of Raul & Captain Original, we spent our days exploring the tiny islands. We'd swim, snorkel and kayak our way to remote shores, then return to the boat for amazing food and the fun atmosphere that comes from having no internet.
 
-San Blas Islands sailing trips are a legendary backpacker journey, spending several days island-hopping through palm-fringed paradise with the Guna people before crossing the open Caribbean Sea to reach Cartagena.
+Under constant sun, we jumped from the boat and snorkelled through huge reefs. As we sailed we were surrounded by [excited dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k). On the islands we'd play volleyball and one night had a barbeque and campfire. By night the milky way lit up the sky, and lying on the roof we watched the SpaceX Falcon 9 rocket fly overhead. The small spaces and sailor showers (shampoo then jump in) can be uncomfortable, but it was easily one of the best experiences of my life.
 
+After a particularly rough night crossing the Caribbean Sea, we felt the waves begin to settle. Everyone gathered on the front of the boat to watch the sun rising over a new land. Almost all of us were about to step foot on a new continent for the first time, and couldn't be more excited. Now it was time for Backpacking South America.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca25.jpeg">
 </p>
 
-[dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k)
+Thank you for ready and happy travels,  
+Brian

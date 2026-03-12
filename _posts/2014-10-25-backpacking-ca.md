@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Backpacking Central America
-description: DRAFT ONLY - WORK IN PROGRESS
+description: Three Months in Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama
 date:   2014-10-25 12:00:00 +0000
 image:  '/images/bpca0.jpeg'
 tags:   
 ---
 DRAFT ONLY - WORK IN PROGRESS
 
-This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. What I loved most is seeing how subtle things change to form the distinct local identity of each place.
+This is a writeup of my three-month backpacking trip through Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama, following what’s known as the Gringo Trail. Throughout the trip I got to learn about the people, scenery, food and cultures that make the area famous with backpackers. Trying to understand the complex history helps explain the distinct local identities, which I've tried my best to include here.
 
 Below is all I learned from every long bus or awkward border crossing, and the experiences that made them worth it. Stories like swimming with sharks, caving to a sacrifice chamber, seeing lava up close, jumping from uncomfortable heights, exploring temples, sliding down an active volcano, learning to surf, watching baby turtles hatch, kayaking in the jungle, chilling with sloths, and eventually sailing between continents. 
 

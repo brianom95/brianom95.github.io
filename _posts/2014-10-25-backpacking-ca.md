@@ -131,7 +131,7 @@ The main chamber is a solemn place where shoes are left outisde and pockets must
 
 #### Flores
 
-Two hours of nice roads and another easy border crossing brought me to my third country. The exchange rate and low value notes in Guatemala has everyone carrying thick stacks of money. You feel like a millionaire.
+Two hours of nice roads and another easy border crossing brought me to my third country. The exchange rate and low value notes in Guatemala has everyone carrying thick stacks of money and feeling like a millionaire. The streets are loud from chicken buses, which are donated school buses from America that have become the main public transport in the region. I noticed a lot more big brands and chains on the road, even seeing a Walmart.
 
 Flores is a colourful island town set on Lake Petén Itzá, with picture perfect cobbled streets. It was once known as Nojpetén meaning *'Great Island'*, and was the last Mayan settlement to fall to invading Spanish in 1697. A colonial town was built in its place and a bridge now joins to the mainland, where there's a nice mall and market. There's not a lot else to do here so evenings revolved around cafes, street food, ice cream and watching a [volleyball tournament](https://youtube.com/shorts/MGhfLhWbEVo?is=yFoKVwBDcV9RwmXf) that was on, which ended with a [big festival](https://youtube.com/shorts/D6mpPK-J2Fs?is=wbGwIuhev7X2qjDf). Flores is most famous for being the gateway to the ancient Mayan cities; the most famous being Tikal.
 
@@ -258,7 +258,7 @@ León is a gritty and characterful colonial city known for its revolutionary his
 
 Joined by a surprising amount of Mormons, we made the trip to the jet black volcano that's risen from an otherwise green landscape. We carried awkwardly sized boards to the top, enjoyed the view, donned boiler suits and face coverings, then did what's arguably the most iconic thing in Central America; [volcano boarding](https://youtube.com/shorts/R_AFAes_NkU?is=2W-uP2zbkzC_t_je). You get filthy, and it feels faster than it looks with some losing control and flipping, but it's so much fun. Easily a highlight of the whole trip.
 
-Public transport is surprisingly good in Nicaragua. We took a bus to nearby Telica another day to hike the most active volcano in the country, joined by Cap who we'd met at Cerro Negro. We had constant wind, rain and fog that meant we saw nothing on the summit. We did see some cool bubbling mud pits, that had a strong smell of sulfur. It was defiitely not worth it, but maybe type two fun. 
+Public transport is surprisingly good in Nicaragua. We took a chicken bus to nearby Telica another day to hike the most active volcano in the country, joined by Cap who we'd met at Cerro Negro. We had constant wind, rain and fog that meant we saw nothing on the summit. We did see some cool bubbling mud pits, that had a strong smell of sulfur. It was defiitely not worth it, but maybe type two fun. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca18.jpeg">
@@ -348,7 +348,7 @@ One day we did a boat trip around Zapatilla Island. This included snorkelling at
 
 #### Boquete
 
-Boquete is a cool mountain town surrounded by cloud forest and coffee plantations, known for hiking, rafting, and as the gateway to the challenging climb of Volcán Barú.
+Boquete is a cool mountain town surrounded by cloud forest, coffee plantations and Volcán Barú. It's great for hiking, and was actually cold which made it feel cosy. The town 
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca27.jpeg">

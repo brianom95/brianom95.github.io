@@ -375,13 +375,13 @@ This remote chain of islands is known for palm trees, sandbars, turquoise water,
 
 Under constant sun, we jumped from the boat and snorkelled through huge reefs. As we sailed we were surrounded by [excited dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k). On tiny islands we'd play volleyball and one night had a barbeque and campfire. By night the milky way lit up the sky, and lying on the roof we watched the SpaceX Falcon 9 rocket fly overhead. The small rooms and sailor showers (shampoo then jump in) can be uncomfortable, but it was easily one of the best experiences of my life.
 
-After a particularly rough crossing on the Caribbean Sea, we felt the waves begin to settle. Everyone gathered on the front of the boat to watch the sun rising over a new land. Almost all of us were about to step foot on a new continent for the first time. I didn't know what to expect, but in the moment I couldn't be more excited. 
-
-Now it was time for Backpacking South America.
-
 <p align="center" width="100%">
     <img width="400" src="/images/bpca25.jpeg">
 </p>
+
+After a particularly rough crossing on the Caribbean Sea, we felt the waves begin to settle. Everyone gathered on the front of the boat to watch the sun rising over a new land. Almost all of us were about to step foot on a new continent for the first time. I didn't know what to expect, but in the moment I couldn't be more excited. 
+
+Now it was time for Backpacking South America.
 
 Thank you for reading and happy travels,  
 Brian

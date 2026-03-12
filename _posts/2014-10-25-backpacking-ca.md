@@ -316,7 +316,7 @@ It's a basic but pretty place, with no roads and public water tanks on every pat
 
 The town had nice food and beer, which you could eat on the beach while building forts and watching sunsets. We cooked a bit to save money, but that was fun too in our little jungle kitchen. Every morning we walked the beach hoping to see turtles hatching before it gets too warm. On one lucky day we saw this little guy [make a run for it](https://youtu.be/xKI2BrrakkM?is=PS4knSZ7-z6K2ocj). We bought turtle bracelets to mark the day that haven't come off yet.
 
-When it came time to leave, we got a boat to the mainland and headed for a flooded Pacuare River. This is a steep, big-water Grade 4 run, all through dense jungle. I talked my way into a kayak while Mairéad was in a raft with other clients. It was a pushy but very fun day, some of the rapids reminding me of India. Off the water we were given a dinner and driven all the way to our next destination.
+When it came time to leave, we got a boat to the mainland and headed to raft a flooded Pacuare River. This is a steep, big-water Grade 4 run, all through dense jungle. I talked my way into a kayak while Mairéad was in a raft with other clients. It was a pushy but very fun day, some of the rapids reminding me of India. Off the water we were given a dinner and driven all the way to our next destination.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca28.jpeg">
@@ -324,11 +324,11 @@ When it came time to leave, we got a boat to the mainland and headed for a flood
 
 #### Puerto Viejo
 
-Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the American United Fruit Company (now Chiquita). That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
+Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the United Fruit Company (now Chiquita). That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
 
-The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and several sloths. We explored Talamanca Viewpoint on the way to Cocles Beach, which has great swimming and bars. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza, enjoyed the fun hostel and local bars.
+The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and several sloths. We explored Talamanca Viewpoint (which gave me vertigo) on the way to Cocles Beach, where we swam and tried odd local drinks. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza and enjoyed the fun hostel.
 
-From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to the next island.
+From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to our island.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca26.jpeg">
@@ -340,9 +340,7 @@ From here, it was a short bus to the final country of Central America. Just over
 
 Bocas del Toro is a lively archipelago of jungle-covered islands, where backpackers hop between beaches, coral reefs, and overwater hostels. The islands were a pirate hub, then had a banana boom, and now suvive off tourism and conservation. The area gets hit hard by storms and was rebuilding while we were there. Every hostel in Panama offers *'free breakfast'* in the form of pancake powder. We ate a lot of pancakes while this was still novel. Long walks across the island brought us to nice beaches, a pool, yet another pizza, and cheap bottles of Cerveza Panama by the sunset.
 
-One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had sandy trails, others were just rings of beach where you could wander and find natural pools and quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen. 
-
-Bocas was ended with some terrible karaoke, and darts played equally badly. Then boating back to the mainland to catch a bus.
+One day we did a boat trip around Zapatilla Island. This included snorkelling at places like Dolphin Bay and Starfish Beach, seeing sloths and turtles, and exploring small islands for hours. Some had trails, others were just rings of beach where you could wander and find natural pools or quiet ocean all to yourself. They were likely the most picturesque beaches I'd ever seen. Back in Bocas we watched a local parade, sang terrible karaoke, and played darts equally badly. Then boated back to the mainland to catch a bus.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca22.jpeg">
@@ -358,7 +356,7 @@ Boquete is a cool mountain town surrounded by cloud forest and coffee plantation
 
 #### Panama City
 
-TBC
+Panama City is a striking modern capital where a glittering skyline rises beside the colonial streets of Casco Viejo and the engineering marvel of the Panama Canal.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca24.jpeg">
@@ -366,7 +364,10 @@ TBC
 
 #### San Blas Islands
 
-TBC
+San Blas Islands are a remote chain of idyllic Caribbean islands where palm-fringed sandbars, turquoise waters, and the autonomous Guna communities create one of Central America’s most untouched tropical escapes.
+
+San Blas Islands sailing trips are a legendary backpacker journey, spending several days island-hopping through palm-fringed paradise with the Guna people before crossing the open Caribbean Sea to reach Cartagena.
+
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca25.jpeg">

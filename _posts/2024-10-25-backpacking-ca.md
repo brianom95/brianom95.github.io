@@ -379,9 +379,7 @@ Under constant sun, we jumped from the boat and snorkelled through huge reefs. A
     <img width="400" src="/images/bpca25.jpeg">
 </p>
 
-After a particularly rough crossing on the Caribbean Sea, we felt the waves begin to settle. Everyone gathered on the front of the boat to watch the sun rising over a new land. Almost all of us were about to step foot on a new continent for the first time. I didn't know what to expect, but in the moment I couldn't be more excited. 
-
-Now it was time for Backpacking South America.
+After a particularly rough crossing on the Caribbean Sea, we felt the waves begin to settle. Everyone gathered on the front of the boat to watch the sun rising over a new land. Almost all of us were about to step foot on a new continent for the first time. I didn't know what to expect, but in the moment I couldn't be more excited for backpacking South America.
 
 Thank you for reading and happy travels,  
 Brian

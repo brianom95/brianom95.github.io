@@ -4,7 +4,7 @@ title:  Backpacking Central America
 description: Three Months in Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama
 date:   2014-10-25 12:00:00 +0000
 image:  '/images/bpca0.jpeg'
-tags:   
+tags:   [travel]
 ---
 DRAFT ONLY - WORK IN PROGRESS
 

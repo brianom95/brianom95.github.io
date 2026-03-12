@@ -325,7 +325,7 @@ When it came time to leave, we got a boat to the mainland and headed to raft a f
 
 Puerto Viejo is a laid-back town known for reggae and Afro-Caribbean culture. It's just above Panama, surrounded by palm lined beaches and national parks. The term Banana Republic first applied to Honduras, whose lands were run by the United Fruit Company (now Chiquita). That companies second biggest exploit was here, and the current population are the descendents of immigrants that worked on banana plantations and railroads. Mainly Jamaicans, who survived the mosquitos better than most. 
 
-The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and several sloths. We explored Talamanca Viewpoint (which gave me vertigo) on the way to Cocles Beach, where we swam and tried odd local drinks. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza and enjoyed the fun hostel.
+The abundance of wildlife is definitely what makes Costa Rica special. Walking from the town we saw green poison frogs, hundreds of spider monkeys, and [several sloths](https://youtube.com/shorts/V5jBpZe-Wp8?is=UajU6cI-IKZKQ7EH). We explored Talamanca Viewpoint (which gave me vertigo) on the way to Cocles Beach, where we swam and tried odd local drinks. Back in town we tried pizza rolls that an Italian man assured were authentically Italian, ate yet another pizza and enjoyed the fun hostel.
 
 From here, it was a short bus to the final country of Central America. Just over the border we boarded a boat to our island.
 
@@ -359,7 +359,7 @@ This was the end of the road for Mairéad & I, taking buses in opposite directio
 
 #### Panama City
 
-Panama City is a modern capital with a glittering skyline over colonial streets, and home to the engineering marvel of the Panama Canal. The weather was horrible while I was here, so a lot of time was spent in shopping malls, but I did see the main streets and ate in the worlds only Coca Cola Cafe. The oldest cafe in the country, which was built for canal workers. The hostel was fun, and I seem to be improving at playing pool.
+Panama City is a modern capital with a glittering skyline over colonial streets, and home to the engineering marvel of the [Panama Canal](https://youtube.com/shorts/wmbhyXO5hN8?is=r78uoYHec2jvV7Cg). The weather was horrible while I was here, so a lot of time was spent in shopping malls, but I did see the main streets and ate in the worlds only Coca Cola Cafe. The oldest cafe in the country, which was built for canal workers. The hostel was fun, and I seem to be improving at playing pool.
 
 In the few hours of clear weather, I took a bus to Miraflores Lock to see the ships passing through the canal. Viewing decks make it a fun visit, and the story is narrated by Morgan Freeman in an IMAX cinema. Being there gave context to just how crazy the project was. The 25,000 people who died in construction, the issues of swampland, and the shear scale of it all. I found it incredibly interesting, especially the previous failed attempts through Panama and Nicaragua.
 
@@ -371,7 +371,7 @@ For trips down Central America, this airport can seem like the end point, but it
 
 #### San Blas Islands
 
-This remote chain of islands is known for palm trees, sandbars, turquoise water, and local Guna communities that make up the regions most untouched tropical location. Joined by the nicest group I could have hoped for, and in the good hands of Raul & Captain Original, we spent our days exploring the tiny islands. We'd swim, snorkel and kayak our way to remote shores, then return to the boat for amazing food and the fun atmosphere that comes from having no internet.
+This remote chain of islands is known for palm trees, sandbars, turquoise water, and local Guna communities that make up the regions most untouched tropical location. Joined by the nicest group I could have hoped for, and in the good hands of Raul & Captain Original, we spent our days exploring the [tiny islands](https://youtube.com/shorts/0orJ7QYc_hI?is=LH-2cB6dAAUxA5D2). We'd swim, snorkel and kayak our way to remote shores, then return to the boat for amazing food and the fun atmosphere that comes from having no internet.
 
 Under constant sun, we jumped from the boat and snorkelled through huge reefs. As we sailed we were surrounded by [excited dolphins](https://youtube.com/shorts/ES1r44w3RqU?is=3Cc8yoEUeFH29P1k). On tiny islands we'd play volleyball and one night had a barbeque and campfire. By night the milky way lit up the sky, and lying on the roof we watched the SpaceX Falcon 9 rocket fly overhead. The small rooms and sailor showers (shampoo then jump in) can be uncomfortable, but it was easily one of the best experiences of my life.
 

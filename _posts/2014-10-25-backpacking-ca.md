@@ -220,7 +220,7 @@ Mairéad was a vet from Dublin on a six month solo trip. So far she had paddled 
 
 #### Santa Ana
 
-Santa Ana is a lively colonial city with easy access to the turquoise crater lake of Santa Ana Volcano. Kevin had been here two days so he knew the best hostel and restauraunt for papusas; the national dish of thick stuffed pancakes. He also introduced me to Little Caesers pizza, which usually has a queue out the door. The town is nice to explore, and the country is currently the safest in Central America, but this wasn't always the case.
+Santa Ana is a lively colonial city with easy access to the turquoise crater lake of Santa Ana Volcano. Kevin had been here two days so he knew the best hostel and restauraunt for papusas; the national dish of thick stuffed pancakes. He also introduced me to Little Caesers pizza, which always has a queue out the door. The town is nice to explore, and the country is currently the safest in Central America, but this wasn't always the case.
 
 El Salvador was the murder capital of the world a decade ago. This came from a young, orphaned population after the 1992 civil war, combined with 4,000 deported gang members from MS-13 & Barrio 18 in California. They essentially ran the country, imposing curfews, murdering at will (once 62 people in one night), and controlling every layer of police and media. They had 60,000 members, or 1% of the population, and ran a huge drug trade that benefitted from the country using the US Dollar. 
 
@@ -230,9 +230,9 @@ Kevin & I did a walking tour with a local woman named Fátima who told us about 
 
 She was very proud of her country, especially now. She showed us the national theatre, library with 400 year old books, and the city hall which gives free classes in language, art and music. It's a place that's healing admirably. She explained how bars and restauraunts still keep doors closed and you knock for entry, now out of habit rather than safety. In one of these she drank and recommended a local drink of half orange juice, half coffee. Kevin got one. It was not good.
 
-One day we took local buses to hike Santa Ana Volcano. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate coated frozen bananas got a lot of business in the heat. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is cheap here, with a thirty minute Uber costing $5.
+One day we took local buses to hike Santa Ana Volcano. The top is spectacular, with a bright colour that's become a symbol for the country. A man selling chocolate frozen bananas got a lot of business in the heat. After that we went to Lake Coatepeque with people from the hostel, for an evening of drinks and [lake jumping](https://youtube.com/shorts/GCElRW1RCPM?is=cLR5gXOG33tQ5y7F). Getting around is cheap, with a thirty minute Uber costing $5.
 
-Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's, to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives! Back in Santa Ana we climbed the cathedral for a final panorama view, ate a few more papusas, and boarded a bus to continue south.
+Another day we did the Seven Waterfalls Hike in Juayúa. This involved going offroad in 4x4's to where we'd walk and swim our way through natural pools, float through caves, and climb up several [20m waterfalls](https://youtube.com/shorts/7tk6FBZlY1o?is=GkyHNuMxYYjDm-l-). We had a lot of fun this day, and also saw the largest spiders of our lives! Back in Santa Ana we climbed the cathedral for a final panorama view, ate a few more papusas, and boarded a bus to continue south.
 
 <p align="center" width="100%">
     <img width="400" src="/images/bpca13.jpeg">
@@ -242,7 +242,7 @@ Another day we did the Seven Waterfalls Hike in Juayúa. This involved going off
 
 San Salvador is an energetic capital set beneath dramatic volcanos. It gives a glimpse of modern Salvadoran life by looking like a US city in places, while still holding reminders of the country’s past. We stayed on the outskirts near the national craft market, some great restauraunts and [Republik Bar](https://youtube.com/shorts/TaIaUL672Ag?is=7rO5ql2u9xw26c8l), which had GAA jerseys and the Irish proclamation on the wall. In the city we saw a hedge maze, a mini eiffel tower, the KM.0 centre of the country, the National Palace, and the most impressive library I'd ever seen.
 
-We took a $1 Uber to El Boquerón, which has a volcanic crater in its volcanic crater. We walked all the trails of the national park, then made our way to Volcatenango; an old theme park overlooking the city with games, rides, slides and a mini Hobbiton. Further ddown the mountain we had a burger recommended to us, then found this rainbow slide which was way faster than we expected. 
+We took a cheap Uber to El Boquerón, which has a volcanic crater in its volcanic crater. We walked all the trails of the national park, then made our way to Volcatenango; an old theme park overlooking the city with games, rides, slides and a mini Hobbiton. Further down the mountain we had the best burgers of the trip, then found this rainbow slide which was way faster than we expected. 
 
 This was the end of the road for Kevin, needing to finally fly home. We said our goodbyes and I boarded a local bus that drove  overnight through Honduras to Nicaragua. This was the worst experience of the trip. Endless traffic, chaos at the Honduras border, corrupt police pulling us over to hassle people, an even worse border in Nicaragua, and all through my very broken Spanish. I was so happy to reach my next hostel and collapse into bed.
 

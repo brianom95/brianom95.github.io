@@ -8,7 +8,7 @@ tags:   [Travel]
 ---
 In October 2022, I was lucky enough to travel to the other side of the world and explore New Zealand. I spent 3 weeks on the north island and 4 weeks on the south, which I found to be a perfect timeframe for what I wanted. It would be impossible to include all the people, places and memories which made the trip so special, but I wanted to summarise what I saw here, to immortalise it for my own memory.
 
-New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and everyday I felt drawn to explore until my legs hurt. 
+New Zealand is amazingly well suited to backpacking. English speaking, friendly locals, cheap hostels (€10 to €15), lots of like-minded people and endless things to do. Much of the tourism is centred around hikes and national parks (particularly to the south), meaning many of the best experiences cost nothing. Transport can take some figuring out and food is pricey, but I couldn't have enjoyed this hiker heaven any more. The landscapes blew my mind and every day I felt drawn to explore until my legs hurt. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz28.webp">
@@ -16,9 +16,9 @@ New Zealand is amazingly well suited to backpacking. English speaking, friendly 
 
 ## Introduction
 
-New Zealand (Aoteroa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, many large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori's arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
+New Zealand (Aotearoa) has two main islands. The north island (Te Ika-a-Māui) is 1.5 times larger than Ireland, has 4 Million people, and one third live in Auckland. The south island (Te Waipounamu) is 2 times larger than Ireland, only has 1.2 Million people, and one third live in Christchurch. The birds that once ruled still rustle in every forest, many large and flightless after evolving in a land with no mammals. Humans were their first real predator, with Māori arriving just 800 years ago. Much of the nature feels unspoiled and at times empty, as if true exploration is still possible.
 
-The country is a land of extremes; from the year round sun and pristine beaches of the Northland, to eight times more rain than Ireland in the southern Fjordland. The north island is covered in volcanoes, whose rich soil makes everything lush and green. The south island is dominated by the snow and glaciers of the Southern Alps, attracting adventurers and dictating wider weather patterns. The colliding tectonic plates which formed the islands continue to hang the threat of eruption, earthquake or tsunami.
+The country is a land of extremes; from the year-round sun and pristine beaches of the Northland, to eight times more rain than Ireland in the southern Fiordland. The north island is covered in volcanoes, whose rich soil makes everything lush and green. The south island is dominated by the snow and glaciers of the Southern Alps, attracting adventurers and dictating wider weather patterns. The colliding tectonic plates which formed the islands continue to hang the threat of eruption, earthquake or tsunami.
 
 There are endless ways to backpack the country and everyone's trip is different. Some drive it all by campervan, some move slower on public transport, and some walk top to bottom on the Te Araroa trail (which takes five months). Timeframes range from a few weeks up to a year, with longer trips needed to see the changing seasons or hike the eleven great walks. No trip is better than any other as long as you do it for you, but do start with the north island!
 
@@ -42,7 +42,7 @@ On the way south we stopped at the famous 90 mile beach for sandboarding on the 
 
 #### The Bay of Islands
 
-So much history here. Early colonisers built a trading town called Paihia, infamous for crime and known then as hell on earth. Missionaries setup a town across the bay called Russell, known as heaven on earth. Paihia is a short walk from the Waitangi Treaty Grounds where the first constitution was signed in 1840. Differences between the agreed Māori document and the legally binding English 'translation' are how New Zealand became a colony of the UK. Russell was the first capital and this treaty began the first of many wars for independence.
+So much history here. Early colonisers built a trading town called Paihia, infamous for crime and known then as hell on earth. Missionaries set up a town across the bay called Russell, known as heaven on earth. Paihia is a short walk from the Waitangi Treaty Grounds where the first constitution was signed in 1840. Differences between the agreed Māori document and the legally binding English 'translation' are how New Zealand became a colony of the UK. Russell was the first capital and this treaty began the first of many wars for independence.
 
 Paihia & Russell are now quaint towns, known as gateways to the Northland and Bay of Islands. I stayed in Paihia and enjoyed learning about the history, exploring the many islands and snorkelling uncomfortably with a big stingray. Best thing is the ferry to Russell and Flagstaff Hill, where a local chief named Hōne Heke cut down the tallest British Flag four separate times. Even when they used a concrete base and full time guards, he organised a riot in town to draw them away, dug out the base and used horses to pull it down. He's a local legend and a United Tribes flag flies on the pole now.
 
@@ -52,7 +52,7 @@ Paihia & Russell are now quaint towns, known as gateways to the Northland and Ba
 
 #### Auckland
 
-A big, modern and busy city. I stayed with my cousin Andrew and his partner Olivia who lived in the centre. While they worked I went up the Sky Tower, toured the All Black Experience, went to the Wētā Workshop (Peter Jackson's second studio) and ran all over the city. A great walking tour described how Māori's followed migrating birds to first arrive here in waka's (giant canoes), explained the symbols and statues of the city, how New Zealand became the first country where women could vote, the local food (or lack there of, it's really just meat pies..) and the current state of giant kauri trees; one third of which have a terminal disease.
+A big, modern and busy city. I stayed with my cousin Andrew and his partner Olivia who lived in the centre. While they worked I went up the Sky Tower, toured the All Black Experience, went to the Wētā Workshop (Peter Jackson's second studio) and ran all over the city. A great walking tour described how Māori followed migrating birds to first arrive here in waka (giant canoes), explained the symbols and statues of the city, how New Zealand became the first country where women could vote, the local food (or lack there of, it's really just meat pies..) and the current state of giant kauri trees; one third of which have a terminal disease.
 
 In the evenings we explored more of the city, hiked up Mount Eden and had nice food and drinks. An early Diwali festival lined the streets with Indian stalls one of the days, and on two occasions I bumped into people I knew from home. To top off the visit I ran the [Auckland Marathon](https://brianbeyond.com/auckland-marathon), which ended up being the most horrendous weather of the entire trip but absolutely worth it. Overall a great stay and catch up that had me ready to leave the city and find some mountains!
 
@@ -92,9 +92,9 @@ My favourite things were the lake walk and the giant redwoods of Whakarewarewa F
 
 #### Taupō
 
-Lake Taupō is New Zealand's largest lake and gets it's name from the ancient collapsed volcano which formed its crater. The town on the lake edge was my favourite place on the north island. Huka Falls and the Aratiatia Rapids were an obvious first stop as a kayaker. The river walk to them is beautiful, and it's amazing to see the Aratiatia Dam turn an empty river bed into raging rapids in minutes. Some other nice walks I enjoyed were Mount Tauhara, the Opepe Circuit, the Tookanu Thermal Park and Craters of the Moon.
+Lake Taupō is New Zealand's largest lake and gets its name from the ancient collapsed volcano which formed its crater. The town on the lake edge was my favourite place on the north island. Huka Falls and the Aratiatia Rapids were an obvious first stop as a kayaker. The river walk to them is beautiful, and it's amazing to see the Aratiatia Dam turn an empty river bed into raging rapids in minutes. Some other nice walks I enjoyed were Mount Tauhara, the Opepe Circuit, the Tookanu Thermal Park and Craters of the Moon.
 
-Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori's would lay them upside-down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd bump into repeatedly.
+Silver ferns line many of these walks, the bottoms of which glow brightly under moonlight. Ancient Māori would lay them upside down on forest trails to guide their way home, becoming a uniting symbol for the country. Taupō itself is great, very outdoorsy and happens to have the World's Coolest McDonald's, with seating in an actual plane. The hostel was particularly nice also, and is where I met Corinna, Travis & McRae who I'd bump into repeatedly.
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz9.webp">
@@ -162,7 +162,7 @@ On a clear day the ferry is amazing. You dock in the small town of Picton, where
 
 A small hill just outside Nelson marks the geographical centre of New Zealand. From the top you can see the neighbouring mountains and long beaches the area is known for. This would be the last time I'd see Corinna so we made time for hikes, wandering and mini golf before she left. There was lots to explore around the town and beaches, including the biggest swing I'd ever seen.
 
-I met up with my friend Andrew who moved here a few years ago. He and his girlfriend Christina were nice enough to have me over for a barbeque with their friends. They also brought me for a paddle down their local run; the Granity Section of the Buller River (III+). Loads of big, bouncy rapids through the mountains of Murchison National Park. Two laps of the biggest rapid topped off an unreal day, and if it weren't for the swarms of sand-flies in the carpark this could have been paradise! 
+I met up with my friend Andrew who moved here a few years ago. He and his girlfriend Christina were nice enough to have me over for a barbeque with their friends. They also brought me for a paddle down their local run; the Granity Section of the Buller River (III+). Loads of big, bouncy rapids through the mountains of Murchison National Park. Two laps of the biggest rapid topped off an unreal day, and if it weren't for the swarms of sand-flies in the car park this could have been paradise! 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz15.webp">
@@ -170,7 +170,7 @@ I met up with my friend Andrew who moved here a few years ago. He and his girlfr
 
 #### Abel Tasman National Park
 
-This is New Zealand's smallest national park, covering 60km of coastline and waters, but very little of the inaccessible mountains behind. The name comes from the Dutch explorer who first saw New Zealand in 1642, although he never docked here due to locals fighting him off. Boat tours run every day, particularly to see split apple rock which was supposedly ripped in two by feuding God's. The waters are protected and thriving too, so snorkelling and kayaking are popular.
+This is New Zealand's smallest national park, covering 60km of coastline and waters, but very little of the inaccessible mountains behind. The name comes from the Dutch explorer who first saw New Zealand in 1642, although he never docked here due to locals fighting him off. Boat tours run every day, particularly to see split apple rock which was supposedly ripped in two by feuding gods. The waters are protected and thriving too, so snorkelling and kayaking are popular.
 
 The Abel Tasman track is one of New Zealand's eleven great walks, usually done by getting a boat to the far end and walking back. I hiked half of this, getting to see the huts and incredible beaches of this exceptionally isolated place. Cool bridges and timing the tides for crossings make it a unique trip. I also drove back out with Andrew & Christina one night for a jazz gig in Marahau, the small hippie town just within the park.
 
@@ -182,7 +182,7 @@ The Abel Tasman track is one of New Zealand's eleven great walks, usually done b
 
 Kaikoura is a coastal town with a bigger seal population than human. The hoards of seals are cool to see, even if they're very stinky. If you get lost on the peninsula loop like I did then things can get pretty spicy, but a great walk none the less. We had some fun evenings in the town too.
 
-The whale watching tour is world famous and on a ridiculously lucky day we saw three sperm whales, a family of orca's and a pack of 200 dolphins. The boat captain was more excited than anyone, particularly for the orca's. I would highly recommend the hike up Mount Fyffe to see the peninsula from above and the strange patterns on surrounding hills. 
+The whale watching tour is world famous and on a ridiculously lucky day we saw three sperm whales, a family of orcas and a pack of 200 dolphins. The boat captain was more excited than anyone, particularly for the orcas. I would highly recommend the hike up Mount Fyffe to see the peninsula from above and the strange patterns on surrounding hills. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz17.png">
@@ -190,7 +190,7 @@ The whale watching tour is world famous and on a ridiculously lucky day we saw t
 
 #### West Coast Region
 
-Some of New Zealand's most beautiful areas are wedged between the Southern Alps and this rugged western coastline. I drove it all, crossing the mountains at Lewis Pass with a rainy walk of the Lewis Tops Track, followed by nicer coastal weather on the Truman Track and Pancake Rocks of Punakaiki. After a night on the shipwreck shores of Greymouth (and a particularly eclectic hostel), headed south to Hokitika Gorge which I loved. Then walked around Lake Kaniere, over the West Coast Treetop Walk and enjoyed free popcorn and soup at the hostel in Franz Josef.
+Some of New Zealand's most beautiful areas are wedged between the Southern Alps and this rugged western coastline. I drove it all, crossing the mountains at Lewis Pass with a rainy walk of the Lewis Tops Track, followed by nicer coastal weather on the Truman Track and Pancake Rocks of Punakaiki. After a night on the shipwreck shores of Greymouth (and a particularly eclectic hostel), I headed south to Hokitika Gorge, which I loved. Then walked around Lake Kaniere, over the West Coast Treetop Walk and enjoyed free popcorn and soup at the hostel in Franz Josef.
 
 Franz Josef Glacier has receded a lot, but the short walks around it like Sentinel Rock & Peter's Pool were beautiful. Fox Glacier was similar, and this brought us to the highlight; crossing back over the Alps at Haast Pass. I walked to huge waterfalls at Fantail Falls, Thunder Creek Falls & Roaring Billy Falls. Then a gorge walk to the aptly named Blue Pool which is probably the most inviting swim spot I've ever seen. The walks are lined with huge trees which continue to amaze me, and the views from the road are like postcards.
 
@@ -230,7 +230,7 @@ I did a tough trail run up Ben Lomond which overlooks the town and the swirling 
 
 #### Otago Region
 
-Exploring around Queesntown, I pushed my rental car to its absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day I went canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
+Exploring around Queenstown, I pushed my rental car to its absolute limit to reach The Remarkables Ski Area. A snowier hike than planned brought me to Lake Alta, which Lord of the Rings fans would recognise as the entrance to the Mines of Moria. Another day I went canyoning through a tight gorge in the Gibbston Valley, then climbed the Shirt Tail Track to a particularly cool lake viewpoint.
 
 Finally the thing I dreaded most since booking my flight to New Zealand; a bungy jump! AJ Hackett first commercialised the 'sport' when he opened the Kawarau Bridge Bungy in 1986. I knew I had to do this original one, even though it terrified me. After several weigh-ins and a questionable towel with velcro strapped around my legs, I was stood on the edge. Looking back I almost can't believe I did it. I opted for the water 'touch' which was more of a concussive slap. The adrenaline lasted days and although I'll probably never do one again, I'm so glad I did.
 
@@ -240,15 +240,15 @@ Finally the thing I dreaded most since booking my flight to New Zealand; a bungy
 
 #### Te Anau & Manapouri
 
-Lake Te Anau is the south island's largest lake. The small town of Te Anau on its banks is known as the gateway to Fjordland, well located for all the nearby hikes. I found a nice hostel in the town and spent the days driving south to Manapouri for the lakeside cliff walk, east to see the Takitimu Mountains and north for the Knobs Flat Waterfall walk.
+Lake Te Anau is the south island's largest lake. The small town of Te Anau on its banks is known as the gateway to Fiordland, well located for all the nearby hikes. I found a nice hostel in the town and spent the days driving south to Manapouri for the lakeside cliff walk, east to see the Takitimu Mountains and north for the Knobs Flat Waterfall walk.
 
-The weather was ideal for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a good base for heading further into Fjordland too, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
+The weather was ideal for exploring the sights and food of Te Anau itself, even taking my first rest day! This was a good base for heading further into Fiordland too, seeing huge changes instantly when you drive deeper. Also seeing the Kea's; New Zealand's large parrots who try their hardest to steal food, even through a car!
 
 <p align="center" width="100%">
     <img width="400" src="/images/nz2.webp">
 </p>
 
-#### Fjordland National Park
+#### Fiordland National Park
 
 New Zealand's largest national park is centred around the 14 fjords of Southland. These fjords formed through repeated freezing and melting of glaciers, carving deep valleys that extend to the sea. The one road that passes through them is out of this world and I stopped at all the main hikes on route.
 
@@ -260,7 +260,7 @@ Lake Howden & Lake Gunn were short but unique, and I loved Key Summit which got 
 
 #### Milford Sound
 
-At the end of the Fjordland road, is a long tunnel that reveals New Zealand's 8th wonder of the world. Milford Sound is the largest of the fjords, full of huge cliffs and islands. It rains almost every day, totalling 8,000mm per year (Ireland averages 1,000mm per year!). This forms huge waterfalls and a rolling fog that makes the stillness seem eerie. You can't feel them, but sensors monitor at least ten minor earthquakes per day. This place is truly wild.
+At the end of the Fiordland road, is a long tunnel that reveals New Zealand's 8th wonder of the world. Milford Sound is the largest of the fjords, full of huge cliffs and islands. It rains almost every day, totalling 8,000mm per year (Ireland averages 1,000mm per year!). This forms huge waterfalls and a rolling fog that makes the stillness seem eerie. You can't feel them, but sensors monitor at least ten minor earthquakes per day. This place is truly wild.
 
 The boat trip around Milford Sound was unbelievable. A constant layer of rain and mineral runoff leaves the sea water extra dark. This and the perfectly flat side walls make whales think it's deeper than it is, allowing you to find them alongside the dolphins, seals and penguins. After going to the ocean and back we docked at a natural aquarium, with a ten meter deep glass room to watch fish swim amongst rare black coral (which is bright white when alive). Milford Sound is one of the top attractions of the whole country and not something to miss. 
 
@@ -272,7 +272,7 @@ The boat trip around Milford Sound was unbelievable. A constant layer of rain an
 
 After Milford Sound I began making my way back north. I stayed again in Queenstown and Wānaka, before taking the road up the east side of the Alps. The town of Twizel was a particularly beautiful stay by a lake, after which I approached Aoraki.
 
-Aoraki (Mount Cook) is the highest peak in New Zealand. At it's base is a small town of the same name, full of climbers and skiiers. Here I rented rigid boots and crampons for a stay in one of the countries best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
+Aoraki (Mount Cook) is the highest peak in New Zealand. At its base is a small town of the same name, full of climbers and skiers. Here I rented rigid boots and crampons for a stay in one of the country's best huts. The hike up was steep and slow, through cold alpine air. It was my first time using crampons and I was amazed by the distant cracks of ice and glaciers. Huts are central to hiking in New Zealand, with over 950 maintained by the government. This one is on a snowy plateau, staffed by a volunteer who had so many cool stories on that cosy night. 
 
 This current hut was opened in 2003 by Sir Edmund Hillary. In 1939, a twenty year old Hillary had his first experience of mountaineering when he climbed Mount Ollivier, the mountain just behind Mueller Hut. This grew to a passion which saw him conquer Mount Everest with Tenzing Norgay only 14 years later. The next morning I scrambled up through the dense fog to stand on the same summit. Possibly fitting that this be my first experience of alpine mountaineering. After descending I spent an extra day in Aoraki town, and in particular at the Hillary museum. 
 

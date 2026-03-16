@@ -6,7 +6,7 @@ date:   2014-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
 tags:   
 ---
-The Santa Cruz Trek is one of South America’s classic high-altitude hikes, a four-day journey through Peru’s spectacular Cordillera Blanca where glacial lakes, towering snow-capped peaks, and the dramatic Punta Unión Pass combine to create some of the Andes’ most breathtaking scenery.
+The Santa Cruz Trek is one of South America’s classic high-altitude hikes, through the Cordillera Blanca in Peru. Over 55km it passes remote valleys, glacial lakes, snow-capped peaks, and the dramatic Punta Unión Pass at 4,750m.
 
 <p align="center" width="100%">
     <img width="400" src="/images/santacruz0.jpeg">

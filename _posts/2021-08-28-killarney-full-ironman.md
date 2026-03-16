@@ -25,7 +25,7 @@ An Ironman is widely considered one of the most difficult one-day sporting event
 
 ## First Steps
 
-I completed the [Valentia Island Sprint Triathlon](valentia-sprint1) in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
+I completed the [Valentia Island Sprint Triathlon](valentia-sprint1), in late 2020. This was a bucket list item at the time, done with no knowledge of triathlon distances, no swimming experience and on a borrowed bike. I loved it, but had zero intention of continuing the sport after. Then I discovered Ironman. 
 
 It was as mesmerising as it was insane. People crawling across the line after 17 hours, broken but undefeated. It chose me against my will and a seed grew over months. I didn't want the risk of failure, or to desire something that may not be possible, but against all logic I knew I had to do it, someday. If anyone can complete this ultimate test, then surely I could. The pandemic gave us all a lot of free time spent in our locality. I realised there's no time like the present and at least this training could be in my control. Maybe I'd start with a half.
 
@@ -43,7 +43,7 @@ I knew anything like this is better shared, but this was a level of craziness be
     <img width="400" src="/images/hardman2.webp">
 </p>
 
-Swimming was my weakest area and made me most nervous. The pools were closed throughout so I only swam in open water. The early days were horrific, with thermals, wetsuit, neoprene hood, gloves and booties still not enough. An Orca swimming wetsuit I invested in made me slower with less buoyancy, but now I looked the part. As the weather got better, so did I. We had a lot of nice sunny days in the Shannon river, swimming with friends over the summer. My pace was always slow, but Ironman swimming is inefficient anyway. It relies mainly on arms to save the legs for what's to come. Slow was fine once you made the cutoff and felt okay starting onto the bike. I think the early icy days had me ready for anything.
+Swimming was my weakest area and made me most nervous. The pools were closed throughout so I only swam in open water. The early days were horrific, with thermals, wetsuit, neoprene hood, gloves and booties still not enough. An Orca swimming wetsuit I had invested in made me slower with less buoyancy, but now I looked the part. As the weather got better, so did I. We had a lot of nice sunny days in the Shannon river, swimming with friends over the summer. My pace was always slow, but Ironman swimming is inefficient anyway. It relies mainly on arms to save the legs for what's to come. Slow was fine once you made the cutoff and felt okay starting onto the bike. I think the early icy days had me ready for anything.
 
 <p align="center" width="100%">
     <img width="300" src="/images/hardman3.webp">
@@ -71,7 +71,7 @@ Throughout my plan I did two half Ironman's, in [Waterville](waterville-half-iro
     <img width="400" src="/images/hardman5.webp">
 </p>
 
-In the final weeks I was the fittest I've ever been. Iron Fit as the book calls it. I swam 5km on one beautiful sunny day (very slowly but I was so proud), cycled my first century (100 miles or 160km) and did half marathons like they were nothing. I had missed a lot more workouts from the plan than I care to admit (life gets in the way) but I felt excited to run into the unknown and test what I could do. The last two weeks tapered off to allow the body to recover and all of a sudden the race was staring us down. 
+In the final weeks I was the fittest I've ever been. Iron Fit as the book calls it. I swam 5km on one beautiful sunny day, very slowly, but I was so proud. I also cycled my first century (100 miles or 160km) and did half marathons like they were nothing. I had missed a lot more workouts from the plan than I care to admit (life gets in the way) but I felt excited to run into the unknown and test what I could do. The last two weeks tapered off to allow the body to recover and all of a sudden the race was staring us down. 
 
 I got an AirBnB in Killarney with my family. The day before I filled my bottles and finalised the chaotic contents of all the different bags. That night Jamie & I scoped out the swim while dropping off transition bags, our bikes and collecting race packs.
 
@@ -143,7 +143,7 @@ Jamie's parents and girlfriend Anna cheered us on every lap. My family and frien
     <img width="400" src="/images/hardman19.jpeg">
 </p>
 
-Then came the depths. Everyone would ask are you counting up (Lap 1-5) or counting down (Lap 6-10). It was a tough place to be on Lap 2, knowing what's ahead, but we put the heads down and kept moving. My stomach didn't want food or water but I forced it in. It was intensely hot but half the loop had tree cover so we made sure to enjoy that. I tried to puke behind a tree at one point. Only air came out and this settled my stomach making me feel ten times better. I did the same at that tree on every lap from then on.
+Then came the depths. Everyone would ask are you counting up (Lap 1-5) or counting down (Lap 6-10). It was a tough place to be on Lap 2, knowing what's ahead, but we put our heads down and kept moving. My stomach didn't want food or water but I forced it in. It was intensely hot but half the loop had tree cover so we made sure to enjoy that. I tried to puke behind a tree at one point. Only air came out and this settled my stomach making me feel ten times better. I did the same at that tree on every lap from then on.
 
 <p align="center" width="100%">
     <img width="400" src="/images/hardman8.webp">
@@ -215,7 +215,7 @@ If anyone is considering an Ironman these would be my five tips:
 
 5. Enjoy every moment. You'll probably think back on this journey for the rest of your life. The perfect days with friends only stand out as much as the icy, windy, lonely, miserable ones. Where you sing your lungs out just to get through it, but you always do make it through. Every step has growth. Be open to learning, be open to changing and soak up every bit of the experience.
 
-The race was everything I'd hoped for and more. The journey I barely have words to describe. Whatever calls you, or whatever dream you have, your limits are only as real as you let them be. Trust in yourself and take the first steps...
+The race was everything I'd hoped for and more. The journey I barely have words to describe. Whatever calls you or whatever dream you have, remember that your limits are only as real as you let them be. Trust in yourself and take the first steps...
 
 Happy adventuring,  
 Brian

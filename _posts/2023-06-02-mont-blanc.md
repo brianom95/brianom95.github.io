@@ -28,7 +28,7 @@ Exactly one year after this, Saussure was guided up the same route, along with 1
 
 Paccard's legacy was foundational to Western mountaineering expeditions, right up to the summiting of Mount Everest almost 200 years later. He risked his time, money and reputation in pursuit of what was considered impossible. However, his damaged name in Chamonix left him lost to history for a time, with the spotlight focussed on the more respectable Dr. Balmat.
 
-For the 100 year anniversary in 1887, a bronze statue was unveiled showing Balmat and Saussure, pointing to the peak in excitement at having announced a successful summit. It would be the bicentenary in 1987 when a second statue was added 50 meters away, showing a more contemplative Paccard looking up at the peak. These statues are my favourite spot in Chamonix. 
+For the 100-year anniversary in 1887, a bronze statue was unveiled showing Balmat and Saussure, pointing to the peak in excitement at having announced a successful summit. It would be the bicentenary in 1987 when a second statue was added 50 metres away, showing a more contemplative Paccard looking up at the peak. These statues are my favourite spot in Chamonix. 
 
 <p align="center" width="100%">
     <img width="300" src="/images/mb1.webp">
@@ -38,7 +38,7 @@ For the 100 year anniversary in 1887, a bronze statue was unveiled showing Balma
 
 The most popular way to climb Mont Blanc is via the Goûter Route. Unless you're experienced in glacier travel, crevasse rescue and Alpine navigation then a guided climb is a far safer option. Roughly 100 people die on Mont Blanc every year so it's not somewhere to take chances. Paul Swail is an Irish guide living in Chamonix who was recommended to me. I chose one of his set dates in May and had a great experience climbing with him. You can climb between May & September, but going earlier avoids the risk of rockfall and closures from excessive thawing.
 
-The standard six day format includes two days climbing the highest mountain entirely in Italy; Gran Paradiso (4,061m), an acclimatisation day on Aiguille du Midi (3,842m), and then three days for the summit bid on Mont Blanc (4,808m). This is a great option to allow acclimatisation, getting to know the group, and a chance to learn more skills. The cost of this was €2,150 and included guides, transport, mountain huts and food. There is usually six clients on these trips, plus two guides for days 1 to 3, and three guides for days 4 to 6 (higher ratio is mandated for Mont Blanc itself).
+The standard six-day format includes two days climbing the highest mountain entirely in Italy; Gran Paradiso (4,061m), an acclimatisation day on Aiguille du Midi (3,842m), and then three days for the summit bid on Mont Blanc (4,808m). This is a great option to allow acclimatisation, getting to know the group, and a chance to learn more skills. The cost of this was €2,150 and included guides, transport, mountain huts and food. There is usually six clients on these trips, plus two guides for days 1 to 3, and three guides for days 4 to 6 (higher ratio is mandated for Mont Blanc itself).
 
 For gear, I rented boots and crampons which I'd recommend rather than buying, unless you're confident in your need for a highly insulated single layer boot. I had all the other clothing I'd need already, and just had to buy a helmet, harness, ice axe and thick gloves in Chamonix. You could rent everything if needed though. All nights were spent in indoor dorms so just a light sleeping bag was enough, and my only regret is not having good quality sunglasses for the trip; I'd highly recommend Julbo Shields. 
 
@@ -78,7 +78,7 @@ Although we were alone on the summit, we followed the one way system to avoid cl
 
 ### Aiguille du Midi
 
-The next morning we met at the main gondola station which goes up to 3,842m on Aiguille du Midi; one of France's most popular tourist attractions. The name means Midday Needle because the sharp summit casts a shadow through the main square in Chamonix at exactly noon. On the way up we met hikers and skiiers headed for Mont Blanc via different routes, and saw complex ski slopes which involve abseils or end with paragliding. As we disappeared into clouds it seemed like the lift could rise forever.
+The next morning we met at the main gondola station which goes up to 3,842m on Aiguille du Midi; one of France's most popular tourist attractions. The name means Midday Needle, because the sharp summit casts a shadow through the main square in Chamonix at exactly noon. On the way up we met hikers and skiers headed for Mont Blanc via different routes, and saw complex ski slopes which involve abseils or end with paragliding. As we disappeared into clouds it seemed like the lift could rise forever.
 
 We had no visibility on top, but it was still cool. Tourists walk between view points and information signs in the station, but everyone with mountaineering equipment heads for the same carved ice tunnel. We needed all our gear and a short rope on before exiting into the blinding light of a steep, snowy arête (a sharp ridge caused by glacial erosion). I kept tension on Niall's rope as we slowly descended down into the mountain range. It genuinely amazed me how that tunnel seemed to teleport you from civilisation to wilderness.
 
@@ -96,7 +96,7 @@ Today was perfectly clear, with the sharp tip of Aiguille du Midi particularly o
 
 The next section is the Grand Couloir; a deep gully that's infamous for rockfall late in the day. Niall, Will & I were well ahead of the others and chose to keep going to get through early. A rope guides the crossing and from stories of accidents you expect to move fast, but it's actually very slow and controlled. Constant looking up, listening into the silence so you're ready to react if needed. There was good snow cover today (a benefit to climbing early in the season), but we still saw a rockfall ten minutes after we crossed. This section is nerve wracking.
 
-From here it's a steep scramble up to the Goûter Ridge. Icy rocks that must be climbed over and around, often pulling yourself up with chains and metal wires fixed to the mountain. It's simple climbing, but towards the top when you've a 600 meter drop below I can see how it would be daunting. We stayed on a short rope for it all, providing tension for each other where needed, though the rope was more annoying than anything at times. We needed ice axes to get up the final snowy ridge, which brought us to the award winning Goûter Hut (3,815m). We left our boots in the wet room below, and were relaxing in the cosy dining room with overly expensive cookies and hot chocolate by 2:30pm.
+From here it's a steep scramble up to the Goûter Ridge. Icy rocks that must be climbed over and around, often pulling yourself up with chains and metal wires fixed to the mountain. It's simple climbing, but towards the top when you've a 600 metre drop below I can see how it would be daunting. We stayed on a short rope for it all, providing tension for each other where needed, though the rope was more annoying than anything at times. We needed ice axes to get up the final snowy ridge, which brought us to the award winning Goûter Hut (3,815m). We left our boots in the wet room below, and were relaxing in the cosy dining room with overly expensive cookies and hot chocolate by 2:30pm.
 
 <p align="center" width="100%">
     <img width="400" src="/images/mb7.webp">
@@ -108,7 +108,7 @@ There's a guide meeting before dinner, where those who summited today discuss co
 
 After a basic breakfast, we were gearing up. My bag just had water and some bars with all my clothes on me. Niall & I roped up to Will and plowed on ahead. Pat & Pádraig attached to Paul, and Séamus who had been struggling progressed slowly with Dan. The night sky was stunning. The bright moon lit the slope ahead to the point that I rarely used my head torch. We had set off at 2:40am, and I felt great.
 
-The inclines were mostly gentle, but felt long and relentless, requiring side stepping the whole way to save our calves. The first big climb brought us onto the Goûter Dome at 4:00am, which would be the last flat area before the summit. The dome descends to the base of todays real climb, and from there we started zig zagging upwards. We arrived at an emergency shelter where we stuck our single hiking poles in the snow and continued with just the ice axes. This was at 4:30am.
+The inclines were mostly gentle, but felt long and relentless, requiring side stepping the whole way to save our calves. The first big climb brought us onto the Goûter Dome at 4:00am, which would be the last flat area before the summit. The dome descends to the base of today's real climb, and from there we started zig zagging upwards. We arrived at an emergency shelter where we stuck our single hiking poles in the snow and continued with just the ice axes. This was at 4:30am.
 
 <p align="center" width="100%">
     <img width="400" src="/images/mb8.webp">
@@ -118,13 +118,13 @@ A sharp, snowy ridge meandered up from here. It had constant false peaks as we s
 
 The top is amazing. A massive flat area with no other peak even remotely this tall. Aiguille du Midi looks tiny, and far in the distance you can see peaks in Switzerland and all across the Alps. It's a little overwhelming because you can see so much but you don't know where to look. I followed the route of the Tour du Mont Blanc as best as I could, finally closing the door on that adventure as I had wanted to.
 
-I got some selfies and unclipped from the ropes to get a handstand photo. Jake had caught up at this point too, so he took a photo of us. Before setting up his paraglider and flying down from the summit (he was home in two hours). We instead made our way back down the ridge, passing the rest of our team on the way and wishing them luck. 
+I got some selfies and unclipped from the ropes to get a handstand photo. Jake had caught up at this point too, so he took a photo of us. Before he set up his paraglider and flew down from the summit (he was home in two hours). We instead made our way back down the ridge, passing the rest of our team on the way and wishing them luck. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/mb9.webp">
 </p>
 
-I took lots of photos on the way down, loving how the gleaming white snow looked in them. We were back in the Goûter Hut grabbing our other gear at 8:15am, and after a short break we got down the scramble and across the Grand Coulour to wait at the Tête Rousse Hut for the others. Pat, Pádraig & Paul arrived soon after having made the summit, but unfortunately Séamus had been helicoptered down due to severe altitude sickness. 
+I took lots of photos on the way down, loving how the gleaming white snow looked in them. We were back in the Goûter Hut grabbing our other gear at 8:15am, and after a short break we got down the scramble and across the Grand Couloir to wait at the Tête Rousse Hut for the others. Pat, Pádraig & Paul arrived soon after having made the summit, but unfortunately Séamus had been helicoptered down due to severe altitude sickness. 
 
 It was a quick descent from there, sliding down channels in the snow where possible and wrecking our feet descending on the train tracks, but none of us really cared by then. After a long day, we were sat at a bar in Chamonix by 3:00pm, reunited with Séamus who was feeling fine again and had a wild story of getting back from hospital. 
 

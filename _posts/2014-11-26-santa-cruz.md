@@ -35,14 +35,12 @@ Lea and I started early at 7am, as there was a lot of snow and we had the longer
 
 We later learned the donkeys were struggling on the ice and it delayed the guides a few hours. We hoped to spot them through the fog, but unable we continued on. The next valley was stunning. A fast descent brought us past thawing lakes, and down to green fields where we followed a stream to Taullipampa Camp st 4,250m. We were sat in the sun below the Paramount mountain, and by the stream it felt like paradise. The others drank water and hid in the shade. Lea & I left some of our gear here, and headed for the lake.
 
-We crossed bridges and flooded sections to reach the side trail, then pushed up a steep valley under a harsh sun for two hours. We saw a forest of flaky trees, some robust looking cows, and hiked a steep path beside a waterfall that flowed out from the lake. As the trail leveled out we reached a sign; Arhuaycocha Lake (4,420m). I did my highest swim to date here, which was freezing but beautiful looking up at the sharp peak of Alpamayo (5,947m). The sun warmed me quickly after, and we made a fast descent to camp.
+We crossed bridges and flooded sections for 2.5km until we reached our side trail. From here we pushed up a new valley under a harsh sun for two hours. We saw a forest of flaky trees, some robust looking cows, and hiked a steep path beside a waterfall that flowed out from the lake. As the trail leveled out we reached a sign; Arhuaycocha Lake (4,420m). I did my highest swim to date here, which was freezing but beautiful looking up at the sharp peak of Alpamayo (5,947m). The sun warmed me quickly after, and we made a fast descent.
 
-
+It was a shame we had to backtrack a little to camp, but we were delighted regardless. The sun had just dropped behind the mountains as we arrived at 5:30pm. Another hearty dinner felt well deserved, and the others talked all night about how crazy the snowy pass had been. The guides said it was the worst conditions they'd seen, but it felt like an old memory after swimming in the lake under the sun since. We played more games that night, and watched the stars in what was a silent and undisturbed night.
 
 ## Day 3
 
+At 8am we packed up and left. We stuck with the group until they turned for the lake, then Lea & I continued alone. An hour later we passed the final camp, and from there walked on a sandy riverbed that hinted of past floods. The river grew in size, and as we left the valley we began to see farms and hints of civilisation. The last section was unreal, following huge rapids and waterfalls for a steep 1,000m descent. It was tough on the legs, but so exciting for the kayaker in me. Where the rapids ended we reached the town of Cashapampa. We negotiated a fair price for a taxi to Caraz (on absolutely insane roads), then took a local bus to Huaraz. We celebrated at an Indian restaurant, and with many free drink from Aldo.
 
-
-
-
-
+I loved the hike, and was very happy it went to plan. Lea was back in time for an early flight the next morning, and I was back in time to meet Kevin as he arrived. I had travelled for weeks with him while (Backpacking Central America)[backpacking-ca], and now he was back to join me here. Over the coming days we hiked near the town, and drove back over the terrible mountain roads for a hike to Laguna 69 (highlight of Huaraz), where we swam at 4,604m! With that acclimatisation we summited Cerro Mateo (5,150m), and with that Kevin was acclimatised and ready for us to continue our trip through Peru & Bolivia.

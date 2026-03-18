@@ -6,20 +6,20 @@ date:   2014-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
 tags:   
 ---
-The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. The hike typically takes four days, but I did it in three by combining Days 2 & 3:
+The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. Below is the typical four day itinerary, but I combined Days 2 & 3 to get back earlier.
 
-Day 1: 12km, 100m Gain - Hike to Punta Unión Pass  
-Day 2: 13km, 1,000m Gain - Cross Punta Unión Pass  
+Day 1: 12km, 100m Gain - To Punta Unión Pass  
+Day 2: 13km, 1,000m Gain - Over Punta Unión Pass  
 Day 3: 13km, 500m Gain  - Out & Back to Arhuaycocha Lake  
 Day 4: 20km, 0m Gain - Hike Out  
 
-Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a local climber who can advise on any mountain or trek. He recommended a guide service that was €90 with portered tents, food, and shuttles either side. It was better value than renting a tent and going solo as I had planned. To top it off he loaned me a sleeping bag, rain pants and big rucksack for free. At the hostel I met Lea from Austria who also needed to be back in three days. As we'd leave the guides early we had to figure out buses back after ourselves, so I was glad to have company for that.
+Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a local climber who can advise on any mountain or trek. He recommended a guide service that was €90 with portered tents, food, and shuttles either side. It was better value than renting a tent and going solo as I had planned. He even loaned me a sleeping bag, rain pants and big rucksack for free. At the hostel I met Lea from Austria, who was also planning three days. Aldo told us all we needed to know, including finding local buses after.
 
 <p align="center" width="100%">
     <img width="400" src="/images/santacruz0.jpeg">
 </p>
 
-#### Day 1 - 11.17km (424m)
+## Day 1
 
 We left early on our bus to the trail head, up zig-zagging gravel roads for four hours before a lunch break. We stopped again at Lagunas del Valle Llanganuco (3,850m) which was incredibly blue, then down the zig-zags on the other side for two more hours. The route has us walk back over the whole range so the drive after is much shorter, but getting to this side of the mountains was rough. At the trailhead we did introductions with our guide Cesar, chef Jesus, our team of porter donkeys, and the other clients; Rory, Eva, William, Etienne & Phoebe.
 
@@ -29,11 +29,11 @@ The donkeys carried the team gear and food, and once loaded and gone we followed
     <img width="300" src="/images/santacruz1.jpeg">
 </p>
 
-#### Day 2 - 25.7km (1,452m)
+## Day 2
 
 The 4-day itinerary has us cross the snowy pass today and camp on the other side, with the day after being mostly an out and back to a lake
 
-#### Day 3 - 26.17km (94m)
+## Day 3
 
 
 

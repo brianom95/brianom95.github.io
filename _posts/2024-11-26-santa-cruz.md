@@ -2,7 +2,7 @@
 layout: post
 title:  Santa Cruz Trek
 description: 60km across Peru's Cordillera Blanca. With deep snow, the Paramount mountain, and swimming at 4,420m.
-date:   2014-11-26 12:00:0 +0000
+date:   2024-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
 tags:   
 ---

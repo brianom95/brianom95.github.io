@@ -31,9 +31,13 @@ The donkeys carried team gear and food, and once loaded and gone we followed. It
 
 ## Day 2
 
-Lea and I started an hour before the group at 7am. There was a lot of snow on the pass so we knew that would be slow, and we were the only ones trying to get to the lake and back tonight. The first hour was grey and misty, the next hour was white and icy. Thick snow made the route difficult to find, and sections of climbing boulders had our hands freezing. At times you walked beside beautiful frozen lakes, at others you stared struggled up steep rocky slopes that had too much ice to walk on. 
+Lea and I started early at 7am, as there was a lot of snow and we had the longer day. The first hour was misty and grey, the next was icy and white. Thick snow made the route difficult to find, and sections of climbing boulders had our hands freezing. At times we walked beside frozen lakes, at others we struggled up rocky slopes that were too icy to stand on. It was slow breaking trail, so we were followed and eventually caught up to by Rory, Eva, William & Etienne. Together we routed through deep snow to the narrow gap of Punta Unión Pass at 4,750m. 
 
-As we set the trail, we were followed and eventually caught up to by Rory, Eva, William & Etienne.
+We later learned the donkeys were struggling on the ice and it delayed the guides a few hours. We hoped to spot them through the fog, but unable we continued on. The next valley was stunning. A fast descent brought us past thawing lakes, and down to green fields where we followed a stream to Taullipampa Camp st 4,250m. We were sat in the sun below the Paramount mountain, and by the stream it felt like paradise. The others drank water and hid in the shade. Lea & I left some of our gear here, and headed for the lake.
+
+We crossed bridges and flooded sections to reach the side trail, then pushed up a steep valley under a harsh sun for two hours. We saw a forest of flaky trees, some robust looking cows, and hiked a steep path beside a waterfall that flowed out from the lake. As the trail leveled out we reached a sign; Arhuaycocha Lake (4,420m). I did my highest swim to date here, which was freezing but beautiful looking up at the sharp peak of Alpamayo (5,947m). The sun warmed me quickly after, and we made a fast descent to camp.
+
+
 
 ## Day 3
 

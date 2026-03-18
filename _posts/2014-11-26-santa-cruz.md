@@ -6,12 +6,12 @@ date:   2014-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
 tags:   
 ---
-The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 63km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. The hike typically takes four days, but I did it in three by combining Days 2 & 3:
+The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. The hike typically takes four days, but I did it in three by combining Days 2 & 3:
 
-Day 1 - Hike to Punta Unión Pass  
-Day 2 - Cross Punta Unión Pass  
-Day 3 - Out & Back to Arhuaycocha Lake  
-Day 4 - Hike Out  
+Day 1: 12km, 100m Gain - Hike to Punta Unión Pass  
+Day 2: 13km, 1,000m Gain - Cross Punta Unión Pass  
+Day 3: 13km, 500m Gain  - Out & Back to Arhuaycocha Lake  
+Day 4: 20km, 0m Gain - Hike Out  
 
 Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a local climber who can advise on any mountain or trek. He recommended a guide service that was €90 with portered tents, food, and shuttles either side. It was better value than renting a tent and going solo as I had planned. To top it off he loaned me a sleeping bag, rain pants and big rucksack for free. At the hostel I met Lea from Austria who also needed to be back in three days. As we'd leave the guides early we had to figure out buses back after ourselves, so I was glad to have company for that.
 

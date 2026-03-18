@@ -21,9 +21,9 @@ Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a 
 
 ## Day 1
 
-We left early on our bus to the trail head, up zig-zagging gravel roads for four hours before a lunch break. We stopped again at Lagunas del Valle Llanganuco (3,850m) which was incredibly blue, then down the zig-zags on the other side for two more hours. The route has us walk back over the whole range so the drive after is much shorter, but getting to this side of the mountains was rough. At the trailhead we did introductions with our guide Cesar, chef Jesus, our team of porter donkeys, and the other clients; Rory, Eva, William, Etienne & Phoebe.
+We left early on our bus to the trail head, up zig-zagging gravel roads for four hours before a lunch break. We stopped again at Lagunas del Valle Llanganuco (3,850m) which was incredibly blue, then down the zig-zags on the other side for two more hours. The hike crosses back over the whole range so the drive after is much shorter, but getting to this side was rough. At the trailhead we did proper introductions with our guide Cesar, chef Jesus, our team of porter donkeys, and the other clients; Rory, Eva, William, Etienne & Phoebe.
 
-The donkeys carried the team gear and food, and once loaded and gone we followed. It was a beautiful sunny day, following a small stream through grassy fields into the valley. Lots of sheep and old stone walls until we reached a ranger station to sign into the national park, then it became much more remote. Our camp was in a scenic spot below Punta Unión Pass, and the food was hearty and filling. It was loud by the stream but the stars were amazing. I was glad to be here with this group, having laughed and joked the whole day to here. We spent the nights playing cards and sharing stories.
+The donkeys carried team gear and food, and once loaded and gone we followed. It was a beautiful sunny day, following a small stream through grassy fields into the valley. Lots of sheep and old stone walls until we reached a ranger station to sign into the national park, then it became much more remote. Our camp was in a scenic spot below Punta Unión Pass, and the food was hearty and filling. It was loud by the stream but the stars were amazing. I was glad to be here with this group, having laughed and joked the whole day to here. We spent the nights playing cards and sharing stories.
 
 <p align="center" width="100%">
     <img width="300" src="/images/santacruz1.jpeg">
@@ -31,7 +31,9 @@ The donkeys carried the team gear and food, and once loaded and gone we followed
 
 ## Day 2
 
-The 4-day itinerary has us cross the snowy pass today and camp on the other side, with the day after being mostly an out and back to a lake
+Lea and I started an hour before the group at 7am. There was a lot of snow on the pass so we knew that would be slow, and we were the only ones trying to get to the lake and back tonight. The first hour was grey and misty, the next hour was white and icy. Thick snow made the route difficult to find, and sections of climbing boulders had our hands freezing. At times you walked beside beautiful frozen lakes, at others you stared struggled up steep rocky slopes that had too much ice to walk on. 
+
+As we set the trail, we were followed and eventually caught up to by Rory, Eva, William & Etienne.
 
 ## Day 3
 

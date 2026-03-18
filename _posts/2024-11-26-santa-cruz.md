@@ -6,14 +6,9 @@ date:   2024-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
 tags:   
 ---
-The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. Below is the typical four day itinerary, but I combined Days 2 & 3 to get back earlier.
+The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and goes over the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. Below is the typical four day itinerary, but I combined Days 2 & 3 to get back earlier. 
 
-Day 1: 12km, 100m Gain - To Punta Unión Pass  
-Day 2: 13km, 1,000m Gain - Over Punta Unión Pass  
-Day 3: 13km, 500m Gain  - Out & Back to Arhuaycocha Lake  
-Day 4: 20km, 0m Gain - Hike Out  
-
-Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a local climber who can advise on any mountain or trek. He recommended a guide service that was €90 with portered tents, food, and shuttles either side. It was better value than renting a tent and going solo as I had planned. He even loaned me a sleeping bag, rain pants and big rucksack for free. At the hostel I met Lea from Austria, who was also planning three days. Aldo told us all we needed to know, including finding local buses after.
+Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a local climber who can advise on any mountain or trek. He recommended a guide service that was €90 with portered tents, food, and shuttles either side. It was better value than renting a tent and going solo as I had planned. He even loaned me a sleeping bag, rain pants and big rucksack for free. At the hostel I met Lea from Austria, who was also planning three days. Aldo told us all we needed to know, including finding the local buses after.
 
 <p align="center" width="100%">
     <img width="400" src="/images/santacruz2.jpeg">

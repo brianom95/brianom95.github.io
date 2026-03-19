@@ -4,7 +4,7 @@ title:  Santa Cruz Trek
 description: 60km across Peru's Cordillera Blanca. Deep snow, the Paramount mountain, & swims above 4,400m!
 date:   2024-11-26 12:00:0 +0000
 image:  '/images/santacruz0.jpeg'
-tags:   
+tags:   [Thru-Hiking]
 ---
 The Santa Cruz Trek is one of South America’s classic high-altitude hikes, crossing the Cordillera Blanca range near Huaraz, Peru. It spans 60km of remote valleys, glacial lakes, snow-capped peaks, and climbs the dramatic Punta Unión Pass at 4,750m. It also has you hike below Artesonraju Mountain (6,025m), known for its use in the Paramount Logo. The typical itinerary is four days, but I combined Days 2 & 3 to finish a day earlier. 
 

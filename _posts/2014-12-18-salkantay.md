@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Salkantay Trek to Machu Picchu
-description: The 70km trail to Peru's Wonder of the World. Icy swims, thin air, Incan temples, and lots of llamas.
+description: The 70km trail to Peru's Wonder of the World. Icy swims, thin air, Inca ruins, and lots of llamas.
 date:   2014-12-18 12:00:0 +0000
 image:  '/images/salkantay0.jpeg'
 tags:   

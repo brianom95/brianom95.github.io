@@ -6,9 +6,11 @@ date:   2014-12-18 12:00:0 +0000
 image:  '/images/salkantay0.jpeg'
 tags:   
 ---
-Machu Picchu was built as an estate for the Incan Emperor Pachacuti in 1450 AD. A complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle, deep in the Andean jungle. It was abandoned a century later, when invading Spanish brought war and disease. The jungle reclaimed quickly, and it became known in legends as the Lost City of the Incas.
+In 1450, Machu Picchu was built as a large estate for the Incan Emperor Pachacuti. It was a complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle in the Andean jungle. A century later, invading Spanish brought war and disease that caused it to be abandoned. The jungle reclaimed the site, and locals concealed the location, eventually being known only in legend as the Lost City of the Incas.
 
-Local people likely kept the location secret,
+In 1902, a Peruvian explorer found the site and signed a block. Ove the coming years
+
+Locals 
 
 so high in the Andes that it was never found by invading Spanish.
 

@@ -12,16 +12,24 @@ In 1911, a lecturer named Hiram Bingham was guided to the ruins by a local farme
 
 Machu Picchu became a UNESCO Heritage site in 1983, and was named one of the Seven Wonders of the World on 7/7/2007. It's the most iconic tourist destination in South America, and sees 1.5 Million visitors per year. Most people visit on a day trip, or stay in the luxury hotels of Aguas Calientes; the small town on the valley floor. Those who want the most cultural immersion walk via ancient Inca roads; seeing the ruins, valleys and cloud forests that offer a glimpse into the history.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay8.jpeg">
+</p>
+
 ## Inca Trail vs. Salkantay
 
 The 45km Inca Trail was cleared by Binghams team and became one of the world's most famous multi-day hikes. The number of ruins and irrigation channels along the path suggest it was the main route to access the city. It culminates by entering Machu Picchu at sunrise through the Sun Gate. Peru introduced a permit system in 2001 to deal with the unmanagable demand for the route, and now permits tend to be overpriced and sell out months in advance. This led to a number of other routes.
 
 The 70km Salkantay Trek is the most popular with backpackers, who want fewer crowds and a more rugged, flexible experience. It's more physically demanding, going higher and deeper into the Andes, particularly over Salkantay Pass at 4,650m. It does follow Inca roads but is more about the nature. Glaciers, waterfalls, blue lakes, huge rivers, and different types of jungle. It's typically done in 5 days, and best hiked in dry season (May to September). 
 
-I hiked the Salkantay in December 2024, during my six month trip of Backpacking South America. It did rain a lot, but was still great. I was travelling with Kevin, and we booked a 5-day guided trip with Machu Picchu Expeditions, which cost $220. This included transport, food, accomodation, Machu Picchu entry, and the train back (which is $70 one way). In Cusco we met our guide Cesar, who checked our gear, gave us sleeping bags, and briefed us on what was to come.
+I hiked the Salkantay in December 2024, during my six month trip of Backpacking South America. It did rain a lot, but was still great. I was travelling with Kevin, and we booked a 5-day guided trip with Machu Picchu Expeditions, which cost $220. This included transport, food, accomodation, Machu Picchu entry, and the train back (which is $70 one way). In Cusco we met our guide Cesar who checked our gear, gave us sleeping bags, and briefed us on what was to come.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay3.jpeg">
+</p>
 
 ## Day 1 (12km)   
-Cusco to Soraypampa (with )
+Cusco to Soraypampa
 
 We were picked up at 6am by Cesar & our chef Bisente. On the bus were the other clients; Renata, Lee, Laura & Carol.
 
@@ -44,14 +52,14 @@ Salkantay Pass (4,650m)
 Collpapampa to Lucmabamba
 
 <p align="center" width="100%">
-    <img width="400" src="/images/salkantay3.jpeg">
+    <img width="400" src="/images/salkantay4.jpeg">
 </p>
 
 ## Day 4 (12km)  
 Lucmabamba to Aguas Calientes
 
 <p align="center" width="100%">
-    <img width="400" src="/images/salkantay4.jpeg">
+    <img width="400" src="/images/salkantay7.jpeg">
 </p>
 
 ## Day 5 (4km)    
@@ -63,7 +71,7 @@ Condor shape. Cusco is Puma (Sacsayhuaman is head)
 The Condor, Puma, and Snake form the Inca Trilogy, representing the three planes of existence in Andean cosmology. The Condor (Hanan Pacha) symbolizes the upper world/heavens, the Puma (Kay Pacha) represents the earthly world/living, and the Snake (Ukhu Pacha) signifies the underworld/dead.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/salkantay5.jpeg">
+    <img width="400" src="/images/salkantay9.jpeg">
 </p>
 
 ## Afterthoughts

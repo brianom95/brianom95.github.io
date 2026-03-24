@@ -6,17 +6,16 @@ date:   2014-12-18 12:00:0 +0000
 image:  '/images/salkantay0.jpeg'
 tags:   
 ---
-In 1450, Machu Picchu was built as a large estate for the Incan Emperor Pachacuti. It was a complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle in the Andean jungle. A century later, invading Spanish brought war and disease that led to it being abandoned. The jungle reclaimed the site, and locals concealed the location, eventually being known only in legend as the Lost City of the Incas.
+In 1450, Machu Picchu was built as a large estate for the Inca Emperor Pachacuti. It was a complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle in the Andean jungle. A century later, invading Spanish brought war and disease that led to it being abandoned. The jungle reclaimed the site, and locals concealed the location, eventually being known only in legend as the Lost City of the Incas.
 
-In 1911, a Yale lecturer named Hiram Bingham was guided to the ruins by a local farmer. He was disappointed to find the charcoal signature of a Peruvian explorer already there; *"A. Lizárraga, 1902"*, but his writings began an era of scientific exploration. He led teams from Yale who unearthed the roads, water channels, buildings and over 40,000 artefacts. In 1928, a train was built to access the area which is named after him, and he was the inspiration for Indiana Jones.
+In 1911, a lecturer named Hiram Bingham was guided to the ruins by a local farmer. He was disappointed to find the charcoal signature of a Peruvian explorer already there; *"A. Lizárraga, 1902"*, but it was Binghams writings that began an era of scientific exploration. He led teams from Yale who unearthed the roads, water channels, buildings and over 40,000 artefacts. In 1928, a new trainline was named in his honour, joining to the previous Incan capital of Cusco. He was also the inspiration for Indiana Jones.
 
-Peru's most visited tourist attraction
+Machu Picchu became a UNESCO Heritage site in 1983, and was named one of the Seven Wonders of the World on 7/7/2007. It's the most iconic tourist destination in South America, and sees 1.5 Million visitors per year. Most people visit on a day trip, or stay in the luxury hotels of Aguas Calientes; the small town built around hot springs on the valley floor. For the most cultural immersion you can walk up to five days along ancient Inca roads, past temples and valleys that offer a glimpse into their history. 
 
-where mist-shrouded terraces and stone temples perched high in the Andes deliver one of the most unforgettable sights in South America.
+## Inca Trail vs. Salkantay
 
 Inca Trail is the legendary multi-day hike through cloud forest and ancient Incan ruins, culminating in the unforgettable sunrise arrival at Machu Picchu through the Sun Gate.
 
-## Salkantay vs. Inca
 
 ## Day 1 (12km)   
 Cusco to Soraypampa (via Humantay Lake)

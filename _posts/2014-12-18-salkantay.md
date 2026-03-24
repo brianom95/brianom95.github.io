@@ -21,18 +21,37 @@ Inca Trail is the legendary multi-day hike through cloud forest and ancient Inca
 ## Day 1 (12km)   
 Cusco to Soraypampa (via Humantay Lake)
 
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay1.jpeg">
+</p>
+
 ## Day 2 (20km)  
 Soraypampa to Collpapampa (via Salkantay Pass)
+
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay2.jpeg">
+</p>
 
 ## Day 3 (12km)  
 Collpapampa to Lucmabamba
 
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay3.jpeg">
+</p>
+
 ## Day 4 (12km)  
 Lucmabamba to Aguas Calientes
+
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay4.jpeg">
+</p>
 
 ## Day 5 (4km)    
 Aguas Calientes to Machu Picchu
 
+<p align="center" width="100%">
+    <img width="400" src="/images/salkantay5.jpeg">
+</p>
 
 Salkantay Trek is one of Peru’s most famous alternative routes to Machu Picchu, prized for its raw, high-altitude scenery—towering glaciers, jungle transitions, and fewer crowds—offering a more rugged and flexible experience compared to the classic Inca Trail.
 
@@ -42,7 +61,7 @@ Cesar & Bisente
 Ranata, Lee, Laura & Carol
 
 <p align="center" width="100%">
-    <img width="400" src="/images/salkantay1.jpeg">
+    <img width="400" src="/images/salkantay6.jpeg">
 </p>
 
 ## Machu Picchu

@@ -16,7 +16,7 @@ Machu Picchu became a UNESCO Heritage site in 1983, and was named one of the Sev
     <img width="400" src="/images/salkantay8.jpeg">
 </p>
 
-## Inca Trail vs. Salkantay
+## Inca Trail vs. Salkantay Trek
 
 The 45km Inca Trail was cleared by Binghams team and became one of the world's most famous multi-day hikes. The number of ruins and irrigation channels along the path suggest it was the main route to access the city. It culminates by entering Machu Picchu at sunrise through the Sun Gate. Peru introduced a permit system in 2001 to deal with the unmanagable demand for the route, and now permits tend to be overpriced and sell out months in advance. This led to a number of other routes.
 
@@ -28,10 +28,10 @@ I hiked the Salkantay in December 2024, during my six month trip of Backpacking 
     <img width="400" src="/images/salkantay3.jpeg">
 </p>
 
-## Day 1 (12km)   
+## Day 1 (15km)   
 Cusco to Soraypampa
 
-We were picked up at 6am by Cesar & our chef Bisente. On the bus were the other clients; Renata, Lee, Laura & Carol.
+We were picked up at 6am by Cesar & our chef Bisente. On the bus we met the other clients; Renata, Lee, Laura & Carol.
 
 Humantay Lake (4,200m)
 
@@ -39,7 +39,7 @@ Humantay Lake (4,200m)
     <img width="400" src="/images/salkantay1.jpeg">
 </p>
 
-## Day 2 (20km)  
+## Day 2 (32km)  
 Soraypampa to Collpapampa
 
 Salkantay Pass (4,650m)
@@ -48,21 +48,21 @@ Salkantay Pass (4,650m)
     <img width="300" src="/images/salkantay2.jpeg">
 </p>
 
-## Day 3 (12km)  
+## Day 3 (18km)  
 Collpapampa to Lucmabamba
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay4.jpeg">
 </p>
 
-## Day 4 (12km)  
+## Day 4 (24km)  
 Lucmabamba to Aguas Calientes
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay7.jpeg">
 </p>
 
-## Day 5 (4km)    
+## Day 5 (15km)    
 Aguas Calientes to Machu Picchu
 
 Mirror water, roof tie down pegs, large block walls, terraces, water systems

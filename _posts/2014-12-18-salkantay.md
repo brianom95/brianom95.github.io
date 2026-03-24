@@ -16,22 +16,28 @@ Machu Picchu became a UNESCO Heritage site in 1983, and was named one of the Sev
 
 The 45km Inca Trail was cleared by Binghams team and became one of the world's most famous multi-day hikes. The number of ruins and irrigation channels along the path suggest it was the main route to access the city. It culminates by entering Machu Picchu at sunrise through the Sun Gate. Peru introduced a permit system in 2001 to deal with the unmanagable demand for the route, and now permits tend to be overpriced and sell out months in advance. This led to a number of other routes.
 
-The 70km Salkantay Trek is the most popular with backpackers, who want fewer crowds and a more rugged, flexible experience. It's more physically demanding, going higher and deeper into the Andes, particularly over Salkantay Pass at 4,650m. It does follow Inca roads but is more about the nature. Glaciers, waterfalls, blue lakes, huge rivers, and different types of jungle. It's typically done in 5 days, and best hiked in dry season (May to September), but we hiked in December on it was still great.
+The 70km Salkantay Trek is the most popular with backpackers, who want fewer crowds and a more rugged, flexible experience. It's more physically demanding, going higher and deeper into the Andes, particularly over Salkantay Pass at 4,650m. It does follow Inca roads but is more about the nature. Glaciers, waterfalls, blue lakes, huge rivers, and different types of jungle. It's typically done in 5 days, and best hiked in dry season (May to September). 
 
-
+I hiked the Salkantay in December 2024, during my six month trip of Backpacking South America. It did rain a lot, but was still great. I was travelling with Kevin, and we booked a 5-day guided trip with Machu Picchu Expeditions, which cost $220. This included transport, food, accomodation, Machu Picchu entry, and the train back (which is $70 one way). In Cusco we met our guide Cesar, who checked our gear, gave us sleeping bags, and briefed us on what was to come.
 
 ## Day 1 (12km)   
-Cusco to Soraypampa (via Humantay Lake)
+Cusco to Soraypampa (with )
+
+We were picked up at 6am by Cesar & our chef Bisente. On the bus were the other clients; Renata, Lee, Laura & Carol.
+
+Humantay Lake (4,200m)
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay1.jpeg">
 </p>
 
 ## Day 2 (20km)  
-Soraypampa to Collpapampa (via Salkantay Pass)
+Soraypampa to Collpapampa
+
+Salkantay Pass (4,650m)
 
 <p align="center" width="100%">
-    <img width="400" src="/images/salkantay2.jpeg">
+    <img width="300" src="/images/salkantay2.jpeg">
 </p>
 
 ## Day 3 (12km)  
@@ -51,26 +57,19 @@ Lucmabamba to Aguas Calientes
 ## Day 5 (4km)    
 Aguas Calientes to Machu Picchu
 
+Mirror water, roof tie down pegs, large block walls, terraces, water systems
+Condor shape. Cusco is Puma (Sacsayhuaman is head)
+
+The Condor, Puma, and Snake form the Inca Trilogy, representing the three planes of existence in Andean cosmology. The Condor (Hanan Pacha) symbolizes the upper world/heavens, the Puma (Kay Pacha) represents the earthly world/living, and the Snake (Ukhu Pacha) signifies the underworld/dead.
+
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay5.jpeg">
 </p>
 
+## Afterthoughts
 
-
-
-Cesar & Bisente
-Ranata, Lee, Laura & Carol
+TBC
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay6.jpeg">
 </p>
-
-## Machu Picchu
-
-Machu Picchu is the iconic lost city of the Incas, where mist-shrouded terraces and stone temples perched high in the Andes deliver one of the most unforgettable sights in South America.
-
-
-Mirror water, roof tie down pegs, large block walls, terraces, water systems
-Condor shape. Cusco is Puma (Sacsayhuaman is head)
-
-The Condor, Puma, and Snake form the Inca Trilogy, representing the three planes of existence in Andean cosmology. The Condor (Hanan Pacha) symbolizes the upper world/heavens, the Puma (Kay Pacha) represents the earthly world/living, and the Snake (Ukhu Pacha) signifies the underworld/dead

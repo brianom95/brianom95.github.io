@@ -6,7 +6,11 @@ date:   2014-12-18 12:00:0 +0000
 image:  '/images/salkantay0.jpeg'
 tags:   
 ---
-Machu Picchu is the iconic lost city of the Incas. A complex of stone temples and mist-shrouded terraces, perched so high in the Andes that it was never found by invading Spanish.
+Machu Picchu was built as an estate for the Incan Emperor Pachacuti in 1450 AD. A complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle, deep in the Andean jungle. It was abandoned a century later, when invading Spanish brought war and disease. The jungle reclaimed quickly, and it became known in legends as the Lost City of the Incas.
+
+Local people likely kept the location secret,
+
+so high in the Andes that it was never found by invading Spanish.
 
 Peru's most visited tourist attraction
 

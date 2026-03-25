@@ -22,7 +22,7 @@ The 45km Inca Trail was cleared by Binghams team and became one of the world's m
 
 The 70km Salkantay Trek is the most popular with backpackers, who want fewer crowds and a more rugged, flexible experience. It's more physically demanding, going higher and deeper into the Andes, particularly over Salkantay Pass at 4,650m. It does follow Inca roads but is more nature focussed. Passing glaciers, waterfalls, blue lakes, huge rivers, and different types of jungle. It's typically done in 5 days, and best hiked in dry season (May to September). 
 
-I hiked the Salkantay in December 2024, during my six month trip of Backpacking South America. It did rain a lot, but was still great. I was travelling with Kevin, and we booked a 5-day guided trip with Machu Picchu Expeditions, which cost $220. This included transport, food, accomodation, Machu Picchu entry, and the train back (which is $70 one way). In Cusco we met our guide Cesar who checked our gear, gave us sleeping bags, and briefed us on what was to come.
+I hiked the Salkantay in December 2024, during my six month trip of Backpacking South America. It did rain a lot, but was still great. I was travelling with Kevin, and we booked a 5-day guided trip with Machu Picchu Expeditions, which cost $270. This included transport, food, accomodation, Machu Picchu entry, and the train back (which is $70 one way). In Cusco we met our guide Cesar who checked our gear, gave us sleeping bags, and briefed us on what was to come.
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay3.jpeg">
@@ -76,6 +76,10 @@ A simple hostel and a well deserved shower had us ready to explore. I bought bad
 
 ## Day 5 (15km)    
 Aguas Calientes to Machu Picchu
+
+We left at 5:00am to tackle the final 1,800 steps between us and Machu Picchu. It was pitch black, following the river to a bridge, then trudging up the steep trail. Cesar took a bus with some of the others, but these final steps felt important after the past few days. We reached the top as the sun rose and were one of the first to enter that day. We entered
+
+To manage the amount of tourists, they have fours designated routes around the site. 
 
 Mirror water, roof tie down pegs, large block walls, terraces, water systems
 Condor shape. Cusco is Puma (Sacsayhuaman is head)

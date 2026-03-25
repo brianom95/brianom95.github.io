@@ -2,9 +2,9 @@
 layout: post
 title:  Salkantay Trek to Machu Picchu
 description: The 70km trail to Peru's Wonder of the World. Icy swims, thin air, Inca ruins, and lots of llamas.
-date:   2014-12-18 12:00:0 +0000
+date:   2024-12-18 12:00:0 +0000
 image:  '/images/salkantay0.jpeg'
-tags:   
+tags:   [Thru-Hiking]
 ---
 In 1450, Machu Picchu was built as a large estate for the Inca Emperor Pachacuti. It was a complex of stone temples and mist-shrouded terraces, perched high on a mountain saddle in the Andean jungle. A century later, invading Spanish brought war and disease, leading to its abandonment. The jungle reclaimed the site, and locals concealed the location, eventually becoming known only in legend as the Lost City of the Incas.
 

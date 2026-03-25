@@ -31,7 +31,7 @@ I hiked the Salkantay in December 2024, during my six month trip of Backpacking 
 ## Day 1 (15km)   
 Cusco to Soraypampa
 
-We were picked up at 5am by Cesar & our chef, Bisente. During the 4hr drive, and over nice pancakes, we got to know the other clients; Laura, Carol, Ranata & Lee. Our start was a cold and unassuming roadside by a condor statue. From here, you walk up a grassy hill to reach an Inca road and aquaduct we'd follow all day. The water channels are 500 years old and still supply the local villages. It's remarkably flat, with a slight downhill all the way to camp. Large birds flew overhead (which Cesar knew lots about), and cows wandered the fields below.
+We were picked up at 5am by Cesar & our chef, Bisente. During the 4hr drive, and over nice pancakes, we got to know the other clients; Laura, Carol, Renata & Lee. Our start was a cold and unassuming roadside by a condor statue. From here, you walk up a grassy hill to reach an Inca road and aquaduct we'd follow all day. The water channels are 500 years old and still supply the local villages. It's remarkably flat, with a slight downhill all the way to camp. Large birds flew overhead (which Cesar knew lots about), and cows wandered the fields below.
 
 We reached camp quickly, leaving our gear in wooden cabins that only leaked a little. After some lunch we continued on over rocky rivers and bridges, then up a steep valley to reach Hamuntay Lake (4,200m). Heavy rain fell almost frozen, which gave us the lake to ourselves. No one wanted to spend much time in the storm, but I did go for a swim. It was nicer than the higher lakes on the [Santa Cruz Trek](santa-cruz), but I wish I brought a towel. Kevin led the fast charge back to camp where we thawed out with chicken, veggies and hot chocolate.
 
@@ -77,14 +77,13 @@ A simple hostel and a well deserved shower had us ready to explore. I bought bad
 ## Day 5 (15km)    
 Aguas Calientes to Machu Picchu
 
-We left at 5:00am to tackle the final 1,800 steps between us and Machu Picchu. It was pitch black, following the river to a bridge, then trudging up the steep trail. Cesar took a bus with some of the others, but these final steps felt important after the past few days. We reached the top as the sun rose and were one of the first to enter that day. We entered
+We left at 5:00am to tackle the final 1,800 steps. It was pitch black, following the river to a bridge, then trudging up the steep trail. Cesar took the zig-zagging bus with some of the others, but these final steps felt important after the past few days. We reached the top just as the sun rose, and were one of the first to enter that day. The light morning fog lifted as if just for us. I had now seen five of the Seven Wonders, and this was easily the most impressive.
 
-To manage the amount of tourists, they have fours designated routes around the site. 
+The city is massive, and so dramatically framed by nearby peaks. Over 150 buildings are perfectly preserved, supported by the terraces the Incas were known for. Granite stones weighing up to 55 Tonnes have been perfectly carved to fit one another, and we walked along all the irrigation systems, fountains and baths. Observatories had water mirrors on the ground which were used to know the date, and stone pegs show how roofs were tied down. This was easily one of the most amazing things I had ever seen, walking alongside llamas here above the clouds.
 
-Mirror water, roof tie down pegs, large block walls, terraces, water systems
-Condor shape. Cusco is Puma (Sacsayhuaman is head)
+Kevin & I did make a mistake when we entered early, not knowing the routes are strictly one-way, even when empty. It took some effort but we managed to get back to Cesar for a tour with our group. He told us about the Inca Trilogy; the Condor, Puma & Snake which represent the Sky, Earth & Underworld. He showed how Machu Picchu is distinctly shaped like a Condor, drawing connections to Cusco which is shaped like a Puma. He pointed out the mortarless masonry and wall designs which has survived earthquakes, and described what various buildings were thought to be for.
 
-The Condor, Puma, and Snake form the Inca Trilogy, representing the three planes of existence in Andean cosmology. The Condor (Hanan Pacha) symbolizes the upper world/heavens, the Puma (Kay Pacha) represents the earthly world/living, and the Snake (Ukhu Pacha) signifies the underworld/dead.
+And suddenly it was over. We were descending the steps, collecting our bags, and sitting on the most scenic train I'd ever seen. We watched the valley disappear behind us, and that night were back in the busy city of Cusco. Kevin & I got dinner with Renata that night and already reminisced. We were excited for simple things like washing our clothes and a day of not walking, but we knew the experience had been special.
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay9.jpeg">
@@ -92,7 +91,14 @@ The Condor, Puma, and Snake form the Inca Trilogy, representing the three planes
 
 ## Afterthoughts
 
-TBC
+This might be the best experience on Earth and anyone considering should just go. Peru is second only to [New Zealand](backpacking-nz) as my favourite country, and this is the perfect culmination of a trip to there. The hike is a brilliant experience that made getting there more rewarding, but even if the train is all that's accesssable to you it's so worth seeing. I think everyone should stay in Aguas Calientes though, no day trips!
+
+The Salkantay Trek is a pretty route, with a nice mix of mountains, lakes and jungles. I'm not going to say it's the most spectacular hike in the world, especially compared to the [TMB](tmb) or hikes in Patagonia, but for the normal person it is uniquely beautiful. If you can get a permit for the Inca Trail I think it would be more similar than different. It's really about spending time in the area, learning about the local culture along the approach, and building an appreciation for the significance of what you're walking to.
+
+I think we got lucky with our group, and lucky when it mattered for the weather. There were a few times that better communication from Cesar would have led to less confusion, but he was knowledgable, friendly and represented Machu Picchu Expeditions well. It's always nice to share an experience like this with others, so the memory can be confirmed as real. Having Kevin who at this point was a pro-hiker with me was great, laughing our way through it all. I'm very thankful to have had this experience.
+
+Thanks for reading,  
+Brian
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay6.jpeg">

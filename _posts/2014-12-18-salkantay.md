@@ -31,9 +31,9 @@ I hiked the Salkantay in December 2024, during my six month trip of Backpacking 
 ## Day 1 (15km)   
 Cusco to Soraypampa
 
-We were picked up at 6am by Cesar and introduced to the other clients; Renata, Lee, Laura & Carol.
+We were picked up at 5am by Cesar & our chef, Bisente. During the 4hr drive, and over nice pancakes, we got to know the other clients; Laura, Carol, Ranata & Lee. Our start was a cold and unassuming roadside by a condor statue. From here, you walk up a grassy hill to reach an Inca road and aquaduct we'd follow all day. The water channels are 500 years old and still supply the local villages. It's remarkably flat, with a slight downhill all the way to camp. Large birds flew overhead (which Cesar knew lots about), and cows wandered the fields below.
 
-Humantay Lake (4,200m)
+We reached camp quickly, leaving our gear in wooden cabins that only leaked a little. After some lunch we continued on over rocky rivers and bridges, then up a steep valley to reach Hamuntay Lake (4,200m). Heavy rain fell almost frozen, which gave us the lake to ourselves. No one wanted to spend much time in the storm, but I did go for a swim. It was nicer than the higher lakes on the [Santa Cruz Trek](santa-cruz), but I wish I brought a towel. Kevin led the fast charge back to camp where we thawed out with chicken, veggies and hot chocolate.
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay1.jpeg">

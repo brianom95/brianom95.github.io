@@ -44,7 +44,7 @@ Soraypampa to Collpapampa
 
 The calm after the storm. A stunning morning revealed the snowy peaks ahead. We walked for hours along beautiful rivers and valleys, wondering how nice the lake must look today. As we climbed, we began to see the our goal; Salkantay Pass (4,630m). This crossing is why people say the route is more scenic than the Inca Trail, and luckily the weather was perfect for us. It's a steep appraoch, and our group appeared well acclimatised with no issues all the way to the top.
 
-We spent time taking photos on the barren rocks on the pass, before descending into the next valley. I saw rivers and fields ahead that looked remote and untouched, before a sudden dense cloud brought heavy rain. I trail ran to the lunch stop to avoid the worst of it, and we had a nice break when the others arrived. The rain got worse so I ran the last hour, allowing me to have an early shower and nap in our nice cabins. That night was calm again, and well spent with nice food, playful dogs, card games and hot chocolate.
+We spent time taking photos on the barren rocks of the pass, before descending into the next valley. I saw rivers and fields ahead that looked remote and untouched, before a sudden dense cloud brought heavy rain. I trail ran to the lunch stop to avoid the worst of it, and we had a nice break when the others arrived. The rain got worse so I ran the last hour too, allowing an early shower and nap in our nice warm cabins. That night was calm again, and well spent with good food, playful dogs, card games and hot chocolate. 
 
 <p align="center" width="100%">
     <img width="300" src="/images/salkantay2.jpeg">
@@ -53,12 +53,18 @@ We spent time taking photos on the barren rocks on the pass, before descending i
 ## Day 3 (18km)  
 Collpapampa to Lucmabamba
 
+A whole day of huge rivers and deep valleys. There were no dramatic views of snow-capped peaks, but to me this was almost more beautiful. Huge rapids like you'd see in [India](india) had me constantly excited, discussing lines down with Kevin. Our route was mostly gradual track, except a few very steep or very muddy exceptions. We crossed big bridges and fjords, feeling tiny compared to the huge jungle and waterfalls around us. 
+
+We had a short stop for lunch, then after some confusion finally found our accomodation. The weather stayed nice so we did a chocolate tour nearby. This had us picking cocoa beans and sucking the citrusy pulp from the seeds, then with dried ones we roasted and deshelled to make nibs, and boiled that into hot chocolate. In the evening we drove to Cocalmayo Hot Springs, swimming under the stars, then spent our night with beers while watching Klaus (it was quickly approaching Christmas).
+
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay4.jpeg">
 </p>
 
 ## Day 4 (24km)  
 Lucmabamba to Aguas Calientes
+
+
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay7.jpeg">

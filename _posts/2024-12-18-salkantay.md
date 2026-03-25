@@ -86,6 +86,10 @@ We left at 5:00am to tackle the final 1,800 steps. It was pitch black, following
 
 The city is massive, and so dramatically framed by nearby peaks. Over 150 buildings are perfectly preserved, supported by the terraces the Incas were known for. Granite stones weighing up to 55 Tonnes have been perfectly carved to fit one another, and we walked along all the irrigation systems, fountains and baths. Observatories had water mirrors on the ground which were used to know the date, and stone pegs show how roofs were tied down. This was easily one of the most amazing things I had ever seen, walking alongside llamas here above the clouds.
 
+<p align="center" width="100%">
+    <img width="300" src="/images/salkantay10.jpeg">
+</p>
+
 Kevin & I did make a mistake when we entered early, not knowing the routes are strictly one-way, even when empty. It took some effort but we managed to get back to Cesar for a tour with our group. He told us about the Inca Trilogy; the Condor, Puma & Snake which represent the Sky, Earth & Underworld. He showed how Machu Picchu is distinctly shaped like a Condor, drawing connections to Cusco which is shaped like a Puma. He pointed out the mortarless masonry and wall designs which has survived earthquakes, and described what various buildings were thought to be for.
 
 And suddenly it was over. We were descending the steps, collecting our bags, and sitting on the most scenic train I'd ever seen. We watched the valley disappear behind us, and that night were back in the busy city of Cusco. Kevin & I got dinner with Renata that night and already reminisced. We were excited for simple things like washing our clothes and a day of not walking, but we knew the experience had been special.

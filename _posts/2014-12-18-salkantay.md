@@ -64,7 +64,11 @@ We had a short stop for lunch, then after some confusion finally found our accom
 ## Day 4 (24km)  
 Lucmabamba to Aguas Calientes
 
+An original Inca staircase rises from our village and took so long to climb. It brought us into humid rain forest, with great views at any clearing. On top was a small observatory and the first glimpses of Machu Picchu, though still too far above to really see. On our descent to the final valley we passed Llactapata, a building thought to be a rest stop and road side shrine. Here Cesar gave us the full history of the area.
 
+On the valley floor, we followed the Alcamayo river on its huge horseshoe around the base of Machu Picchu. This brought us over bridges and a dam to our lunch stop in the aptly named town of Hydroelectrica. Then 10km more along the train tracks wound its way finally to Aguas Calientes. It was a slog in the heat, but very pretty, and the rapids were amazing. Stalls lined the edges with empanadas, ice cream and cakes that we couldn't resist with our hiker hunger.
+
+A simple hostel and a well deserved shower had us ready to explore. I bought badges in the massive market, saw the hot springs that give the town its name, followed the river looking for the biggest rapids, and got photos with all the cool statues and carvings. Kevin & I got a nice dinner by the waters edge with people we met at the hostel, and finished the night with the national drink of Peru, Pisco Sours.
 
 <p align="center" width="100%">
     <img width="400" src="/images/salkantay7.jpeg">

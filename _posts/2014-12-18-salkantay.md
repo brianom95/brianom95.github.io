@@ -31,7 +31,7 @@ I hiked the Salkantay in December 2024, during my six month trip of Backpacking 
 ## Day 1 (15km)   
 Cusco to Soraypampa
 
-We were picked up at 6am by Cesar. On the bus we got to meet our chef Bisente, and the other clients; Renata, Lee, Laura & Carol.
+We were picked up at 6am by Cesar and introduced to the other clients; Renata, Lee, Laura & Carol.
 
 Humantay Lake (4,200m)
 

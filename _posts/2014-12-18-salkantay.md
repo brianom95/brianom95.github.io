@@ -42,7 +42,9 @@ We reached camp quickly, leaving our gear in wooden cabins that only leaked a li
 ## Day 2 (32km)  
 Soraypampa to Collpapampa
 
-Salkantay Pass (4,650m)
+The calm after the storm. A stunning morning revealed the snowy peaks ahead. We walked for hours along beautiful rivers and valleys, wondering how nice the lake must look today. As we climbed, we began to see the our goal; Salkantay Pass (4,630m). This crossing is why people say the route is more scenic than the Inca Trail, and luckily the weather was perfect for us. It's a steep appraoch, and our group appeared well acclimatised with no issues all the way to the top.
+
+We spent time taking photos on the barren rocks on the pass, before descending into the next valley. I saw rivers and fields ahead that looked remote and untouched, before a sudden dense cloud brought heavy rain. I trail ran to the lunch stop to avoid the worst of it, and we had a nice break when the others arrived. The rain got worse so I ran the last hour, allowing me to have an early shower and nap in our nice cabins. That night was calm again, and well spent with nice food, playful dogs, card games and hot chocolate.
 
 <p align="center" width="100%">
     <img width="300" src="/images/salkantay2.jpeg">

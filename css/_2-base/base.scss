@@ -186,14 +186,10 @@ p a {
   text-decoration-color: currentColor !important;
 }
 
-a {
-  font-weight: normal;
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 3px;
-  text-decoration-color: currentColor;
-  transition: $global-transition;
-}
+a
+{ text-decoration: none;
+color: var(--link-color);
+transition: $global-transition;
 
   &:hover {
     color: var(--link-color-hover);

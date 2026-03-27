@@ -179,9 +179,13 @@ img,
 }
 
 a {
-  text-decoration: none;
-  color: var(--link-color);
+  font-weight: normal;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: currentColor;
   transition: $global-transition;
+}
 
   &:hover {
     color: var(--link-color-hover);

@@ -178,6 +178,14 @@ img,
   }
 }
 
+.post-content a,
+p a {
+  text-decoration: underline !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+  text-decoration-color: currentColor !important;
+}
+
 a {
   font-weight: normal;
   text-decoration: underline;

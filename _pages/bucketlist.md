@@ -78,7 +78,7 @@ image:  '/images/bucket0.jpeg'
 70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>](https://www.brianbeyond.com/uganda)
 71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](https://www.brianbeyond.com/zambia)
 72. Visit the Giant Redwoods & Alcatraz, California
-73. See a Show in The Comedy Mothership in Austin, Texas
+73. See a Show in The Sphere, Las Vegas
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York
 76. <mark style="background-color: limegreen">See Niagara Falls</mark>

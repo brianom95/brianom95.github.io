@@ -14,6 +14,8 @@ stats:
   countries: 75
   marathoncounties: 11
   campingcounties: 19
+  wawmarkers: 100
+  nwtrails: 6
 
 #-------------------------------
 # Navigation Settings

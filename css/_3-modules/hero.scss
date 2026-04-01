@@ -55,6 +55,7 @@
 .hero__description {
   margin-bottom: 0;
   font-size: 21px;
+  text-align: justify;
   color: var(--text-alt-color);
 
   @media only screen and (max-width: $desktop) {

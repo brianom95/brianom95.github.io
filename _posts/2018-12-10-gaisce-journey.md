@@ -6,7 +6,7 @@ date:   2018-12-10 12:00:0 +0000
 image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]
 ---
-The Presidents Award, or Gaisce, is a self directed challenge for young people to better themselves. The Bronze, Silver & Gold awards are for maintaining weekly activities over 3, 6 & 12 months respectively,  with a few additional requirements. The activities are chosen to challenge and benefit each participant personally, within the following areas:
+The President's Award, or Gaisce, is a self-directed challenge for young people to better themselves. The Bronze, Silver & Gold Awards are for maintaining weekly activities over 3, 6 & 12 months respectively, with a few additional requirements. The activities are chosen to challenge and benefit each participant personally, within the following areas:
 
 1. Personal Skill
 2. Physical Activity
@@ -78,7 +78,7 @@ The next ceremony was the big one. The 2018 Gold Gaisce ceremony was held in Dub
     <img width="300" src="/images/presaward7.webp">
 </p>
 
-Everything about the night was amazing. It was surreal to finally be here after all these years dreaming about it. All the work had paid off and I was so excited to close this final chapter and look onwards to new challenges.
+Everything about the night was amazing. It was surreal to finally be here after all these years dreaming about it. All the work had paid off and I was so excited to close this final chapter and look onward to new challenges.
 
 <p align="center" width="100%">
     <img width="400" src="/images/presaward8.jpeg">

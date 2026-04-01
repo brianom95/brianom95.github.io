@@ -2,7 +2,7 @@
 layout: post
 title:  My Gaisce Journey
 description: The project that shaped my life for ten years. The Bronze, Silver & Gold Gaisce Awards.
-date:   2018-12-10 12:00:0 +0000
+date:   2018-12-10 12:00:00 +0000
 image:  '/images/gaisce0.jpeg'
 tags:   [Off-The-Trail]
 ---
@@ -16,7 +16,7 @@ The President's Award, or Gaisce, is a self-directed challenge for young people 
 
 ## Bronze
 
-I first heard of the award in Scouts where we were encouraged to signup for Bronze. I remember putting the blue Gaisce logbook into a ziploc bag to keep it safe, where it would live for almost a decade. Even then I dreamt of the day I'd meet the president to get my Gold. 
+I first heard of the award in Scouts where we were encouraged to sign up for Bronze. I remember putting the blue Gaisce logbook into a ziploc bag to keep it safe, where it would live for almost a decade. Even then I dreamt of the day I'd meet the president to get my Gold. 
 
 My scout leaders helped me make a plan. This included guitar lessons (which became a huge passion), a gym training plan (which did not) and volunteering in a local charity shop. I built my routine around this for my Junior Cert year and felt very motivated to see them out. For the adventure journey we did a 2-day hike across the Nagle mountains. Bronze was awarded by our group leader at a small ceremony. Success!
 
@@ -26,11 +26,11 @@ My scout leaders helped me make a plan. This included guitar lessons (which beca
 
 ## Silver
 
-Scouting Ireland was transitioning at the time, replacing the old awards programme to make it more transferable. It was a great idea; align awards so that earning a certain stage in hillwalking or paddling for example, would transfer to actual certs from Hillwalking Ireland or Canoeing Ireland. Making the work you put in more valuable in the wider world.
+Scouting Ireland was transitioning at the time, replacing the old awards programme to make it more transferable. It was a great idea; align awards so that earning a certain stage in hillwalking or paddling, for example, would transfer to actual certs from Hillwalking Ireland or Canoeing Ireland. Making the work you put in more valuable in the wider world.
 
 I was one of the last to complete the old Chief Scout Award (CSA); at that time the single highest award for the organisation. Moving to Venturers at 15, there were now five CSA's, one for Beavers, Cubs, Scouts, Venturers & Rovers. For transferability the Scout, Venturer & Rover CSA's were designed around the Bronze, Silver & Gold Gaisce. With additional requirements like an environmental activity over the same period, and earning proficiency stages in Scouting's adventure skills (more on these later), amongst other things. So by completing CSA you'd earn your Gaisce too, but given long time frames they could now be started upon entering a section unlike the old CSA which had to be worked up to.
 
-It seemed perfect so I signed up for the Venturer one and began logging hours. Not being able to repeat activities I took up running, volunteered as a beaver leader and learned to drive. The adventure journey was a 3-day hike near home. What I loved about Gaisce was the flexibility. Miss a week, miss a year, it didn't really matter because you had until you turn 26 to finish it. As long as you were always chipping away at it, which I was. However, this was actually not the case for the CSA's, with the deadline for the Venturer award being your 18th birthday. So time was ticking, and now for the hiccup.
+It seemed perfect so I signed up for the Venturer one and began logging hours. Not being able to repeat activities I took up running, volunteered as a beaver leader and learned to drive. The adventure journey was a 3-day hike near home. What I loved about Gaisce was the flexibility. Miss a week, miss a year, it didn't really matter because you had until you turned 26 to finish it. As long as you were always chipping away at it, which I was. However, this was actually not the case for the CSA's, with the deadline for the Venturer award being your 18th birthday. So time was ticking, and now for the hiccup.
 
 <p align="center" width="100%">
     <img width="400" src="/images/presaward2.jpeg">
@@ -60,13 +60,13 @@ I served four years on the UL Kayak Club committee, including a year as Captain,
     <img width="400" src="/images/presaward5.jpeg">
 </p>
 
-By the time I graduated college I was in a similar position. All requirements done aside from the pesky adventure skills. By this time I'd heard a lot of stories of people giving up on this award, including a very close friend of mine. Tracking down Stage 9's was still incredibly difficult and I required two assessors for my Stage 8. This took a long time. Finally in 2018 it was done. After 9 years I had ticked the final box. 
+By the time I graduated college I was in a similar position. All requirements done aside from the pesky adventure skills. By this time, I'd heard a lot of stories of people giving up on this award, including a very close friend of mine. Tracking down Stage 9's was still incredibly difficult and I required two assessors for my Stage 8. This took a long time. Finally in 2018 it was done. After 9 years, I had ticked the final box. 
 
 Calling into my old scout leaders to go through the final signatures and send the books off was a wonderful experience, something I had really looked forward to. Their influence has been everything in what I've achieved and I'm eternally grateful for the time they took to mentor and guide me. Adrian and Trish, from the bottom of my heart, thank you.
 
 The closeout was not without difficulties. The Scouting Ireland office threw up constant issues and reasons why they wouldn't award it. Changing requirements, new assessment procedures, the fact I hadn't maintained membership for two of the nine years so those wouldn't count, among other things. To be honest, it left a sour taste in my mouth and made me appreciate how we were shielded from the politics of the organisation during my time as a youth member. I was happy to pay whatever money they wanted, and luckily I had saved the original (unedited) requirements to prove what I had done was by the book at the time, but it upset me to think of people who may have jumped through all the hoops just to be turned away at this point, as many were. That was not me however and I fought and fought until I persevered!
 
-The first award ceremony was for the Chief Scout Award in Trinity College Dublin. The Rover award had now been available for ten years, and amazingly (but not surprisingly) I was the fourth ever recipient of it. This is a testament to the difficulty of the task, and I've great respect for the others that have also, and since completed it. All previous difficulties aside the ceremony was a lovely day.
+The first award ceremony was for the Chief Scout Award in Trinity College Dublin. The Rover award had now been available for ten years, and amazingly (but not surprisingly), I was the fourth ever recipient of it. This is a testament to the difficulty of the task, and I've great respect for the others that have also, and since completed it. All previous difficulties aside, the ceremony was a lovely day.
 
 <p align="center" width="100%">
     <img width="400" src="/images/presaward6.jpeg">
@@ -88,7 +88,7 @@ I have always spoken highly of the Gaisce programme and recommend it often to pe
 
 Signup is done through a President's Award Leader (PAL), and there is one in nearly every school, college and youth organisation in the country at this stage. The recent push by some teachers to give all students the Bronze award for attending classes is a shame, detracting from the whole idea, but I like to think this is a minority. The fact that the opportunity is presented in schools is great, once some element of personal challenge remains the emphasis.
 
-The new later CSA's are more difficult to recommend knowing the challenges in getting support that I had to face. There are a lot of very impressive people in this country who simply couldn't overcome the roadblocks Scouting Ireland put in front of them. I think the system had it's flaws and hope it's better now, but as a whole I couldn't be happier to have taken it on and made it out the other side. 
+The new later CSA's are more difficult to recommend knowing the challenges in getting support that I had to face. There are a lot of very impressive people in this country who simply couldn't overcome the roadblocks Scouting Ireland put in front of them. I think the system had its flaws and hope it's better now, but as a whole I couldn't be happier to have taken it on and made it out the other side. 
 
 This journey was big enough that it always made projects in school, college and work feel that bit more achievable. It inspired me to take on more in all aspects of my life and gave me an underlying meaning and purpose for a lot of years. One I've tried to continue with further education, fitness challenges and adventures. 
 

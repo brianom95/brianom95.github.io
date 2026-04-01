@@ -39,7 +39,7 @@ menu_settings:
 hero:
   enable: true
   hero_title: Welcome to my Blog
-  hero_description: A place to capture memories from around the world. Marathons on every continent, the world’s highest peaks, travel to 75+ countries, an Ironman triathlon, whitewater kayaking, multiday hikes, bike touring, and lots of challenges in between. This is my story, and everything I've learned along the way.
+  hero_description: A place to capture memories from around the world. Marathons on every continent, the world’s highest peaks, backpacking over 75 countries, an Ironman triathlon, whitewater kayaking, multiday hikes, bike touring, and lots of challenges in between. This is my story, and everything I've learned along the way.
   hero_image: '/images/01.jpg'
 
 

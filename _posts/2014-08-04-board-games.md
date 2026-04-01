@@ -15,18 +15,18 @@ tags:   [Off-The-Trail]
 
 You play as a bandit robbing a train at the same time as others with the goal of becoming the richest outlaw in the Old West.
 
-This game is looks exceptional. The dynamic of moving around the train is clever, but the gameplay also adds a very unique strategy. You choose all actions you'll make based on what you think others will do. Then all actions play out at the end of the round, usually with some surprises.
+This game looks exceptional. The dynamic of moving around the train is clever, but the gameplay also adds a very unique strategy. You choose all actions you'll make based on what you think others will do. Then all actions play out at the end of the round, usually with some surprises.
 
-#### 11. Carcassone  
+#### 11. Carcassonne  
 2 to 5 players - 45 mins
 
 <p align="center" width="100%">
     <img width="400" src="/images/games3.webp">
 </p>
 
-As you form a new land from randomised tiles, players compete to claim cities, roads and monasteries. Completing areas to score points. 
+As you form a new land from randomised tiles, players compete to claim cities, roads and monasteries. Building areas to score points. 
 
-This is simple and instantly fun. We play it a lot as a family and every game is different due to the changing board. There's enough scope to back stab one another and it's usually a tight race in the end. There's a few simple tweaks that would improve it, mainly having more tiles, but it's always fun and one I consistently go back to it.
+This is simple and instantly fun. We play it a lot as a family and every game is different due to the changing board. There's enough scope to back stab one another and it's usually a tight race in the end. There's a few simple tweaks that would improve it, mainly having more tiles, but it's always fun and one I consistently go back to.
 
 #### 10. Pandemic  
 2 to 4 players - 60 mins
@@ -35,7 +35,7 @@ This is simple and instantly fun. We play it a lot as a family and every game is
     <img width="400" src="/images/games1.webp">
 </p>
 
-The game we all got to live. Epidemics are popping around the globe. Your team fight to stop the spread and create a cure before there's a global pandemic.
+The game we all got to live. Epidemics are popping around the globe. Your team fights to stop the spread and create a cure before there's a global pandemic.
 
 This was the first cooperative game I played, where you win or lose as a team. Each player has special abilities and you have a lot of flexibility in how to tackle gameplay. Three difficulties keep it interesting and challenging. It's a little complex the first time, but always fun and a proud moment if you win.
 
@@ -46,9 +46,9 @@ This was the first cooperative game I played, where you win or lose as a team. E
     <img width="400" src="/images/games4.webp">
 </p>
 
-The classic word describing game that if you haven't played, you really should.
+The classic word describing game that if you haven't played it, you really should.
 
-Perfect with any group. It's fun to see how in sync some people are, and new people to the game always love it. Can be slow at times so I'd remove the dice roll if so. The cards are very clever and make it the kind of game anyone could enjoy.
+Perfect with any group. It's fun to see how in sync some people are, and new people to the game always love it. Can be slow at times, so I'd remove the dice roll if so. The cards are very clever and make it the kind of game anyone could enjoy.
 
 #### 8. Ticket to Ride (Europe)  
 2 to 5 players - 60 mins
@@ -57,7 +57,7 @@ Perfect with any group. It's fun to see how in sync some people are, and new peo
     <img width="400" src="/images/games5.webp">
 </p>
 
-Playing on a large map, you take turns to add railroads between cities. Expanding your train lines to both earn points and to join your city combinations that no one else knows. 
+Playing on a large map, you take turns to add railroads between cities. Expanding your train lines to both earn points, and to join your city combinations that no one else knows. 
 
 A uniquely clever game that's always fun. There's a nice puzzle aspect which I enjoy and it's not difficult to pick up. If I had to fault it the games can be repetitive, but that's probably just how much we've played it.
 
@@ -101,9 +101,9 @@ An extremely unique Tetris like game mechanic. This is instantly intuitive and f
     <img width="400" src="/images/games7.webp">
 </p>
 
-Trapped in a labyrinth you must navigate to find hidden treasures and be first to escape.
+Trapped in a labyrinth, you must navigate to find hidden treasures and be first to escape.
 
-My go to when you want simplicity. If someone says 'I don't play board games' or 'they're too confusing', then this is the one. I've never met someone who hasn't liked it and although the puzzle aspect takes a while to get your head around, from the first move everyone knows how to play. I've never seen a game like it before, with an extremely original game mechanic.
+My go-to when you want simplicity. If someone says 'I don't play board games' or 'they're too confusing', then this is the one. I've never met someone who hasn't liked it and although the puzzle aspect takes a while to get your head around, from the first move, everyone knows how to play. I've never seen a game like it before, with an extremely original game mechanic.
 
 #### 3. Splendor  
 2 to 4 players - 30 mins
@@ -112,9 +112,9 @@ My go to when you want simplicity. If someone says 'I don't play board games' or
     <img width="400" src="/images/games10.webp">
 </p>
 
-Playing as Renaissance merchants you acquire gems and stones to become the wealthiest trader.
+Playing as Renaissance merchants, you acquire gems and stones to become the wealthiest trader.
 
-Elegant, intuitive and fast. This is a strategic card game, with weighty poker chip gems. It's high quality and fun to use, with a novel dynamic of buying resources. Quick to pickup, different every game and always a close race. This gets a lot of playtime.
+Elegant, intuitive and fast. This is a strategic card game, with weighty poker chip gems. It's high quality and fun to use, with a novel dynamic of buying resources. Quick to pick up, different every game and always a close race. This gets a lot of playtime.
 
 #### 2. Munchkin  
 2 to 6 players - 45 mins
@@ -125,9 +125,9 @@ Elegant, intuitive and fast. This is a strategic card game, with weighty poker c
 
 Raid the dungeon, kill the monsters, stab your buddy!
 
-Players kick in the dungeon door and either keep the loot or fight any monsters inside. Killing a monster gets you a level and its treasure, but losing sets you back. Build your power with cards, make alliances to defeat monsters and backstab each other to be the first to reach Level 10. 
+Players kick in the dungeon door, and either keep the loot or fight any monsters inside. Killing a monster gets you a level and its treasure, but losing sets you back. Build your power with cards, make alliances to defeat monsters, and backstab each other to be the first to reach Level 10. 
 
-This is the most dynamic game I've played, with endless scenarios. Surprisingly quick to pickup for how much gameplay it offers and also surprisingly balanced with new players able to beat experienced ones. This is on the more complex side so not for everyone, but for the amount of times this gets played it deserves the spot. I'd highly recommend the deluxe edition which includes the game board. There are dozens of expansions so this never gets old.
+This is the most dynamic game I've played, with endless scenarios. Surprisingly quick to pickup for how much gameplay it offers and also surprisingly balanced with new players able to beat experienced ones. This is on the more complex side, so not for everyone, but for the amount of times this gets played it deserves the spot. I'd highly recommend the deluxe edition which includes the game board. There are dozens of expansions so this never gets old.
 
 #### 1. Catan  
 2 to 4 players - 60 mins
@@ -138,7 +138,7 @@ This is the most dynamic game I've played, with endless scenarios. Surprisingly 
 
 Players try to be the dominant force on the island of Catan by building settlements, cities, and roads. 
 
-Made in 1995, this is said to have redefined board games. This was definitely the case for me. It was in Uganda in 2017 that I was introduced to this game and we played it non stop in the evenings. I bought it within a week of getting home and my family got equally addicted. It was endless nights of playing this that have stemmed the rest of this list. It's always a favourite to go back to and has a lot of sentimental value for me. My Mam & I even competed in the Irish Catan Championships one year where I placed 5th!
+Made in 1995, this is said to have redefined board games. This was definitely the case for me. It was in Uganda, in 2017, that I was introduced to this game and we played it non-stop in the evenings. I bought it within a week of getting home and my family got equally addicted. It was endless nights of playing this that have stemmed the rest of this list. It's always a favourite to go back to and has a lot of sentimental value for me. My Mam & I even competed in the Irish Catan Championships one year where I placed 5th!
 
 <p align="center" width="100%">
     <img width="400" src="/images/games12.webp">
@@ -182,7 +182,7 @@ A unique travel game across the towns and cities of Ireland. Players race to vis
     <img width="400" src="/images/games15.webp">
 </p>
 
-From the makers of Splendor this has a similar dynamic with cards and chips. Players take turns to buy and sell at the market, proving your abilities to become the Maharaja's personal trader. A very clever, portable and enjoyable game.
+From the makers of Splendor, this has a similar dynamic with cards and chips. Players take turns to buy and sell at the market, proving your ability to become the Maharaja's personal trader. A very clever, portable and enjoyable game.
 
 #### Chess
 2 players - 30 mins
@@ -191,4 +191,4 @@ From the makers of Splendor this has a similar dynamic with cards and chips. Pla
     <img width="400" src="/images/games17.webp">
 </p>
 
-Had to get a mention. The Queen's Gambit renewed my interest in Chess and there's a reason it's been the most famous board game for thousands of years. I find it's a fun mental puzzle that’s unique every single time. 
+Had to get a mention. The Queen's Gambit tv-show renewed my interest in Chess and there's a reason it's been the most famous board game for thousands of years. I find it's a fun mental puzzle that’s unique every single time. 

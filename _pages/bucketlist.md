@@ -112,8 +112,8 @@ image:  '/images/bucket0.jpeg'
 #### Irish Travel (23/50)
 1. [<mark style="background-color: limegreen">Cycle Malin Head to Mizen Head</mark>](https://www.brianbeyond.com/malin-to-mizen)
 2. Cycle all 5 Greenways (3 Complete)
-3. Camp in all 32 Counties (19 Complete)
-4. Visit all 191 Wild Atlantic Way Markers (100 Complete)
+3. Camp in all 32 Counties ({{ site.data.settings.stats.campingcounties }} Complete)
+4. Visit all 191 Wild Atlantic Way Markers ({{ site.data.settings.stats.wawmarkers }} Complete)
 5. <mark style="background-color: limegreen">Run the Cork City Marathon</mark>
 6. Spike Island Midnight Movie, Cork
 7. Kayak Through the Old Head of Kinsale, Cork
@@ -159,7 +159,7 @@ image:  '/images/bucket0.jpeg'
 47. Climb all 275 VL's (2,000ft+)
 48. [<mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>](https://www.brianbeyond.com/irish-munros)
 49. [<mark style="background-color: limegreen">Climb all 32 County High Points</mark>](https://www.brianbeyond.com/county-tops)
-50. Hike all 42 Irish Waymarked Trails (5 Complete)
+50. Hike all 42 Irish Waymarked Trails ({{ site.data.settings.stats.nwtrails }} Complete)
 
 ---
 

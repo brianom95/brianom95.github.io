@@ -6,7 +6,7 @@ date:   2021-09-04 12:00:0 +0000
 image:  '/images/ct1.jpeg'
 tags:   [Mountaineering]
 ---
-In September 2021 and joined by Eoghan Calnan, I achieved my goal of hiking the highest peak in every Irish county, all within one week. This is an account of that adventure.
+In September 2021, Eoghan Calnan & I achieved our goal of climbing the highest peak in every Irish county, all within one week. This is an account of that adventure.
 
 <p align="center" width="100%">
     <img width="400" src="/images/ctops1.webp">

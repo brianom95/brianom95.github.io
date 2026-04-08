@@ -21,7 +21,7 @@ image:  '/images/bucket0.jpeg'
 13. Get a photo holding up the leaning tower of Pisa
 14. <mark style="background-color: limegreen">Visit the Sistine Chapel, Vatican City</mark>
 15. Go to Pompeii, Italy
-16. Watch a Formula 1 Grand Prix
+16. Go to the Infinity Terrace on the Amalfi Coast, Italy
 17. <mark style="background-color: limegreen">Eat in Casa Botín, Madrid (World's Oldest Restaurant, 1725)</mark>
 18. <mark style="background-color: limegreen">Flamenco Show in Andalucia</mark>
 19. La Tomatina

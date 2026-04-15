@@ -20,18 +20,18 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 ## Where I've Been
 
 1. [Ireland](https://www.brianbeyond.com/malin-to-mizen)
-2. United Kingdom  
-3. Spain  
-4. Finland  
-5. [France](https://www.brianbeyond.com/tmb)  
+2. [United Kingdom](https://www.brianbeyond.com/west-highland-way)  
+3. Spain
+4. Finland
+5. [France](https://www.brianbeyond.com/mont-blanc)  
 6. [Italy](https://www.brianbeyond.com/rome-marathon)  
-7. Slovenia  
+7. Slovenia
 8. [Slovakia](https://www.brianbeyond.com/explorer-belt)  
 9. [Hungary](https://www.brianbeyond.com/explorer-belt)  
-10. Denmark  
-11. Germany  
-12. Austria  
-13. Uganda  
+10. Denmark
+11. Germany
+12. Austria
+13. [Uganda](https://www.brianbeyond.com/uganda)  
 14. Portugal  
 15. [India](https://www.brianbeyond.com/india)  
 16. Netherlands  
@@ -49,28 +49,28 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 28. [Tanzania](https://www.brianbeyond.com/kilimanjaro)  
 29. [New Zealand](https://www.brianbeyond.com/backpacking-nz)  
 30. [Australia](https://www.brianbeyond.com/kosciuszko)  
-31. Singapore  
-32. Malaysia  
-33. Thailand  
-34. Laos  
-35. Vietnam  
-36. Cambodia  
-37. Qatar  
+31. [Singapoore](https://www.brianbeyond.com/backpacking-sea)  
+32. [Malaysia](https://www.brianbeyond.com/backpacking-sea)  
+33. [Thailand](https://www.brianbeyond.com/backpacking-sea)  
+34. [Laos](https://www.brianbeyond.com/backpacking-sea)
+35. [Vietnam](https://www.brianbeyond.com/backpacking-sea)  
+35. [Cambodia](https://www.brianbeyond.com/backpacking-sea)  
+37. Qatar
 38. Andorra  
-39. Russia  
+24. [Russia](https://www.brianbeyond.com/elbrus)  
 40. Turkey  
-41. Mexico  
-42. Belize  
-43. Guatemala  
-44. Honduras  
-45. El Salvador  
-46. Nicaragua  
-47. Costa Rica  
-48. Panama  
-49. Colombia  
-50. Ecuador  
-51. Peru  
-52. Bolivia  
+41. [Mexico](https://www.brianbeyond.com/backpacking-ca)  
+42. [Belize](https://www.brianbeyond.com/backpacking-ca)  
+43. [Guatemala](https://www.brianbeyond.com/backpacking-ca)  
+44. [Honduras](https://www.brianbeyond.com/backpacking-ca)  
+45. [El Salvador](https://www.brianbeyond.com/backpacking-ca)  
+46. [Nicaragua](https://www.brianbeyond.com/backpacking-ca)  
+47. [Costa Rica](https://www.brianbeyond.com/backpacking-ca)  
+48. [Panama](https://www.brianbeyond.com/backpacking-ca)  
+49. [Colombia](https://www.brianbeyond.com/salento)  
+50. [Ecuador](https://www.brianbeyond.com/ecuador)  
+51. [Peru](https://www.brianbeyond.com/salkantay)  
+52. [Bolivia](https://www.brianbeyond.com/huayna)  
 53. Chile  
 54. Argentina  
 55. Uruguay  

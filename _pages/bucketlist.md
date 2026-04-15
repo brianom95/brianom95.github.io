@@ -97,7 +97,7 @@ image:  '/images/bucket0.jpeg'
 89. [<mark style="background-color: limegreen">Hike to Machu Pichu, Peru</mark>](https://www.brianbeyond.com/salkantay)
 90. <mark style="background-color: limegreen">Cycle the Death Road, Bolivia</mark>
 91. <mark style="background-color: limegreen">Uyuni Salt Flats, Bolivia</mark>
-92. [<mark style="background-color: limegreen">Climb Huayna Potosi (6,088m) in La Paz, Bolivia</mark>](https://www.brianbeyond.com/huayna)
+92. [<mark style="background-color: limegreen">Huayna Potosi (6,088m), Bolivia</mark>](https://www.brianbeyond.com/huayna)
 93. <mark style="background-color: limegreen">Visit Rio de Janeiro, Brazil</mark>
 94. <mark style="background-color: limegreen">Iguazu Falls, Brazil</mark>
 95. <mark style="background-color: limegreen">Hike to Torres del Paine, Chile</mark>

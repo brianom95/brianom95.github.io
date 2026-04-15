@@ -26,7 +26,7 @@ image:  '/images/bucket0.jpeg'
 18. <mark style="background-color: limegreen">Flamenco Show in Andalucia</mark>
 19. La Tomatina
 20. Run with the Bulls, Pamplona
-21. <mark style="background-color: limegreen">Visit Tivoli Gardens & Christiania, Denmark</mark>
+21. <mark style="background-color: limegreen">Visit Tivoli & Christiania, Denmark</mark>
 22. <mark style="background-color: limegreen">Sauna & Lake Plunge in Finland</mark>
 23. Hike to Trolltunga, Norway
 24. Scuba dive between Tectonic Plates, Iceland

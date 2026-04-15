@@ -93,7 +93,7 @@ image:  '/images/bucket0.jpeg'
 85. [<mark style="background-color: limegreen">Island Hop in Bocas Del Toro, Panama</mark>](https://www.brianbeyond.com/backpacking-ca)
 86. <mark style="background-color: limegreen">Pablo Escobar Tour, Colombia</mark>
 87. <mark style="background-color: limegreen">Overnight in the Amazon Rainforest</mark>
-88. [<mark style="background-color: limegreen">Cotopaxi (5,897m) & Chimborazo (6,263m), Ecuador</mark>](https://www.brianbeyond.com/ecuador)
+88. [<mark style="background-color: limegreen">Climb Chimborazo (6,263m), Ecuador</mark>](https://www.brianbeyond.com/ecuador)
 89. [<mark style="background-color: limegreen">Hike to Machu Pichu, Peru</mark>](https://www.brianbeyond.com/salkantay)
 90. <mark style="background-color: limegreen">Cycle the Death Road, Bolivia</mark>
 91. <mark style="background-color: limegreen">Uyuni Salt Flats, Bolivia</mark>

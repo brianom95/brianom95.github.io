@@ -69,15 +69,15 @@ image:  '/images/bucket0.jpeg'
 61. <mark style="background-color: limegreen">Visit the Pyramids, Egypt</mark>
 62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](https://www.brianbeyond.com/marrakech-marathon)
 63. <mark style="background-color: limegreen">Go to a Hammam</mark>
-64. Ride the World's Longest Train, Mauritania
+64. Ride World's Longest Train, Mauritania
 65. Do an African Overland Tour
 66. Visit Guinea & Sierra Leone
 67. See the Ducor Hotel & Monkey Island, Liberia
 68. Voodoo Ceremony in Benin
 69. <mark style="background-color: limegreen">See the Big Five on Safari</mark>
-70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Bujagali, Uganda</mark>](https://www.brianbeyond.com/uganda)
+70. [<mark style="background-color: limegreen">Drink Bujagali Sunset in Bujagali, Uganda</mark>](https://www.brianbeyond.com/uganda)
 71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](https://www.brianbeyond.com/zambia)
-72. Visit the Giant Redwoods & Alcatraz, California
+72. See Giant Redwoods & Alcatraz, California
 73. See a Show in The Sphere, Las Vegas
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York
@@ -87,7 +87,7 @@ image:  '/images/bucket0.jpeg'
 79. [<mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
 80. Climb Parícutin, the World's Newest Volcano, Mexico
 81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
-82. [<mark style="background-color: limegreen">See the Mayan Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
+82. [<mark style="background-color: limegreen">See the Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
 83. [<mark style="background-color: limegreen">Volcano Boarding in Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
 84. [<mark style="background-color: limegreen">Visit Arenal Volcano, Costa Rica</mark>](https://www.brianbeyond.com/backpacking-ca)
 85. [<mark style="background-color: limegreen">Island Hop in Bocas Del Toro, Panama</mark>](https://www.brianbeyond.com/backpacking-ca)

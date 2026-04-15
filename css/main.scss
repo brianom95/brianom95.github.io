@@ -117,3 +117,14 @@ blockquote {
   margin: 2rem auto;      /* center block */
   max-width: 600px;       /* optional: limit width */
 }
+
+.page__content ol,
+.page__content ul {
+  padding-left: 2.5rem;
+  margin-left: 0;
+  list-style-position: outside;
+}
+
+.page__content li {
+  padding-left: 0.25rem;
+}

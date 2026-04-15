@@ -64,7 +64,7 @@ image:  '/images/bucket0.jpeg'
 56. [<mark style="background-color: limegreen">Show in the Sydney Opera House</mark>](https://www.brianbeyond.com/kosciuszko)
 57. Dive at the Great Barrier Reef
 58. Stand on the World's Tallest Building
-59. <mark style="background-color: limegreen">Float in the Dead Sea; Lowest Place on Earth</mark>
+59. <mark style="background-color: limegreen">Float in Dead Sea; Lowest Place on Earth</mark>
 60. <mark style="background-color: limegreen">Visit Petra, Jordan</mark>
 61. <mark style="background-color: limegreen">Visit the Pyramids, Egypt</mark>
 62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](https://www.brianbeyond.com/marrakech-marathon)

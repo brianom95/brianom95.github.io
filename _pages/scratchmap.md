@@ -26,8 +26,8 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 5. France  
 6. Italy  
 7. Slovenia  
-8. Slovakia  
-9. Hungary  
+8. **[Slovakia](https://www.brianbeyond.com/explorer-belt)**  
+9. **[Hungary](https://www.brianbeyond.com/explorer-belt)**  
 10. Denmark  
 11. Germany  
 12. Austria  

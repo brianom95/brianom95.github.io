@@ -8,7 +8,7 @@ image: '/images/scratch0.jpeg'
 I've been lucky enough to visit {{ site.data.settings.stats.countries }} of the 197 countries in the world. Each one has taught me something new, and motivated me toward my goal of 100 countries before my 40th birthday. Below is my scratch map.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/scratch1.png">
+    <img src="/images/scratch1.png">
 </p>
 
 ## What Is A Country?

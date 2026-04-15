@@ -61,7 +61,7 @@ image:  '/images/bucket0.jpeg'
 53. [<mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
 54. [<mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
 55. [<mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
-56. [<mark style="background-color: limegreen">See a Show in the Sydney Opera House</mark>](https://www.brianbeyond.com/kosciuszko)
+56. [<mark style="background-color: limegreen">Show in the Sydney Opera House</mark>](https://www.brianbeyond.com/kosciuszko)
 57. Dive at the Great Barrier Reef
 58. Stand on the World's Tallest Building
 59. <mark style="background-color: limegreen">Float in the Dead Sea; the Lowest Place on Earth</mark>

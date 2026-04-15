@@ -128,3 +128,14 @@ blockquote {
 .page__content li {
   padding-left: 0.25rem;
 }
+
+.post-content a,
+.page__content a,
+p a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+  border-bottom: none;
+  font-weight: 500;
+}

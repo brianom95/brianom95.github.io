@@ -116,8 +116,8 @@ image:  '/images/bucket0.jpeg'
 4. Visit all 191 Wild Atlantic Way Markers ({{ site.data.settings.stats.wawmarkers }} Complete)
 5. <mark style="background-color: limegreen">Run the Cork City Marathon</mark>
 6. Spike Island Midnight Movie, Cork
-7. Kayak Through Old Head of Kinsale, Cork
-8. Bioluminescence Paddle on Lough Hyne, Cork
+7. Kayak the Old Head of Kinsale, Cork
+8. Bioluminescence on Lough Hyne, Cork
 9. Cycle the Ring of Beara, Cork (140km)
 10. Go into a Copper Mine in Allihies, Cork
 11. [<mark style="background-color: limegreen">Cycle the Ring of Kerry (180km)</mark>](https://www.brianbeyond.com/killarney-full-ironman)

@@ -18,7 +18,7 @@ image:  '/images/bucket0.jpeg'
 10. Wies'n Season (Oktoberfest)
 11. <mark style="background-color: limegreen">Climb the Cathedral in Milan</mark>
 12. Ride a Gondola in Venice
-13. Get a photo holding up the leaning tower of Pisa
+13. Hold up the Leaning Tower of Pisa
 14. <mark style="background-color: limegreen">Visit the Sistine Chapel, Vatican City</mark>
 15. Go to Pompeii, Italy
 16. Infinity Terrace on the Amalfi Coast, Italy

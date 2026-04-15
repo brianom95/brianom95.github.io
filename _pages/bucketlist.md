@@ -21,7 +21,7 @@ image:  '/images/bucket0.jpeg'
 13. Get a photo holding up the leaning tower of Pisa
 14. <mark style="background-color: limegreen">Visit the Sistine Chapel, Vatican City</mark>
 15. Go to Pompeii, Italy
-16. Go to the Infinity Terrace on the Amalfi Coast, Italy
+16. Infinity Terrace on the Amalfi Coast, Italy
 17. <mark style="background-color: limegreen">Eat in Casa Botín, Madrid (World's Oldest Restaurant, 1725)</mark>
 18. <mark style="background-color: limegreen">Flamenco Show in Andalucia</mark>
 19. La Tomatina
@@ -37,13 +37,13 @@ image:  '/images/bucket0.jpeg'
 29. <mark style="background-color: limegreen">Visit Wieliczka Salt Mine, Poland</mark>
 30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Lithuania</mark>
 31. Visit Chernobyl, Ukraine
-32. [<mark style="background-color: limegreen">See St. Basil’s Cathedral and The Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
+32. [<mark style="background-color: limegreen">Tour The Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
 33. Mount Olympus (2,917m), Greece
 34. Visit Cappadocia, Turkey
-35. Explore Ashgabat & the Gates of Hell, Turkmenistan
-36. See a Ghost Ship in the Ural Sea, Uzbekistan
+35. Ashgabat & Gates of Hell, Turkmenistan
+36. See an Ural Sea Ghost Ship, Uzbekistan
 37. Drive the Pamir Highway, Tajikistan
-38. Stay in a Ger in the Gobi Desert, Mongolia
+38. Stay in a Ger, Mongolia
 39. Hike to Annapurna Base Camp, Nepal
 40. <mark style="background-color: limegreen">Hike to K2 Base Camp, Pakistan</mark>
 41. <mark style="background-color: limegreen">See the Taj Mahal, India</mark>

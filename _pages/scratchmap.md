@@ -19,7 +19,7 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 
 ## Where I've Been
 
-**[1. Ireland](https://www.brianbeyond.com/malin-to-mizen)**  
+1. [Ireland](https://www.brianbeyond.com/malin-to-mizen)
 2. United Kingdom  
 3. Spain  
 4. Finland  

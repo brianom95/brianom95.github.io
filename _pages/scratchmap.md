@@ -2,13 +2,13 @@
 layout: page
 title: Scratch Map
 permalink: /scratchmap/
-image: '/images/scratch0.jpeg'
+image: '/images/scratch1.png'
 ---
 
 I've been lucky enough to visit {{ site.data.settings.stats.countries }} of the 197 countries in the world. Each one has taught me something new, and motivated me toward my goal of 100 countries before my 40th birthday. Below is my scratch map.
 
 <p align="center" width="100%">
-    <img width="500" src="/images/scratch1.png">
+    <img width="500" src="/images/scratch2.jpeg">
 </p>
 
 ## What Is A Country?
@@ -16,6 +16,10 @@ I've been lucky enough to visit {{ site.data.settings.stats.countries }} of the 
 Any area with a permanent population, defined borders and its own government can claim independence. The status of country requires international recognition of sovereignty, usually from a majority vote in the United Nations (UN). The most recent to do this being South Sudan in 2011, becoming the youngest country.
 
 The UN recognises 193 countries, plus Palestine & Vatican City as permanent observer states. I also include Kosovo & Taiwan, which are widely recognised but haven't passed the vote. This list of 197 is what's used for world records.
+
+<p align="center" width="100%">
+    <img width="500" src="/images/scratch1.jpeg">
+</p>
 
 ## Where I've Been
 
@@ -94,7 +98,3 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 73. Zimbabwe  
 74. Jordan  
 75. Monaco
-
-<p align="center" width="100%">
-    <img width="500" src="/images/scratch2.jpeg">
-</p>

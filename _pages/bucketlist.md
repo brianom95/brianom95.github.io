@@ -88,7 +88,7 @@ image:  '/images/bucket0.jpeg'
 80. Climb Parícutin, the World's Newest Volcano, Mexico
 81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
 82. [<mark style="background-color: limegreen">See the Mayan Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
-83. [<mark style="background-color: limegreen">Volcano Boarding on Cerro Negro, Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
+83. [<mark style="background-color: limegreen">Volcano Boarding in Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
 84. [<mark style="background-color: limegreen">Visit Arenal Volcano, Costa Rica</mark>](https://www.brianbeyond.com/backpacking-ca)
 85. [<mark style="background-color: limegreen">Island Hop in Bocas Del Toro, Panama</mark>](https://www.brianbeyond.com/backpacking-ca)
 86. <mark style="background-color: limegreen">Pablo Escobar Tour, Colombia</mark>

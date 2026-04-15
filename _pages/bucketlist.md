@@ -56,15 +56,15 @@ image:  '/images/bucket0.jpeg'
 48. [<mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>](https://www.brianbeyond.com/backpacking-sea)
 49. [<mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>](https://www.brianbeyond.com/backpacking-sea)
 50. [<mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>](https://www.brianbeyond.com/backpacking-sea)
-51. Stay in the Marina Bay Sands Hotel, Singapore
+51. Stay in the Marina Bay Sands, Singapore
 52. Surf in Bali, Indonesia
 53. [<mark style="background-color: limegreen">Visit Hobbiton, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
 54. [<mark style="background-color: limegreen">Milford Sound Cruise, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
-55. [<mark style="background-color: limegreen">Stay in Mueller Hut & Summit Mount Ollivier, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
+55. [<mark style="background-color: limegreen">Summit Mount Ollivier, New Zealand</mark>](https://www.brianbeyond.com/backpacking-nz)
 56. [<mark style="background-color: limegreen">Show in the Sydney Opera House</mark>](https://www.brianbeyond.com/kosciuszko)
 57. Dive at the Great Barrier Reef
 58. Stand on the World's Tallest Building
-59. <mark style="background-color: limegreen">Float in the Dead Sea; the Lowest Place on Earth</mark>
+59. <mark style="background-color: limegreen">Float in the Dead Sea; Lowest Place on Earth</mark>
 60. <mark style="background-color: limegreen">Visit Petra, Jordan</mark>
 61. <mark style="background-color: limegreen">Visit the Pyramids, Egypt</mark>
 62. [<mark style="background-color: limegreen">Berber Camp in the Sahara Desert</mark>](https://www.brianbeyond.com/marrakech-marathon)
@@ -75,9 +75,9 @@ image:  '/images/bucket0.jpeg'
 67. See the Ducor Hotel & Monkey Island, Liberia
 68. Voodoo Ceremony in Benin
 69. <mark style="background-color: limegreen">See the Big Five on Safari</mark>
-70. [<mark style="background-color: limegreen">Drink Bujagali Sunset in Bujagali, Uganda</mark>](https://www.brianbeyond.com/uganda)
+70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Uganda</mark>](https://www.brianbeyond.com/uganda)
 71. [<mark style="background-color: limegreen">Swim in the Devils Pool, Zambia</mark>](https://www.brianbeyond.com/zambia)
-72. See Giant Redwoods & Alcatraz, California
+72. See Redwoods & Alcatraz, California
 73. See a Show in The Sphere, Las Vegas
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York

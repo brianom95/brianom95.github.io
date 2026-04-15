@@ -29,6 +29,8 @@ menu_settings:
       url: "/about/"
     - title: "Seven Summits"
       url: "/sevensummits/"
+    - title: "Scratch Map"
+      url: "/scratchmap/"
     - title: "Bucket List"
       url: "/bucketlist/"
     - title: "Contact"

@@ -68,7 +68,7 @@ We had a short stop for lunch, then after some confusion finally found our accom
 
 **Lucmabamba to Aguas Calientes (24km)**
 
-An original Inca staircase rises from the village and took so long to climb. It brought us into humid rain forest, with great views at any clearing. On top was a small observatory and the first glimpses of Machu Picchu, though still too far above to really see. On our descent to the final valley we passed Llactapata, a building thought to be a rest stop and road side shrine. Here Cesar gave us the full history of the area.
+An original Inca staircase rises from the village and took so long to climb. It brought us into humid rainforest, with great views at any clearing. On top was a small observatory and the first glimpses of Machu Picchu, though still too far above to really see. On our descent to the final valley we passed Llactapata, a building thought to be a rest stop and road side shrine. Here Cesar gave us the full history of the area.
 
 On the valley floor, we followed the Alcamayo river on its horseshoe around the base of Machu Picchu. This brought us over bridges and a dam to our lunch stop in the aptly named town of Hydroelectrica. Then 10km of train tracks wound their way to Aguas Calientes. It was a slog in the heat, but very pretty, and the rapids were amazing. Stalls lined the edges with empanadas, ice cream and cakes that we couldn't resist with our hiker hunger.
 

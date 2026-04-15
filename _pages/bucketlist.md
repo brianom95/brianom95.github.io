@@ -82,10 +82,10 @@ image:  '/images/bucket0.jpeg'
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York
 76. [<mark style="background-color: limegreen">See Niagara Falls</mark>](https://youtube.com/shorts/l-yBj1apXTI?is=zkqhwtcl29irVe1I)
-77. Visit the Yukon & Drink a Sourtoe Cocktail
+77. Drink a Sourtoe Cocktail, Yukon
 78. Sleep in an Igloo
 79. [<mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
-80. Climb Parícutin, the World's Newest Volcano, Mexico
+80. Climb Parícutin, the Newest Volcano, Mexico
 81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
 82. [<mark style="background-color: limegreen">See the Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
 83. [<mark style="background-color: limegreen">Volcano Boarding in Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
@@ -116,7 +116,7 @@ image:  '/images/bucket0.jpeg'
 4. Visit all 191 Wild Atlantic Way Markers ({{ site.data.settings.stats.wawmarkers }} Complete)
 5. <mark style="background-color: limegreen">Run the Cork City Marathon</mark>
 6. Spike Island Midnight Movie, Cork
-7. Kayak Through the Old Head of Kinsale, Cork
+7. Kayak Through Old Head of Kinsale, Cork
 8. Bioluminescence Paddle on Lough Hyne, Cork
 9. Cycle the Ring of Beara, Cork (140km)
 10. Go into a Copper Mine in Allihies, Cork
@@ -126,7 +126,7 @@ image:  '/images/bucket0.jpeg'
 14. Visit Skellig Michael, Kerry
 15. <mark style="background-color: limegreen">Climb Mangerton, Kerry</mark>
 16. <mark style="background-color: limegreen">Climb Howling Ridge, Kerry</mark>
-17. Carrauntoohill, Sea to Summit Challenge
+17. Carrauntoohill, Sea to Summit
 18. Swim in Lough Cummeenoughter, Ireland's Highest Lake
 19. Dursey Island Cable Car, Kerry
 20. Bunratty Medieval Banquet, Limerick
@@ -136,12 +136,12 @@ image:  '/images/bucket0.jpeg'
 24. Barrel Seaweed Bath, Clare
 25. Go to Tedfest
 26. Jump into the Poll na bPéist, Galway
-27. Jump off the Salthill Diving Boards, Galway
+27. Jump off Salthill Diving Boards, Galway
 28. <mark style="background-color: limegreen">Run the Connemarathon</mark>
 29. <mark style="background-color: limegreen">Climb Croagh Patrick, Mayo</mark>
 30. <mark style="background-color: limegreen">Climb Benbulben, Sligo</mark>
 31. Lough Derg 3-Day Pilgrimage, Donegal
-32. <mark style="background-color: limegreen">Cuilcagh Stairway to Heaven, Fermanagh</mark>
+32. <mark style="background-color: limegreen">Stairway to Heaven, Fermanagh</mark>
 33. <mark style="background-color: limegreen">Black Cab Tour, Belfast</mark>
 34. <mark style="background-color: limegreen">Passage Tomb Winter Solstice, Meath</mark>
 35. Visit the Hill of Tara, Meath
@@ -212,7 +212,7 @@ image:  '/images/bucket0.jpeg'
 #### Endurance (7/15)
 1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](https://www.brianbeyond.com/killarney-full-ironman)
 2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
-3. <mark style="background-color: limegreen">Run a Sub 4 Hour Marathon (PB- 3:56:31)</mark>
+3. <mark style="background-color: limegreen">Run a Sub 4hr Marathon (3:56:31)</mark>
 4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
 5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](https://www.brianbeyond.com/hundred-thousand-steps)
 6. <mark style="background-color: limegreen">Swim 5km Nonstop</mark>
@@ -236,7 +236,7 @@ image:  '/images/bucket0.jpeg'
 5. Go to a Formula 1 Grand Prix
 6. Go to the Olympics
 7. <mark style="background-color: limegreen">Take a 24hr+ Bus</mark>
-8. <mark style="background-color: limegreen">Compete in the Irish Catan Championships</mark>
+8. <mark style="background-color: limegreen">Enter the Irish Catan Championships</mark>
 9. <mark style="background-color: limegreen">Beat Minecraft</mark>
 10. [<mark style="background-color: limegreen">Do a Bungee Jump</mark>](https://youtu.be/VyN2m9aq0i0?si=cWe6DJC-jQOB-xfl)
 11. [<mark style="background-color: limegreen">Do a Skydive</mark>](https://youtu.be/qjbD3ZG_9jk?si=7MJaQ26U5ovIe9nJ)

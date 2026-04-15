@@ -13,8 +13,8 @@ image:  '/images/bucket0.jpeg'
 5. Drink Champagne in Champagne
 6. <mark style="background-color: limegreen">Visit Le Mont Saint Michel & Normandy</mark>
 7. Run the Marathon du Medoc, France
-8. <mark style="background-color: limegreen">Visit Neuschwanstein & Linderhof, Germany</mark>
-9. <mark style="background-color: limegreen">Climb the Zugspitze (2,962m), Germany</mark>
+8. <mark style="background-color: limegreen">Visit Neuschwanstein, Germany</mark>
+9. <mark style="background-color: limegreen">Climb Zugspitze (2,962m), Germany</mark>
 10. Wies'n Season (Oktoberfest)
 11. <mark style="background-color: limegreen">Climb the Cathedral in Milan</mark>
 12. Ride a Gondola in Venice

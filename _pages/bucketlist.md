@@ -149,7 +149,7 @@ image:  '/images/bucket0.jpeg'
 37. <mark style="background-color: limegreen">Tour the Guinness Storehouse, Dublin</mark>
 38. Paddle the Liffey Descent, Dublin
 39. <mark style="background-color: limegreen">Race Hell & Back, Wicklow</mark>
-40. <mark style="background-color: limegreen">Complete all 3 Gaelforce Adventure Races</mark>
+40. [<mark style="background-color: limegreen">Complete all 3 Gaelforce Races</mark>](https://www.brianbeyond.com/gaelforce-turf-warrior)
 41. [<mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>](https://www.brianbeyond.com/quest-glendalough)
 42. Complete all 11 HARDMAN Races (10 Complete)
 43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](https://www.brianbeyond.com/mourne-seven-sevens)

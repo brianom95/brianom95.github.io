@@ -15,10 +15,6 @@ In 1986, Pat Morrow became the first to complete the Messner List, followed by a
 The original Bass List remains the most widely accepted and is shown below:
 
 <p align="center" width="100%">
-    <img width="500" src="/images/kosi1.webp">
-</p>
-
-<p align="center" width="100%">
     <img src="/images/kosi1.webp">
 </p>
 ---

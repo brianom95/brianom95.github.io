@@ -17,10 +17,6 @@ Any area with a permanent population, defined borders and its own government can
 
 The UN recognises 193 countries, plus Palestine & Vatican City as permanent observer states. I also include Kosovo & Taiwan, which are widely recognised but haven't passed the vote. This list of 197 is what's used for world records.
 
-<p align="center" width="100%">
-    <img width="500" src="/images/scratch2.jpeg">
-</p>
-
 ## Where I've Been
 
 Ireland  
@@ -98,3 +94,7 @@ Botswana
 Zimbabwe  
 Jordan  
 Monaco  
+
+<p align="center" width="100%">
+    <img width="500" src="/images/scratch2.jpeg">
+</p>

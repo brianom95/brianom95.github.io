@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Scratch Map
-description: The {{ site.data.settings.stats.countries }} countries I've visited
+description: What I've seen of the world!
 date:   2014-08-01 18:00:00 +0300
 image:  '/images/huayna6.jpeg'
 tags:   [Travel]

@@ -37,7 +37,7 @@ image:  '/images/bucket0.jpeg'
 29. <mark style="background-color: limegreen">Visit Wieliczka Salt Mine, Poland</mark>
 30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Lithuania</mark>
 31. Visit Chernobyl, Ukraine
-32. <mark style="background-color: limegreen">See St. Basil’s Cathedral and The Kremlin, Russia</mark>
+32. [<mark style="background-color: limegreen">See St. Basil’s Cathedral and The Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
 33. Climb Mount Olympus (2,917m), Greece
 34. Visit Cappadocia, Turkey
 35. Explore Ashgabat & the Gates of Hell, Turkmenistan
@@ -81,23 +81,23 @@ image:  '/images/bucket0.jpeg'
 73. See a Show in The Sphere, Las Vegas
 74. See a Show on Broadway
 75. See the Statue of Liberty, New York
-76. <mark style="background-color: limegreen">See Niagara Falls</mark>
+76. [<mark style="background-color: limegreen">See Niagara Falls</mark>](https://youtube.com/shorts/l-yBj1apXTI?is=zkqhwtcl29irVe1I)
 77. Visit the Yukon & Drink a Sourtoe Cocktail
 78. Sleep in an Igloo
-79. <mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>
+79. [<mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
 80. Climb Parícutin, the World's Newest Volcano, Mexico
-81. <mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>
-82. <mark style="background-color: limegreen">See the Mayan Ruins in Tikal, Guatemala</mark>
-83. <mark style="background-color: limegreen">Volcano Boarding on Cerro Negro, Nicaragua</mark>
-84. <mark style="background-color: limegreen">Visit Arenal Volcano, Costa Rica</mark>
-85. <mark style="background-color: limegreen">Island Hop in Bocas Del Toro, Panama</mark>
+81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
+82. [<mark style="background-color: limegreen">See the Mayan Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
+83. [<mark style="background-color: limegreen">Volcano Boarding on Cerro Negro, Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
+84. [<mark style="background-color: limegreen">Visit Arenal Volcano, Costa Rica</mark>](https://www.brianbeyond.com/backpacking-ca)
+85. [<mark style="background-color: limegreen">Island Hop in Bocas Del Toro, Panama</mark>](https://www.brianbeyond.com/backpacking-ca)
 86. <mark style="background-color: limegreen">Pablo Escobar Tour, Colombia</mark>
 87. <mark style="background-color: limegreen">Overnight in the Amazon Rainforest</mark>
-88. <mark style="background-color: limegreen">Climb Cotopaxi (5,897m) & Chimborazo (6,263m), Ecuador</mark>
-89. <mark style="background-color: limegreen">Hike to Machu Pichu, Peru</mark>
+88. [<mark style="background-color: limegreen">Climb Cotopaxi (5,897m) & Chimborazo (6,263m), Ecuador</mark>](https://www.brianbeyond.com/ecuador)
+89. [<mark style="background-color: limegreen">Hike to Machu Pichu, Peru</mark>](https://www.brianbeyond.com/salkantay)
 90. <mark style="background-color: limegreen">Cycle the Death Road, Bolivia</mark>
 91. <mark style="background-color: limegreen">Uyuni Salt Flats, Bolivia</mark>
-92. <mark style="background-color: limegreen">Climb Huayna Potosi (6,088m) in La Paz, Bolivia</mark>
+92. [<mark style="background-color: limegreen">Climb Huayna Potosi (6,088m) in La Paz, Bolivia</mark>](https://www.brianbeyond.com/huayna)
 93. <mark style="background-color: limegreen">Visit Rio de Janeiro, Brazil</mark>
 94. <mark style="background-color: limegreen">Iguazu Falls, Brazil</mark>
 95. <mark style="background-color: limegreen">Hike to Torres del Paine, Chile</mark>
@@ -150,7 +150,7 @@ image:  '/images/bucket0.jpeg'
 38. Paddle the Liffey Descent, Dublin
 39. <mark style="background-color: limegreen">Race Hell & Back, Wicklow</mark>
 40. <mark style="background-color: limegreen">Complete all 3 Gaelforce Adventure Races</mark>
-41. <mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>
+41. [<mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>](https://www.brianbeyond.com/quest-glendalough)
 42. Complete all 11 HARDMAN Races (10 Complete)
 43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](https://www.brianbeyond.com/mourne-seven-sevens)
 44. [<mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>](https://www.brianbeyond.com/donegal-seven-sisters)

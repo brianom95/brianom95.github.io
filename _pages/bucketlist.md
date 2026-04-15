@@ -37,7 +37,7 @@ image:  '/images/bucket0.jpeg'
 29. <mark style="background-color: limegreen">Visit Wieliczka Salt Mine, Poland</mark>
 30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Lithuania</mark>
 31. Visit Chernobyl, Ukraine
-32. [<mark style="background-color: limegreen">Tour The Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
+32. [<mark style="background-color: limegreen">Visit St. Basil's Cathedral & the Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
 33. Mount Olympus (2,917m), Greece
 34. Visit Cappadocia, Turkey
 35. Ashgabat & Gates of Hell, Turkmenistan

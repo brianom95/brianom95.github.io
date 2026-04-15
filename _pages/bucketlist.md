@@ -38,7 +38,7 @@ image:  '/images/bucket0.jpeg'
 30. <mark style="background-color: limegreen">Cycle the Curonian Spit, Lithuania</mark>
 31. Visit Chernobyl, Ukraine
 32. [<mark style="background-color: limegreen">See St. Basil’s Cathedral and The Kremlin, Russia</mark>](https://www.brianbeyond.com/elbrus)
-33. Climb Mount Olympus (2,917m), Greece
+33. Mount Olympus (2,917m), Greece
 34. Visit Cappadocia, Turkey
 35. Explore Ashgabat & the Gates of Hell, Turkmenistan
 36. See a Ghost Ship in the Ural Sea, Uzbekistan
@@ -52,7 +52,7 @@ image:  '/images/bucket0.jpeg'
 44. Run the Pyongyang Marathon, DPRK
 45. Street Karting in Tokyo, Japan
 46. Drink Sake in Kyoto, Japan
-47. [<mark style="background-color: limegreen">Overnight Cruise in Ha Long Bay, Vietnam</mark>](https://www.brianbeyond.com/backpacking-sea)
+47. [<mark style="background-color: limegreen">Overnight in Ha Long Bay, Vietnam</mark>](https://www.brianbeyond.com/backpacking-sea)
 48. [<mark style="background-color: limegreen">Vang Vieng River Trip, Laos</mark>](https://www.brianbeyond.com/backpacking-sea)
 49. [<mark style="background-color: limegreen">Visit Angkor Wat, Cambodia</mark>](https://www.brianbeyond.com/backpacking-sea)
 50. [<mark style="background-color: limegreen">Koh Phi Phi & Maya Bay, Thailand</mark>](https://www.brianbeyond.com/backpacking-sea)

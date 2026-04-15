@@ -14,14 +14,14 @@ The UN currently recognises 193 countries, plus 2 observer states (Palestine & V
 
 Below are the {{ site.data.settings.stats.countries }} countries I've visited to date.
 
+## The {{ site.data.settings.stats.countries }} Countries I've Visited
+
 <p align="center" width="100%">
     <img width="500" src="/images/scratch1.png">
 </p>
 
-## The {{ site.data.settings.stats.countries }} Countries I've Visited
-
 <p align="center" width="100%">
-    <img width="500" src="/images/scratch2.jpeg">
+    <img width="500" src="/images/scratch1.jpeg">
 </p>
 
 Ireland

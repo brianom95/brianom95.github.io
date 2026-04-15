@@ -2,7 +2,7 @@
 layout: page
 title: Scratch Map
 permalink: /scratchmap/
-image: '/images/huayna6.jpeg'
+image: '/images/scratch0.jpeg'
 ---
 
 I've been lucky enough to visit {{ site.data.settings.stats.countries }} of the 197 countries in the world. Each one has taught me something new, and motivated me toward my goal of 100 countries before my 40th birthday. Below is my scratch map.

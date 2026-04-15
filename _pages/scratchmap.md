@@ -19,6 +19,10 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 
 ## Where I've Been
 
+<p align="center" width="100%">
+    <img width="400" src="/images/scratch2.jpeg">
+</p>
+
 1. Ireland  
 2. United Kingdom  
 3. Spain  
@@ -94,7 +98,3 @@ The UN recognises 193 countries, plus Palestine & Vatican City as permanent obse
 73. Zimbabwe  
 74. Jordan  
 75. Monaco
-
-<p align="center" width="100%">
-    <img width="400" src="/images/scratch2.jpeg">
-</p>

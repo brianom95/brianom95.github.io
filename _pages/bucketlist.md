@@ -29,7 +29,7 @@ image:  '/images/bucket0.jpeg'
 21. <mark style="background-color: limegreen">Visit Tivoli & Christiania, Denmark</mark>
 22. <mark style="background-color: limegreen">Sauna & Lake Plunge in Finland</mark>
 23. Hike to Trolltunga, Norway
-24. Scuba dive between Tectonic Plates, Iceland
+24. Swim between Tectonic Plates, Iceland
 25. <mark style="background-color: limegreen">See the Northern Lights</mark>
 26. <mark style="background-color: limegreen">Windmill Tour in Netherlands</mark>
 27. <mark style="background-color: limegreen">Visit Lake Bled, Slovenia</mark>
@@ -72,7 +72,7 @@ image:  '/images/bucket0.jpeg'
 64. Ride World's Longest Train, Mauritania
 65. Do an African Overland Tour
 66. Visit Guinea & Sierra Leone
-67. See the Ducor Hotel & Monkey Island, Liberia
+67. Ducor Hotel & Monkey Island, Liberia
 68. Voodoo Ceremony in Benin
 69. <mark style="background-color: limegreen">See the Big Five on Safari</mark>
 70. [<mark style="background-color: limegreen">Drink a Bujagali Sunset in Uganda</mark>](https://www.brianbeyond.com/uganda)
@@ -85,7 +85,7 @@ image:  '/images/bucket0.jpeg'
 77. Drink a Sourtoe Cocktail, Yukon
 78. Sleep in an Igloo
 79. [<mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
-80. Climb Parícutin, the Newest Volcano, Mexico
+80. Parícutin, the Newest Volcano, Mexico
 81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
 82. [<mark style="background-color: limegreen">See the Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
 83. [<mark style="background-color: limegreen">Volcano Boarding in Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)

@@ -15,7 +15,7 @@ Any area with a sovereign government, permanent population, and defined borders 
 
 Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland. Most of these have their own governments, passports & currencies, but haven't enough support to reach UN status.
 
-## How Many Countries Are There?
+## How Many Are There?
 
 The UN recognises 193 countries, that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
 

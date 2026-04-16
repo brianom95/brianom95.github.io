@@ -13,13 +13,15 @@ image: '/images/scratch0.jpeg'
 
 ## What Is A Country?
 
-Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country in the world is South Sudan, passing the vote in 2011. The next will likely be Bougainville, previosuly part of Papua New Guinea.
+Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
 
-Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland.
+Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland. Most of these have their own governments, passports & currencies, but haven't enough support to reach UN status.
 
 ## How Many Countries Are There?
 
-The UN recognises 193 countries, so that's one answer. Palestine & Vatican City are permanent observer states, and most lists will include Kosovo & Taiwan, which are widely recognised but haven't passed the vote. This list of 197 is what's used for world records.
+The UN recognises 193 countries, so that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
+
+The list is admittedly flawed from a travel perspective. It suggests you could see "everywhere" without going to places like Greenland, Scotland, or Antarctica. How someone travels is a personal decision, but 
 
 ## Where I've Been
 

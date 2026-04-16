@@ -11,6 +11,8 @@ image: '/images/scratch0.jpeg'
 
 ## What Is A Country?
 
+This sounds like a silly question, but it's not as clear as you'd expect.
+
 Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
 
 Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland. Most of these have their own governments, passports & currencies, but haven't enough support to reach UN status.

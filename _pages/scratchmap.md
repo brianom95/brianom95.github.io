@@ -5,6 +5,8 @@ permalink: /scratchmap/
 image: '/images/scratch0.jpeg'
 ---
 
+I've been gifted a lot of scratch maps over the years but haven't gotten around to hanging one on my wall. For now, this digital one does the job.
+
 <p align="center" width="100%">
     <img src="/images/scratch1.png">
 </p>

@@ -5,7 +5,7 @@ permalink: /scratchmap/
 image: '/images/scratch0.jpeg'
 ---
 
-I've been gifted a lot of scratch maps over the years but haven't gotten around to hanging one on my wall. For now, this digital one does the job.
+I've been gifted a lot of scratch maps over the years but never got around to hanging one on my wall. I preferred to keep a digital one on my phone, and here it is:
 
 <p align="center" width="100%">
     <img src="/images/scratch1.png">
@@ -23,7 +23,7 @@ Most votes fail to prove sovereignty due to political pressure from world superp
 
 The UN recognises 193 countries, that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
 
-The list is flawed from a travel perspective. It suggests you could see every country without going to Greenland, Scotland, Puerto Rico, Antarctica, or most of the Caribbean. Obviously it's impossible to see everywhere, especially when I haven't even seen all of Ireland, but I have generally tried to experience places rather than just tick them off. 
+The list is flawed from a travel perspective. It suggests you could see every country without going to Greenland, Wales, Scotland, Puerto Rico, Antarctica, or most of the Caribbean. Obviously it's impossible to see everywhere, especially when I haven't even seen all of Ireland, but I have generally tried to experience places rather than just tick them off. Having a list is a useful tool, but doesn't have to dictate everything.
 
 About 500 people have visited every country and that's not a goal I want to pursue. It's a huge cost and time commitment, but also forces people to change how they travel. I've set myself the goal of visiting 100 countries, and I'm enjoying the process of doing that at my own pace.
 

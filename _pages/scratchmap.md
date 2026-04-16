@@ -23,9 +23,9 @@ Most votes fail to prove sovereignty due to political pressure from world superp
 
 The UN recognises 193 countries, that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
 
-The list is flawed from a travel perspective. It suggests you could see every country without going to Greenland, Scotland, Puerto Rico, Antarctica, or most of the Caribbean. Obviously it's impossible to see everywhere, especially when I haven't even seen all of Ireland, but I have generally tried to experience places rather than tick them off. 
+The list is flawed from a travel perspective. It suggests you could see every country without going to Greenland, Scotland, Puerto Rico, Antarctica, or most of the Caribbean. Obviously it's impossible to see everywhere, especially when I haven't even seen all of Ireland, but I have generally tried to experience places rather than just tick them off. 
 
-About 500 people have visited every country and that's not a goal I want to pursue. It's a huge cost and time commitment, but also forces people to change how they travel. I've set myself the goal of visiting 100 countries and I'm enjoying the process of doing so at my own pace.
+About 500 people have visited every country and that's not a goal I want to pursue. It's a huge cost and time commitment, but also forces people to change how they travel. I've set myself the goal of visiting 100 countries, and I'm enjoying the process of doing that at my own pace.
 
 ## Where I've Been
 

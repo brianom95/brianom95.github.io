@@ -5,17 +5,21 @@ permalink: /scratchmap/
 image: '/images/scratch0.jpeg'
 ---
 
-I've been lucky enough to visit {{ site.data.settings.stats.countries }} of the 197 countries in the world. Each one has taught me something new, and motivated me toward my goal of 100 countries before my 40th birthday. Below is my scratch map.
-
 <p align="center" width="100%">
     <img src="/images/scratch1.png">
 </p>
 
+{{ site.data.settings.stats.countries }}/197
+
 ## What Is A Country?
 
-Any area with a permanent population, defined borders and its own government can claim independence. The status of country requires international recognition of sovereignty, usually from a majority vote in the United Nations (UN). The most recent to do this being South Sudan in 2011, becoming the youngest country.
+Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country in the world is South Sudan, passing the vote in 2011. The next will likely be Bougainville, previosuly part of Papua New Guinea.
 
-The UN recognises 193 countries, plus Palestine & Vatican City as permanent observer states. I also include Kosovo & Taiwan, which are widely recognised but haven't passed the vote. This list of 197 is what's used for world records.
+Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland.
+
+## How Many Countries Are There?
+
+The UN recognises 193 countries, so that's one answer. Palestine & Vatican City are permanent observer states, and most lists will include Kosovo & Taiwan, which are widely recognised but haven't passed the vote. This list of 197 is what's used for world records.
 
 ## Where I've Been
 

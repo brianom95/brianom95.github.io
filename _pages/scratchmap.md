@@ -9,8 +9,6 @@ image: '/images/scratch0.jpeg'
     <img src="/images/scratch1.png">
 </p>
 
-{{ site.data.settings.stats.countries }}/197
-
 ## What Is A Country?
 
 Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
@@ -19,11 +17,13 @@ Most votes fail to prove sovereignty due to political pressure from world superp
 
 ## How Many Countries Are There?
 
-The UN recognises 193 countries, so that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
+The UN recognises 193 countries, that's the official answer. Then Palestine & Vatican City are permanent observer states, so it's worth upping to 195. Finally, most lists will include Kosovo & Taiwan as they are widely recognised, bringing us to 197. This is the generally accepted value as used for world records, so it's good enough for me.
 
-The list is admittedly flawed from a travel perspective. It suggests you could see "everywhere" without going to places like Greenland, Scotland, or Antarctica. How someone travels is a personal decision, but 
+The list is admittedly flawed from a travel perspective. It suggests you could see the whole world without going to places like Greenland, Scotland, or Antarctica. I realise it's impossible to see everywhere, especially when I'll never even see all of Ireland, but I have tried to experience these places rather than just tick them off. About 500 people have visited every country and that's not a goal I want to pursue, both for the cost and time commitment, but also how it forces you to change how you travel. I've set myself the goal of visiting 100 countries and I'm enjoying the process of doing so.
 
 ## Where I've Been
+
+{{ site.data.settings.stats.countries }}/197
 
 1. [Ireland](https://www.brianbeyond.com/malin-to-mizen)
 2. [United Kingdom](https://www.brianbeyond.com/west-highland-way)  

@@ -15,9 +15,9 @@ I've been gifted a lot of scratch maps over the years but never got around to ha
 
 This may sound like a silly question, but it's not as clear as you'd expect.
 
-Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
+Any area with a sovereign government, permanent population, and defined borders can declare themselves an independent state. What we consider a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
 
-Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland. Most of these have their own governments, passports & currencies, but haven't enough support to reach UN status.
+Most votes fail to prove sovereignty due to political pressure from world superpowers. The main examples being Israel blocking Palestine, China blocking Taiwan, and Russia blocking Kosovo. Some regions reach enough votes to be designated as permanant observer states, granting access to UN meetings but without voting rights. Many claims have limited recognition, the most well known being Western Sahara, Northern Cyprus, South Ossetia, Abkhazia, Transnistria & Somaliland. Most of these have their own governments, passports & currencies, but not enough support to reach UN status.
 
 ## How Many Are There?
 
@@ -25,7 +25,7 @@ The UN recognises 193 countries, that's the official answer. Then Palestine & Va
 
 The list is flawed from a travel perspective. It suggests you could see every country without going to Greenland, Wales, Scotland, Puerto Rico, Antarctica, or most of the Caribbean. Obviously it's impossible to see everywhere, especially when I haven't even seen all of Ireland, but I have generally tried to experience places rather than just tick them off. Having a list is a useful tool, but doesn't have to dictate everything.
 
-About 500 people have visited every country and that's not a goal I want to pursue. It's a huge cost and time commitment, but also forces people to change how they travel. I've set myself the goal of visiting 100 countries, and I'm enjoying the process of doing that at my own pace.
+About 500 people have visited every country and that's not a goal I want to pursue. It's a huge cost and time commitment, but also tends to change how people travel. I've instead set myself the goal of visiting 100 countries, and I'm enjoying the process of doing that at my own pace.
 
 ## Where I've Been
 

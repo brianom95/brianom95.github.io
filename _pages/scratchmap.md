@@ -13,7 +13,7 @@ I've been gifted a lot of scratch maps over the years but never got around to ha
 
 ## What Is A Country?
 
-This sounds like a silly question, but it's not as clear as you'd expect.
+This may sound like a silly question, but it's not as clear as you'd expect.
 
 Any area with a sovereign government, permanent population, and defined borders can declare independence. However, becoming a country requires international recognition of that sovereignty, usually from a majority vote in the United Nations (UN). The youngest country is South Sudan, passing the vote in 2011. The next will likely be Bougainville, currently part of Papua New Guinea.
 

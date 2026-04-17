@@ -2,7 +2,7 @@
 layout: page
 title: Scratch Map
 permalink: /scratchmap/
-image: '/images/scratch0.jpeg'
+image: '/images/scratch0a.jpeg'
 ---
 
 I've been gifted a lot of scratch maps over the years but never got around to hanging one on my wall. I preferred to keep a digital one while travelling, and here it is:

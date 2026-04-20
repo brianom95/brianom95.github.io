@@ -11,7 +11,7 @@ I grew up in Scouting where I learned self-reliance, leadership and a love of th
 At university, adventure took a sharper edge when I discovered whitewater kayaking. Over the following decade I paddled rivers up to Grade 5. Competing, traveling, and chasing water across the globe; including trips to [Uganda](https://www.brianbeyond.com/uganda), [India](https://www.brianbeyond.com/india), [Zambia](https://www.brianbeyond.com/zambia), [Morocco](https://www.brianbeyond.com/morocco), and all over the Alps. At this point I've kayaked on every continent including Antarctica! I captained the largest kayak club in the country, leading a 38 person trip to Italy & Slovenia and winning the Irish Kayak Intervarsities. At one point I held a Guinness World Record in freestyle kayaking too.
 
 When COVID closed borders I turned inward and local. That period produced some of the hardest but most rewarding challenges of my life:
-- Completing an Ironman after learning to swim from scratch.
+- [Completing an Ironman](https://www.brianbeyond.com/killarney-full-ironman) after learning to swim from scratch.
 - Walking [100,000 steps in a day](https://www.brianbeyond.com/hundred-thousand-steps).
 - Self-supported FKT for climbing all of [Ireland's County High Points](https://www.brianbeyond.com/county-tops) in one week.
 - Self-supported FKT for climbing all of [Ireland’s 13 peaks over 3,000 ft](https://www.brianbeyond.com/irish-munros) in one day.
@@ -22,6 +22,7 @@ As travel reopened, so did bigger horizons. To date, I’ve:
 - Run {{ site.data.settings.stats.marathons }} marathons, including one on every continent.
 - Climbed five of the Seven Summits: [Kilimanjaro](https://www.brianbeyond.com/kilimanjaro), [Kosciuszko](https://www.brianbeyond.com/kosciuszko), [Elbrus](https://www.brianbeyond.com/elbrus), Aconcagua and Denali.
 - Summited major peaks including [Mont Blanc](https://www.brianbeyond.com/mont-blanc), [Cotopaxi](https://www.brianbeyond.com/ecuador), [Chimborazo](https://www.brianbeyond.com/ecuador), [Chachani](https://www.brianbeyond.com/chachani) and [Huayna Potosí](https://www.brianbeyond.com/huayna).
+- Hiked some of the world's best multiday trails, inlcuding the [Tour du Mont Blanc](https://www.brianbeyond.com/tmb), [Kerry Way](https://www.brianbeyond.com/kerry-way), [West Highland Way](https://www.brianbeyond.com/west-highland-way), [Santa Cruz Trek](https://www.brianbeyond.com/santa-cruz), [Colca Canyon Trek](https://www.brianbeyond.com/colca), [Salkantay to Machu Picchu](https://www.brianbeyond.com/salkantay), Huemul Circuit, Torres del Paine O-Trek, & hiked to K2 Base Camp.
 
 Every climb and expedition so far has been a first-time success, something I attribute to obsessive preparation, patience and respect for the environment I’m moving through.
 

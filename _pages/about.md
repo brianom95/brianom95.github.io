@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 image: '/images/about1.jpeg'
 ---
-Hi, my name is Brian. I’m a mechanical engineer from Fermoy, in the south of Ireland. I've developed a love for long days, ambitious goals and places that are difficult to reach. I’ve always been drawn to challenge, exploration and seeing how far preparation and persistence can take me.
+Hi, my name is Brian. I’m a mechanical engineer from Fermoy, a town in the south of Ireland. I've developed a love for long days, ambitious goals and places that are difficult to reach. I’ve always been drawn to challenge, exploration and seeing how far preparation and persistence can take me.
 
 I grew up in Scouting where I learned self-reliance, leadership and a love of the outdoors. I completed 10 Mountain Pursuit Challenges, attended Roverway in Finland, and had success at the Venture Challenge & Explorer Belt. I was one of the last people in Ireland to receive the original Chief Scout Award, later completing the new Venture and Rover awards too (the fourth recipient ever, and first to hold all three). I’ve also completed all levels of the [Gaisce President’s Award](https://www.brianbeyond.com/gaisce-journey), with Gold presented by Michael D. Higgins in 2018.
 

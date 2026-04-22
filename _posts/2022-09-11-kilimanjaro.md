@@ -202,7 +202,7 @@ As planned we awoke to leave around midday. I had a mild headache but I knew the
 
 Back into the moorland, reaching Mweka Camp at 2:30pm. It was a beautiful route with nice views of the rainforest below. Steps paved the way and we saw porters singing as they did resupplies up and down for other teams. There were stretchers with bike wheels along the side, ready for fast evacuations which the guides jokingly called ambulances. Most of the way was even paved with stone to make it more accessible.
 
-That night, Hiza the wizard chef made more food which boggled my mind. Tips are excluded in trip costs and left up to the individual. We thanked everyone and gave out the well earned $700 in tips that Seán & I settled on. Some of the guys spoke to us individually to thank us too and I truly felt blessed to have found such a perfect team.
+That night, Hiza the wizard chef made more food which boggled my mind. Tips are excluded in trip costs and left up to the individual. We thanked everyone and gave out the well earned $700 in tips that Seán & I settled on. Some of the guys spoke to us individually to thank us and I truly felt blessed to have found such a perfect team.
 
 <p align="center" width="100%">
     <img width="400" src="/images/kilimanjaro12.jpeg">
@@ -221,9 +221,9 @@ There was a book to sign which held the names of all who summited. Certs were pr
 
 ## Arusha
 
-The following few days were paradise. So much good food and Kilimanjaro beers. Mostly enjoyed by the pool but sometimes in questionable bars. Nice cafe's and restaurants in town, silly souvenirs at the curio markets and fun tours of the Tanzanite Experience & the Old Boma Museum. Plus an afternoon with a 100 year old giant tortoise. A run around town showed me so many cool sculptures and one day we got a taxi to the Cultural Heritage Centre which was full of Swahili artwork. I also made Seán try Zappa which was my favourite drink in Uganda. He was not a fan!
+The following few days were paradise. So much good food and Kilimanjaro beers. Mostly enjoyed by the pool but sometimes in questionable bars. Nice cafe's and restaurants in town, silly souvenirs at the curio markets, and a fun tour of the Tanzanite Experience. Plus an afternoon with a 100 year old giant tortoise at the Old Boma Museum. A run around town showed me all the cool sculptures, and one day we got a taxi to the Cultural Heritage Centre which was full of Swahili artwork. I also made Seán try Zappa which was my favourite drink in Uganda. He was not a fan!
 
-We did a three day safari of Tarangire, Lake Manyara & Ngorongoro Crater. We saw loads of lions, elephants, zebras, gazelles, wildebeest, buffalo, giraffes, hippos, flamingos, hyenas and Timon & Pumba as they call them. Also apparently a cheetah and rhino but even with binoculars my eyesight wasn't good enough to confirm. The safari was far more tiring than I expected, three days being more than enough and I hope I never hear La Isla Bonita by Madonna again! But I'm so glad we made time for it, particularly Ngorongoro which is a collapsed volcano that has all the above animals living in its crater.
+We did a three day safari of Tarangire, Lake Manyara & Ngorongoro Crater. We saw loads of lions, elephants, zebras, gazelles, wildebeest, buffalo, giraffes, hippos, flamingos, hyenas, and Timon & Pumba as they call them. Also apparently a cheetah and rhino but even with binoculars my eyesight wasn't good enough to confirm. The safari was far more tiring than I expected, three days being more than enough and I hope I never hear La Isla Bonita by Madonna again! But I'm glad we made time for it, particularly Ngorongoro which is a collapsed volcano that has all the above animals living in its crater.
 
 I was sad to leave by the end, having really enjoyed my time in Tanzania. We had gotten to know a local taxi driver who did our airport run for $40 and with that we were truly back to reality. A final goodbye to the mountain from our plane window and to a place which had a profound impact on us both in such a short time.
 
@@ -239,7 +239,7 @@ It took time to process just how surreal some of the views and experiences were 
 
 Tanzania is a stunning and very accessible English speaking country. Arusha was great to see and I'm glad we fit in such a diverse safari experience while there. I loved learning about tanzanite, the rare blue gem found only below Kilimanjaro, and the markets were amazing. With more time I would have taken the $50 flight to Zanzibar for a few days, but that will have to wait.
 
-I couldn't be more thankful for Ally, Abou, Hiza, Juma, Fabian, Hemed, Seif, Musa & Ridhwan. Their diligence made the trip much more special, turning the summit bid into a full team effort. In Moshi & Arusha I could tell that pride in ones work was central to Tanzanian culture. Our team showed this everyday by going above and beyond in their own ways of helping. It was a privilege to learn about Swahili culture, to see the love everyone has for the mountain, the passion for ones work and to have the chance to show the gratitude they deserve. Something that's clearly appreciated. 
+I couldn't be more thankful for Ally, Abou, Hiza, Juma, Fabian, Hemed, Seif, Musa & Ridhwan. Their diligence made the trip much more special, turning the summit bid into a full team effort. In Moshi & Arusha, I could tell that pride in ones work was central to Tanzanian culture. Our team showed this everyday by going above and beyond in their own ways of helping. It was a privilege to learn about Swahili culture, to see the love everyone has for the mountain, the passion for ones work, and to have the chance to show the gratitude they deserve. Something that's clearly appreciated. 
 
 Thank you for reading,  
 Asante Sana

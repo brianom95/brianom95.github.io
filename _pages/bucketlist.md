@@ -169,8 +169,8 @@ image:  '/images/bucket0.jpeg'
 3. [<mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>](https://www.brianbeyond.com/elbrus)
 4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
 5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
-6. Everest, Nepal (8,848m)
-7. Vinson, Antarctica (4,892m)
+6. Vinson, Antarctica (4,892m)
+7. Everest, Nepal (8,848m)
 
 ---
 

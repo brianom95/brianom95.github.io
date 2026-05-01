@@ -22,21 +22,37 @@ The original Bass List remains the most widely accepted and is shown below:
    11 September 2022  
 
 <p align="center" width="100%">
-    <img src="/images/kili0.jpeg">
+    <img width="400" src="/images/kili0.jpeg">
 </p>
 
 2. **[Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko)**  
    25 November 2022  
-   
+
+<p align="center" width="100%">
+    <img width="400" src="/images/kosi0.jpeg">
+</p>
+
 3. **[Elbrus, Russia (5,642m)](https://www.brianbeyond.com/elbrus)**  
    29 July 2024  
-   
+
+<p align="center" width="100%">
+    <img width="400" src="/images/elbrus1.jpeg">
+</p>
+
 4. **Aconcagua, Argentina (6,961m)**  
    09 February 2025  
-   
+
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua0.jpeg">
+</p>
+
 5. **Denali, USA (6,190m)**  
    10 June 2025  
-   
+
+<p align="center" width="100%">
+    <img width="400" src="/images/denali0.jpeg">
+</p>
+
 6. **Everest, Nepal (8,848m)**  
    TBC  
     

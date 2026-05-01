@@ -18,7 +18,7 @@ The original Bass List remains the most widely accepted and is shown below:
 
 ## My Climbs
 
-1. **[Kilimanjaro, Tanzania (5,895m)](https://www.brianbeyond.com/kilimanjaro)**  
+#### Kilimanjaro, Tanzania (5,895m)
 11 September 2022
 
 A week above the clouds for Seán Ennis & I. This was our first taste of how humbling high altitude can be. We learned so much about the mountain, acllimatising, and managing our bodies. This is a popular climb for good reason that I often recommend.
@@ -29,36 +29,44 @@ Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
     <img width="400" src="/images/kili0.jpeg">
 </p>
 
-2. **[Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko)**  
+#### Kosciuszko, Australia (2,228m)
 25 November 2022  
+
+Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 
 <p align="center" width="100%">
     <img width="400" src="/images/kosi0.jpeg">
 </p>
 
-3. **[Elbrus, Russia (5,642m)](https://www.brianbeyond.com/elbrus)**  
+#### Elbrus, Russia (5,642m) 
 29 July 2024  
+
+Read my full article [here](https://www.brianbeyond.com/elbrus).
 
 <p align="center" width="100%">
     <img width="400" src="/images/elbrus1.jpeg">
 </p>
 
-4. **Aconcagua, Argentina (6,961m)**  
+#### Aconcagua, Argentina (6,961m) 
 09 February 2025  
+
+Full article coming soon.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua0.jpeg">
 </p>
 
-5. **Denali, USA (6,190m)**  
+#### Denali, USA (6,190m)
 10 June 2025  
+
+Full article coming soon.
 
 <p align="center" width="100%">
     <img width="400" src="/images/denali0.jpeg">
 </p>
 
-6. **Everest, Nepal (8,848m)**  
+#### Everest, Nepal (8,848m)  
 TBC  
     
-7. **Vinson, Antarctica (4,892m)**  
+#### Vinson, Antarctica (4,892m)  
 TBC  

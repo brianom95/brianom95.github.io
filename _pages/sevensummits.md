@@ -20,7 +20,11 @@ The original Bass List remains the most widely accepted and is shown below:
 
 1. **[Kilimanjaro, Tanzania (5,895m)](https://www.brianbeyond.com/kilimanjaro)**  
    11 September 2022  
-   
+
+<p align="center" width="100%">
+    <img src="/images/kili0.jpeg">
+</p>
+
 2. **[Kosciuszko, Australia (2,228m)](https://www.brianbeyond.com/kosciuszko)**  
    25 November 2022  
    

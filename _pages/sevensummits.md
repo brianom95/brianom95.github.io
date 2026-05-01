@@ -22,7 +22,7 @@ The original Bass List remains the most widely accepted and is shown below:
 11 September 2022  
 Machame Route (7 Days)
 
-A week above the clouds with Seán. This was my first taste of how humbling high altitude can be. Learning about the mountain, gear, acclimatising, and managing our bodies. This is a popular climb for good reason that I often recommend. Just don't underestimate that summit night!
+A week above the clouds with Seán, reaching the roof of Africa. This was my first taste of how humbling high altitude can be. Learning all about acclimatising, gear, fuelling, pacing, managing our bodies, and the history of the mountain. This is a popular climb for good reason that I often recommend. Just don't underestimate the summit night!
 
 Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 
@@ -32,9 +32,9 @@ Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 
 ### Kosciuszko, Australia (2,228m)
 25 November 2022  
-Charlotte Pass Route
+Charlotte Pass Route (1 Day)
 
-A fun day hike with Eoin & Emily, through Australia's biggest ski resort. We 
+A fun day hike with Eoin & Emily, through Australia's biggest ski resort. We took a scenic route past frozen rivers and huts, before climbing the snowy dome, and sliding back down again. The road trip and stay nearby are as important as the climb, full of koalas, kangaroos, gum trees and tinny's.
 
 Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 

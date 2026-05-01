@@ -20,7 +20,10 @@ The original Bass List remains the most widely accepted and is shown below:
 
 1. **[Kilimanjaro, Tanzania (5,895m)](https://www.brianbeyond.com/kilimanjaro)**  
 11 September 2022
-Full write-up [here](https://www.brianbeyond.com/kilimanjaro).
+
+A week above the clouds for Seán Ennis & I. This was our first taste of how humbling high altitude can be. We learned so much about the mountain, acllimatising, and managing our bodies. This is a popular climb for good reason that I often recommend.
+
+Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 
 <p align="center" width="100%">
     <img width="400" src="/images/kili0.jpeg">

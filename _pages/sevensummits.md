@@ -52,6 +52,8 @@ Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 29 July 2024  
 South Route (6 Days)
 
+An eye opening trip to the Caucasus with Adam. This is a spectacular volcano that dwarfs everything around it. We worked hard in training, allowing us to climb without the assistance of the snow cats. The 15 hour summit bid took everything we had, but made it all the better to persevere. This is one of the best value climbs in the world too.
+
 Read my full article [here](https://www.brianbeyond.com/elbrus).
 
 <p align="center" width="100%">
@@ -61,6 +63,8 @@ Read my full article [here](https://www.brianbeyond.com/elbrus).
 ### Aconcagua, Argentina (6,961m) 
 09 February 2025   
 Normal Route (15 Days)
+
+The hardest thing I've ever done. Low down this is a harsh, dry, desert environment, that tries to break down your motivation as you acclimatise. Above is steep, freezing, and battered by 200km/hr winds. From my group of eight, only one made it to the summit. This is a story of extensive preperation being just barely enough to overcome severe AMS.
 
 Full article coming soon.
 

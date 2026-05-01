@@ -16,6 +16,8 @@ The original Bass List remains the most widely accepted and is shown below:
     <img src="/images/kosi1.webp">
 </p>
 
+---
+
 ## My Climbs
 
 ### Kilimanjaro, Tanzania (5,895m)
@@ -30,6 +32,8 @@ Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
     <img width="400" src="/images/kili0.jpeg">
 </p>
 
+---
+
 ### Kosciuszko, Australia (2,228m)
 25 November 2022  
 Charlotte Pass Route (1 Day)
@@ -41,6 +45,8 @@ Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 <p align="center" width="100%">
     <img width="400" src="/images/kosi0.jpeg">
 </p>
+
+---
 
 ### Elbrus, Russia (5,642m) 
 29 July 2024  
@@ -62,6 +68,8 @@ Full article coming soon.
     <img width="400" src="/images/aconcagua0.jpeg">
 </p>
 
+---
+
 ### Denali, USA (6,190m)
 10 June 2025  
 West Buttress Route (25 Days)
@@ -72,8 +80,12 @@ Full article coming soon.
     <img width="400" src="/images/denali0.jpeg">
 </p>
 
+---
+
 ### Everest, Nepal (8,848m)  
 TBC  
-    
+
+---
+
 ### Vinson, Antarctica (4,892m)  
 TBC  

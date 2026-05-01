@@ -19,7 +19,8 @@ The original Bass List remains the most widely accepted and is shown below:
 ## My Climbs
 
 #### Kilimanjaro, Tanzania (5,895m)
-11 September 2022
+11 September 2022  
+Machame Route (7 Days)
 
 A week above the clouds with Seán. This was my first taste of how humbling high altitude can be. Learning about the mountain, gear, acclimatising, and managing our bodies. This is a popular climb for good reason that I often recommend. Just don't underestimate that summit night!
 
@@ -31,6 +32,9 @@ Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 
 #### Kosciuszko, Australia (2,228m)
 25 November 2022  
+Charlotte Pass Route
+
+A fun day hike with Eoin & Emily, through Australia's biggest ski resort. We 
 
 Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 
@@ -40,6 +44,7 @@ Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 
 #### Elbrus, Russia (5,642m) 
 29 July 2024  
+South Route (6 Days)
 
 Read my full article [here](https://www.brianbeyond.com/elbrus).
 
@@ -48,7 +53,8 @@ Read my full article [here](https://www.brianbeyond.com/elbrus).
 </p>
 
 #### Aconcagua, Argentina (6,961m) 
-09 February 2025  
+09 February 2025   
+Normal Route (15 Days)
 
 Full article coming soon.
 
@@ -58,6 +64,7 @@ Full article coming soon.
 
 #### Denali, USA (6,190m)
 10 June 2025  
+West Buttress Route (25 Days)
 
 Full article coming soon.
 

@@ -21,7 +21,7 @@ The original Bass List remains the most widely accepted and is shown below:
 #### Kilimanjaro, Tanzania (5,895m)
 11 September 2022
 
-A week above the clouds for Seán Ennis & I. This was our first taste of how humbling high altitude can be. We learned so much about the mountain, acllimatising, and managing our bodies. This is a popular climb for good reason that I often recommend.
+A week above the clouds with Seán. This was my first taste of how humbling high altitude can be. Learning about the mountain, gear, acclimatising, and managing our bodies. This is a popular climb for good reason that I often recommend. Just don't underestimate that summit night!
 
 Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 

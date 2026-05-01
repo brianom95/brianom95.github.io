@@ -90,10 +90,10 @@ Full article coming soon.
 
 ---
 
-### Everest, Nepal (8,848m)  
+### Vinson, Antarctica (4,892m)  
 TBC  
 
 ---
 
-### Vinson, Antarctica (4,892m)  
+### Everest, Nepal (8,848m)  
 TBC  

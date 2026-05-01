@@ -60,6 +60,8 @@ Read my full article [here](https://www.brianbeyond.com/elbrus).
     <img width="400" src="/images/elbrus1.jpeg">
 </p>
 
+---
+
 ### Aconcagua, Argentina (6,961m) 
 09 February 2025   
 Normal Route (15 Days)
@@ -77,6 +79,8 @@ Full article coming soon.
 ### Denali, USA (6,190m)
 10 June 2025  
 West Buttress Route (25 Days)
+
+One of the world's coldest and most isolated peaks, just south of the Arctic Circle. We landed by ski plane on the Kalhitna Glacier, then spent weeks hauling 50kg of supplies on our sleds. We went from burning under 24 hour sunlight, to near frostbite on the -40°C summit. This is a technical and exhausting climb that is considered more challenging than Everest. The mountain actively works against you, making it hard work both physically and mentally.
 
 Full article coming soon.
 

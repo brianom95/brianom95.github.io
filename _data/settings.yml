@@ -10,7 +10,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 
 stats:
-  marathons: 24
+  marathons: 25
   countries: 75
   marathoncounties: 12
   campingcounties: 19

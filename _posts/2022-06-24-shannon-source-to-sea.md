@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shannon Source to Sea
-description: Phase 1; The first solo unsupported descent of Ireland’s longest river. 10yrs of kayaking led to this.
+description: Phase 1: The first solo unsupported descent of Ireland’s longest river. 10yrs of kayaking led to this.
 date:   2022-06-24 12:00:0 +0000
 image:  '/images/shannon0.webp'
 tags:   [Kayaking]

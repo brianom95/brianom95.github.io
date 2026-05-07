@@ -61,7 +61,9 @@ I'd recommend to hike northbound. This saves the best sections for last, provide
     <img width="400" src="/images/wicklow4.webp">
 </p>
 
-## Day 1 - Clonegal to Tinahely (26km)
+## Day 1
+#### Clonegal to Tinahely
+*Distance: 27km. Ascent: 680m*
 
 It was cloudy and warm when I setoff at 10:00am. Clonegal was both tiny and empty, though I did meet some other groups in the first few hours. Five Belgian lads had stopped to cook dinner only 5km from the start, and a Czech couple were struggling to find their location on paper maps. Both groups doing the full trail and in for a long week with very heavy bags. 
 
@@ -73,7 +75,9 @@ When I passed the Dying Cow pub, I was ready to setup camp. It looked to be road
     <img width="400" src="/images/wicklow5.webp">
 </p>
 
-## Day 2 - Tinahely to Mucklagh Hut (27km)
+## Day 2
+#### Tinahely to Mucklagh Hut
+*Distance: 29.5km. Ascent: 1,010m*
 
 Within an hour the trail goes off road and passes some amazing camp spots. I would push on to here the first day if I ever hike it again. I saw donkeys, horses and some beautiful scenery as the hills ramp up. Crossing a nice river, I took a lunch break and filtered fresh water before facing the steepest hill. 
 
@@ -85,7 +89,9 @@ After a hilly day, I arrived at Mucklagh hut. My legs were wrecked and I was del
     <img width="400" src="/images/wicklow6.webp">
 </p>
 
-## Day 3 - Mucklagh Hut to Brushers Gap Hut (36km)
+## Day 3
+#### Mucklagh Hut to Brushers Gap Hut
+*Distance: 40.39km. Ascent: 1,220m*
 
 The long day! More forest roads led to some beautiful boardwalk sections. I met tonnes of hikers, none of whom were Irish but all loving it. Mostly older people who were on package tours with fancy hotels and bag shuttles. The day brought lots of hills, rivers, sheep and eventually the official halfway sign! 
 
@@ -99,7 +105,9 @@ On the short hike out of Laragh I saw four deer. Tight trails became beautiful, 
     <img width="400" src="/images/wicklow7.webp">
 </p>
 
-## Day 4 - Brushers Gap Hut to Glencullen (33km)
+## Day 4
+#### Brushers Gap Hut to Glencullen
+*Distance: 33km. Ascent: 1,440m*
 
 Definitely into the best of the trail now, with lots of cool sections. Also sheep everywhere and a nice house that had a drinking water tap for hikers. Soon I was passing Roundwood which meant I was onto the section I'd done previously. Begin the trip down memory lane!
 
@@ -115,7 +123,9 @@ I had planned to camp around here but pushed on so my final day would be shorter
     <img width="400" src="/images/wicklow8.webp">
 </p>
 
-## Day 5 - Glencullen to Marlay Park (15km)
+## Day 5
+#### Glencullen to Marlay Park
+*Distance: 15km. Ascent: 260m*
 
 The sunrise was amazing, rising over the iconic Great Sugarloaf hill. As I crossed from the Wicklow Mountains into the Dublin Mountains I could see the city lights in the distance. The last section is quite unique, like exposed desert, until tracks bring you down into the city. It's amazing how quickly it goes from open mountain to busy city roads. 
 

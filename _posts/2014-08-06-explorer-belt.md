@@ -57,7 +57,9 @@ We'd been told it would be Slovakia or Hungary, so we made notes and learned com
     <img width="400" src="/images/belt3.webp">
 </p>
 
-## Day 1 - Plešivec to Tornal'a
+## Day 1
+*Plešivec to Tornal'a*
+
 The start was a blur. Our surprise flights were to a remote airport in Hungary via Heathrow. Driven in a bus we anxiously awaited being dropped off, watching daylight fade with no idea where we were. At a small unmarked bus shelter our team number was called and off we went.
 
 It's overwhelming and surreal as you read everything in the envelope. The finish line was Eger in Hungary. There's fun projects and complex projects, some must be started today. A phone to send locations to daily. Rules and explanation letters, but none of that mattered. Firstly there was a map of Hungary and we'd no idea where we were on it.
@@ -70,7 +72,9 @@ After 10km we reached Tornal'a and it was already getting late. We had a funny i
     <img width="400" src="/images/belt4.webp">
 </p>
 
-## Day 2 - Tornal'a to Martinová
+## Day 2
+**Tornal'a to Martinová**
+
 We chose a route that was roughly half and half in each country. Starting south towards the border, we'd move to smaller rural roads heading west until the next main border crossing. We set off early and the smaller roads had a very different feel. The first town we walked through didn't feel very safe, with lots of barbed wire and unwelcoming looks. Every house has a guard dog and they all went crazy as we approached. A big concrete prison in the town centre and a statue of a man with an AK-47 had us happy to leave.
 
 It was the next town we were to stay. Much smaller with maybe twenty houses but a similar uncomfortable feel. Almost all had guard dogs so it was tough to ask but we found a lovely old couple at the very last house who took us in. 
@@ -81,7 +85,9 @@ One of the fun projects was to cook a local meal. They didn't speak English but 
     <img width="400" src="/images/belt5.webp">
 </p>
 
-## Day 3 - Martinová to Ožďany
+## Day 3
+#### Martinová to Ožďany
+
 We decided to only sleep along the main road after yesterdays towns. Walk the back roads but don't sleep there. It had been hot all along but went over 40°C today. No amount of water was enough and 5km short of our goal we were shattered and headed for a row of houses. 
 
 The first few looked run down and dodgy. We tried one with a beautiful garden and an old couple on a swing. We thought they said yes, but they guided us back to one of the dodgy looking houses and arranged that we stay there. The farmer came out and was very nice. He showed us to a field of cows where we fit the tent between the droppings and got our dinner cooking.
@@ -92,7 +98,9 @@ Todays lesson was don't judge a book by its cover. The farmers daughter came dow
     <img width="400" src="/images/belt6.webp">
 </p>
 
-## Day 4 - Ožďany to Radzovce
+## Day 4
+### Ožďany to Radzovce
+
 By now the heat had dictated an unsociable schedule. From here on we got up at 4:00am, walking by 5:30am latest. We preferred to not stop until the walk was over as this is easier on the feet. Being done the walk well before midday was always a nice mental treat too. 
 
 The €2.50 budget was really easy to stick to. When we got our salami and cheese rolls today, the rolls were reduced from 6 cent to 4 cent. With those savings we got an extra one each! That with a yoghurt and some fruit was the usual lunch and it was always astonishingly cheap. 

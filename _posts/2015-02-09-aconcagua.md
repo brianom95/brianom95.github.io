@@ -8,10 +8,6 @@ tags:
 ---
 This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself on the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline. The rest is discipline, mental toughness, and patience.
 
-<p align="center" width="100%">
-    <img width="400" src="/images/aconcagua01.webp">
-</p>
-
 ## Background
 
 Aconcagua is a peak in the Cordillera Principal of the Andes. It's entirely in Argentina, but just 15km from the Chilean border. It's the highest point outside of Asia and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
@@ -23,7 +19,7 @@ While often labeled a non-technical mountain, Aconcagua is far from a simple hik
 Aconcagua is defined by a stark, desert-like beauty. The journey begins in valleys of dusty paths and hardy shrubs where mules transport gear to base camp. Higher slopes consist of vast scree fields and the famous penitentes (tall, blade-like snow formations created by intense sun and dry winds). Finally, the high-altitude zone is a world of rock and permanent ice, where the Canaleta (a steep couloir) serves as the final gatekeeper to the summit.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua02.jpeg">
+    <img width="400" src="/images/aconcagua03.jpeg">
 </p>
 
 ## Acclimatisation is Key
@@ -45,7 +41,7 @@ I chose to climb via the normal route with INKA; the biggest operator on the mou
 To help with this I opted for their 15-day extended itinerary. This includes two extra days at base camp, one of which you climb Cerro Bonete (5,050m), allowing for more acclimatization. They offer this as a free add on to their standard 13 day itinerary. I strongly feel everyone should do this. I had this booked and paid for several months in advance.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua03.jpeg">
+    <img width="400" src="/images/aconcagua02.jpeg">
 </p>
 
 ## Preparation & Training

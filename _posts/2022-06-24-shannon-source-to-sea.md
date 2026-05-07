@@ -63,7 +63,8 @@ I've paddled most of the river before with friends so had some familiarity. Plan
     <img width="400" src="/images/shannon4.webp">
 </p>
 
-## Day 1 - Dowra to Battlebridge (32km)
+## Day 1
+#### Dowra to Battlebridge (32km)
 
 After visiting the Shannon Pot, it was already 3:30pm when I unloaded the boat in Dowra. Exceptionally low river levels made it difficult to get on the water and to get going. The first 3km were so low that much had to be walked. It was scrapey, slow and frustrating but eventually eased as I approached Lough Allen. Then came the wind.
 
@@ -77,7 +78,8 @@ Two other kayakers had been exploring the river below and camped in the same spo
     <img width="400" src="/images/shannon5.webp">
 </p>
 
-## Day 2 - Battlebridge to Lough Ree (67km)
+## Day 2
+#### Battlebridge to Lough Ree (67km)
 
 This day was stunning. Glassy reflections on the water and the sun beating down. Still windy, especially on straight river sections, but I worked hard for 13hrs straight to make up for yesterdays shorter day. Lots of interesting bridges, fields of donkeys and people in boats passing and talking to me regularly. One guy threw me a Mars bar from 100m away with incredible accuracy. I also learned that Mars bars float!
 
@@ -91,7 +93,8 @@ Finally I saw an island too good to pass up and setup camp there. Definitely the
     <img width="400" src="/images/shannon6.jpeg">
 </p>
 
-## Day 3 - Lough Ree to Shannonbridge (49km)
+## Day 3
+#### Lough Ree to Shannonbridge (49km)
 
 This day felt like endless lakes, starting with the rest of Lough Ree which passed without issue. The morning was gloomy and overcast, but relatively still. I was able to make long crossings and exit the lake with a minimum of unnecessary distance. I was feeling the low water levels with no real flow in the river, but I put the head down through the headwinds regardless. I was excited for Athlone weir which is usually a fun slide but today was another annoying portage.
 
@@ -103,7 +106,8 @@ Downstream of Shannonbridge, I passed West Offaly Power Station. After 10hrs of 
     <img width="400" src="/images/shannon7a.webp">
 </p>
 
-## Day 4 - Shannonbridge to Lough Derg (54km)
+## Day 4
+#### Shannonbridge to Lough Derg (54km)
 
 Nice sections of river today brought cool trees, lots of curious cows and the first rapid that required my helmet at Meelick Weir. I even saw a white tailed eagle overhead. All fun things but I was feeling zapped. The long days were taking their toll by now. 
 
@@ -123,7 +127,8 @@ When I eventually reached the bank it wasn't necessary to get off the water anym
     <img width="400" src="/images/shannon8.webp">
 </p>
 
-## Day 5 - Lough Derg to Limerick (48km)
+## Day 5
+#### Lough Derg to Limerick (48km)
 
 I woke to an eerily calm lake. Complete silence and no ripples from any distant boats. It was still overcast so I did the last of my long crossings quickly. It was a slog. Killaloe was waking up as I celebrated ticking off the last lake, and the sun even came out. Parteen Weir in the distance marked the next phase and through the headwinds I eventually got there.
 

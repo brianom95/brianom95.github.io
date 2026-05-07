@@ -6,7 +6,7 @@ date:   2015-02-09 12:00:0 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   
 ---
-This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of Kilimanjaro. It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself against the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline; the rest is discipline, patience, and mental grit.
+This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of Kilimanjaro. It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself against the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline. The rest is discipline, mental toughness, and patience.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua1.webp">
@@ -18,7 +18,7 @@ Aconcagua is a peak in the Cordillera Principal of the Andes. It's entirely in A
 
 A frozen mummy discovered at 5,300m suggests the mountain held spiritual significance for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded ascent was in 1897 by Matthias Zurbriggen. Today, the peak is a magnet for those seeking to test themselves against extreme altitude.
 
-While often labeled a non-technical mountain, Aconcagua is far from a simple hike. The expedition typically takes two to three weeks and is full of challenges like thin air, rough terrain, and rockfall. The lower valleys often reach 30°C with no shade. High up, the notorious *Viento Blanco* (White Wind) bring gusts exceeding 100km/h and temperatures as low as -30°C. 
+While often labeled a non-technical mountain, Aconcagua is far from a simple hike. The expedition typically takes two to three weeks and is full of challenges like thin air, rough terrain, and rockfall. The lower valleys reach 30°C with no shade. High up, the notorious *Viento Blanco* (White Wind) bring gusts exceeding 100km/h and temperatures as low as -30°C. 
 
 Aconcagua is defined by a stark, desert-like beauty. The journey begins in valleys of dusty paths and hardy shrubs where mules transport gear to base camp. Higher slopes consist of vast scree fields and the famous penitentes (tall, blade-like snow formations created by intense sun and dry winds). Finally, the high-altitude zone is a world of rock and permanent ice, where the Canaleta (a steep couloir) serves as the final gatekeeper to the summit.
 
@@ -28,11 +28,11 @@ Aconcagua is defined by a stark, desert-like beauty. The journey begins in valle
 
 ## Acclimatisation
 
-Aconcagua sits on the edge of what the human body can endure. Each breath contains about 40% of the oxygen available at sea level. Acclimatization is the focus of the first two weeks. Mountaineers follow a rotation system: carrying gear to a higher camp, then descending to a lower altitude to sleep. This "climb high, sleep low" method triggers the body to produce more red blood cells, slowly inching your physiological ceiling higher.
+Aconcagua sits on the edge of what the human body can endure. Each breath contains about 40% of the oxygen available at sea level, so acclimatisation is essential. Mountaineers follow a rotation system: carrying gear to a higher camp, then descending to a lower altitude to sleep. This "climb high, sleep low" method triggers the body to produce more red blood cells, slowly inching your physiological ceiling higher.
 
-There's a physical toll to these altitudes. The body deteriorates as it adapts; muscle loss is common, and the dry air leads to the severe cough. Recovery is exceptionally slow so a simple headache can take days to resolve. You are constantly balancing the need to move upward against the risk of HACE and HAPE, which are overly common here.
+There's a physical toll to these altitudes. The body deteriorates as it adapts. Muscle loss is common, and the dry air can lead to a severe cough. Recovery is exceptionally slow so a simple headache can take days to resolve. You are constantly balancing the need to move upward against the risk of High Altitude Cerebral & Pulmonary Edema (HACE & HAPE), which are overly common here.
 
-The final thousand meters are a place where the body is essentially dying, just very slowly. While many use Diamox to help on lower peaks, it's advised against here as it can mask symptoms. Success here is achieved through hydration, fuelling, pacing, and the patience to survive consecutive days in a low-oxygen environment.
+The final thousand meters are a place where the body is essentially dying, just very slowly. While many use Diamox to help on lower peaks, it's advised against here as it can mask symptoms. Success here is achieved through hydration, fuelling, pacing, and the patience to survive consecutive days in a low-oxygen environment. There are no shortcuts.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua3.jpeg">
@@ -40,11 +40,11 @@ The final thousand meters are a place where the body is essentially dying, just 
 
 ## Preparation & Planning
 
-I chose to climb with INKA as they are by far the biggest operator on the mountain. They charge $4,600 for logistics, guiding and food. I had to book my park permit seperately for $600 which was done online. I also 
+I chose to climb with INKA as they are by far the biggest operator on the mountain. They charge $4,600 for logistics, guiding, tents, food, water and mules. I had to book my permit seperately for $600 which was done online. I also got evacuation insurance through Inka for $180. They're known for having great food and tenst on the mountain, but don't have the best success rate.
 
-Logistics begin in Mendoza, Argentina. For this expedition, I climbed with INKA, whose $4,600 fee included logistics, guides, and the $600 permit. I opted for their 15-day "extended" itinerary, allowing for two extra days of acclimatization at base camp—a decision that proved vital.
+To help with this I opted for their 15-day extended itinerary. This includes two extra days at base camp, one of which you climb Cerro Bonete (5,050m), allowing for more acclimatization. They offer this as a free add on to their standard 13 day itinerary. I strongly feel everyone should do this.
 
-I had been training since climbing Elbrus in 2024, running marathons and completing multiple 5,000m+ peaks in the months prior. However, gear was my biggest headache. After a partner had to cancel, I had to courier my 150L duffel from Ireland to Santiago and navigate a nightmare of customs delays before finally flying it to Mendoza. 
+I had been training since climbing Elbrus in 2024, running marathons and completing multiple 6,000m+ peaks in the months prior. However, gear was my biggest headache. After a partner had to cancel, I had to courier my 150L duffel from Ireland to Santiago and navigate a nightmare of customs delays before finally flying it to Mendoza. 
 
 Every gram counts on Aconcagua. While mules carry the bulk of the gear (up to 60kg per person) to base camp, once you move higher, you are the porter. I used an Osprey Mutant 90 pack and traded trail runners for triple-insulated mountaineering boots. To manage the 5-7 liters of daily hydration required, we spent hours melting snow on gas stoves. I also packed emergency meds like Dexamethasone and Nifedipine, leaving absolutely nothing to chance.
 

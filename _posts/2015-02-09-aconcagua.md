@@ -203,7 +203,7 @@ Back on with the heavy bags, and up the snowy ridges we had practiced on yesterd
 As we reached the traverse, the wind was biting. We put on crampons, climbed a steep slope to the start of it, then took a group photo. The mood was heavy as someone had died here two days prior, and we were all asked how we were feeling before starting.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua13a.jpeg">
+    <img width="400" src="/images/aconcagua13.jpeg">
 </p>
 
 Halfway across the traverse, Attila collapsed with AMS. Marcelo realized the Belgians were also becoming "zombies"—depleted of energy and unable to walk straight. He made a bold call: he sent Gonzalo down with the Belgians and Attila (who needed a Dexamethasone injection and a rope to descend safely), while he and I pushed for the summit. Alex cried at having to turn back, but it was the right decision; he later needed medical intervention himself.

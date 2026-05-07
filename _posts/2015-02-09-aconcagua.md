@@ -10,7 +10,7 @@ WORK IN PROGRESS
 
 ## Background
 
-Located in the heart of the Principal Cordillera of the Andes in Argentina, Aconcagua is the highest point in both the Western and Southern Hemispheres. Standing at **6,961m**, it is the "Second Summit" of the world and the highest peak outside of Asia. Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, situated roughly 110km from the city of Mendoza and just 15km from the Chilean border. Its name is believed to derive from the Quechua word *Akunkawa*, meaning "Stone Sentinel."
+Aconcagua sits in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the Seven Summits. Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, situated roughly 110km from the city of Mendoza and just 15km from the Chilean border. Its name is believed to derive from the Quechua word *Akunkawa*, meaning "Stone Sentinel."
 
 For centuries, the mountain held deep spiritual significance for the Inca Empire. In 1985, the discovery of a frozen child mummy at 5,300m proved that the Incas were performing high-altitude sacrifices on its slopes long before modern mountaineering began. Despite this ancient history, the first recorded European ascent didn't occur until 1897, when Matthias Zurbriggen reached the summit alone. Today, the peak is a magnet for those seeking to test themselves against extreme altitude without the requirement of technical vertical climbing.
 

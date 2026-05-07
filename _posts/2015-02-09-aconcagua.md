@@ -9,7 +9,7 @@ tags:
 This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of Kilimanjaro. It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself against the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline. The rest is discipline, mental toughness, and patience.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua1.webp">
+    <img width="400" src="/images/aconcagua01.webp">
 </p>
 
 ## Background
@@ -23,7 +23,7 @@ While often labeled a non-technical mountain, Aconcagua is far from a simple hik
 Aconcagua is defined by a stark, desert-like beauty. The journey begins in valleys of dusty paths and hardy shrubs where mules transport gear to base camp. Higher slopes consist of vast scree fields and the famous penitentes (tall, blade-like snow formations created by intense sun and dry winds). Finally, the high-altitude zone is a world of rock and permanent ice, where the Canaleta (a steep couloir) serves as the final gatekeeper to the summit.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua2.jpeg">
+    <img width="400" src="/images/aconcagua02.jpeg">
 </p>
 
 ## Acclimatisation
@@ -35,7 +35,7 @@ There's a physical toll to these altitudes. The body deteriorates as it adapts. 
 The final thousand meters are a place where the body is essentially dying, just very slowly. While many use Diamox to help on lower peaks, it's advised against here as it can mask symptoms. Success here is achieved through hydration, fuelling, pacing, and the patience to survive consecutive days in a low-oxygen environment. There are no shortcuts.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua3.jpeg">
+    <img width="400" src="/images/aconcagua03.jpeg">
 </p>
 
 ## Planning
@@ -43,6 +43,10 @@ The final thousand meters are a place where the body is essentially dying, just 
 I chose to climb via the normal route with INKA; the biggest operator on the mountain. They charge $4,600 for logistics, guiding, tents, food, water and mules. I had to book my permit seperately for $600 which was done online. I also got evacuation insurance through Inka for $180. They're known for having great food and camps on the mountain, but don't have the best success rate.
 
 To help with this I opted for their 15-day extended itinerary. This includes two extra days at base camp, one of which you climb Cerro Bonete (5,050m), allowing for more acclimatization. They offer this as a free add on to their standard 13 day itinerary. I strongly feel everyone should do this. I had this booked and paid for several months in advance.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua04.jpeg">
+</p>
 
 ## Preparation & Training
 
@@ -53,7 +57,7 @@ I had recently climbed Elbrus in July 2024 and used that opportunity to buy all 
 Every gram counts on Aconcagua. While mules carry the bulk of the gear to base camp, once you move higher, you are the porter. My Osprey Mutant 90L pack was amazing and easily fit all I needed. I had Olympus Mons triple layer boots, heavy down layers, and a Rab -40degC sleeping bag. The mountain is tough on gear. Renting boots and crampons may be worth it, but I preferred to know mine fit right.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua4.jpeg">
+    <img width="400" src="/images/aconcagua04.jpeg">
 </p>
 
 ## Arrival in Mendoza
@@ -73,12 +77,14 @@ Along the way, we crossed a bridge built for Brad Pitt’s movie *Seven Years in
 ## Day 2
 #### Acclimatisation Hike
 
-A short hike to Plaza Francia (4,200m). The walk was flat and easy, but the heat was relentless. The Russians found the pace tough, but I felt comfortable. As we reached our lunch spot, clouds began to roll in over the southern face of the mountain, then descended back to camp. That night we were treated to another great sunset. I met Anar, a quiet Kazakh girl who was doing a private trip with INKA; I’d end up climbing with her months later on Denali.
+A short hike to Plaza Francia (4,200m). The walk was flat and easy, but the heat was relentless. The Russians found the pace tough, but I felt comfortable. As we reached our lunch spot, clouds began to roll in over the southern face of the mountain, then we descended back to camp. 
+
+That night we were treated to another great sunset. I met Anar here, a quiet Kazakh girl who was doing a private trip with INKA. She'd follow the same schedule as me the whole way up, and I’d end up climbing with her months later on Denali. She had climbed Everest the year before.
 
 ## Day 3
 #### Move to Plaza de Mulas (4,370m)
 
-An 18km trek to Plaza de Mulas. It was roasting. The trail followed flat, dusty plains with zero shade. We found one big rock at the halfway point to huddle under for lunch. I drank massive amounts of water as the second half of the day turned hilly and even hotter. We met an Elite Exped group who had summited with Nims the night before. He had helicoptered in to join for their summit night, and helicoptered out again since.
+An 18km trek to Plaza de Mulas. It was roasting. The trail followed flat, dusty plains with zero shade. We found one big rock at the halfway point to huddle under for lunch, and I drank massive amounts of water as the second half of the day turned hilly and even hotter. We met an Elite Exped group who had summited with Nims the night before. He had helicoptered in to join for their summit night, and helicoptered out again since.
 
 When the camp finally came into sight, I was allowed to walk ahead. I reached it 30 minutes before the others, which gave me time to cool down and rehydrate. I needed more water, and shade. Plaza de Mulas is a massive tent city. I got a three person tent to myself, and the food provided by INKA was exceptional.
 
@@ -87,7 +93,7 @@ When the camp finally came into sight, I was allowed to walk ahead. I reached it
 
 A rest day to let the body get used to 4,370m. We walked up to see a frozen lake surrounded by penitentes. These are jagged blades of snow and ice formed by intense winds. While altitude usually kills appetite, I forced myself to eat as I knew how important it was. Most people lose weight up here, but I actually gained 2kg by the end of the trip. 
 
-The giant INKA dome tent is a great place to spend a rest day. It has board games, books, a cafe, wifi, and charging stations. There is a €10 fee for "non-phone" devices, but no one ever noticed that it was my powerbank inside my phone case. 
+The giant INKA dome tent is a great place to spend a rest day. It has board games, books, a cafe, WiFi, and charging stations. There is a €10 fee for "non-phone" devices, but no one ever noticed that it was usually my powerbank inside my phone case!
 
 ## Day 5
 #### Cerro Bonete (5,052m)
@@ -96,58 +102,64 @@ Our mini summit day. We had a 7:30am breakfast and took a packed lunch from the 
 
 We skiied down the volcanic sand on the descent, and by the time we got back, the rest my group had arrived. The lead guide Marcelo had an easy going demeanor, but it didn't hide his obvious experience. Now I finally got to meet the rest of my team.
 
-We had two Belgians; Alex who wants to be the first to summit every country's high point, and his friend Francois who is joining him in these early climbs. Alex has about ten climbed so far, but this is the first at high altitude. Then there was John from the USA, and Attila from Hungary, who had both climbed Kilimanjaro and had bigger aspirations than me if this went well. Then finally there were two Argentinians Augustine who hoped to be a guide one day, and Francesco who is Marcelo's father. Our eighth member had twisted his ankle and already left, so now we were seven.
+We had two Belgians; Alex who wants to be the first to summit every country's high point, and his friend Francois who is joining him. He was very early in his journey, and this was the first test of high altitude. Then there was John from the USA, and Attila from Hungary, who had both climbed Kilimanjaro and big aspirations if this went well. Then finally two Argentinians; Augustine who hoped to be a guide one day, and Francesco who is Marcelo's father. Our eighth member had twisted his ankle and already left, so now we were seven.
 
 ## Day 6
 #### Rest Day
 
-A lazy day of chatting. I talked with Attilla about his life in China and Alex about his goal to climb the high point of every country. We packed 6kg of food for the high camps and filled 5L of water each since the snow at Camp 1 had melted. We walked to a turquoise lake for a swim, where Francois cut his foot. That night was a massive BBQ. Most had wine, but I only took a sip; I was focused on drinking 5L of water with electrolytes every day.
+A lazy day of chatting. I talked with Attila who has been working in China for years, and with Alex about his maybe overly ambitious goal. We were briefed on the plan by Marcelo, and packed 6kg each of food for the high camps. The water source at Camp 1 had dried up with the heat too so we each had to pack 5L of water for there.
+
+With bags packed for tomorrow, we walked to a turquoise lake for a swim, where Francois cut his foot. That night was a massive BBQ. Most had wine, but I only took a sip; I was focused on drinking my 5L of water each day, lots of it loaded with electrolytes.
 
 ## Day 7
 #### Carry to Camp 1: Plaza Canada (5,050m)
 
-We carried our stashed gear to Camp 1 (Canada - 5,050m). It took 3.5 hours at a very slow pace. After a brief struggle to find the tent key, we stashed our loads and headed back. John and I skied down the slopes at high speed, while the others struggled with the descent. Marcelo was impressed with our energy. That night, John received news of an emergency at home and had to arrange a helicopter out. We shared a final bottle of wine with him, sad to see him go.
+Today we would carry the heaviest of our gear to Plaza Canada (5,050m), leave it there, and return. It took 3.5 hours at a very slow pace to get up. After a brief struggle to find the tent key, we stashed our loads and headed back. John and I skiied down the slopes at high speed, while the others struggled a bit more with the descent. 
+
+Marcelo was impressed with the group overall, happy that we were bonding well as a team. The day had been fun, with great views and a nice freedom in descending with an empty bag. That night, John received news of an emergency at home and had to arrange a helicopter out. We all had some wine with him that night, sad to see him go.
 
 ## Day 8
 #### Rest Day
 
-John flew out at 9am. I spent the day journaling and playing Jenga with Attilla. We had another big asado barbecue. The Belgians were suffering from hangovers, and the wind began to roar. It was a terrifying evening; the tents were blowing everywhere, and the toilet became a literal wind tunnel. I used my one included shower token that night—a glorious ten-euro luxury before the high mountain.
+John flew out at 9am. I spent the day journaling and playing chess with Attila. We had another big barbecue for dinner, this time with asado. The Belgians suffered through hangovers, and the wind began to roar. It was a terrifying evening; the tents were blowing everywhere, and the toilet became a wind tunnel. Showers were $10 but we had one token included in our trip. I used mine that night and it felt so good.
 
 ## Day 9
 #### Move to Camp 1: Plaza Canada (5,050m)
 
-A slow start as we assessed the wind damage. Some tents at Camp 1 had actually blown away, but our stashed gear was safe. After a breakfast of bacon and quesadillas, we moved up at 1pm. I chose to wear my heavy summit boots from here to protect my feet from the cold, despite the weight. We ate dinner outside in a rare moment of calm.
+A slow start as we assessed the wind damage. Some tents at Camp 1 had actually blown away, but our stashed gear was safe. After a breakfast of bacon and quesadillas, we moved up at 1pm. It was largely uneventful, just slow and steady. I shared a tent with Attila from here on and I got us the flattest spot. We ate dinner outside in a rare moment of calm, looking down at the large camp below.
 
 ## Day 10
-#### Move to Camp 2: Nido (5,550m)
+#### Move to Camp 2: Nido de Cóndores (5,550m)
 
-The carry to Camp 2 (Nido de Cóndores) was heavy. Everyone had gear hanging off 100L packs, but I felt good in my Osprey Mutant 90. Camp 2 is a vibrant hub, but many solo climbers were sick from drinking unboiled lake water. We were meticulous about filtering and boiling everything. The sunset that night was incredible, placing us well above a sea of clouds.
+The carry to Nido was heavy. The others all had gear hanging off up to 100L packs, but I felt good in my Mutant 90. The weight sits well, and I wore my triple boots from here to save weight. Camp 2 is busy, but many solo climbers were sick at the time from drinking unboiled lake water. We were more careful about filtering and boiling. The sunset that night was incredible, sitting far above a sea of clouds.
 
 ## Day 11
 #### Snow Skills
 
-I met Karol again, who confirmed a "miraculously clear" weather window for our summit day. We spent the afternoon on snow skills; the group was struggling, so I helped people with their crampons and was eventually allowed to go off and take photos while they practiced. We had pizza for dinner and felt the excitement building in camp.
+I met Karol again today who confirmed the "miraculously clear" weather window for our summit day. We spent the afternoon on snow skills during which the group was struggling. I helped with crampons and in some of the exercises, but eventually was allowed do my own thing and take photos as they had to spend a lot of time on the basics. We had pizza for dinner (somehow), and you could feel the excitement building in the camp.
 
 ## Day 12
-#### Move to Camp 3: Colera (6,000m)
+#### Move to Camp 3: Cólera (6,000m)
 
-The move to 6,000m was stressful. Attilla was so slow that I had to take down our tent alone every time, which led to the guide, Gonzalo, complaining to me about the speed. We passed the Berlin camp and scrambled up to our scenic spot at Colera. A huge snowstorm hit that night. I drank 7.5L of water and tried to rest, but Attilla spent 1.5 hours loudly packing and shining his light in my face. I got very little sleep.
+Back on with the heavy bags, and up the snowy ridges we had practiced on yesterday. We passed Camp Berlin with its cool cross nestled in the rocks, then scrambled up to our scenic spot at Camp Cólera. A huge snowstorm hit that night, bringing a cold chill. I drank lots of water early in the day, packed my things, had a big dinner with hot chocolate, and tried to rest early. For a few reasons I got very little sleep, but I still had no symptoms of altitude sickness and felt ready.
 
 ## Day 13
 #### Summit Night (6,961m)
 
-3am wake-up. We started at 4:30am over a solid snowpack. It was freezing. By sunrise, Francesco and Augustine were too tired to continue and turned back together. At the traverse, the wind was biting. We put on crampons and took a group photo, though the mood was heavy as someone had died here two days prior.
+3am wake-up, 3:30am breakfast (I love these quesadillas), and 4:30am out onto the fresh snow. There wasn't much wind but it was freezing. We left at this time so the sun would be up for the traverse; a steep track that wraps the whole face of the mountain, joining our ridge to the caneleta that leads to the summit. By sunrise, Francesco and Augustine were too tired and turned back together. 
 
-Halfway across the traverse, Attilla collapsed with AMS. Marcelo realized the Belgians were also becoming "zombies"—depleted of energy and unable to walk straight. He made a bold call: he sent Gonzalo down with the Belgians and Attila (who needed a Dexamethasone injection and a rope to descend safely), while he and I pushed for the summit. Alex cried at having to turn back, but it was the right decision; he later needed medical intervention himself.
+As we reached the traverse, the wind was biting. We put on crampons, climbed a steep slope to the start of it, then took a group photo. The mood was heavy as someone had died here two days prior, and we were all asked how we were feeling before starting.
+
+Halfway across the traverse, Attila collapsed with AMS. Marcelo realized the Belgians were also becoming "zombies"—depleted of energy and unable to walk straight. He made a bold call: he sent Gonzalo down with the Belgians and Attila (who needed a Dexamethasone injection and a rope to descend safely), while he and I pushed for the summit. Alex cried at having to turn back, but it was the right decision; he later needed medical intervention himself.
 
 Marcelo and I stashed our gear at La Cueva (6,700m) and moved up the Canaleta with just light fleeces over sun hoodies. The final pull was hell. Hypoxia makes you feel like you're exercising with one lung. I found a rhythm: two deep pressure breaths per step. If my vision blurred, I sat and breathed. Marcelo eventually took my phone and filmed me as I rounded the final corner to the summit cross.
 
-Clouds rolled in as I reached the top. I was the only one of the eight to make it. We spent 30 minutes soaking it in with other climbers before the threat of a snowstorm forced us to "leg it." We descended from the summit to Camp 3 in a staggering 1 hour and 45 minutes.
+Clouds rolled in as I reached the top. I was the only one of the eight to make it. We spent 30 minutes soaking it in with other climbers before the threat of a snowstorm forced us to leg it. We descended from the summit to Camp 3 in 1hr 45mins, only slowing briefly to walk with Karol who had successfully gotten his five climbers to the top. Back at camp was sombre, with disappointment all around, but I was quietly proud and was able to share that with Marcelo.
 
 ## Day 14
 #### Move to Plaza de Mulas (4,370m)
 
-I descended to PDM as fast as possible, desperate for oxygen. My brain was exhausted; I had tunnel vision and felt like I was walking through a dream. I waited for the group at each camp, finally reaching PDM an hour ahead of them. We celebrated with beers and wine, and the guides gave us free shower tokens.
+I descended to Plaza de Mulas as fast as I could. My brain was exhausted and the sun wasn't helping. I waited for the group at each camp, finally reaching Plaza de Mulas an hour ahead of them. That time and extra water did me a lot of good. We celebrated with beers and wine that night, and the guides gave us the greatest gift; free shower tokens!
 
 ## Day 15
 #### The Long Walk Out
@@ -160,3 +172,6 @@ The recovery was slow. I suffered from brain fog and dizzy spells for eight days
 I eventually took a bus to San Juan to visit my friend Aisling. We spent a week kayaking and eating while my body recovered. She was moving to Vancouver, so she took my 150L duffel with her—saving me the courier nightmare for my upcoming Denali trip.
 
 Aconcagua is an endurance test like no other. I was meticulous: three months of pre-acclimatizing, 5-7 liters of water daily, and a 2.5kg weight gain to survive the appetite loss. I have massive respect for this mountain; it doesn't just make you sick, it makes you feel like you are dying. But if you work for it, leave nothing to chance, and respect the "Stone Sentinel," the view from the top of the Americas is worth every grueling step.
+
+Lack of ecperience brought unneccesary stresses at times. Attila brought too much and took 30mins longer to pack each morning than others. This would leave me taking down our tent alone every time, and usually Gonzalo complaining to me when it wasn't down as quick as the others. 
+

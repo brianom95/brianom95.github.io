@@ -30,7 +30,7 @@ I hiked the Salkantay in December 2024, during my six month trip of Backpacking 
 
 ## Day 1
 #### Cusco to Soraypampa
-*Distance: 15.6km. Ascent: 750m*
+*Distance: 15.6km | Ascent: 750m*
 
 We were picked up at 5am by Cesar & our chef, Bisente. During the 4hr drive, and over nice pancakes, we got to know the other clients; Laura, Carol, Renata & Lee. Our start was a cold and unassuming roadside by a condor statue. From here, you walk up a grassy hill to reach an Inca road and aqueduct we'd follow all day. The water channels are 500 years old and still supply local villages. It's remarkably flat, with a gentle downhill all the way to camp. Large birds flew overhead (which Cesar knew lots about), and cows wandered the fields below.
 
@@ -42,7 +42,7 @@ We reached camp quickly, leaving our gear in wooden cabins that only leaked a li
 
 ## Day 2
 #### Soraypampa to Collpapampa
-*Distance: 32.1km. Ascent: 910m*
+*Distance: 32.1km | Ascent: 910m*
 
 The calm after the storm. A stunning morning revealed the snowy peaks ahead. We walked for hours along beautiful rivers and valleys, wondering how nice the lake must look today. As we climbed, we began to see our goal; Salkantay Pass (4,630m). This crossing is why people say the route is more scenic than the Inca Trail, and luckily the weather was perfect for us. It's a steep approach, and our group appeared well acclimatised with no issues all the way to the top.
 
@@ -54,7 +54,7 @@ We spent time taking photos on the barren rocks, then descended into the next va
 
 ## Day 3
 #### Collpapampa to Lucmabamba
-*Distance: 18.7km. Ascent: 100m*
+*Distance: 18.7km | Ascent: 100m*
 
 A whole day of huge rivers and deep valleys. There were no dramatic views of snow-capped peaks, but to me this was almost more beautiful. Huge rapids like you'd see in [India](india) had me constantly excited, discussing kayaking lines with Kevin. Our route was mostly gradual track, except a few very steep and very muddy exceptions. We crossed big bridges and fjords, feeling tiny compared to the huge jungle and waterfalls around us. 
 
@@ -66,7 +66,7 @@ We had a short stop for lunch, then after some confusion finally found our accom
 
 ## Day 4
 #### Lucmabamba to Aguas Calientes
-*Distance: 24.7km. Ascent: 1,250m*
+*Distance: 24.7km | Ascent: 1,250m*
 
 An original Inca staircase rises from the village and took so long to climb. It brought us into humid rainforest, with great views at any clearing. On top was a small observatory and the first glimpses of Machu Picchu, though still too far above to really see. On our descent to the final valley we passed Llactapata, a building thought to be a rest stop and road side shrine. Here Cesar gave us the full history of the area.
 
@@ -80,7 +80,7 @@ A simple hostel and a well deserved shower had us ready to explore. I bought bad
 
 ## Day 5
 #### Aguas Calientes to Machu Picchu
-*Distance: 14.5km. Ascent: 660m*
+*Distance: 14.5km | Ascent: 660m*
 
 We left at 5:00am to tackle the final 1,800 steps. It was pitch black, following the river to a bridge, then trudging up the steep trail. Cesar took the zig-zagging bus with some of the others, but these final steps felt important after the past few days. Kevin & I reached the top just as the sun rose, and were one of the first to enter that day. The light morning fog lifted as if just for us. I had now seen five of the Seven Wonders, and this was easily the most impressive.
 

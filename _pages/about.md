@@ -12,9 +12,9 @@ At university, adventure took a sharper edge when I discovered whitewater kayaki
 
 When COVID closed borders I turned inward and local. That period produced some of the hardest but most rewarding challenges of my life:
 - Completing an [Ironman](https://www.brianbeyond.com/killarney-full-ironman) after learning to swim from scratch.
-- Walking [100,000 steps in a day](https://www.brianbeyond.com/hundred-thousand-steps).
+- Walking [100,000 steps](https://www.brianbeyond.com/hundred-thousand-steps) in a day.
 - Self-supported FKT for climbing all of Ireland's [County High Points](https://www.brianbeyond.com/county-tops) in one week.
-- Self-supported FKT for climbing all of Ireland's [Munro's](https://www.brianbeyond.com/irish-munros) (3,000ft Peaks) in one day.
+- Self-supported FKT for climbing all the [Irish Munro's](https://www.brianbeyond.com/irish-munros) (3,000ft Peaks) in one day.
 - Brian’s Big Three; kayaking the [River Shannon](https://www.brianbeyond.com/shannon-source-to-sea) from source to sea, hiking the [Wicklow Way](https://www.brianbeyond.com/wicklow-way) and cycling [Malin to Mizen](https://www.brianbeyond.com/malin-to-mizen) — all in one month.
 
 As travel reopened, so did bigger horizons. To date, I’ve:

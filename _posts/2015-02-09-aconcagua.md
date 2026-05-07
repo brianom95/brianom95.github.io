@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  Aconcagua (6,970m)
+title:  Aconcagua (6,961m)
 description: Climbing the Highest Peak in South America.
 date:   2015-02-09 12:00:0 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   
 ---
+IN PROGRESS
+
 ## Introduction
 
 Aconcagua stands at 6,961 metres in the Andes of Argentina and is the highest mountain outside of Asia. Often referred to as a “trekking peak at altitude,” it is still a serious high-altitude objective, where weather, wind, and acclimatisation play a decisive role.
@@ -17,7 +19,7 @@ For me, it was a step up in both altitude and commitment after Kilimanjaro — a
 
 The approach through the Horcones Valley is long, dry, and exposed. Unlike Kilimanjaro, there is no lush forest or gradual ecological transition — just rock, dust, and vast empty space framed by towering Andean peaks.
 
-Base Camp (Plaza de Mulas) feels more like a temporary high-altitude city than a wilderness camp, with climbers from all over the world preparing for summit rotations.
+Base Camp (Plaza de Mulas) feels more like a temporary high-altitude city than a wilderness camp, with climbers from all over the world prepare for summit rotations.
 
 
 ## Acclimatisation and Weather

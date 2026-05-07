@@ -24,7 +24,7 @@ Finally, I wrapped my sleeping bag and clothes around the tent poles to protect 
 
 ## Day 1
 #### Milngavie to Drymen  
-*Distance: 22.9km. Ascent: 335m*
+*Distance: 22.9km | Ascent: 335m*
 
 In the centre of Milngavie is a tall obelisk that marks the start, conveniently beside a Gregg's which was perfect for breakfast. There were hikers everywhere, in various sized groups or with charity t-shirts on, all wanting the same photo. After I got mine I set off, past the cool metal signs and benches that told a history of the trail. It was instantly calm, following a river through beautiful parks with big trees and squirrels, leading away from the streets of the town and towards the hilly backdrop that was appearing ahead.
 
@@ -38,7 +38,7 @@ Our fast pace had me at my planned campsite at 12:00am. They weren't even lettin
 
 ## Day 2
 #### Drymen to Loch Lomond  
-*Distance: 19.4km. Ascent: 506m*
+*Distance: 19.4km | Ascent: 506m*
 
 I heard other hikers passing early but chose to sleep in. A light rain shower meant I had to pack a wet tent, but it was very pretty when I got walking so I didn't mind. Big hills were covered in a rolling fog which framed the silhouettes of lonely trees. I overtook groups with huge rucksacks on the first climb. The trail was wide enough that doing so was easy. The summit revealed gaps in the clouds which gave the first glimpses of Loch Lomond.
 
@@ -52,7 +52,7 @@ That night I met Eddy, a climber and PhD candidate (now Doctor), who shared my s
 
 ## Day 3
 #### Loch Lomond to Beinglas  
-*Distance: 29km. Ascent: 929m*
+*Distance: 29km | Ascent: 929m*
 
 Eddy and I hiked together and were blessed with the weather all day. Beautiful statues, fields of bluebells, loads of birds, wild goats and lake views, all topped off with an intense sun overhead. I was admiring hand carved sculptures all the way and time flew by while chatting. Eddy had planned to sleep in a shelter on route but it was so full of people that she opted for my campsite instead, which we arrived at around 4:00pm. 
 
@@ -64,7 +64,7 @@ I excitedly tucked into a big meaty dinner with extra haggis, and a Guinness in 
 
 ## Day 4
 #### Beinglas to Bridge of Orchy  
-*Distance: 31.37km. Ascent: 875m*
+*Distance: 31.37km | Ascent: 875m*
 
 It was foggier today, passing more sculptures and a weird totem pole as I left the lakes behind and entered the highlands. I opted for the later of two camping options to have a long day today and a short one tomorrow, while Eddy chose the opposite. I got back to my own fast pace, watching the huge hills appear beyond fields of gorse and highland cows.
 
@@ -76,7 +76,7 @@ Around 3:00pm I reached Bridge of Orchy, setting up my tent beside the low river
 
 ## Day 5
 #### Bridge of Orchy to Kingshouse  
-*Distance: 19.6km. Ascent: 534m*
+*Distance: 19.6km | Ascent: 534m*
 
 An unfortunate start to the day; finding that a mouse had eaten through my rucksack to steal my bag of nuts. Lesson learnt on leaving it out in the porch! Todays route followed nice signposts to a rolling landscape that looked empty and desolate. I caught up to a couple from Colorado named Sandy & Hal. They were on a package trip with bags shuttled between hotels, as they've done around the world on other trails. We hiked the last hour together.
 
@@ -88,7 +88,7 @@ A strong wind blew from one of the valleys ahead which had us happy to arrive at
 
 ## Day 6
 #### Kingshouse to Kinlochleven  
-*Distance: 34km. Ascent: 983m*
+*Distance: 34km | Ascent: 983m*
 
 It was foggy and cold the next morning. Eddy & I hiked quickly past barren looking mountains, with only gorse adding a touch of colour. We reached the devils staircase early, which is an old zig zagging military road that's one of the steepest and most popular sections of the hike. I love hills so I enjoyed the climb, and we stopped for lunch on the top. It's nice seeing the pride people have as they reach the summit, but after getting caught to take too many group photos we headed on.
 
@@ -104,7 +104,7 @@ The clouds cleared and the weather was far nicer than we expected. Time flew by 
 
 ## Day 7
 #### Kinlochleven to Fort William  
-*Distance: 15.6km. Ascent: 309m*
+*Distance: 15.6km | Ascent: 309m*
 
 The final day was short and sweet. Anna wanted to visit the Isle of Skye before flying home, so we started early to reach town before her 10:00am bus. The route was mostly gravel roads that winded through valleys and over hills, except for a few side trails that we usually missed at first because of chatting. There was some light rain showers, but it was mostly a lovely morning, emerging from a forest for the final road section into Fort William.
 
@@ -118,7 +118,7 @@ Later that day I met Eddy and three German friends from the trail. We got dinner
 
 ## Day 8
 #### Ben Nevis  
-*Distance: 15.2km. Ascent: 1,320m*
+*Distance: 15.2km | Ascent: 1,320m*
 
 Someone told me years ago that the real finish point for the West Highland Way is the summit of Ben Nevis; the UK's highest summit at 1,345m. I've been to Fort William four times (all kayaking trips) and never climbed it, so now was my opportunity, and it seemed like a fitting end. I opted for lightweight trail running gear to see how fast I could do it, with my trekking poles used to launch me up every step. It took 15mins to jog to the base where I drank more water, took some deep breaths, and as I stood on the bridge I started my watch.
 

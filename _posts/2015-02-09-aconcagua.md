@@ -2,11 +2,11 @@
 layout: post
 title:  Aconcagua (6,961m)
 description: Climbing the Highest Peak in South America.
-date:   2015-02-09 12:00:0 +0000
+date:   2015-02-09 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   
 ---
-This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of Kilimanjaro. It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself against the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline. The rest is discipline, mental toughness, and patience.
+This is my account of climbing one of the world's highest and harshest peaks. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). It's a place of extreme aridity, punishing winds, and a physiological toll that turns the final push into a battle of attrition. After months of acclimatization, I joined a team in Mendoza to test myself on the highest peak outside of Asia. I learned that on a mountain with a 30% success rate, physical fitness is only the baseline. The rest is discipline, mental toughness, and patience.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua01.webp">
@@ -50,9 +50,9 @@ To help with this I opted for their 15-day extended itinerary. This includes two
 
 ## Preparation & Training
 
-I had been travelling continuously since climbing Elbrus. In this time I kept my fitness up with runs and hikes. In November, my travels moved to South America and I began acclimatising in the Andes. I climbed a 6,000m peak every two weeks in the lead up to Aconcagua, summiting Cotopaxi, Chimborazo, Chachani & Huayna Potosí. In between I did 10+ hikes over 5,000m (including a swim at that altitude), and felt as acclimatised as I've ever been.
+I had been travelling continuously since climbing Elbrus. In this time I kept my fitness up with runs and hikes. In November, my travels moved to South America and I began acclimatising in the Andes. I climbed a 6,000m peak every two weeks in the lead up to Aconcagua, summiting [Cotopaxi](ecuador), [Chimborazo](ecuador), [Chachani](chachani) & [Huayna Potosí](huayna). In between I did 10+ hikes over 5,000m (including a swim at that altitude), and felt as acclimatised as I've ever been.
 
-I had recently climbed Elbrus in July 2024 and used that opportunity to buy all the gear I'd need for future trips. Only problem was it was in Ireland while I was backpacking South America. I had to courier my 150L duffel to Santiago (no one will deliver to Argentina) and navigate a nightmare of customs delays before finally flying it to Mendoza. I would not recommend, but after many phone calls I did get it.
+I had recently climbed [Elbrus](elbrus) in July 2024 and used that opportunity to buy all the gear I'd need for future trips. Only problem was it was in Ireland while I was backpacking South America. I had to courier my 150L duffel to Santiago (no one will deliver to Argentina) and navigate a nightmare of customs delays before finally flying it to Mendoza. I would not recommend, but after many phone calls I did get it.
 
 Every gram counts on Aconcagua. While mules carry the bulk of the gear to base camp, once you move higher, you are the porter. My Osprey Mutant 90L pack was amazing and easily fit all I needed. I had Olympus Mons triple layer boots, heavy down layers, and a Rab -40degC sleeping bag. The mountain is tough on gear. Renting boots and crampons may be worth it, but I preferred to know mine fit right.
 
@@ -248,11 +248,11 @@ Brian
 
 Next Stop: Denali
 
-## Trip Video
-
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua16.jpeg">
 </p>
+
+## Trip Video
 
 <div style="max-width: 300px; margin: 0 auto 40px auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">

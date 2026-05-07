@@ -142,7 +142,7 @@ It was high tide so Gower was deep underwater, but I stopped for a while by the 
 
 A group of women were celebrating a retirement and gave me a slice of cake on hearing what I had done. It was overwhelming to sit in the sun and think about how much had happened this week. Relive the highs and lows, feeling proud of somehow making it, and knowing I didn't have to paddle tomorrow. 
 
-250km in 96hrs
+250km in 96hrs.
 
 <p align="center" width="100%">
     <img width="400" src="/images/shannon10.webp">

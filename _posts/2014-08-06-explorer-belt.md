@@ -58,7 +58,7 @@ We'd been told it would be Slovakia or Hungary, so we made notes and learned com
 </p>
 
 ## Day 1
-*Plešivec to Tornal'a*
+#### Plešivec to Tornal'a
 
 The start was a blur. Our surprise flights were to a remote airport in Hungary via Heathrow. Driven in a bus we anxiously awaited being dropped off, watching daylight fade with no idea where we were. At a small unmarked bus shelter our team number was called and off we went.
 
@@ -73,7 +73,7 @@ After 10km we reached Tornal'a and it was already getting late. We had a funny i
 </p>
 
 ## Day 2
-**Tornal'a to Martinová**
+#### Tornal'a to Martinová
 
 We chose a route that was roughly half and half in each country. Starting south towards the border, we'd move to smaller rural roads heading west until the next main border crossing. We set off early and the smaller roads had a very different feel. The first town we walked through didn't feel very safe, with lots of barbed wire and unwelcoming looks. Every house has a guard dog and they all went crazy as we approached. A big concrete prison in the town centre and a statue of a man with an AK-47 had us happy to leave.
 
@@ -99,7 +99,7 @@ Todays lesson was don't judge a book by its cover. The farmers daughter came dow
 </p>
 
 ## Day 4
-### Ožďany to Radzovce
+#### Ožďany to Radzovce
 
 By now the heat had dictated an unsociable schedule. From here on we got up at 4:00am, walking by 5:30am latest. We preferred to not stop until the walk was over as this is easier on the feet. Being done the walk well before midday was always a nice mental treat too. 
 
@@ -114,7 +114,7 @@ What a night. He got his daughter and her husband to call over because they spok
 </p>
 
 ## Day 5
-Radzovce to Kisterenye
+#### Radzovce to Kisterenye
 
 Bright and early we crossed the border into Hungary. Through the awfully busy city of Salgotarjan which we were glad to leave, and along some stunning countryside roads. We'd been disciplined today and finished our walk in Kisterenye at 9:30am. 
 
@@ -131,7 +131,7 @@ That night we got our first and only shower of the trip. A black barrel full of 
 </p>
 
 ## Day 6
-Kisterenye to Jobbágyi
+#### Kisterenye to Jobbágyi
 
 There had to be bad days and this was it! During our walk a man stopped us who'd been cutting hedges and tried to steal Adam's watch that was on his shoulder strap. We pushed him off and he took Adam's sunglasses instead. We walked away and he didn't come after us, but there was a machete on the ground that he'd been cutting with so it was nerve wracking. 
 
@@ -144,7 +144,7 @@ On route two young teenage boys on their bikes started following us and made us 
 </p>
 
 ## Day 7
-Jobbágyi to Gyöngyössolymos
+#### Jobbágyi to Gyöngyössolymos
 
 Mostly laughing off yesterdays troubles we felt good. How could it get worse! The walk went fine and some writeups in town the same. At 4:00pm we looked for a place to stay. Our rates had been okay so far, usually with 30mins to find a place. Not today. 
 
@@ -157,7 +157,7 @@ I dropped my bag and helped Adam over. I set up the tent, we cooked dinner and h
 </p>
 
 ## Day 8
-Gyöngyössolymos to Detk
+#### Gyöngyössolymos to Detk
 
 Success, he could walk on it. By the end of this day I felt like I was doing damage to my own joints with the weight, but we managed 20km. The roads were beautiful and we passed a castle and a small zoo.
 
@@ -168,7 +168,7 @@ The house that took us in was really nice and we slept in their beautiful orchar
 ![]({{site.baseurl}}/images/belt11.webp)
 
 ## Day 9
-Detk to Verpelét
+#### Detk to Verpelét
 
 We redistributed gear between us. The end was in sight and Adam's ankle held up fine. There's a rule that you must stay at least 10km from the finish the last night. We'd drawn a 10km circle on the map and there was one town exactly 11km out. It was an obvious choice so we headed for there.
 
@@ -185,7 +185,7 @@ This was a busy night and once again I fell asleep onto the books with my head t
 </p>
 
 ## Day 10
-Verpelét to Eger
+#### Verpelét to Eger
 
 The last early start and a cheerful walk brought us to Eger, clocking a total of 222.5km. There was a one hour window for finishing and we joined all the teams at picnic benches close by. Quick write ups and we used some of our remaining money to get ice creams and relaxed in the sun. It was surreal to walk into base camp after preparing so long for this journey. All anxieties of injuries and issues gone. Tired, sun burnt, stinky and delighted.
 

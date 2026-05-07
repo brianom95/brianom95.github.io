@@ -165,7 +165,7 @@ John flew out at 9am. I spent the day journaling and playing chess with Attila. 
 A slow start as we assessed the wind damage. Some tents at Camp 1 had actually blown away, but our stashed gear was safe. After a breakfast of bacon and quesadillas, we moved up at 1pm. It was largely uneventful, just slow and steady. I shared a tent with Attila from here on and I got us the flattest spot. We ate dinner outside in a rare moment of calm, looking down at the large camp below.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua9.jpeg">
+    <img width="400" src="/images/aconcagua9a.jpeg">
 </p>
 
 ## Day 10

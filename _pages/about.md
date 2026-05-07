@@ -15,14 +15,14 @@ When COVID closed borders I turned inward and local. That period produced some o
 - Walking [100,000 steps](https://www.brianbeyond.com/hundred-thousand-steps) in a day.
 - Self-supported FKT for climbing all of Ireland's [County High Points](https://www.brianbeyond.com/county-tops) in one week.
 - Self-supported FKT for climbing all the [Irish Munro's](https://www.brianbeyond.com/irish-munros) (3,000ft Peaks) in one day.
-- Brian’s Big Three; kayaking the [River Shannon](https://www.brianbeyond.com/shannon-source-to-sea) from source to sea, hiking the [Wicklow Way](https://www.brianbeyond.com/wicklow-way) and cycling [Malin to Mizen](https://www.brianbeyond.com/malin-to-mizen) — all in one month.
+- Brian’s Big Three; kayaking the [River Shannon](https://www.brianbeyond.com/shannon-source-to-sea) source to sea, hiking the [Wicklow Way](https://www.brianbeyond.com/wicklow-way), and cycling [Malin to Mizen](https://www.brianbeyond.com/malin-to-mizen) — all in one month.
 
 As travel reopened, so did bigger horizons. To date, I’ve:
 - Visited {{ site.data.settings.stats.countries }} countries.
 - Run {{ site.data.settings.stats.marathons }} marathons, including one on every continent.
 - Climbed five of the Seven Summits: [Kilimanjaro](https://www.brianbeyond.com/kilimanjaro), [Kosciuszko](https://www.brianbeyond.com/kosciuszko), [Elbrus](https://www.brianbeyond.com/elbrus), Aconcagua and Denali.
 - Summited major peaks including [Mont Blanc](https://www.brianbeyond.com/mont-blanc), [Cotopaxi](https://www.brianbeyond.com/ecuador), [Chimborazo](https://www.brianbeyond.com/ecuador), [Chachani](https://www.brianbeyond.com/chachani) and [Huayna Potosí](https://www.brianbeyond.com/huayna).
-- Hiked some of the world's best multiday trails, like the [Tour du Mont Blanc](https://www.brianbeyond.com/tmb), [Kerry Way](https://www.brianbeyond.com/kerry-way), [West Highland Way](https://www.brianbeyond.com/west-highland-way), [Santa Cruz Trek](https://www.brianbeyond.com/santa-cruz), [Colca Canyon](https://www.brianbeyond.com/colca), [Salkantay to Machu Picchu](https://www.brianbeyond.com/salkantay), Huemul Circuit, Torres del Paine O-Trek, and K2 Base Camp.
+- Hiked some of the world's best multiday trails, like the [Tour du Mont Blanc](https://www.brianbeyond.com/tmb), [Kerry Way](https://www.brianbeyond.com/kerry-way), [West Highland Way](https://www.brianbeyond.com/west-highland-way), [Santa Cruz Trek](https://www.brianbeyond.com/santa-cruz), [Colca Canyon](https://www.brianbeyond.com/colca), [Salkantay to Machu Picchu](https://www.brianbeyond.com/salkantay), Huemul Circuit, O-Trek, and K2 Base Camp.
 
 Every climb and expedition so far has been a first-time success, something I attribute to obsessive preparation, patience and respect for the environment I’m moving through.
 
@@ -35,4 +35,4 @@ My long-term goal is simple to say and hard to do:
 
 This blog exists to document the process. The planning, failures, logistics, training and lessons that sit behind big goals. If there’s a common thread to everything here, it’s that meaningful achievements are built long before the summit photo.
 
-If you’re here for mountains, endurance, travel, or the honest reality of chasing ambitious goals alongside a full-time career then you’re in the right place.
+If you’re here for mountains, endurance, travel, or the honest reality of chasing ambitious goals alongside a full-time career then you’re in the right place. Come along on this journey with me as I discover how much can be packed into one life.

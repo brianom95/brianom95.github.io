@@ -14,7 +14,7 @@ This is my account of climbing one of the world's highest and harshest peaks. Ac
 
 ## Background
 
-Aconcagua is a peak in the Cordillera Principal of the Andes in Argentina. It is the highest point outside of Asia and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park that's 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
+Aconcagua is a peak in the Cordillera Principal of the Andes. It's entirely in Argentina, but just 15km from the Chilean border. It's the highest point outside of Asia and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
 
 A frozen mummy discovered at 5,300m suggests the mountain held spiritual significance for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded ascent was in 1897 by Matthias Zurbriggen. Today, the peak is a magnet for those seeking to test themselves against extreme altitude.
 
@@ -40,7 +40,9 @@ The final thousand meters are a place where the body is essentially dying, just 
 
 ## Preparation & Planning
 
-Logistics begin in Mendoza, Argentina. Permits are a bureaucratic necessity involving local bank payments and in-person visits to the park office. For this expedition, I climbed with INKA, whose $4,600 fee included logistics, guides, and the $600 permit. I opted for their 15-day "extended" itinerary, allowing for two extra days of acclimatization at base camp—a decision that proved vital.
+I chose to climb with INKA as they are by far the biggest operator on the mountain. They charge $4,600 for logistics, guiding and food. I had to book my park permit seperately for $600 which was done online. I also 
+
+Logistics begin in Mendoza, Argentina. For this expedition, I climbed with INKA, whose $4,600 fee included logistics, guides, and the $600 permit. I opted for their 15-day "extended" itinerary, allowing for two extra days of acclimatization at base camp—a decision that proved vital.
 
 I had been training since climbing Elbrus in 2024, running marathons and completing multiple 5,000m+ peaks in the months prior. However, gear was my biggest headache. After a partner had to cancel, I had to courier my 150L duffel from Ireland to Santiago and navigate a nightmare of customs delays before finally flying it to Mendoza. 
 

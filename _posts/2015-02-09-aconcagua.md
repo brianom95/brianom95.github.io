@@ -28,11 +28,11 @@ Aconcagua is defined by a stark, desert-like beauty. The journey begins in valle
 
 ## Acclimatisation
 
-At nearly 7,000m, Aconcagua sits on the edge of what the human body can endure. Each breath contains about 40% of the oxygen available at sea level. On "The Stone Sentinel," acclimatization is the entire focus of the first two weeks. Mountaineers use a "rotation" system: carrying gear to a higher camp, then descending to a lower altitude to sleep. This "climb high, sleep low" method triggers the body to produce more red blood cells, slowly inching your physiological "ceiling" higher.
+Aconcagua sits on the edge of what the human body can endure. Each breath contains about 40% of the oxygen available at sea level. Acclimatization is the focus of the first two weeks. Mountaineers follow a rotation system: carrying gear to a higher camp, then descending to a lower altitude to sleep. This "climb high, sleep low" method triggers the body to produce more red blood cells, slowly inching your physiological ceiling higher.
 
-The physical toll is immense. Over three weeks, the body deteriorates even as it adapts; muscle loss is common, and the dry air leads to the "Andean cough." Recovery is exceptionally slow; a simple headache at 5,500m can take days to resolve. You are constantly balancing the need to move upward against the risk of HACE and HAPE, which are far more common here than on shorter African treks. 
+There's a physical toll to these altitudes. The body deteriorates as it adapts; muscle loss is common, and the dry air leads to the severe cough. Recovery is exceptionally slow so a simple headache can take days to resolve. You are constantly balancing the need to move upward against the risk of HACE and HAPE, which are overly common here.
 
-The final thousand meters exist in a realm where the body is essentially dying. While many use Diamox to ease the transition, success here is measured by hydration, pacing, and the patience to survive twenty grueling days in a low-oxygen environment.
+The final thousand meters are a place where the body is essentially dying, just very slowly. While many use Diamox to help on lower peaks, it's advised against here as it can mask symptoms. Success here is achieved through hydration, fuelling, pacing, and the patience to survive consecutive days in a low-oxygen environment.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua3.jpeg">

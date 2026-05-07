@@ -38,29 +38,35 @@ The final thousand meters are a place where the body is essentially dying, just 
     <img width="400" src="/images/aconcagua3.jpeg">
 </p>
 
-## Preparation & Planning
+## Planning
 
-I chose to climb with INKA as they are by far the biggest operator on the mountain. They charge $4,600 for logistics, guiding, tents, food, water and mules. I had to book my permit seperately for $600 which was done online. I also got evacuation insurance through Inka for $180. They're known for having great food and tenst on the mountain, but don't have the best success rate.
+I chose to climb via the normal route with INKA; the biggest operator on the mountain. They charge $4,600 for logistics, guiding, tents, food, water and mules. I had to book my permit seperately for $600 which was done online. I also got evacuation insurance through Inka for $180. They're known for having great food and camps on the mountain, but don't have the best success rate.
 
-To help with this I opted for their 15-day extended itinerary. This includes two extra days at base camp, one of which you climb Cerro Bonete (5,050m), allowing for more acclimatization. They offer this as a free add on to their standard 13 day itinerary. I strongly feel everyone should do this.
+To help with this I opted for their 15-day extended itinerary. This includes two extra days at base camp, one of which you climb Cerro Bonete (5,050m), allowing for more acclimatization. They offer this as a free add on to their standard 13 day itinerary. I strongly feel everyone should do this. I had this booked and paid for several months in advance.
 
-I had been training since climbing Elbrus in 2024, running marathons and completing multiple 6,000m+ peaks in the months prior. However, gear was my biggest headache. After a partner had to cancel, I had to courier my 150L duffel from Ireland to Santiago and navigate a nightmare of customs delays before finally flying it to Mendoza. 
 
-Every gram counts on Aconcagua. While mules carry the bulk of the gear (up to 60kg per person) to base camp, once you move higher, you are the porter. I used an Osprey Mutant 90 pack and traded trail runners for triple-insulated mountaineering boots. To manage the 5-7 liters of daily hydration required, we spent hours melting snow on gas stoves. I also packed emergency meds like Dexamethasone and Nifedipine, leaving absolutely nothing to chance.
+
+## Preparation & Training
+
+I had been travelling continuously since climbing Elbrus. In this time I kept my fitness up with runs and hikes. In November, my travels moved to South America and I began acclimatising in the Andes. I climbed a 6,000m peak every two weeks in the lead up to Aconcagua, summiting Cotopaxi, Chimborazo, Chachani & Huayna Potosí. In between I did 10+ hikes over 5,000m (including a swim at that altitude), and felt as acclimatised as I've ever been.
+
+I had recently climbed Elbrus in July 2024 and used that opportunity to buy all the gear I'd need for future trips. Only problem was it was in Ireland while I was backpacking South America. I had to courier my 150L duffel to Santiago (no one will deliver to Argentina) and navigate a nightmare of customs delays before finally flying it to Mendoza. I would not recommend, but after many phone calls I did get it.
+
+Every gram counts on Aconcagua. While mules carry the bulk of the gear to base camp, once you move higher, you are the porter. My Osprey Mutant 90L pack was amazing and easily fit all I needed. I had Olympus Mons triple layer boots, heavy down layers, and a Rab -40degC sleeping bag. The mountain is tough on gear. Renting boots and crampons may be worth it, but I preferred to know mine fit right.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua4.jpeg">
 </p>
 
 ## Arrival in Mendoza
-I arrived two days early and stayed in a hostel, focusing on eating and repacking. During a walking tour, I learned about the city’s complex irrigation system that feeds the trees keeping the streets cool. I met a man who had just successfully summited with INKA, which I took as a good omen.
+I arrived two days early and stayed in a hostel, focusing on eating and repacking. During a walking tour, I learned about the city’s complex irrigation system that feeds the trees which keep the streets cool. I met a man who had just successfully summited with INKA, which I took as a good omen.
 
-On Day 0, I moved to the official hotel. I was the only person in our 8-person group who had chosen the 15-day itinerary. I met Gonzalo, the assistant guide, who checked my gear. Since I had everything I needed, no rentals were required. I spent the afternoon by a fancy pool, though I stayed in the shade to avoid a pre-expedition sunburn, calling home one last time before the mountains.
+When the time came I moved to the official hotel. I was the only person in our 8-person group who had chosen the 15-day itinerary. I met Gonzalo, the assistant guide, who checked my gear. Since I had everything I needed, no rentals were required. I spent the afternoon by a fancy pool, though I stayed in the shade to avoid a pre-expedition sunburn, calling home one last time before the mountains.
 
-We left at 10:30am with our driver, Maxi. We stopped at the INKA office to collect shirts and sign forms before hitting the great road towards the Chilean border. We followed the turquoise Mendoza River, which looked like it would be incredible for kayaking. We stopped at the INKA tent to weigh our mule bags; these hardy animals would carry the 60kg of gear each of us needed to Base Camp. We reached a mountain refuge with an amazing sunset and met Karol, a Polish guide who had climbed multiple 8,000m peaks. We shared wine and stories, a final taste of civilization.
+We left at 10:30am with our driver, Maxi. We stopped at the INKA office to collect shirts and sign forms before hitting the great road towards the Chilean border. We followed the Mendoza River for 3.5 hours, which looked great for kayaking. We stopped at the INKA tent to pack and weigh our mule bags, then reached our mountain refuge. Here I met Karol, a Polish guide who had climbed multiple 8,000m peaks. We shared wine and stories in a final taste of civilization.
 
 ## Day 1 
-Confluencia - 3,390m)
+Confluencia (3,390m)
 I met Andre and Anton, two Russians who were only climbing Cerro Bonete. We filled out the park logs and started the trek. It was hot and arid, with helicopters constantly flying overhead for supplies and evacuations. We moved slow for three hours, being passed by fast-moving mule trains. We crossed a bridge famous for a scene in Brad Pitt’s Seven Years in Tibet. The camp at Confluencia was impressive, featuring large dome tents and bunk beds. I met some Germans on their way down and enjoyed a great buffet dinner.
 
 ## Day 2 - Plaza Francia

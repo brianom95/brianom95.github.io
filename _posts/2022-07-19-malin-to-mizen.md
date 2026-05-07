@@ -53,6 +53,7 @@ I had one waterproof pannier which held my spare clothes and toiletries. A water
 
 ## Day 0
 #### Getting to Malin Head
+*Distance: 51km | Ascent: 400m*
 
 The bike started its journey first. My uncle Timmy had a wedding in Derry a few weeks beforehand. He drove the bike up for me, leaving it in a garage that I'd be able to access.
 
@@ -67,7 +68,8 @@ After a shower and a cup of tea, I laid out my things for the morning. I'd been 
 </p>
 
 ## Day 1
-#### Malin Head to Bundoran (159km)
+#### Malin Head to Bundoran
+*Distance: 159km | Ascent: 1,350m*
 
 After a wet and windy climb, I was alone at the top of Ireland at 7:30am. I've good memories of camping here in the past. Sunsets over my favourite sea cliffs and sunrises over the Éire 80 marking. I read plaques from similar cycles which I'd never noticed on the castle before. I'd also never noticed the painted start line on the ground, where I sat imagining how far away the finish was. This moment was such a distant thought when I began the Shannon almost a month ago. It was surreal to be here now. I set off, downhill back to the B&B, where I dried off and had some breakfast. 
 
@@ -82,7 +84,8 @@ I couldn't believe how hard this day was. Stunningly beautiful, but I was left a
 </p>
 
 ## Day 2
-#### Bundoran to Castlebar (122km)
+#### Bundoran to Castlebar
+*Distance: 122km | Ascent: 810m*
 
 I was sore but well rested when I left at 9:00am. I crossed into Leitrim and within an hour into Sligo, over the Bunduff river which is a kayaking favourite of mine. Benbulben emerged and slowly changed as I cycled around it. I could see Cassiebawn to the west and was greeted by fields of horses on the way into Sligo town. I got a lunch here that could have fed a family, realising how dangerous shops can be when you're hungry.
 
@@ -99,7 +102,8 @@ The B&B owner was amazing. Her son is a cyclist so she had me bring in the bike,
 </p>
 
 ## Day 3
-#### Castlebar to Galway (76km)
+#### Castlebar to Galway
+*Distance: 76km | Ascent: 380m*
 
 The B&B really was amazing. My washed clothes were outside my room when I woke up and the breakfast was incredible. I had a nice chat with the owner and two other guests before setting off into the sun at 9:00am again.
 
@@ -112,7 +116,8 @@ I checked in, met some nice people and had a beer by the Spanish arches, where a
 </p>
 
 ## Day 4
-#### Galway to Quilty (92km)
+#### Galway to Quilty
+*Distance: 92km | Ascent: 770m*
 
 I set off an hour earlier at 8:00am. The busy roads of Galway calmed as I approached Oranmore. From here I followed the Wild Atlantic Way which had great views of the ocean. In Kilcolgan, I headed west towards Clare, stopping in Kinvarra to see the castle and the farmers market. There was live music and great pancakes in the market, making for a perfect second breakfast. Not long after I crossed into Clare and the Burren.
 
@@ -125,7 +130,8 @@ No hostels were open so I'd booked a nice B&B in Quilty. Being only an hour from
 </p>
 
 ## Day 5
-#### Quilty to Killarney (107km)
+#### Quilty to Killarney
+*Distance: 107km | Ascent: 830m*
 
 Back to my usual start time of 9:00am, I left the B&B and cycled back to the main road. Within five minutes I was surrounded by over 100 cyclists, all racing the Ring of Clare. I had my aero position perfected by now so even with my touring setup I kept pace for 10km to chat with people. I did enjoy the confused looks people gave, obviously wondering why I'd turned up to a race in regular clothes and with paniers.
 
@@ -144,7 +150,8 @@ After a shower and a pizza I went for a walk in the national park. I found mysel
 </p>
 
 ## Day 6
-#### Killarney to Bantry (68km)
+#### Killarney to Bantry
+*Distance: 68km | Ascent: 610m*
 
 Today was planned to be a 115km day to finish it out. However, the weather was incredible and I felt I'd earned the shorter days so I split it. A new B&B was booked in Bantry and I was on the road at 9:00am as usual. Heading out the beautiful road which crosses the Flesk river.
 
@@ -157,7 +164,8 @@ The tough climb continued up and over Borlin Pass. Reaching the top had me enter
 </p>
 
 ## Day 7
-#### Bantry to Mizen Head (47km)
+#### Bantry to Mizen Head
+*Distance: 47km | Ascent: 480m*
 
 For such a tired and broken man, I woke with a spring in my step. Beautiful coastlines lined with boats and climbs which almost felt easy. The final hills brought me into Goleen where I met two nice cyclists out for the day. They were stopping because of the heat but I was racing onwards. Past Crookhaven and through Barley Cove, probably Ireland's nicest beach and definitely today with the weather. After passing some swans, a sign directed me up the last hill to Mizen Head. Views of the beach turned to just ocean and this quiet road was perfect. 
 

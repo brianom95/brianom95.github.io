@@ -8,14 +8,6 @@ tags:
 ---
 WORK IN PROGRESS
 
-## Introduction
-
-This is a great travelogue—clear, practical, and captures that specific "mountaineering high." To match your Kilimanjaro piece, the Aconcagua background needs to bridge the gap between a "high trek" and a "serious expedition," while keeping that same clean, informative structure.
-
-Here is the **Background** section for your Aconcagua article, written to match your specific style, tone, and formatting.
-
----
-
 ## Background
 
 Located in the heart of the Principal Cordillera of the Andes in Argentina, Aconcagua is the highest point in both the Western and Southern Hemispheres. Standing at **6,961m**, it is the "Second Summit" of the world and the highest peak outside of Asia. Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, situated roughly 110km from the city of Mendoza and just 15km from the Chilean border. Its name is believed to derive from the Quechua word *Akunkawa*, meaning "Stone Sentinel."

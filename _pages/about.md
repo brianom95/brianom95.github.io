@@ -21,8 +21,8 @@ As travel reopened, so did bigger horizons. To date, I’ve:
 - Visited {{ site.data.settings.stats.countries }} countries.
 - Run {{ site.data.settings.stats.marathons }} marathons, including one on every continent.
 - Climbed five of the Seven Summits: [Kilimanjaro](https://www.brianbeyond.com/kilimanjaro), [Kosciuszko](https://www.brianbeyond.com/kosciuszko), [Elbrus](https://www.brianbeyond.com/elbrus), Aconcagua and Denali.
-- Summited major peaks including [Mont Blanc](https://www.brianbeyond.com/mont-blanc), [Cotopaxi](https://www.brianbeyond.com/ecuador), [Chimborazo](https://www.brianbeyond.com/ecuador), [Chachani](https://www.brianbeyond.com/chachani) and [Huayna Potosí](https://www.brianbeyond.com/huayna).
-- Hiked some of the world's best multiday trails, like the [Tour du Mont Blanc](https://www.brianbeyond.com/tmb), [Kerry Way](https://www.brianbeyond.com/kerry-way), [West Highland Way](https://www.brianbeyond.com/west-highland-way), [Santa Cruz](https://www.brianbeyond.com/santa-cruz), [Colca Canyon](https://www.brianbeyond.com/colca), [Salkantay](https://www.brianbeyond.com/salkantay), Huemul Circuit, O-Trek, and K2 Base Camp.
+- Summited major peaks like [Mont Blanc](https://www.brianbeyond.com/mont-blanc), [Cotopaxi](https://www.brianbeyond.com/ecuador), [Chimborazo](https://www.brianbeyond.com/ecuador), [Chachani](https://www.brianbeyond.com/chachani) and [Huayna Potosí](https://www.brianbeyond.com/huayna).
+- Hiked some of the world's best multiday trails, like the [TMB](https://www.brianbeyond.com/tmb), [Kerry Way](https://www.brianbeyond.com/kerry-way), [WHW](https://www.brianbeyond.com/west-highland-way), [Santa Cruz](https://www.brianbeyond.com/santa-cruz), [Colca Canyon](https://www.brianbeyond.com/colca), [Salkantay](https://www.brianbeyond.com/salkantay), Huemul Circuit, O-Trek, and K2 Base Camp.
 
 Every climb and expedition so far has been a first-time success, something I attribute to obsessive preparation, patience and respect for the environment I’m moving through.
 

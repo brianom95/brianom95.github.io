@@ -15,6 +15,7 @@ Aldo's Guest House is the best hostel in Huaraz, mostly because of Aldo. He's a 
 </p>
 
 ## Day 1
+*Distance: 11.2km. Ascent: 420m*
 
 We left at 5:00am on our bus to the trail head, up zig-zagging gravel roads for four hours before a lunch break. We stopped again at Lagunas del Valle Llanganuco (3,850m) which was incredibly blue, then down the zig-zags on the other side for two more hours. The hike crosses back over the whole range so the drive after is much shorter, but getting to this side was rough. At the trailhead we did proper introductions with our guide Cesar, chef Jesus, our team of porter donkeys, and the other clients; Rory, Eva, William, Etienne, Phoebe & Jimmy.
 
@@ -25,6 +26,7 @@ The donkeys carried team gear and food, and once loaded and gone we followed. It
 </p>
 
 ## Day 2
+*Distance: 25.7km. Ascent: 1,450m*
 
 Lea and I started early at 7am, as there was a lot of snow and we had a longer day. The first hour was misty and grey, the next was icy and white. Thick snow made the route difficult to find, and sections of climbing boulders had our hands freezing. At times we walked beside frozen lakes, at others we struggled up rocky slopes that were too icy to stand on. It was slow breaking trail, so we were followed and eventually caught up to by Rory, Eva, William & Etienne. Together we routed through deep snow to the narrow gap of Punta Unión Pass at 4,750m. 
 
@@ -39,6 +41,7 @@ It was a shame we had to backtrack a little to camp, but we were delighted regar
 </p>
 
 ## Day 3
+*Distance: 26.2km. Ascent: 90m*
 
 At 8am we packed up and left. Lea & I stuck with the group until they turned for the lake, then continued alone. An hour later we passed what would be their final camp, and from there walked on a sandy riverbed that hinted of past floods. The river grew in size, and as we left the valley we began to see farms and hints of civilisation. The last section was unreal, following huge rapids and waterfalls for a steep 1,000m descent. It was tough on the legs, but so exciting for the kayaker in me. Where the rapids ended we reached the town of Cashapampa. We negotiated a fair price for a taxi to Caraz (on insane roads), then took a local bus to Huaraz. We celebrated at an Indian restaurant, and with many free drinks from Aldo.
 

@@ -10,15 +10,15 @@ WORK IN PROGRESS
 
 ## Background
 
-Aconcagua sits in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, just 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning "Stone Sentinel."
+Aconcagua is a peak in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, just 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning "Stone Sentinel."
 
 A frozen mummy discovered at 5,300m suggest the mountain may have been spiritually significant for the Inca Empire, performing high-altitude sacrifices long before modern mountaineering began. The first recorded ascent was in 1897, when Matthias Zurbriggen reached the summit alone. Today, the peak is a magnet for those seeking to test themselves against extreme altitude.
 
 While often labeled a non-technical mountain, Aconcagua is far from a simple hike. The expedition typically takes 2-3 weeks and is full of challenges. The obvious being the thin air, but also rough terrain, rockfall and extreme temperatures. The lower valleys are usually 30°C with no shade, and up high the notorious *Viento Blanco* (White Wind) brings gusts exceeding 100km/h and temperatures as low as -30°C. This mountain demands a level of endurance and mental grit to survive weeks in a high-pressure, high-altitude wilderness.
 
-Aconcagua is defined by its stark, desert-like beauty. Low down are dry, dusty paths and hardy shrubs, where mules transport goods to the base camp. Higher slopes consist of vast scree fields and the famous penitentes; tall, blade-like snow formations created by intense sun and dry winds. Finally, the high-altitude zone is a world of rock and permanent ice, where the Canaleta (a steep couloir below the summit) serves as the final, exhausting gatekeeper to the "Colossus of the Americas."
+Aconcagua is defined by its stark, desert-like beauty. Valleys of dry, dusty paths and hardy shrubs, where mules transport goods to the base camp. Higher slopes consist of vast scree fields and the famous penitentes; tall, blade-like snow formations created by intense sun and dry winds. Finally, the high-altitude zone is a world of rock and permanent ice, where the Canaleta (a steep couloir) serves as the final, exhausting gatekeeper to the summit.
 
-## Acclimatisation is Key
+## Acclimatisation
 
 At nearly 7,000m, Aconcagua sits on the edge of what the human body can endure for any significant length of time. The air is profoundly thin; each breath contains about 40% of the oxygen molecules available at sea level. While the biology of adaptation—the surge in red blood cell production and increased heart rate—is the same as on Kilimanjaro, the scale of the challenge is entirely different. On "The Stone Sentinel," acclimatisation is not just a strategy; it is the entire focus of the first two weeks.
 

@@ -113,7 +113,9 @@ What a night. He got his daughter and her husband to call over because they spok
     <img width="400" src="/images/belt7.webp">
 </p>
 
-## Day 5 - Radzovce to Kisterenye
+## Day 5
+Radzovce to Kisterenye
+
 Bright and early we crossed the border into Hungary. Through the awfully busy city of Salgotarjan which we were glad to leave, and along some stunning countryside roads. We'd been disciplined today and finished our walk in Kisterenye at 9:30am. 
 
 We sat in the shade of some trees and tried to catch up on our work. We'd been falling asleep writing projects most nights and were pretty far behind. There's less free time than you'd think and it was always late when we got to it, but by 4:00pm we'd finally caught up. This was hard work but a relief. Today the sweep team stopped by to say hello.
@@ -128,7 +130,9 @@ That night we got our first and only shower of the trip. A black barrel full of 
     <img width="400" src="/images/belt8.webp">
 </p>
 
-## Day 6 - Kisterenye to Jobbágyi
+## Day 6
+Kisterenye to Jobbágyi
+
 There had to be bad days and this was it! During our walk a man stopped us who'd been cutting hedges and tried to steal Adam's watch that was on his shoulder strap. We pushed him off and he took Adam's sunglasses instead. We walked away and he didn't come after us, but there was a machete on the ground that he'd been cutting with so it was nerve wracking. 
 
 The town we were to stay at was weird. First guy we met led us to what was either a church or a Chinese restaurant. It was packed with people who kept trying to take our things and separate us. We were both hugely uncomfortable and had to take a stand to get the few things back from them and leave. They watched us from the door but didn't follow. The town had a big bridge and we said we'd cross it and try the other side. 
@@ -139,7 +143,9 @@ On route two young teenage boys on their bikes started following us and made us 
     <img width="400" src="/images/belt9.webp">
 </p>
 
-## Day 7 - Jobbágyi to Gyöngyössolymos
+## Day 7
+Jobbágyi to Gyöngyössolymos
+
 Mostly laughing off yesterdays troubles we felt good. How could it get worse! The walk went fine and some writeups in town the same. At 4:00pm we looked for a place to stay. Our rates had been okay so far, usually with 30mins to find a place. Not today. 
 
 Twenty houses and two hours later no one would take us. Beaten from rejection and heat we sat on a bench and Adam dropped a bombshell. His ankle was swelling, now very sore and he couldn't walk anymore. It was the lowest moment of the trip and we thought it may be the end. I asked him to hold off on any decisions and trust me. The next house I tried was extremely hesitant, saying no a lot but I kept pleading and explaining (I was getting good with Hungarian begging). Eventually she said yes!
@@ -150,7 +156,9 @@ I dropped my bag and helped Adam over. I set up the tent, we cooked dinner and h
     <img width="400" src="/images/belt10.webp">
 </p>
 
-## Day 8 - Gyöngyössolymos to Detk
+## Day 8
+Gyöngyössolymos to Detk
+
 Success, he could walk on it. By the end of this day I felt like I was doing damage to my own joints with the weight, but we managed 20km. The roads were beautiful and we passed a castle and a small zoo.
 
 One fun project was to continuously up trade from a potato. This made great conversation and trades brought us a toy elephant, different foods and almost a rabbit. Today our final trade got us a bottle of wine. Much heavier than the keyrings that other teams stopped at, but would be worth it at the end.
@@ -159,7 +167,9 @@ The house that took us in was really nice and we slept in their beautiful orchar
 
 ![]({{site.baseurl}}/images/belt11.webp)
 
-## Day 9 - Detk to Verpelét
+## Day 9
+Detk to Verpelét
+
 We redistributed gear between us. The end was in sight and Adam's ankle held up fine. There's a rule that you must stay at least 10km from the finish the last night. We'd drawn a 10km circle on the map and there was one town exactly 11km out. It was an obvious choice so we headed for there.
 
 So far we'd only seen one other team. Twice we passed them at crossroads but never really overlapped. With 20 teams dropped in a giant circle around Eger, we were all getting much closer now. Our early starts to beat the 40°C heat got us to town early and we found a nice spot to finalise projects. Then others started arriving, almost every other team in fact. Some great catch ups were had here.
@@ -174,7 +184,9 @@ This was a busy night and once again I fell asleep onto the books with my head t
     <img width="400" src="/images/belt12.webp">
 </p>
 
-## Day 10 - Verpelét to Eger
+## Day 10
+Verpelét to Eger
+
 The last early start and a cheerful walk brought us to Eger, clocking a total of 222.5km. There was a one hour window for finishing and we joined all the teams at picnic benches close by. Quick write ups and we used some of our remaining money to get ice creams and relaxed in the sun. It was surreal to walk into base camp after preparing so long for this journey. All anxieties of injuries and issues gone. Tired, sun burnt, stinky and delighted.
 
 <p align="center" width="100%">

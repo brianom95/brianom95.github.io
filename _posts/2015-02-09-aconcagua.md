@@ -101,7 +101,7 @@ An 18km trek to Plaza de Mulas. It was roasting. The trail followed flat, dusty 
 When the camp finally came into sight, I was allowed to walk ahead. I reached it 30 minutes before the others, which gave me time to cool down and rehydrate. I needed more water, and shade. Plaza de Mulas is a massive tent city. I got a three person tent to myself, and the food provided by INKA was exceptional.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua3.jpeg">
+    <img width="400" src="/images/aconcagua14.jpeg">
 </p>
 
 ## Day 4 
@@ -222,7 +222,7 @@ Clouds rolled in as I reached the top. I was the only one of the eight to make i
 I descended to Plaza de Mulas as fast as I could. My brain was exhausted and the sun wasn't helping. I waited for the group at each camp, finally reaching Plaza de Mulas an hour ahead of them. That time and extra water did me a lot of good. We celebrated with beers and wine that night, and the guides gave us the greatest gift; free shower tokens!
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua14.jpeg">
+    <img width="400" src="/images/aconcagua3.jpeg">
 </p>
 
 ## Day 15

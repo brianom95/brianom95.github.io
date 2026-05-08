@@ -6,7 +6,7 @@ date:   2025-02-20 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   [Mountaineering]
 ---
-This is my story from a mountain designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could, and put myself on the right side of those odds.
+This is the story of a mountain designed to wear people down. Aconcagua is a world away from the beginner fiendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could, and put myself on the right side of those odds.
 
 Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, appetite loss, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself also.
 
@@ -18,17 +18,15 @@ The climb took 15 days through some of the hottest, coldest and windiest conditi
 
 ## Background
 
-Aconcagua sits in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, just 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
+Aconcagua is in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, about 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
 
 A frozen mummy discovered at 5,300m suggests the mountain may have been spiritually significant for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded summit was in 1897 when Matthias Zurbriggen climbed the Northwest Ridge, now known as the Normal Route. There were over eight failed attempts on that expedition alone. The peak has since attracted mountaineers from all over the world, hoping to test themselves against extreme altitude.
 
 While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve thin air, rough terrain, rockfall and severe weather. The lower valleys regularly reach 30°C with no shade, while higher up the notorious *Viento Blanco* (White Wind) brings gusts over 100km/h and temperatures below -30°C. 
 
+Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed to allow recovery between climbing days. Most people use three camps between here and the summit, for acclimatising and when moving towards the peak.
 
-Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed to allow recovery between climbing days. 
-
-
-The mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Higher again, the mountain becomes a world of rock and permanent ice, up the ridge, across the La Cueva traverse, and up the Canaleta; a steep couloir below the summit ridge, acts as the final gatekeeper to the roof of the Americas.
+The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua02.jpeg">
@@ -36,13 +34,15 @@ The mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead 
 
 ## Acclimatisation
 
-At nearly 7,000m, Aconcagua sits on the edge of what the human body can tolerate for any meaningful length of time. The summit has roughly 40% the oxygen available at sea level, and unlike Kilimanjaro where you simply move upwards each day, acclimatisation here becomes the entire focus of the expedition.
+Aconcagua is at the edge of what the human body can tolerate for any meaningful time. At nearly 7,000m, there's roughly 40% the oxygen of sea level. Air is less dense, so there's less molecules in each breath. The body adapts by breathing faster, raising the heart rate, and slowly making red blood cells. The more efficient the body becomes at extracting oxygen, the better you avoid symptoms of Acute Mountain Sickness (AMS).
 
-The strategy is known as "climb high, sleep low". Climbers carry food and gear to higher camps, descend to recover, then slowly move the body's ceiling upwards over time. It's an exhausting but effective process which naturally increases red blood cell production and allows the body to function better in low oxygen environments.
+The best strategy to boost red blood cells is to climb high, sleep low. Climbers do small hikes, or carry food and gear to higher camps, then descend to recover. This allows the body to adapt better. It's a slow and exhausting process, requiring up to 5L of water a day and lots of food. The people who do more rotations up/down the mountain tend to have better success.
 
-The physical toll is significant. Recovery becomes incredibly slow, appetite fades, and the dry air causes the infamous "Andean cough". Simple headaches can linger for days, and everyone constantly balances the need to move higher against the risks of HACE and HAPE; life threatening forms of altitude sickness involving swelling of the brain or lungs.
+The physical toll of being at altitude is significant though, so there is a balance. Recovery is incredibly slow, appetite fades, and dry air causes deep coughs. Simple headaches can linger for days, and moving too high too soon can lead to HACE or HAPE; life threatening forms of altitude sickness involving swelling of the brain or lungs. Too many rotations could also leave the body too tired for a summit push, and every plan must be flexible to the weather.
 
-Above 6,500m, things become particularly surreal. You can feel fine while sitting still, then utterly exhausted by a few steps uphill. Every movement becomes deliberate. Hydration, pacing and patience matter more than raw fitness, and while Diamox can help, there are no shortcuts at these altitudes. The mountain strips everything back to basic survival.
+Above 6,700m on the Canaleta, things become surreal. You can feel fine while sitting still, then exhausted by a few steps uphill. Every movement becomes deliberate. Hydration, pacing and patience matter more than raw fitness. On smaller peaks Diamox is used to aid acclimatisation, but it's avoided on Aconcagua because it can mask symptoms. Here it's more important to listen to your body. 
+
+Below are the relative oxygen levels on other peaks. On any higher mountain, 7,000m is usally the point where you begin using supplemetal oxygen (e.g. Camp 3 on Everest).
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua04.jpeg">

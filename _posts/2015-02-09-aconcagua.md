@@ -6,9 +6,11 @@ date:   2025-02-20 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   [Mountaineering]
 ---
-This is my story from a mountain designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could and hopefully be on the right side of those odds.
+This is my story from a mountain designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could, and put myself on the right side of those odds.
 
-I learned that fitness is only the baseline on Aconcagua. The real challenge is surviving the accumulation of small things; dehydration, poor sleep, appetite loss, headaches, wind, boredom and the slow mental grind of functioning for weeks with limited oxygen. It humbled me more than any mountain before it, but also taught me more than any expedition I've done.
+Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, appetite loss, headaches, wind, boredom and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself at the same time. 
+
+The climb took 15 days through some of the hottest, coldest and windiest conditions I had ever faced. The base camp has its luxuries, but they don't detract from this being a harsh and inhospitable place. There's stress in the challenges, often bringing doubt and uncertainty that can be emotionally taxing. Still when I think of the glowing sunsets on the peak, staring up into the silence, I'm reminded how lucky I am to have had this experience.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua03.jpeg">

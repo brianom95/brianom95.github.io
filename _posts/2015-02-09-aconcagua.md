@@ -8,9 +8,9 @@ tags:   [Mountaineering]
 ---
 This is my story from a mountain designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could, and put myself on the right side of those odds.
 
-Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, appetite loss, headaches, wind, boredom and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself at the same time. 
+Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, appetite loss, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself also.
 
-The climb took 15 days through some of the hottest, coldest and windiest conditions I had ever faced. The base camp has its luxuries, but they don't detract from this being a harsh and inhospitable place. There's stress in the challenges, often bringing doubt and uncertainty that can be emotionally taxing. Still when I think of the glowing sunsets on the peak, staring up into the silence, I'm reminded how lucky I am to have had this experience.
+The climb took 15 days through some of the hottest, coldest and windiest conditions I had ever faced. The base camp has its luxuries, but they don't detract from this being a harsh and inhospitable place. There's stress in the challenges, often bringing an emotionally taxing doubt and uncertainty. Still though, when I think of the glowing sunsets on the peak and nights staring up into the silence, I'm reminded how lucky I am to have had this experience.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua03.jpeg">
@@ -18,13 +18,17 @@ The climb took 15 days through some of the hottest, coldest and windiest conditi
 
 ## Background
 
-Aconcagua is a peak in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, just 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning "Stone Sentinel."
+Aconcagua sits in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, just 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
 
-A frozen mummy discovered at 5,300m suggests the mountain may have been spiritually significant for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded ascent was in 1897 when Matthias Zurbriggen reached the summit alone. Today, the peak attracts mountaineers from all over the world hoping to test themselves against extreme altitude.
+A frozen mummy discovered at 5,300m suggests the mountain may have been spiritually significant for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded summit was in 1897 when Matthias Zurbriggen climbed the Northwest Ridge, now known as the Normal Route. There were over eight failed attempts on that expedition alone. The peak has since attracted mountaineers from all over the world, hoping to test themselves against extreme altitude.
 
-While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve thin air, rough terrain, rockfall and severe weather. The lower valleys regularly reach 30°C with no shade, while higher up the notorious *Viento Blanco* (White Wind) can bring gusts over 100km/h and temperatures below -30°C. 
+While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve thin air, rough terrain, rockfall and severe weather. The lower valleys regularly reach 30°C with no shade, while higher up the notorious *Viento Blanco* (White Wind) brings gusts over 100km/h and temperatures below -30°C. 
 
-The mountain is defined by a stark, desert-like beauty. Dry valleys and dusty plains lead towards huge scree slopes and the famous penitentes; giant blade-like snow formations created by intense sun and wind. Higher still, the mountain becomes a world of rock and permanent ice where the Canaleta, a steep couloir below the summit ridge, acts as the final gatekeeper to the roof of the Americas.
+
+Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed to allow recovery between climbing days. 
+
+
+The mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Higher again, the mountain becomes a world of rock and permanent ice, up the ridge, across the La Cueva traverse, and up the Canaleta; a steep couloir below the summit ridge, acts as the final gatekeeper to the roof of the Americas.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua02.jpeg">

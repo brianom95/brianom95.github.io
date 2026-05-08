@@ -12,6 +12,10 @@ Fitness isn't everything on Aconcagua. It's how you deal with the accumulation o
 
 The climb took 15 days through some of the hottest, coldest and windiest conditions I had ever faced. The base camp has its luxuries, but they don't detract from this being a harsh and inhospitable place. There's stress in the challenges, often bringing an emotionally taxing doubt and uncertainty. Still though, when I think of the glowing sunsets on the peak and nights staring up into the silence, I'm reminded how lucky I am to have had this experience.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua03.jpeg">
+</p>
+
 ## Background
 
 Aconcagua is in the Cordillera Principal, part of the Andes in Argentina. It's the highest point outside of Asia, and the second tallest of the [Seven Summits](sevensummits/). Unlike the solitary rise of Kilimanjaro from the plains, Aconcagua is the centerpiece of a vast, rugged provincial park, about 15km from the Chilean border. The name comes from the Quechua word *Akunkawa*, meaning *Stone Sentinel*.
@@ -25,7 +29,7 @@ Several camps have been established along the Normal Route. Plaza de Mulas is th
 The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua03.jpeg">
+    <img width="400" src="/images/aconcaguaTBC.jpeg">
 </p>
 
 ## Acclimatisation is Key

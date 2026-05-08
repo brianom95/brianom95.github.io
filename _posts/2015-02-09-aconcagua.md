@@ -53,7 +53,7 @@ I had recently climbed [Elbrus](elbrus) in July 2024 and used that opportunity t
 Every gram counts on Aconcagua. While mules carry the bulk of the gear to base camp, once you move higher, you are the porter. My Osprey Mutant 90L pack was amazing and easily fit all I needed. I had Olympus Mons triple layer boots, heavy down layers, and a Rab -40degC sleeping bag. The mountain is tough on gear. Renting boots and crampons may be worth it, but I preferred to know mine fit right.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua04.jpeg">
+    <img width="300" src="/images/aconcagua04.jpeg">
 </p>
 
 ## Arrival in Mendoza
@@ -66,7 +66,7 @@ We left at 10:30am with our driver, Maxi. We stopped at the INKA office to colle
 mention seeing the sign
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua1.jpeg">
+    <img width="300" src="/images/aconcagua1.jpeg">
 </p>
 
 ## Day 1 
@@ -88,7 +88,7 @@ A short hike to Plaza Francia (4,200m). The walk was flat and easy, but the heat
 That night we were treated to another great sunset. I met Anar here, a quiet Kazakh girl who was doing a private trip with INKA. She'd follow the same schedule as me the whole way up, and I’d end up climbing with her months later on Denali. She had climbed Everest the year before.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua2.jpeg">
+    <img width="300" src="/images/aconcagua2.jpeg">
 </p>
 
 ## Day 3
@@ -110,7 +110,7 @@ A rest day to let the body get used to 4,370m. We walked up to see a frozen lake
 The giant INKA dome tent is a great place to spend a rest day. It has board games, books, a cafe, WiFi, and charging stations. There is a €10 fee for "non-phone" devices, but no one ever noticed that it was usually my powerbank inside my phone case!
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua4.jpeg">
+    <img width="300" src="/images/aconcagua4.jpeg">
 </p>
 
 ## Day 5
@@ -138,7 +138,7 @@ A lazy day of chatting. I talked with Attila who has been working in China for y
 With bags packed for tomorrow, we walked to a turquoise lake for a swim, where Francois cut his foot. That night was a massive BBQ. Most had wine, but I only took a sip; I was focused on drinking my 5L of water each day, lots of it loaded with electrolytes.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua6.jpeg">
+    <img width="300" src="/images/aconcagua6.jpeg">
 </p>
 
 ## Day 7
@@ -169,7 +169,7 @@ white wind clouds, look fake.
 A slow start as we assessed the wind damage. Some tents at Camp 1 had actually blown away, but our stashed gear was safe. After a breakfast of bacon and quesadillas, we moved up at 1pm. It was largely uneventful, just slow and steady. I shared a tent with Attila from here on and I got us the flattest spot. We ate dinner outside in a rare moment of calm, looking down at the large camp below.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua9a.jpeg">
+    <img width="300" src="/images/aconcagua9a.jpeg">
 </p>
 
 ## Day 10
@@ -178,7 +178,7 @@ A slow start as we assessed the wind damage. Some tents at Camp 1 had actually b
 The carry to Nido was heavy. The others all had gear hanging off up to 100L packs, but I felt good in my Mutant 90. The weight sits well, and I wore my triple boots from here to save weight. Camp 2 is busy, but many solo climbers were sick at the time from drinking unboiled lake water. We were more careful about filtering and boiling. The sunset that night was incredible, sitting far above a sea of clouds.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua10.jpeg">
+    <img width="300" src="/images/aconcagua10.jpeg">
 </p>
 
 ## Day 11
@@ -235,7 +235,7 @@ I descended to Plaza de Mulas as fast as I could. My brain was exhausted and the
 A 26km hike out. We were all done with the mountain. The valley heat returned as we saw life reappear in the shrubs and birds. We had a final beer at the park exit, drove to Mendoza, and I checked into a hotel at 10pm. After a shower, I realized my neck was burnt to a crisp.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua15.jpeg">
+    <img width="300" src="/images/aconcagua15.jpeg">
 </p>
 
 ## Afterthoughts

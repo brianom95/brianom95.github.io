@@ -69,8 +69,6 @@ mention seeing the sign
     <img width="400" src="/images/aconcagua1.jpeg">
 </p>
 
----
-
 ## Day 1 
 #### Move to Confluencia (3,390m)
 
@@ -81,8 +79,6 @@ Along the way, we crossed a bridge built for Brad Pitt’s movie *Seven Years in
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua1a.jpeg">
 </p>
-
----
 
 ## Day 2
 #### Acclimatisation Hike
@@ -95,8 +91,6 @@ That night we were treated to another great sunset. I met Anar here, a quiet Kaz
     <img width="400" src="/images/aconcagua2.jpeg">
 </p>
 
----
-
 ## Day 3
 #### Move to Plaza de Mulas (4,370m)
 
@@ -107,8 +101,6 @@ When the camp finally came into sight, I was allowed to walk ahead. I reached it
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua14.jpeg">
 </p>
-
----
 
 ## Day 4 
 #### Rest Day

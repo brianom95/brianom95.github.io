@@ -6,10 +6,9 @@ date:   2025-02-20 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   [Mountaineering]
 ---
+This is my story from a mountain designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%, so I put in months of preparation to control what I could and hopefully be on the right side of those odds.
 
-This is the story of three weeks spent on a mountain that seems designed to wear people down. Aconcagua is a world away from the lush slopes of [Kilimanjaro](kilimanjaro); a place of dust, rock and relentless altitude where every task feels harder than it should. The mountain has a success rate of 30%, and after months of preparation I arrived in Mendoza determined to leave nothing to chance. 
-
-I learned quickly that on Aconcagua, fitness is only the baseline. The real challenge is surviving the accumulation of small things; dehydration, poor sleep, appetite loss, headaches, wind, boredom and the slow mental grind of functioning for weeks with limited oxygen. It humbled me more than any mountain before it, but also taught me more than any expedition I've done.
+I learned that fitness is only the baseline on Aconcagua. The real challenge is surviving the accumulation of small things; dehydration, poor sleep, appetite loss, headaches, wind, boredom and the slow mental grind of functioning for weeks with limited oxygen. It humbled me more than any mountain before it, but also taught me more than any expedition I've done.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua03.jpeg">

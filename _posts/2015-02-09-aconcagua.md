@@ -224,11 +224,11 @@ That afternoon we practiced snow skills on a steep slope near camp. The group st
 ## Day 12  
 #### Move to Camp 3: Cólera (5,970m)
 
-Another move day, another heavy pack. We passed Berlin Camp and its famous cross before scrambling up to our final high camp beneath the summit slopes.
+Another move day, another heavy pack. We climbed yesterdays snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro.
 
-A snowstorm hit camp that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating, eventually drinking around 7.5L before dinner. Everything for summit day was packed and ready early, which I was very glad of because sleep proved difficult.
+A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I felt good, most people had headaches but I had no symptoms yet. I packed everything for summit night nice and early, and after a final hot chocolate it was time for bed.
 
-At altitude, small frustrations feel enormous. Attila was very disorganised packing for summit night and I ended up getting very little sleep as headtorches flashed constantly around the tent. By midnight I had probably managed only a few hours.
+At altitude, small frustrations feel enormous. Attila was fairly disorganised and his packing for summit began when everyone else went to sleep. This meant 1.5 hours of his headtorch flashing, him talking through his packing, and gear being landed on me. I only managed a few hours sleep before alarms went off at 3:00am. In the moment this was stressful.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua12.jpeg">
@@ -237,25 +237,23 @@ At altitude, small frustrations feel enormous. Attila was very disorganised pack
 ## Day 13  
 #### Summit Day — Aconcagua (6,961m)
 
-We woke at 3am in complete darkness. Tea, breakfast and final layers went on before we stepped into the freezing cold around 4:30am. We had slept higher than the summit of Kilimanjaro.
+We woke to complete darkness. Tea, breakfast and final layers went on before we stepped into the freezing cold around 4:30am. The early climb moved slowly through firm snow until sunrise lit up the mountains behind us. Augustine and Francesco turned around from exhaustion at our first long stop, leaving four clients and two guides continuing towards the traverse.
 
-The early climb moved slowly through firm snow until sunrise lit up the mountains behind us. Augustine and Francesco turned around from exhaustion at our first long stop, leaving four clients and two guides continuing towards the traverse.
-
-We put on crampons beneath a steep snowy slope and carefully climbed onto the traverse itself. Two days earlier someone had died there, which weighed heavily on everyone. The route was beautiful, but serious.
+It was clear and calm all morning. We put on crampons beneath a steep snowy slope and carefully climbed onto the traverse itself. Two days earlier someone had died there, which weighed on everyone. The route was beautiful, but serious.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua13.jpeg">
 </p>
 
-As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised quickly that the Belgians were fading too, exhausted and struggling to walk straight. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us all slowly onwards to La Cueva so the situation could be properly assessed there.
+As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised that the Belgians were fading too, exhausted and struggling to walk. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us onwards to La Cueva so the situation could be properly assessed there.
 
-It took us over an hour longer than expected to reach the cave. I waited roughly twenty minutes before the others finally arrived, and when they did it was obvious things had changed. Attila needed Dexamethasone and assistance descending. Alex and Francois were barely functioning. Marcelo gently explained that this would be their summit and Gonzalo prepared to take the three of them down safely. Alex was devastated, but it was clearly the correct decision.
+It took us an hour longer than expected to reach the cave. I waited 20 mins before the others arrived, and when they did it was obvious things had changed. Attila needed a Dexamethasone injection to help his symptoms. Alex and Francois were barely functioning. Marcelo explained that this would be their summit and Gonzalo prepared ropes to take the three of them down. Alex argued, but it was the only safe decision. More dexamethasone and oxygen were needed to get the three down.
 
-Suddenly it was just Marcelo and I continuing upwards.
+From here it was just Marcelo and I. We left a lot of our gear in the cave and began climbing the Canaleta. The final 2.5 hours were the hardest thing I've ever done. I had heard this section is the difficult part, but feeling perfect at the cave I wondered how bad it could be. Hypoxia at those highest altitudes is difficult to describe, but it felt like exercising with one lung.
 
-We left most of our gear in the cave and began climbing the Canaleta with the absolute minimum. The final 2.5 hours were the hardest thing I've ever done. Hypoxia at that altitude is difficult to describe properly. Sitting still felt manageable, but moving uphill felt like exercising with one lung.
+We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus  short breaks for sips of water and jellies. I always felt in control, but in the last 15 mins my vision blurred. Deep breathing and focus kept it 
 
-I found a rhythm that worked; two deep pressure breaths per step. If my vision blurred, I stopped and breathed deeply until it cleared again. Sugar, water and constant focus. The mountain turns people into zombies up there and I could now fully understand why.
+, I stopped and breathed deeply until it cleared again. Sugar, water and constant focus. The mountain turns people into zombies up there and I could now fully understand why.
 
 Eventually Marcelo asked for my phone. I rounded a corner I hadn't realised was the final one and suddenly saw the summit cross directly ahead.
 

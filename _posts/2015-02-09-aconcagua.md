@@ -63,8 +63,10 @@ When the time came I moved to the official hotel. I was the only person in our 8
 
 We left at 10:30am with our driver, Maxi. We stopped at the INKA office to collect shirts and sign forms before hitting the great road towards the Chilean border. We followed the Mendoza River for 3.5 hours, which looked great for kayaking. We stopped at the INKA tent to pack and weigh our mule bags, then reached our mountain refuge. Here I met Karol, a Polish guide who had climbed multiple 8,000m peaks. We shared wine and stories in a final taste of civilization.
 
+mention seeing the sign
+
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua05.jpeg">
+    <img width="400" src="/images/aconcagua1.jpeg">
 </p>
 
 ## Day 1 
@@ -75,7 +77,7 @@ Today I met Andre and Anton, two Russians who were signed up to climb only Cerro
 Along the way, we crossed a bridge built for Brad Pitt’s movie *Seven Years in Tibet*. After three hours we reached the impressive camp at Confluencia. The setup was great, with a large dome tent café and actual bunk beds. I spent the evening speaking to some Germans who were on their way down, and enjoyed a great buffet dinner. It was a fun, easy start to the expedition.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua1.jpeg">
+    <img width="400" src="/images/aconcagua1a.jpeg">
 </p>
 
 ## Day 2
@@ -116,12 +118,16 @@ The giant INKA dome tent is a great place to spend a rest day. It has board game
 
 Our mini summit day. We had a 7:30am breakfast and took a packed lunch from the buffet. We crossed makeshift bridges, including one made of an old door, and passed an eerie abandoned hotel. After a series of steep zig-zags, we put on helmets for the final scramble. The view from the summit was unreal, and I got my usual handstand photo. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua5.jpeg">
+</p>
+
 We skiied down the volcanic sand on the descent, and by the time we got back, the rest my group had arrived. The lead guide Marcelo had an easy going demeanor, but it didn't hide his obvious experience. Now I finally got to meet the rest of my team.
 
 We had two Belgians; Alex who wants to be the first to summit every country's high point, and his friend Francois who is joining him. He was very early in his journey, and this was the first test of high altitude. Then there was John from the USA, and Attila from Hungary, who had both climbed Kilimanjaro and big aspirations if this went well. Then finally two Argentinians; Augustine who hoped to be a guide one day, and Francesco who is Marcelo's father. Our eighth member had twisted his ankle and already left, so now we were seven.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua5.jpeg">
+    <img width="400" src="/images/aconcagua5a.jpeg">
 </p>
 
 ## Day 6
@@ -150,6 +156,8 @@ Marcelo was impressed with the group overall, happy that we were bonding well as
 #### Rest Day
 
 John flew out at 9am. I spent the day journaling and playing chess with Attila. We had another big barbecue for dinner, this time with asado. The Belgians suffered through hangovers, and the wind began to roar. It was a terrifying evening; the tents were blowing everywhere, and the toilet became a wind tunnel. Showers were $10 but we had one token included in our trip. I used mine that night and it felt so good.
+
+white wind clouds, look fake.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua8.jpeg">

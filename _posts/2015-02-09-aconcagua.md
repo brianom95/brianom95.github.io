@@ -222,11 +222,11 @@ Halfway across the traverse, Attila collapsed with AMS. Marcelo realized the Bel
 
 Marcelo and I stashed our gear at La Cueva (6,700m) and moved up the Canaleta with just light fleeces over sun hoodies. The final pull was hell. Hypoxia makes you feel like you're exercising with one lung. I found a rhythm: two deep pressure breaths per step. If my vision blurred, I sat and breathed. Marcelo eventually took my phone and filmed me as I rounded the final corner to the summit cross.
 
-Clouds rolled in as I reached the top. I was the only one of the eight to make it. We spent 30 minutes soaking it in with other climbers before the threat of a snowstorm forced us to leg it. We descended from the summit to Camp 3 in 1hr 45mins, only slowing briefly to walk with Karol who had successfully gotten his five climbers to the top. Back at camp was sombre, with disappointment all around, but I was quietly proud and was able to share that with Marcelo.
-
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua13b.jpeg">
 </p>
+
+Clouds rolled in as I reached the top. I was the only one of the eight to make it. We spent 30 minutes soaking it in with other climbers before the threat of a snowstorm forced us to leg it. We descended from the summit to Camp 3 in 1hr 45mins, only slowing briefly to walk with Karol who had successfully gotten his five climbers to the top. Back at camp was sombre, with disappointment all around, but I was quietly proud and was able to share that with Marcelo.
 
 ## Day 14
 #### Move to Plaza de Mulas (4,370m)

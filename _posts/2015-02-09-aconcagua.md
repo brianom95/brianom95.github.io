@@ -42,7 +42,7 @@ The physical toll of being at altitude is significant though, so there is a bala
 
 Above 6,700m on the Canaleta, things become surreal. You can feel fine while sitting still, then exhausted by a few steps uphill. Every movement becomes deliberate. Hydration, pacing and patience matter more than raw fitness. On smaller peaks Diamox (acetazolamide) is used to aid acclimatisation, but it's avoided on Aconcagua because it can mask symptoms. Here it's more important to listen to your body. 
 
-Below are the relative oxygen levels on other peaks. On any higher mountain, 7,000m is usally the point where you begin using supplemetal oxygen (e.g. Camp 3 on Everest).
+Below are the relative oxygen levels on other peaks. On any higher mountain, 7,000m is the point where you begin using supplemetal oxygen (e.g. Camp 3 on Everest).
 
 <p align="center" width="100%">
     <img width="400" src="/images/kilimanjaro3.jpeg">
@@ -50,7 +50,7 @@ Below are the relative oxygen levels on other peaks. On any higher mountain, 7,0
 
 ## Logistics & Planning
 
-It's possible to climb Aconcagua independently, and many do. You need a solo permit, self arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. It wouldn't have been the responsible option for a first timer.
+It's possible to climb Aconcagua independently, and many do. You need a solo permit, self arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. It wouldn't have been the responsible option for my first time.
 
 I chose to climb with INKA Expediciones, the biggest operator on the mountain. They charge $4,600 excluding insurance ($180) and climbing permit ($600). Their itinerary is 13 days, but they offer a 15 day version for no extra cost which climbs Cerro Bonete (5,052m) for extra acclimatisation. This was a no brainer for me, but I ended up being the only one in my group of eight who chose it.
 
@@ -66,11 +66,11 @@ The logistics inlcude mules to carry the bulk of the expedition equipment to Pla
 
 I first heard of Aconcagua while climbing [Kilimanjaro](kilimanjaro) in 2022. Slowly the mountain became the centerpiece of a much larger plan. I begun a gap year in July 2024 with [Elbrus](elbrus), for which I bought most of the expedition gear I'd need and learned many of the necessary skills. In the months afterwards I backpacked through [Central America](backpacking-ca) and South America while acclimatising specifically for Aconcagua.
 
-Every two weeks leading up to the climb I summited a 6,000m peak: [Cotopaxi](ecuador), [Chimborazo](ecuador), [Chachani](chachani) and [Huayna Potosí](huayna). Between those I completed more than ten hikes above 5,000m and even swam at that altitude. Combined with lots of running and hiking, I arrived in Mendoza feeling as prepared as I possibly could.
+Every two weeks leading up to the climb I summited a 6,000m peak: [Cotopaxi](ecuador), [Chimborazo](ecuador), [Chachani](chachani) and [Huayna Potosí](huayna). In between those I completed more than ten hikes above 5,000m and even swam above that altitude. Combined with lots of running and hiking, I arrived in Mendoza feeling as prepared as I possibly could.
 
 The gear was a nightmare, trying to get my 150L expedition duffel over from Ireland. No courier would ship to Argentina, so I sent it to Santiago in Chile instead. There were customs delays, threats of enormous import fees and weeks of stress before I eventually got the bag and flew it onwards to Mendoza. I was unbelievably relieved when it finally appeared at the airport.
 
-The key gear 
+It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had heavy Rab down layers, Julbo glasses, a Rab -40degC expedition sleeping bag, and all my usual kit. I packed it into a 90L Osprey Mutant which I love, best bag on the market in my opinion, and had a small bag for the hike into Plaza de Mulas.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua04.jpeg">
@@ -78,15 +78,13 @@ The key gear
 
 ## Arrival in Mendoza
 
-I arrived in Mendoza two days before the expedition began and stayed in a hostel, mostly eating and reorganising gear. The city felt surprisingly green considering the surrounding landscape, and during a walking tour I learned about the complex irrigation channels that keep the tree-lined streets alive. Mendoza is also Argentina's wine capital, so there was no shortage of good food or Malbec either.
+I arrived in Mendoza two days before the expedition and stayed in a hostel, eating loads and organising my gear. The city felt surprisingly green considering its in a desert. On a walking tour I learned about the irrigation channels that keep the trees and farms alive, the famous wines of the region, and met a man who had just summited with INKA. A good omen hopefully.
 
-During the tour I met a man who had just successfully summited with INKA, which I took as a good sign. I was nervous beneath the excitement, knowing how much preparation had gone into this one mountain.
+On expedition day I moved to the official hotel where I met Gonzalo, the assistant guide who I'd be with for the first few days. He checked my gear, confirmed everything looked good and told me to relax for the evening. There was a nice pool but I didn't want to risk sunburn before the climb.
 
-On expedition day I moved to the official hotel where I met Gonzalo, the assistant guide who would bring the small advance group towards base camp. He checked my gear, confirmed everything looked good and told me to relax for the evening. I spent most of it by the pool in the shade, trying not to get sunburnt before even reaching the mountain.
+The next morning we met our driver Maxi and left Mendoza around 10:30am. We stopped at the INKA office for paperwork and expedition t-shirts before the long drive towards the Chilean border. The road followed the Mendoza River which looked perfect for kayaking.
 
-The next morning we met our driver Maxi and left Mendoza around 10:30am. We stopped at the INKA office for paperwork and expedition t-shirts before beginning the long drive towards the Chilean border. The road followed the Mendoza River through an increasingly barren landscape and I remember thinking how fun it looked for kayaking.
-
-Later we repacked and weighed our mule bags at an INKA staging tent before continuing to the mountain refuge where we spent the night. The sunset was incredible, lighting up the Andes in orange and pink hues. Over dinner I met Karol, a Polish guide leading a team of five clients. He had climbed multiple 8,000m peaks and was calm in the way only very experienced mountaineers seem to be.
+At the entrance to the national park, we packed and weighed our mule bags, then continued to a refuge to spend the night. Over dinner I met Karol, a Polish guide leading a team of five clients. He had climbed multiple 8,000m peaks and told me stories from Everest.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua1.jpeg">
@@ -95,11 +93,11 @@ Later we repacked and weighed our mule bags at an INKA staging tent before conti
 ## Day 1  
 #### Horcones (2,950m) to Confluencia Camp (3,390m)
 
-Today I met Andre and Anton; two Russians who were only climbing Cerro Bonete as part of a shorter acclimatisation trip. After packing mule bags and signing into the national park we began hiking beneath a hot, cloudless sky.
+Today I met Andre and Anton; two Russians who were climbing Bonete as their first hiking trip. It would be the three of us with Gonzalo for now. After packing their mule bags and signing into the national park we began hiking. It was very hot.
 
-The landscape instantly felt harsh and dry. Helicopters buzzed overhead carrying supplies and evacuations while mule trains flew past us at impressive speed. We crossed the bridge used in *Seven Years in Tibet* and gradually worked our way towards camp.
+The landscape felt harsh and dry. Helicopters flew overhead carrying supplies and evacuations, while long lines of mule flew past at impressive speed. We crossed a bridge that was shown in *Seven Years in Tibet*, and gradually worked our way towards camp.
 
-Confluencia was far more comfortable than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from the summit. The food throughout the expedition genuinely surprised me with how good it was.
+Confluencia (3,400m) was a far more comfortable campsite than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from the summit. The food throughout the expedition genuinely surprised me with how good it was.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua1a.jpeg">

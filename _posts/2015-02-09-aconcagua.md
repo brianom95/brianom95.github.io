@@ -245,53 +245,43 @@ It was clear and calm all morning. We put on crampons beneath a steep snowy slop
     <img width="400" src="/images/aconcagua13.jpeg">
 </p>
 
-As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised that the Belgians were fading too, exhausted and struggling to walk. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us onwards to La Cueva so the situation could be properly assessed there.
+As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised that the Belgians were fading too, exhausted and struggling to walk. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us onwards to La Cueva so the situation could be properly assessed there. Otherwise he knew no one would summit.
 
-It took us an hour longer than expected to reach the cave. I waited 20 mins before the others arrived, and when they did it was obvious things had changed. Attila needed a Dexamethasone injection to help his symptoms. Alex and Francois were barely functioning. Marcelo explained that this would be their summit and Gonzalo prepared ropes to take the three of them down. Alex argued, but it was the only safe decision. More dexamethasone and oxygen were needed to get the three down.
+It took us an hour longer than expected to reach the cave. I waited 20 mins there before the others arrived, and when they did it was obvious things had changed. Attila needed a dexamethasone injection to help his symptoms. Alex and Francois were barely functioning. Marcelo explained that this would be their summit and Gonzalo prepared ropes to take the three of them down. Alex argued, but it was the only safe decision. More dexamethasone and oxygen were needed to get the three down.
 
-From here it was just Marcelo and I. We left a lot of our gear in the cave and began climbing the Canaleta. The final 2.5 hours were the hardest thing I've ever done. I had heard this section is the difficult part, but feeling perfect at the cave I wondered how bad it could be. Hypoxia at those highest altitudes is difficult to describe, but it felt like exercising with one lung.
+From here it was just Marcelo and I. We left a lot of our gear in the cave and began climbing the Canaleta. The final 2.5 hours were the most difficult thing I've ever done. I heard this section is the hard part, but feeling perfect at the cave I wondered how bad it could be. Hypoxia at those highest altitudes is difficult to describe, but it felt like exercising with one lung.
 
-We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus  short breaks for sips of water and jellies. I always felt in control, but in the last 15 mins my vision blurred. Deep breathing and focus kept it 
+We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. I had the nausea and a mild headache of AMS, but always felt in control which generally means it's not yet HACE. In the last 15 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
 
-, I stopped and breathed deeply until it cleared again. Sugar, water and constant focus. The mountain turns people into zombies up there and I could now fully understand why.
-
-Eventually Marcelo asked for my phone. I rounded a corner I hadn't realised was the final one and suddenly saw the summit cross directly ahead.
-
-The clouds had begun rolling in but I couldn't have cared less. Months of stress and preparation disappeared instantly. We hugged, took photos, and spent around thirty minutes on the summit with other climbers we'd met throughout the expedition. I had only a mild headache and felt surprisingly emotional more than anything else.
-
-Then the weather began changing properly.
-
-We descended unbelievably fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down despite successfully getting all five to the summit. From the top back to camp took us only around 1 hour 45 minutes because we were racing the incoming storm.
-
-Back at camp the mood was sombre. Some people were understandably upset about turning around, but I quietly felt overwhelming relief. I had spent months obsessing over preparation because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted.
-
-That evening I developed dizzy spells and strange tunnel vision. I asked Marcelo for a Dexamethasone tablet for my headache before collapsing into my sleeping bag completely exhausted.
+Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos including my usual handstand, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua13b.jpeg">
 </p>
 
+We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down despite successfully getting all five to the summit. From the top back to camp took us only around 1 hour 45 minutes because we were racing an incoming storm.
+
+Back at camp the mood was sombre. Some people were understandably upset about turning around, but I quietly felt overwhelming relief. I had spent months obsessively preparing because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted. That evening I developed dizzy spells and the tunnel vision came back, I managed it with water and deep breathing but was ready to get back down properly.
+
 ## Day 14  
 #### Descend to Plaza de Mulas (4,370m)
 
-I descended quickly the next morning because the intense sun seemed to worsen the brain fog and dizziness. I waited for the others at Camp 2, then again at Camp 1 where we collected cached equipment and I finally swapped out of my massive summit boots.
+I descended quickly the next morning because the intense sun seemed to worsen the brain fog and dizziness. I waited for the others at Camp 2, then again at Camp 1 where we collected cached equipment, and I finally swapped out of my massive summit boots.
 
-Once back at Plaza de Mulas I sat in the shade drinking water for nearly an hour before everyone else arrived. At times I genuinely felt drunk; groggy tunnel vision and poor reflexes that came and went unpredictably.
-
-That night we celebrated with beers, wine and glorious hot showers.
+Once back at Plaza de Mulas I sat in the shade drinking water for nearly an hour before everyone else arrived. At times I felt drunk; groggy tunnel vision and poor reflexes that came and went unpredictably. That night we celebrated with beers, wine and the greatest gift the guides could give us: free shower tokens!
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua3.jpeg">
 </p>
 
 ## Day 15  
-#### The Long Walk Out
+#### Descend to Horcones (2,950m)
 
-A 26km hike back through the valleys. Everyone was ready to leave the mountain by now and the slow pace made the day feel endless.
+A 26km hike back through the valley. Everyone was ready to leave the mountain by now and the slow pace made the day feel endless.
 
-The return of birds, shrubs and running water felt strangely comforting after so long in the barren upper mountain. We stopped for food at Confluencia, had a celebratory beer at Penitentes, then drove all the way back to Mendoza where I finally checked into a hotel around 10pm.
+The return of birds, shrubs and running water felt strangely comforting after so long in the barren upper mountain. We stopped for food at Confluencia, had a celebratory beer at the mule station, then drove all the way back to Mendoza where we finally checked into the hotel around 10pm.
 
-After a proper shower I discovered the full extent of the sunburn on my neck. The exhaustion hit me all at once and that hotel bed felt better than any summit.
+After a proper shower I discovered the full extent of the sunburn on my neck. The exhaustion hit me all at once and that hotel bed felt better than any summit. The experience had taken all I had, physically and mentally. Now it was time to rest.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua15.jpeg">

@@ -73,7 +73,7 @@ The gear was a nightmare, trying to get my 150L expedition duffel over from Irel
 The key gear 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua04.jpeg">
+    <img width="300" src="/images/aconcagua04.jpeg">
 </p>
 
 ## Arrival in Mendoza
@@ -89,7 +89,7 @@ The next morning we met our driver Maxi and left Mendoza around 10:30am. We stop
 Later we repacked and weighed our mule bags at an INKA staging tent before continuing to the mountain refuge where we spent the night. The sunset was incredible, lighting up the Andes in orange and pink hues. Over dinner I met Karol, a Polish guide leading a team of five clients. He had climbed multiple 8,000m peaks and was calm in the way only very experienced mountaineers seem to be.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua1.jpeg">
+    <img width="300" src="/images/aconcagua1.jpeg">
 </p>
 
 ## Day 1  
@@ -102,7 +102,7 @@ The landscape instantly felt harsh and dry. Helicopters buzzed overhead carrying
 Confluencia was far more comfortable than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from the summit. The food throughout the expedition genuinely surprised me with how good it was.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/aconcagua1a.jpeg">
+    <img width="400" src="/images/aconcagua1a.jpeg">
 </p>
 
 ## Day 2  
@@ -113,7 +113,7 @@ A hot and easy acclimatisation hike beneath the towering south face of Aconcagua
 Clouds rolled dramatically over the mountain while we ate lunch below the face, then we slowly returned to camp. That evening brought another beautiful sunset and more excellent food. I also met Anar, a quiet Kazakh climber on a private INKA trip who I would later bump into again on Denali months later.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua2.jpeg">
+    <img width="300" src="/images/aconcagua2.jpeg">
 </p>
 
 ## Day 3  
@@ -126,7 +126,7 @@ I drank constantly all day and still finished my three litres before reaching ca
 Plaza de Mulas is enormous. A full tent city in the middle of nowhere. My duffel had arrived safely with the mules and I was delighted to find I had a three person tent entirely to myself. It was freezing once the sun disappeared, but my sleeping setup felt luxurious after the heat of the approach.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/aconcagua14.jpeg">
+    <img width="400" src="/images/aconcagua14.jpeg">
 </p>
 
 ## Day 4  
@@ -139,7 +139,7 @@ My appetite had started to fade slightly, but I forced myself to eat huge amount
 Plaza de Mulas almost feels like a small mountain village. The giant dome tent had books, games, a café and WiFi. Charging phones was free while charging anything else cost €10, so I spent days sneaking my powerbank into my phone case to avoid paying.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua4.jpeg">
+    <img width="300" src="/images/aconcagua4.jpeg">
 </p>
 
 ## Day 5  
@@ -169,7 +169,7 @@ That evening we walked to a turquoise lake for a swim where Francois cut his foo
 Most people drank wine with dinner every night, but I mostly avoided it and focused on hydration instead. I was consistently drinking around 5L per day loaded with electrolytes.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua6.jpeg">
+    <img width="300" src="/images/aconcagua6.jpeg">
 </p>
 
 ## Day 7  
@@ -195,7 +195,7 @@ The wind became terrifying that evening. Tents whipped violently around camp and
 I used my included shower token that night and it felt unbelievable.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/aconcagua8.jpeg">
+    <img width="400" src="/images/aconcagua8.jpeg">
 </p>
 
 ## Day 9  
@@ -221,7 +221,7 @@ Nido de Cóndores had a cool atmosphere with tents tied down entirely using rock
 The sunset that night was incredible. We sat above a sea of clouds watching the light fade over the Andes.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua10.jpeg">
+    <img width="300" src="/images/aconcagua10.jpeg">
 </p>
 
 ## Day 11  
@@ -299,7 +299,7 @@ Once back at Plaza de Mulas I sat in the shade drinking water for nearly an hour
 That night we celebrated with beers, wine and glorious hot showers.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/aconcagua3.jpeg">
+    <img width="400" src="/images/aconcagua3.jpeg">
 </p>
 
 ## Day 15  
@@ -312,7 +312,7 @@ The return of birds, shrubs and running water felt strangely comforting after so
 After a proper shower I discovered the full extent of the sunburn on my neck. The exhaustion hit me all at once and that hotel bed felt better than any summit.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua15.jpeg">
+    <img width="300" src="/images/aconcagua15.jpeg">
 </p>
 
 ## Afterthoughts

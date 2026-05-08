@@ -289,19 +289,19 @@ After a proper shower I discovered the full extent of the sunburn on my neck. Th
 
 ## Afterthoughts
 
-Recovery from Aconcagua was much slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me at times. I spent the following days eating enormous amounts of food, doing a wine tour around Mendoza and trying to properly rest.
+Recovery from Aconcagua was slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me at times. I spent the following days eating enormous amounts of food, doing a wine tour around Mendoza and trying to properly rest.
 
-There was some unfortunate drama afterwards when the two Belgians posted online claiming they had turned around purely to rescue Attila. It was a strange thing to do and caused tension within the group, which was a shame after spending so long together on the mountain.
+There was some unfortunate drama afterwards when the two Belgians posted online claiming they had turned around as they had to rescue Attila. It was a strange thing to do and caused tension within the group, which was a shame after spending so long together on the mountain.
 
-A few days later I travelled to San Juan to stay with my friend Aisling, who was living there kayaking full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she agreed to bring my giant expedition duffel there for me ahead of Denali, saving me from another courier nightmare. We spent the week kayaking, running, watching films and eating huge amounts of food while my body slowly recovered.
+A few days later I travelled to San Juan to stay with my friend Aisling, who was living there kayaking full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she agreed to bring my giant duffel there for me, perfectly placed that I'd collect it on route to Denali in May, and saving me from another courier nightmare. We spent the week kayaking, running, watching films and eating huge amounts of food while my body recovered.
 
-Aconcagua humbled me. It is a harsh place that wears people down physically and mentally over time. The summit day was the hardest thing I've ever done, but what surprised me most was how much discipline the entire expedition required long before summit night. Eating when you don't want to, drinking absurd amounts of water, forcing yourself outside in storms, carrying loads repeatedly and trying to stay mentally sharp while exhausted.
+Aconcagua humbled me. It's a harsh place that wears people down over time. The summit day was the hardest thing I've ever done, but what surprised me most was how much discipline the entire expedition required long before summit night. Eating when you don't want to, drinking absurd amounts of water, forcing yourself outside in storms, carrying loads repeatedly and trying to stay mentally sharp while exhausted.
 
 I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, weight gain before summit day and the longer itinerary despite everyone else dismissing it. I left nothing to chance because I genuinely respected how dangerous the mountain could become.
 
-And despite all of that, standing near 7,000m still felt less like being sick and more like your body simply wasn't designed to function there.
+And despite all of that, the final pull towards 7,000m still felt like my body just wasn't designed to function there. Aconcagua strips life down to survival in a way few mountains can. Every step being deliberate, every small decision mattering, and success never being guaranteed no matter how strong you are. 
 
-I think that's what makes Aconcagua so special. It strips life down to survival in a way few mountains can. Every step becomes deliberate, every small decision matters, and success is never guaranteed no matter how strong you are. 
+I'm thankful to everyone who made the trip possible, especially Marcelo. It's an experience I'll never forget.
 
 Thank you for reading,  
 Brian

@@ -190,7 +190,7 @@ The carry to Nido was heavy. The others all had gear hanging off up to 100L pack
 </p>
 
 ## Day 11
-#### Snow Skills
+#### Rest Day & Snow Skills
 
 I met Karol again today who confirmed the "miraculously clear" weather window for our summit day. We spent the afternoon on snow skills during which the group was struggling. I helped with crampons and in some of the exercises, but eventually was allowed do my own thing and take photos as they had to spend a lot of time on the basics. We had pizza for dinner (somehow), and you could feel the excitement building in the camp.
 
@@ -199,7 +199,7 @@ I met Karol again today who confirmed the "miraculously clear" weather window fo
 </p>
 
 ## Day 12
-#### Move to Camp 3: Cólera (6,000m)
+#### Move to Camp 3: Cólera (5,970m)
 
 Back on with the heavy bags, and up the snowy ridges we had practiced on yesterday. We passed Camp Berlin with its cool cross nestled in the rocks, then scrambled up to our scenic spot at Camp Cólera. A huge snowstorm hit that night, bringing a cold chill. I drank lots of water early in the day, packed my things, had a big dinner with hot chocolate, and tried to rest early. For a few reasons I got very little sleep, but I still had no symptoms of altitude sickness and felt ready.
 

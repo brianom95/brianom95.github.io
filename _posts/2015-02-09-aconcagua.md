@@ -191,7 +191,7 @@ The wind became terrifying that evening. Tents whipped violently around camp and
 ## Day 9  
 #### Move to Camp 1: Plaza Canadá (5,050m)
 
-The morning was delayed while people assessed the storm damage. Some tents at Camp 1 had blown away, but thankfully ours survived. We left at 1pm after a breakfast of bacon and quesadillas. The climb was straightforward and familiar. At camp Attila and I claimed the flattest tent spot. We would share from here on.
+The morning was delayed while people assessed damage from the storm. Some tents at Camp 1 had blown away, but thankfully ours survived. We left at 1pm after a breakfast of bacon and quesadillas. The climb was straightforward and familiar. At camp Attila and I claimed the flattest tent spot. We would share from here on.
 
 That evening was unusually calm, so we ate dinner outside looking down towards base camp far below. Everyone debated whether to wear their summit boots from here, or carry them higher. I decided to wear mine and save some weight.
 
@@ -226,9 +226,9 @@ That afternoon we practiced snow skills on a steep slope near camp. The group st
 
 Another move day, another heavy pack. We climbed yesterdays snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro.
 
-A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I felt good, most people had headaches but I had no symptoms yet. I packed everything for summit night nice and early, and after a final hot chocolate it was time for bed.
+A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I felt good, most people had headaches but I had no symptoms yet. I packed everything for the summit push nice and early, and after a final hot chocolate it was time for bed.
 
-At altitude, small frustrations feel enormous. Attila was fairly disorganised and his packing for summit began when everyone else went to sleep. This meant 1.5 hours of his headtorch flashing, him talking through his packing, and gear being landed on me. I only managed a few hours sleep before alarms went off at 3:00am. In the moment this was stressful.
+At altitude, small frustrations feel enormous. Attila was very disorganised and his packing began when everyone else went to sleep. This meant 1.5 hours of his headtorch flashing, him talking through his packing, and gear being landed on me. I only managed a few hours sleep before alarms went off at 3:00am. In the moment this was stressful.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua12.jpeg">
@@ -251,15 +251,15 @@ It took us an hour longer than expected to reach the cave. I waited 20 mins ther
 
 From here it was just Marcelo and I. We left a lot of our gear in the cave and began climbing the Canaleta. The final 2.5 hours were the most difficult thing I've ever done. I heard this section is the hard part, but feeling perfect at the cave I wondered how bad it could be. Hypoxia at those highest altitudes is difficult to describe, but it felt like exercising with one lung.
 
-We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. I had the nausea and a mild headache of AMS, but always felt in control which generally means it's not yet HACE. In the last 15 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
+We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and a mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
 
-Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos including my usual handstand, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 
+Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua13b.jpeg">
 </p>
 
-We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down despite successfully getting all five to the summit. From the top back to camp took us only around 1 hour 45 minutes because we were racing an incoming storm.
+We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down, despite successfully getting all five to the summit. From the top back to camp took us only around 1 hour 45 minutes because we were racing an incoming storm.
 
 Back at camp the mood was sombre. Some people were understandably upset about turning around, but I quietly felt overwhelming relief. I had spent months obsessively preparing because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted. That evening I developed dizzy spells and the tunnel vision came back, I managed it with water and deep breathing but was ready to get back down properly.
 
@@ -291,15 +291,15 @@ After a proper shower I discovered the full extent of the sunburn on my neck. Th
 
 Recovery from Aconcagua was slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me at times. I spent the following days eating enormous amounts of food, doing a wine tour around Mendoza and trying to properly rest.
 
-There was some unfortunate drama afterwards when the two Belgians posted online claiming they had turned around as they had to rescue Attila. It was a strange thing to do and caused tension within the group, which was a shame after spending so long together on the mountain.
+There was some unfortunate drama afterwards when the two Belgians both posted heroic accounts online claiming they had turned around to rescue Attila. It was a strange thing to do and caused tension within the group, which was a shame after spending so long together on the mountain.
 
-A few days later I travelled to San Juan to stay with my friend Aisling, who was living there kayaking full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she agreed to bring my giant duffel there for me, perfectly placed that I'd collect it on route to Denali in May, and saving me from another courier nightmare. We spent the week kayaking, running, watching films and eating huge amounts of food while my body recovered.
+A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she agreed to bring my giant duffel there for me, perfectly placed that I'd collect it on route to Denali in May, and saving me from another courier nightmare. We spent the week kayaking, running, watching films and eating huge amounts of food while my body recovered. I'm so grateful for her help while my body healed.
 
-Aconcagua humbled me. It's a harsh place that wears people down over time. The summit day was the hardest thing I've ever done, but what surprised me most was how much discipline the entire expedition required long before summit night. Eating when you don't want to, drinking absurd amounts of water, forcing yourself outside in storms, carrying loads repeatedly and trying to stay mentally sharp while exhausted.
+Aconcagua humbled me. It's a harsh place that wears people down over time. The summit day was the hardest thing I've ever done, but what surprised me most was how much discipline the entire expedition required long before summit night. Eating when you don't want to, drinking absurd amounts of water, forcing yourself outside in storms, carrying heavy loads repeatedly and trying to stay mentally sharp while exhausted.
 
 I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, weight gain before summit day and the longer itinerary despite everyone else dismissing it. I left nothing to chance because I genuinely respected how dangerous the mountain could become.
 
-And despite all of that, the final pull towards 7,000m still felt like my body just wasn't designed to function there. Aconcagua strips life down to survival in a way few mountains can. Every step being deliberate, every small decision mattering, and success never being guaranteed no matter how strong you are. 
+And despite all of that, the final pull towards 7,000m still felt like my body just wasn't designed to function there. Aconcagua strips life down to survival in a way few mountains can. Every step is deliberate, every small decision matters, and success is never guaranteed, no matter how strong you are. 
 
 I'm thankful to everyone who made the trip possible, especially Marcelo. It's an experience I'll never forget.
 

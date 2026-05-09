@@ -128,9 +128,9 @@ Plaza de Mulas is enormous. A tent city in the middle of nowhere. My bag had arr
 ## Day 4  
 #### Rest Day at Plaza de Mulas (4,370m)
 
-After a buffet breakfast (base camp is class), we did a short hike to a frozen lake surrounded by penitentes. The strong wind ruined all my videos, but it was very cool. I could feel my appetite fading, but forced myself to eat. Most people lose weight on Aconcagua, but I was determined not to. You need that energy.
+After a buffet breakfast (base camp is great), we did a short hike to a frozen lake surrounded by penitentes. The strong wind ruined all my videos, but it was very cool. I could feel my appetite fading, but forced myself to eat. Most people lose weight on Aconcagua, but I was determined not to. You need that energy.
 
-Plaza de Mulas feels like a small mountain village. The giant dome tent had books, games, a café and WiFi. Charging phones was free but charging anything else cost $10. Luckily no one ever noticed it was my powerbank charging inside my phone case.
+Plaza de Mulas feels like a small mountain village. The main INKA dome tent had books, games, a café and WiFi. Charging phones was free but charging anything else cost $10. Luckily no one ever noticed it was my powerbank charging inside my phone case.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua4.jpeg">
@@ -139,7 +139,7 @@ Plaza de Mulas feels like a small mountain village. The giant dome tent had book
 ## Day 5  
 #### Cerro Bonete (5,052m)
 
-Our first climb. Bonete is near the camp, with a great view of Aconcagua. We left after breakfast with packed lunches from the buffet tent, moving upwards through rocks and penitentes. There was scree and several river crossings, including a bridge made from an old wooden door. 
+Our first climb. Bonete is near the camp, with a great view of Aconcagua, but still a long ascent. We left after breakfast with packed lunches from the buffet tent, moving upwards through rocks and penitentes. There was scree and several river crossings, including a bridge made from an old wooden door. 
 
 We passed an abandoned mountain hotel before climbing steep zig-zags towards the summit ridge. Helmets went on for the final scramble and the views from the top were unreal. I got my usual handstand photo before skiing down the volcanic sand on the descent.
 
@@ -156,7 +156,7 @@ Back at camp, the rest of the group had arrived. The lead guide Marcelo was calm
 ## Day 6  
 #### Rest Day
 
-A relaxed day of eating, packing and chatting. We packed roughly 6kg of food each for the higher camps and also filled 5L of water because Camp 1 had no reliable source left after the heat.
+this was the end of Andre & Anton's trip so they descended with a differnet group. The rest of is had a relaxed day of eating, packing and chatting. We packed roughly 6kg of food each for the higher camps and also filled 5L of water because Camp 1 had no reliable source left after the heat.
 
 That evening we walked to a turquoise lake for a swim where Francois cut his foot on some rocks. Dinner was a huge barbecue and I spent hours talking with Alex about his ambitious goal of climbing the highest point in every country. This was roughly number 10 of the 197, and it was his first test of high altitude. It's a particularly ambitious goal.
 
@@ -180,9 +180,9 @@ John and I skiied down the scree while the others struggled down more cautiously
 ## Day 8  
 #### Rest Day
 
-John left that morning. The rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and a big barbecue dinner.
+John left that morning. The rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and a big barbecue dinner. Today we also had our mandatory medical checks. A doctor listened for fluid in our lungs and checked blood oxygen levels before sogning our permits to allow us higher. skipping this step before goin for the summit results in fines and a lifetime ban from the park.
 
-The wind became terrifying that evening. Tents whipped violently around camp and the toilet became a wind tunnel. White clouds spilled over the ridges in strange formations that looked fake. Showers cost $10 but we had one included. I used mine that night and felt amazing.
+The wind became terrifying that evening. Tents whipped violently around camp and the toilet became a wind tunnel. White clouds spilled over the ridges in strange formations that looked fake. Showers cost $10 but we had one included. I used mine that night and felt amazing after.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua8.jpeg">

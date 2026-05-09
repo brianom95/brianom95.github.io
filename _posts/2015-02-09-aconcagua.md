@@ -8,7 +8,7 @@ tags:   [Mountaineering]
 ---
 This is my story from a mountain designed to wear people down. Aconcagua is a world away from the beginner fiendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless wind that make every task harder. The climb has a success rate of 30%. I put in months of preparation to control what I could, and to make sure I was on the better side of those odds.
 
-Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, loss of appetite, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself also.
+Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, loss of appetite, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself too.
 
 The climb took 15 days through some of the hottest, coldest and windiest conditions I had ever faced. The base camp has its luxuries, but they don't detract from this being a harsh and inhospitable place. There's stress in the challenges, often bringing an emotionally taxing doubt and uncertainty. Still though, when I think of the glowing sunsets on the peak and nights staring up into the silence, I'm reminded how lucky I am to have had this experience.
 
@@ -70,7 +70,7 @@ Every two weeks leading up to the climb I summited a 6,000m peak, these were [Co
 
 The gear was a nightmare, trying to get my 150L expedition duffel over from Ireland. No courier would ship to Argentina, so I sent it to Santiago in Chile instead. There were customs delays, threats of enormous import fees, and weeks of stress before I eventually got the bag and flew it onwards to Mendoza. I was unbelievably relieved when it finally appeared at the airport.
 
-It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had heavy Rab down layers, Julbo glasses, a Rab -40degC expedition sleeping bag, and all my usual kit. I packed it into a 90L Osprey Mutant which I love, best bag on the market in my opinion, and had a smaller SOprey Talon 33 for the hike into Plaza de Mulas.
+It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had heavy Rab down layers, my patagonia sunhoody, Julbo glasses, a Rab -40degC expedition sleeping bag, and all my usual kit. I packed it into Osprey Mutant 90 which I love, best large climbing pack on the market in my opinion, and had a smaller Osprey Talon 33 for the hike into Plaza de Mulas.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua04.jpeg">
@@ -84,20 +84,20 @@ When the time came I moved to the official hotel where I met Gonzalo, the assist
 
 The next morning we met our driver Maxi and left Mendoza around 10:30am. We stopped at the INKA office for paperwork and expedition t-shirts before the long drive towards the Chilean border. The road followed the Mendoza River which looked perfect for kayaking.
 
-At the entrance to the national park, we packed and weighed our mule bags, then continued to a refuge to spend the night. Over dinner I met Karol, a Polish guide leading a team of five clients. He had climbed multiple 8,000m peaks and told me stories from Everest.
+At the entrance to the national park in Horcones (2,950m), we packed and weighed our mule bags, then continued to a refuge to spend the night. Over dinner I met Karol, a Polish guide leading a team of five clients. He had climbed multiple 8,000m peaks and told me stories from Everest.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua1.jpeg">
 </p>
 
 ## Day 1  
-#### Horcones (2,950m) to Confluencia Camp (3,390m)
+#### Hike to Confluencia Camp (3,390m)
 
-Today I met Andre and Anton; two Russians who were climbing Bonete as their first hiking trip. It would be the three of us with Gonzalo for now. After packing their mule bags and signing into the national park we began. It was very hot.
+Today I met Andre and Anton; two Russians who were climbing Bonete as their first ever hiking trip. It would be the three of us with Gonzalo for now. After packing their mule bags and signing into the national park we began. It was very hot.
 
 The landscape was harsh and dry. Helicopters flew overhead carrying supplies and evacuations, while long lines of mules flew past at impressive speed. We crossed a bridge that was shown in *Seven Years in Tibet*, and gradually worked our way towards camp.
 
-Confluencia (3,400m) was a far more comfortable campsite than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from their summit attempt. The food throughout the expedition always surprised me with how good it was.
+Confluencia Camp (3,400m) was far more comfortable than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from their summit attempt. The food throughout the expedition always surprised me with how good it was.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua1a.jpeg">

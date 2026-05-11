@@ -270,7 +270,7 @@ That evening I developed dizzy spells and the tunnel vision came back, I managed
 
 I descended quickly the next morning because the intense sun seemed to worsen the brain fog and dizziness. I waited for the others at Camp 2, then again at Camp 1 where we collected cached equipment, and I finally swapped out of my massive summit boots.
 
-Once back at Plaza de Mulas I sat in the shade drinking water for nearly an hour before everyone else arrived. At times I felt drunk; groggy tunnel vision and poor reflexes that came and went unpredictably. That night we celebrated with beers, wine and the greatest gift the guides could give us: free shower tokens!
+Once back at Plaza de Mulas I sat in the shade drinking water for nearly an hour before everyone else arrived. At times I felt drunk; I had a groggy tunnel vision and poor reflexes that came and went unpredictably. That night we celebrated with beers, wine and the greatest gift the guides could give us: free shower tokens!
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua3.jpeg">
@@ -283,7 +283,7 @@ A 26km hike back through the valley. Everyone was ready to leave the mountain by
 
 The return of birds, shrubs and running water felt strangely comforting after so long in the barren upper mountain. We stopped for food at Confluencia, had a celebratory beer at the mule station, then drove all the way back to Mendoza where we finally checked into the hotel around 10pm.
 
-After a proper shower I discovered the full extent of the sunburn on my neck. The exhaustion hit me all at once and that hotel bed felt better than any summit. The experience had taken all I had, physically and mentally. Now it was time to rest.
+After a proper shower I discovered the extent of the sunburn on my neck. The exhaustion hit me all at once and that hotel bed felt better than any summit. The experience had taken all I had, physically and mentally. Now it was time to rest.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua15.jpeg">

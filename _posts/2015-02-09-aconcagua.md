@@ -29,7 +29,7 @@ Several camps have been established along the Normal Route. Plaza de Mulas is th
 The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble to the condor shaped cross on the summit.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcaguaTBC.jpeg">
+    <img width="400" src="/images/aconcagua17.webp">
 </p>
 
 ## Acclimatisation is Key

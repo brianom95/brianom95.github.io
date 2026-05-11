@@ -106,7 +106,7 @@ Confluencia Camp (3,400m) was far more comfortable than I expected. Huge dome te
 ## Day 2  
 #### Acclimatisation Hike to Plaza Francia (4,200m)
 
-A hot and easy acclimatisation hike beneath the south face of Aconcagua. The trail was mostly flat, but the heat made it feel harder. Andre and Anton struggled even at a slow pace, but I felt comfortable. The ground was dry and cracked, full of cool patterns and colours. At times it revealed giant quartz crystals that were below the surface.
+A hot and easy acclimatisation hike beneath the south face of Aconcagua. The trail was mostly flat, but the heat made it feel harder. Andre and Anton struggled even at a slow pace, but I felt comfortable. The ground was dry and cracked, full of cool patterns and colours. At times it revealed giant quartz crystals that were just below the surface.
 
 Clouds rolled over the mountain as we ate lunch below the face, then we slowly returned to camp. There's already no life up here. No birds, animals, or even grass. It's quiet and still. The evening brought a beautiful sunset and more great food. I also met Anar, a Kazakh climber on a private INKA trip who I would bump into again on Denali months later.
 

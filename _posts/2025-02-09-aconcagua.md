@@ -149,6 +149,8 @@ We passed an abandoned mountain hotel before climbing steep zig-zags towards the
 
 Back at camp, the rest of the group had arrived. The lead guide Marcelo was calm and easy going, but it didn't hide his obvious experience. The team consisted of two Belgians named Alex and Francois, John from the USA, Attila from Hungary, and two Argentinians; Augustine and Francesco (who was Marcelo's father). One member had already left after twisting an ankle lower down the mountain, leaving seven of us in total.
 
+There was a mixed level of experience, ranging as high as Kilimanjaro in some cases, but with no shortage of confidence. I felt some were getting ahead of themselves with future plans and undrestimating this. Everyone had come directly from sea level and a few had headaches already. Nonetheless we had fun getting to know each other and my hopes were high we'd all be celebrating on the summit in a weeks time.
+
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua5a.jpeg">
 </p>

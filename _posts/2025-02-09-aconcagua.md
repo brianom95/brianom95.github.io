@@ -303,6 +303,10 @@ There was unfortunate drama when the two Belgians posted on Instagram that they 
 
 A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help while my body healed. It felt like home.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua18.jpeg">
+</p>
+
 ## Afterthoughts
 
 Aconcagua humbled me more than anything I've ever done. It's a harsh place that wears people down over time. It requires discipline to eat when you have no appetite, to drink absurd amounts of water, to go out in rough weather, to carry heavy loads repeatedly, and to stay mentally sharp while exhausted. Lots of people let ego get the better of them, becoming careless with things like sunburn, hangovers and their own preparation. I think it's critical to avoid this trap.
@@ -315,6 +319,10 @@ I'm happy I went with guides and Marcelo was great, but in hindsight I wouldn't 
 
 I booked what was within my budget at the time, but where possible I would avoid big groups. I would also be skeptical of itineraries with rigid dates and minimal contingency. The overall success rate is still 30%, and you will meet climbers on their second and third attempts. This is too big an investment in both time and money to leave it to chance. Find a guide who appreciates this, and who demands preparation from the clients.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua16.jpeg">
+</p>
+
 ## What's Next
 
 Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the O-Trek and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
@@ -323,10 +331,6 @@ Three months after Antarctica I would be flying by ski plane to a remote glacier
 
 Thank you for reading,  
 Brian
-
-<p align="center" width="100%">
-    <img width="400" src="/images/aconcagua16.jpeg">
-</p>
 
 ## Trip Video
 

@@ -171,7 +171,7 @@ Tonight we had an amazing asado (Argentinian BBQ). Most people drink wine with d
 ## Day 7  
 #### Carry to Camp 1: Plaza Canadá (5,050m)
 
-Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted above the summit with strange wavy lines, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
+Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted themselves over the summit in strange wavy patterns, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
 
 John and I skied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic too, maybe the brightest I've ever seen.
 

@@ -70,7 +70,7 @@ Every two weeks leading up to the climb I summited a 6,000m peak, these were [Co
 
 The gear was a nightmare, trying to get my 150L expedition duffel over from Ireland. No courier would ship to Argentina, so I sent it to Santiago in Chile instead. There were customs delays, threats of enormous import fees, and weeks of stress before I eventually got the bag and flew it onwards to Mendoza. I was unbelievably relieved when it finally appeared at the airport.
 
-It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had my patagonia sun hoodie, heavy Rab down layers,  Julbo glasses, a Rab -40°C expedition sleeping bag, and all my usual kit. I packed it into Osprey Mutant 90, which I love. In my opinion it's the best large climbing pack on the market. I also had a smaller Osprey Talon 33 for the hike into Plaza de Mulas.
+It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had my patagonia sun hoodie, heavy Rab down layers,  Julbo glasses, a Rab -40°C expedition sleeping bag, and all my usual kit. I packed it into my Osprey Mutant 90, which I love. In my opinion it's the best large climbing pack on the market. I also had a smaller Osprey Talon 33 for the hike into Plaza de Mulas.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua04.jpeg">

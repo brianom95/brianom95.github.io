@@ -206,7 +206,7 @@ That evening was unusually calm. We ate dinner outside looking down towards base
 
 Heavy bags and a slow pace. Everyone else's packs seemed enormous, with gear hanging off 100L+ bags. I was happy with how efficiently I'd packed, and how the Mutant 90 sat so comfortably even fully loaded. Others had a very hard time today.
 
-Nido de Cóndores had a cool atmosphere. As I set up our tent, and held it down with rocks, I considered how I would never want to bring my own tent to this mountain. It's so rough on gear. We met lots of solo climbers who were sick from drinking untreated lake water, while we carefully filtered and boiled everything. The sunset that night was incredible. We sat above a sea of clouds watching the light fade over the Andes.
+Nido de Cóndores had a cool atmosphere. As I set up our tent, and held it down with rocks, I considered how I would never want to bring my own tent to this mountain. It's so rough on gear. We met lots of solo climbers who were sick from drinking untreated lake water from this camp. Thankfully we were more careful with filtering and boiling everything. The sunset that night was incredible. We sat above a sea of clouds watching the light fade over the Andes.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua10.jpeg">
@@ -217,7 +217,7 @@ Nido de Cóndores had a cool atmosphere. As I set up our tent, and held it down 
 
 That had been the highest I'd ever camped, and luckily I slept fine. I met Karol in the morning who confirmed that the forecast for our summit window looked "miraculously clear", which everyone in camp seemed excited about. There was a slight fear of queues on the traverse as everyone targeted the same summit day, but we were just happy there would be low winds.
 
-That afternoon we practiced snow skills on a steep slope near camp. The group struggled with crampons and movement so I spent time helping out, before being allowed to just take photos as they had to focus a lot on the basics. That night the kitchen staff somehow made pizzas. At 5,550m!
+That afternoon we practiced snow skills on  slope near our camp. The group struggled with crampons and movement so I spent time helping out, before being allowed to just take photos as they had to focus a lot on the basics. That night the kitchen staff somehow made pizzas. At 5,550m!
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua11.jpeg">
@@ -226,9 +226,9 @@ That afternoon we practiced snow skills on a steep slope near camp. The group st
 ## Day 12  
 #### Move to Camp 3: Cólera (5,970m)
 
-Another move day, another heavy pack. We climbed yesterday's snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro. The air is thin, and even more so when breathing through a neck scarf to avoid a cough from dry air, but I feel good.
+Another move day, another heavy pack. We climbed yesterday's snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro. The air is thin, and even more so when breathing through a neck scarf to avoid a cough from dry air, but I felt good.
 
-A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I didn't have a sip after that to avoid bathroom breaks waking me. Most people had headaches and nausea, but I had no symptoms yet. I packed everything for the summit nice and early, and after a final hot chocolate it was time for bed.
+A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I finished it early to avoid bathroom breaks waking me in the night. Most people had headaches and nausea, but I had no symptoms yet. I packed everything for the summit nice and early too, and after a final hot chocolate it was time for bed.
 
 At altitude, small frustrations feel enormous. Attila was very disorganised and his packing began when everyone else went to sleep. This meant 1.5 hours of his headtorch flashing, him talking through his packing, and gear being landed on me. I only managed a few hours sleep before alarms went off at 3:00am. In the moment this was stressful.
 
@@ -257,7 +257,7 @@ From here it was just Marcelo and I. We left a lot of our gear in the cave and b
     <img width="400" src="/images/aconcagua18.jpeg">
 </p>
 
-We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and a mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
+We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
 
 Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 
 
@@ -299,9 +299,9 @@ After a proper shower I discovered the extent of the sunburn on my neck. The exh
 
 Recovery was a lot slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me. I had very little energy, and I'd be hit with random waves of nausea and tiredness, during which I could barely stand. I spent the next few days in Mendoza, eating as much good food as I could, doing a wine tour, and trying to rest.
 
-There was unfortunate drama when the two Belgians posted on Instagram that they turned around so they could rescue Attila. They made up long stories where they were the heroes, leaving out the guides who got them down, and all the tears that came with that decision. It left an awful tension in the group and resulted in us not all meeting up in town, but I did get lunch with Attila who was doing well.
+There was unfortunate drama when the two Belgians posted on Instagram that they turned around so they could rescue Attila. They made up long stories where they were the heroes, leaving out the guides who got them down, and all the tears that came with that decision. It left an awful tension in the group and resulted in us not all meeting up in Mendoza, but I did get lunch with Attila who was doing well.
 
-A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help while my body healed. It felt like home.
+A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help. It felt like being home.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua19.jpeg">
@@ -327,7 +327,7 @@ I booked what was within my budget at the time, but where possible I would avoid
 
 Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the O-Trek and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
 
-Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was different beast. 25 days pulling 50kg sleds, with 24-hour daylight and no comforts beyond what you've dragged up yourself. Temperatures range from +40°C on the glacier, to -40°C on the summit. Hypothermia and frostbite are huge risks, and summit success is less than on Everest. My fifth of the [Seven Summits](sevensummits/) and the most expensive thing I've ever done. My story from Denali is coming soon.
+Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was a different beast. 25 days pulling 50kg sleds, with 24-hour daylight and no comforts beyond what you've dragged up yourself. Temperatures range from +40°C on the glacier, to -40°C on the summit. Hypothermia and frostbite are huge risks, and summit success is less than on Everest. This was my fifth of the [Seven Summits](sevensummits/) and the most expensive thing I've ever done. My story from Denali is coming soon.
 
 Thank you for reading,  
 Brian

@@ -127,7 +127,8 @@ blockquote {
   list-style-position: outside;
 }
 
-.page__content li {
+.page__content li,
+.post-content li {
   padding-left: 0.25rem;
 }
 

@@ -29,7 +29,7 @@ Several camps have been established along the Normal Route. Plaza de Mulas is th
 The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble to the condor shaped cross on the summit.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/aconcagua17.webp">
+    <img width="400" src="/images/aconcagua02.jpeg">
 </p>
 
 ## Logistics & Planning
@@ -43,7 +43,7 @@ INKA is known for having the nicest base camp setup and the best food, but their
 The logistics include mules to carry the bulk of the expedition equipment to Plaza de Mulas. This makes the approach more manageable, but once you move above base camp the luxury ends. Every tent, stove, sleeping bag, litre of water and kilogram of food has to be carried by you. It's good to have a guide's experience, especially if conditions turn bad, but no one can climb the mountain for you.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua02.jpeg">
+    <img width="300" src="/images/aconcagua17.webp">
 </p>
 
 ## Acclimatisation is Key

@@ -6,7 +6,7 @@ date:   2015-02-09 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   [Mountaineering]
 ---
-This is my story from a mountain designed to wear people down. Aconcagua is a world away from the beginner fiendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless wind that make every task harder. The climb has a success rate of 30%. I put in months of preparation to control what I could, and to make sure I was on the better side of those odds.
+This is the story of a mountain designed to wear people down. Aconcagua is a world away from the beginner friendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless wind that make every task harder. The climb has a success rate of 30%. I put in months of preparation to control what I could, and to make sure I was on the better side of those odds.
 
 Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, loss of appetite, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself too.
 
@@ -22,11 +22,11 @@ Aconcagua is in the Cordillera Principal, part of the Andes in Argentina. It's t
 
 A frozen mummy discovered at 5,300m suggests the mountain may have been spiritually significant for the Inca Empire, who performed high-altitude sacrifices long before modern mountaineering began. The first recorded summit was in 1897 when Matthias Zurbriggen climbed the Northwest Ridge, now known as the Normal Route. There were over eight failed attempts on that expedition alone. The peak has since attracted mountaineers from all over the world, hoping to test themselves against extreme altitude.
 
-While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve thin air, rough terrain, rockfall and severe weather. The lower valleys regularly reach 30°C with no shade, while higher up the notorious *Viento Blanco* (White Wind) brings gusts over 100km/h and temperatures below -30°C. 
+While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve rough terrain, rockfall and severe weather, as well as the thin air. The lower valleys regularly reach 30°C with no shade, while higher up the *Viento Blanco* (White Wind) brings gusts over 100km/h and temperatures below -30°C. 
 
-Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed to allow recovery between climbing days. Most people use three camps between here and the summit, for acclimatising and when moving towards the peak.
+Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed to allow recovery between climbing days. Most people use three camps between here and the summit, for acclimatising and when moving towards the peak. 
 
-The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble.
+The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble to the condor shaped cross on the summit.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcaguaTBC.jpeg">
@@ -38,9 +38,9 @@ Aconcagua is at the edge of what the human body can tolerate for any meaningful 
 
 The best strategy to boost red blood cells is to climb high, sleep low. Climbers do small hikes, or carry food and gear to higher camps, then descend to recover. This allows the body to adapt better. It's a slow and exhausting process, requiring up to 5L of water a day and lots of food. The people who do more rotations up/down the mountain tend to have better success.
 
-The physical toll of being at altitude is significant though, so there is a balance. Recovery is incredibly slow, appetite fades, and dry air causes deep coughs. Simple headaches can linger for days, and moving too high too soon can lead to HACE or HAPE; life threatening forms of altitude sickness involving swelling of the brain or lungs. Too many rotations could also leave the body too tired for a summit push, and every plan must be flexible to the weather.
+The physical toll of being at altitude is significant though, so there is a balance. Recovery is incredibly slow, appetite fades, and dry air causes deep coughs. Simple headaches can linger for days, and moving too high too soon can lead to HACE or HAPE; life threatening forms of altitude sickness involving swelling of the brain or lungs. Too many rotations could also leave the body too tired on the summit push, and every plan must be flexible to the weather.
 
-Above 6,700m on the Canaleta, things become surreal. You can feel fine while sitting still, then exhausted by a few steps uphill. Every movement becomes deliberate. Hydration, pacing and patience matter more than raw fitness. On smaller peaks Diamox (acetazolamide) is used to aid acclimatisation, but it's avoided on Aconcagua because it can mask symptoms. Here it's more important to listen to your body. 
+Above 6,700m on the Canaleta, things become surreal. You can feel fine while sitting still, then exhausted by a few steps uphill. Every movement becomes deliberate. Hydration, pacing and patience matter more than fitness. On smaller peaks Diamox (acetazolamide) is used to aid acclimatisation, but it's avoided on Aconcagua because it can mask symptoms. Here it's more important to listen to your body. 
 
 Below are the relative oxygen levels on other peaks. On any higher mountain, 7,000m is the point where you begin using supplemetal oxygen (e.g. Camp 3 on Everest).
 
@@ -50,7 +50,7 @@ Below are the relative oxygen levels on other peaks. On any higher mountain, 7,0
 
 ## Logistics & Planning
 
-It's possible to climb Aconcagua independently, and many do. You need a solo permit, self arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. It wouldn't have been the responsible option for my first time.
+It's possible to climb Aconcagua independently, and many do. You would need a solo permit, self arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. It wouldn't have been the responsible option for my first time.
 
 I chose to climb with INKA Expediciones, the biggest operator on the mountain. They charge $4,600 excluding insurance ($180) and climbing permit ($600). Their itinerary is 13 days, but they offer a 15 day version for no extra cost which climbs Cerro Bonete (5,052m) for extra acclimatisation. This was a no brainer for me, but I ended up being the only one in my group of eight who chose it.
 
@@ -70,7 +70,7 @@ Every two weeks leading up to the climb I summited a 6,000m peak, these were [Co
 
 The gear was a nightmare, trying to get my 150L expedition duffel over from Ireland. No courier would ship to Argentina, so I sent it to Santiago in Chile instead. There were customs delays, threats of enormous import fees, and weeks of stress before I eventually got the bag and flew it onwards to Mendoza. I was unbelievably relieved when it finally appeared at the airport.
 
-It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had heavy Rab down layers, my patagonia sunhoody, Julbo glasses, a Rab -40degC expedition sleeping bag, and all my usual kit. I packed it into Osprey Mutant 90 which I love, best large climbing pack on the market in my opinion, and had a smaller Osprey Talon 33 for the hike into Plaza de Mulas.
+It's advisable to rent double boots and crampons because they'll take a battering, but I preferred to have my own to know they'd fit. I use La Sportiva Olympus Mons, with Petzl Vasak crampons and was just careful with them. Then I had my patagonia sunhoody, heavy Rab down layers,  Julbo glasses, a Rab -40degC expedition sleeping bag, and all my usual kit. I packed it into Osprey Mutant 90 which I love, best large climbing pack on the market in my opinion, and had a smaller Osprey Talon 33 for the hike into Plaza de Mulas.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua04.jpeg">
@@ -80,7 +80,7 @@ It's advisable to rent double boots and crampons because they'll take a batterin
 
 I arrived in Mendoza two days before the expedition and stayed in a hostel, eating loads and organising my gear. The city felt surprisingly green considering its in a desert. On a walking tour I learned about the irrigation channels that keep the trees and farms alive, the famous wines of the region, and met a man who had just successfully summited with INKA. A good omen hopefully.
 
-When the time came I moved to the official hotel where I met Gonzalo, the assistant guide who I'd be with for the first few days. He checked my gear, confirmed everything looked good and told me to relax for the evening. There was a nice pool but I didn't want to risk sunburn before the climb.
+When the time came I moved to the official hotel where I met Gonzalo, the assistant guide who I'd be with for the first few days. He checked my gear, confirmed everything looked good, and told me to relax for the evening. There was a nice pool but I didn't want to risk sunburn before the climb.
 
 The next morning we met our driver Maxi and left Mendoza around 10:30am. We stopped at the INKA office for paperwork and expedition t-shirts before the long drive towards the Chilean border. The road followed the Mendoza River which looked perfect for kayaking.
 
@@ -93,9 +93,9 @@ At the entrance to the national park in Horcones (2,950m), we packed and weighed
 ## Day 1  
 #### Hike to Confluencia Camp (3,390m)
 
-Today I met Andre and Anton; two Russians who were climbing Bonete as their first ever hiking trip. It would be the three of us with Gonzalo for now. After packing their mule bags and signing into the national park we began. It was very hot.
+Today I met Andre and Anton; two Russians who were climbing just Bonete as their first ever hiking trip. It would be the three of us with Gonzalo for now. After packing their mule bags and signing into the national park we began. It was very hot.
 
-The landscape was harsh and dry. Helicopters flew overhead carrying supplies and evacuations, while long lines of mules flew past at impressive speed. We crossed a bridge that was shown in *Seven Years in Tibet*, and gradually worked our way towards camp.
+The landscape was harsh and dry. Helicopters flew overhead carrying supplies and evacuations, while long lines of mules flew past at impressive speed. We crossed a bridge that built for the movie *Seven Years in Tibet*, and gradually worked our way towards camp. In front of us was the snowy dome of the summit which looked intimidating.
 
 Confluencia Camp (3,400m) was far more comfortable than I expected. Huge dome tents served buffet meals, there were proper bunk beds, and I spent the evening chatting with some Germans descending from their summit attempt. The food throughout the expedition always surprised me with how good it was.
 
@@ -106,9 +106,9 @@ Confluencia Camp (3,400m) was far more comfortable than I expected. Huge dome te
 ## Day 2  
 #### Acclimatisation Hike to Plaza Francia (4,200m)
 
-A hot and easy acclimatisation hike beneath the south face of Aconcagua. The trail was mostly flat, but the heat made it feel harder. Andre and Anton struggled even at a slow pace, but I felt comfortable. 
+A hot and easy acclimatisation hike beneath the south face of Aconcagua. The trail was mostly flat, but the heat made it feel harder. Andre and Anton struggled even at a slow pace, but I felt comfortable. The ground was dry and cracked, full of cool patterns and colours. At times it revealed giant quartz crystals that were below the surface.
 
-Clouds rolled over the mountain as we ate lunch below the face, then we slowly returned to camp. The evening brought a beautiful sunset and more great food. I also met Anar, a quiet Kazakh climber on a private INKA trip who I would bump into again on Denali months later.
+Clouds rolled over the mountain as we ate lunch below the face, then we slowly returned to camp. There's already no life up here. No birds, animals, or even grass. It's quiet and still. The evening brought a beautiful sunset and more great food. I also met Anar, a Kazakh climber on a private INKA trip who I would bump into again on Denali months later.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua2.jpeg">
@@ -117,9 +117,9 @@ Clouds rolled over the mountain as we ate lunch below the face, then we slowly r
 ## Day 3  
 #### Confluencia (3,390m) to Plaza de Mulas (4,370m)
 
-The hottest day of the whole trip. 18km of dust, river crossings, mule trains and dry valleys. Whenever we passed a small cliff you'd see climbers huddled in whatever shadow they could find. My 3L of water ran out on the steeper second half of the day, so when we saw camp I was allowed to walk ahead. I got there 30 mins early and needed that time and water in the shade.
+The hottest day of the whole trip. 18km of dust, bridges, river crossings, mule trains and dry valleys. Whenever we passed a small cliff you'd see climbers huddled in whatever shadow they could find. My 3L of water ran out on the steeper second half of the day, so when we saw camp I was allowed to walk ahead. I got there 30 mins early and needed that time and water in the shade.
 
-Plaza de Mulas is enormous. A tent city in the middle of nowhere. My bag had arrived safely with the mules and I got a tent to myself. It was cold once the sun disappeared which was nice. I loved how the dome tents glowed in the night, and stared up at the perfect stars above the peak.
+Plaza de Mulas is an enormous tent city in the middle of nowhere. It's on a glacier, but there's so much rock on the surface that you often forget that. My bag arrived safely with the mules and I got a tent to myself. It was cold once the sun disappeared, which was nice. I loved how the dome tents glowed in the night, and stared up at the perfect stars above the peak.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua14.jpeg">
@@ -128,9 +128,9 @@ Plaza de Mulas is enormous. A tent city in the middle of nowhere. My bag had arr
 ## Day 4  
 #### Rest Day at Plaza de Mulas (4,370m)
 
-After a buffet breakfast (base camp is great), we did a short hike to a frozen lake surrounded by penitentes. The strong wind ruined all my videos, but it was very cool. I could feel my appetite fading, but forced myself to eat. Most people lose weight on Aconcagua, but I was determined not to. You need that energy.
+After a buffet breakfast (base camp is great), we did a short hike to a frozen lake surrounded by penitentes. The strong wind made it tough to video, but it was very cool. I could feel my appetite fading, but forced myself to eat. Most people lose weight on Aconcagua, but I was determined not to. You need that energy.
 
-Plaza de Mulas feels like a small mountain village. The main INKA dome tent had books, games, a café and WiFi. Charging phones was free but charging anything else cost $10. Luckily no one ever noticed it was my powerbank charging inside my phone case.
+Plaza de Mulas feels like a small mountain village. The main INKA dome tent had books, games, a café and WiFi. Charging phones was free but charging anything else cost $10. Luckily no one ever noticed it was my powerbank charging inside my phone case. There's outdoor seating, a foosball table, and a giant condor statue where I would watch the sunset over the peak each night.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua4.jpeg">
@@ -141,7 +141,7 @@ Plaza de Mulas feels like a small mountain village. The main INKA dome tent had 
 
 Our first climb. Bonete is near the camp, with a great view of Aconcagua, but still a long ascent. We left after breakfast with packed lunches from the buffet tent, moving upwards through rocks and penitentes. There was scree and several river crossings, including a bridge made from an old wooden door. 
 
-We passed an abandoned mountain hotel before climbing steep zig-zags towards the summit ridge. Helmets went on for the final scramble and the views from the top were unreal. I got my usual handstand photo before skiing down the volcanic sand on the descent.
+We passed an abandoned mountain hotel before climbing steep zig-zags towards the summit ridge. Helmets went on for the final scramble and the views from the top were unreal. I got my usual handstand photo and we ate lunch on top, before skiing down the volcanic sand on the descent.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua5.jpeg">
@@ -156,11 +156,11 @@ Back at camp, the rest of the group had arrived. The lead guide Marcelo was calm
 ## Day 6  
 #### Rest Day
 
-this was the end of Andre & Anton's trip so they descended with a differnet group. The rest of is had a relaxed day of eating, packing and chatting. We packed roughly 6kg of food each for the higher camps and also filled 5L of water because Camp 1 had no reliable source left after the heat.
+This was the end of Andre & Anton's trip so they descended with a different group. The rest of us had a relaxed day of eating, packing and chatting. We packed 6kg of food each for the higher camps and also filled 5L of water because Camp 1 had no reliable source after the heat. Marcelo went over our plan for the coming days and how that fit with the weather forecast.
 
-That evening we walked to a turquoise lake for a swim where Francois cut his foot on some rocks. Dinner was a huge barbecue and I spent hours talking with Alex about his ambitious goal of climbing the highest point in every country. This was roughly number 10 of the 197, and it was his first test of high altitude. It's a particularly ambitious goal.
+That evening we walked to a turquoise lake for a swim where Francois cut his foot on some rocks. Dinner was a huge barbecue and I spent hours talking with Alex about his goal of climbing the highest point in every country. This was roughly number 10 of the 197 for him, and it was his first test of high altitude. It's a particularly ambitious goal.
 
-Most people drank wine with dinner every night, but I mostly avoided it and focused on hydration instead. I was consistently drinking around 5L a day, mostly with electrolytes.
+Dinner tonight was an amazing asado (Argentinian BBQ). Most people drink wine with dinner every night, but I mostly avoided it and focused on hydration instead. I was consistently drinking my 5L a day, mostly with electrolytes. In the evening we explored the wider camp which has the worlds highest art gallery, but it wasn't too late of a night.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua6.jpeg">
@@ -180,7 +180,7 @@ John and I skiied down the scree while the others struggled down more cautiously
 ## Day 8  
 #### Rest Day
 
-John left that morning. The rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and a big barbecue dinner. Today we also had our mandatory medical checks. A doctor listened for fluid in our lungs and checked blood oxygen levels before sogning our permits to allow us higher. skipping this step before goin for the summit results in fines and a lifetime ban from the park.
+John left that morning. The rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and a big barbecue dinner. Today we also had our mandatory medical checks. A doctor listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. skipping this step before goin for the summit results in fines and a lifetime ban from the park.
 
 The wind became terrifying that evening. Tents whipped violently around camp and the toilet became a wind tunnel. White clouds spilled over the ridges in strange formations that looked fake. Showers cost $10 but we had one included. I used mine that night and felt amazing after.
 

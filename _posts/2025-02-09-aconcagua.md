@@ -253,6 +253,10 @@ It took us an hour longer than expected to reach the cave. I waited 20 mins ther
 
 From here it was just Marcelo and I. We left a lot of our gear in the cave and began climbing the Canaleta. The final 2.5 hours were the most difficult thing I've ever done. I had heard this section was the hard part, but feeling perfect at the cave I wondered how bad it could be. Hypoxia at those altitudes is difficult to describe, but it felt like exercising with one lung.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua18.jpeg">
+</p>
+
 We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and a mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
 
 Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 

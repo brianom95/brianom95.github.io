@@ -301,7 +301,7 @@ Recovery was a lot slower than I expected. The brain fog and dizzy spells lasted
 
 There was unfortunate drama when the two Belgians posted on Instagram that they turned around so they could rescue Attila. They made up long stories where they were the heroes, leaving out the guides who got them down, and all the tears that came with that decision. It left an awful tension in the group and resulted in us not all meeting up in Mendoza, but I did get lunch with Attila who was doing well.
 
-A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help. It felt like being home.
+A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. Over the next week we fit in some kayaking, running, movies, Fontaines DC, ice cream, and lots of healthy food while my body recovered. I'm so grateful for her friendship. It felt like being home, which is exactly what I needed.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua19.jpeg">

@@ -169,9 +169,9 @@ Dinner tonight was an amazing asado (Argentinian BBQ). Most people drink wine wi
 ## Day 7  
 #### Carry to Camp 1: Plaza Canadá (5,050m)
 
-Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
+Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted above the summit with strange wavey lines, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
 
-John and I skiied down the scree while the others struggled down more cautiously. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye.
+John and I skiied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic too, maybe the brightest I've ever seen.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua7.jpeg">
@@ -180,9 +180,9 @@ John and I skiied down the scree while the others struggled down more cautiously
 ## Day 8  
 #### Rest Day
 
-John left that morning. The rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and a big barbecue dinner. Today we also had our mandatory medical checks. A doctor listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. skipping this step before goin for the summit results in fines and a lifetime ban from the park.
+John flew out that morning, and the rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and another asado for dinner. Today we also had our mandatory medical checks. The base camp doctors listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. skipping this step before a summit push results in fines and a lifetime ban from the park.
 
-The wind became terrifying that evening. Tents whipped violently around camp and the toilet became a wind tunnel. White clouds spilled over the ridges in strange formations that looked fake. Showers cost $10 but we had one included. I used mine that night and felt amazing after.
+We were relieved to all get the nod of approval from the doctors. Later that evening, the wind became terrifying. We had known the forecast, but it was rough. Tents whipped violently around camp and the toilet became a wind tunnel. The white clouds spilled over every ridge in strange formations that looked fake. Showers up here cost $10 but we had one included. I used mine that night and felt amazing after, then scurried to my tent to wait out the storm.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua8.jpeg">
@@ -191,9 +191,9 @@ The wind became terrifying that evening. Tents whipped violently around camp and
 ## Day 9  
 #### Move to Camp 1: Plaza Canadá (5,050m)
 
-The morning was delayed while people assessed damage from the storm. Some tents at Camp 1 had blown away, but thankfully ours survived. We left at 1pm after a breakfast of bacon and quesadillas. The climb was straightforward and familiar. At camp Attila and I claimed the flattest tent spot. We would share from here on.
+The morning was delayed while people assessed damage from the storm. Some tents at Camp 1 had blown away, but thankfully ours survived. We left at 1pm after a breakfast of bacon and quesadillas. The climb was straightforward and familiar. At camp, Attila and I claimed the flattest tent spot. We would share from here on.
 
-That evening was unusually calm, so we ate dinner outside looking down towards base camp far below. Everyone debated whether to wear their summit boots from here, or carry them higher. I decided to wear mine and save some weight.
+That evening was unusually calm. We ate dinner outside looking down towards base camp far below. Everyone debated whether to wear their summit boots from here, or carry them higher. I decided to wear mine and save some weight. If you walk carefully the rocks don't always shred boots.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua9a.jpeg">
@@ -202,9 +202,9 @@ That evening was unusually calm, so we ate dinner outside looking down towards b
 ## Day 10  
 #### Move to Camp 2: Nido de Cóndores (5,550m)
 
-Heavy bags and a slow pace. Everyone else's packs seemed enormous, with gear hanging off sometimes over 100L bags! I was happy with how efficiently I'd packed, and the Mutant 90 sat so comfortably even fully loaded.
+Heavy bags and a slow pace. Everyone else's packs seemed enormous, with gear hanging off 100L+ bags. I was happy with how efficiently I'd packed, and how the Mutant 90 sat so comfortably even fully loaded. Others had a very hard time today.
 
-Nido de Cóndores had a cool atmosphere. As I setup our tent, and held it down with rocks, I considered how I would never want to bring my own tent to this mountain. It destroys gear. We met lots of solo climbers who were sick from drinking untreated lake water, while we carefully filtered and boiled everything. The sunset that night was incredible. We sat above a sea of clouds watching the light fade over the Andes.
+Nido de Cóndores had a cool atmosphere. As I setup our tent, and held it down with rocks, I considered how I would never want to bring my own tent to this mountain. It's so rough on gear. We met lots of solo climbers who were sick from drinking untreated lake water, while we carefully filtered and boiled everything. The sunset that night was incredible. We sat above a sea of clouds watching the light fade over the Andes.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua10.jpeg">
@@ -213,7 +213,7 @@ Nido de Cóndores had a cool atmosphere. As I setup our tent, and held it down w
 ## Day 11  
 #### Rest Day & Snow Skills
 
-I met Karol who confirmed that the forecast for our summit window looked "miraculously clear", which everyone in camp seemed excited about. There was a slight fear of queues on the traverse as everyone targetted the same summit day, but we were just happy there would be low winds.
+That had been the highest I'd ever camped, and luckily I slept fine. I met Karol inthe morning who confirmed that the forecast for our summit window looked "miraculously clear", which everyone in camp seemed excited about. There was a slight fear of queues on the traverse as everyone targetted the same summit day, but we were just happy there would be low winds.
 
 That afternoon we practiced snow skills on a steep slope near camp. The group struggled with crampons and movement so I spent time helping out, before being allowed to just take photos as they had to focus a lot on the basics. That night the kitchen staff somehow made pizzas. At 5,550m!
 
@@ -224,9 +224,9 @@ That afternoon we practiced snow skills on a steep slope near camp. The group st
 ## Day 12  
 #### Move to Camp 3: Cólera (5,970m)
 
-Another move day, another heavy pack. We climbed yesterdays snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro.
+Another move day, another heavy pack. We climbed yesterdays snowy slopes, then zig-zagged up to Berlin Camp which is nestled in rocks. We got photos at a scenic cross, then scrambled up to our final high camp beneath the summit slopes in Camp Cólera (5,970m). Higher than Kilimanjaro. The air is thin, and even more so when breathing through a neck scarf to avoid a cough from dry air, but I feel good.
 
-A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I felt good, most people had headaches but I had no symptoms yet. I packed everything for the summit push nice and early, and after a final hot chocolate it was time for bed.
+A snowstorm hit that evening bringing freezing temperatures and strong winds. I spent the day aggressively hydrating from early on, eventually drinking 7.5L by dinnertime. I didn't have a sip after that to avoid bathroom breaks waking me. Most people had headaches and nausea, but I had no symptoms yet. I packed everything for the summit nice and early, and after a final hot chocolate it was time for bed.
 
 At altitude, small frustrations feel enormous. Attila was very disorganised and his packing began when everyone else went to sleep. This meant 1.5 hours of his headtorch flashing, him talking through his packing, and gear being landed on me. I only managed a few hours sleep before alarms went off at 3:00am. In the moment this was stressful.
 
@@ -235,17 +235,17 @@ At altitude, small frustrations feel enormous. Attila was very disorganised and 
 </p>
 
 ## Day 13  
-#### Summit Day — Aconcagua (6,961m)
+#### Summit Day (6,961m)
 
-We woke to complete darkness. Tea, breakfast and final layers went on before we stepped into the freezing cold around 4:30am. The early climb moved slowly through firm snow until sunrise lit up the mountains behind us. Augustine and Francesco turned around from exhaustion at our first long stop, leaving four clients and two guides continuing towards the traverse.
+We woke to complete darkness. Tea, breakfast and final layers went on before we stepped into the freezing cold around 4:30am. The early climb moved slowly through firm snow until sunrise lit up the mountains behind us. Augustine turned around from exhaustion at our first long stop, and Francesco turned at the second, leaving four clients and two guides continuing towards the traverse.
 
-It was clear and calm all morning. We put on crampons beneath a steep snowy slope and carefully climbed onto the traverse itself. Two days earlier someone had died there, which weighed on everyone. The route was beautiful, but serious.
+It was clear and calm all morning. We put on crampons beneath a steep snowy slope and carefully climbed onto the traverse itself. Two days earlier someone had died there, which weighed on everyone. The route was beautiful, but serious. The sun had lit the traverse fully by now, which is what we set our start time off. It's safer with daylight.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua13.jpeg">
 </p>
 
-As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised that the Belgians were fading too, exhausted and struggling to walk. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us onwards to La Cueva so the situation could be properly assessed there. Otherwise he knew no one would summit.
+As we crossed, Attila began deteriorating badly from altitude sickness. Marcelo realised that the Belgians were fading too, exhausted and struggling to walk. Rather than immediately sending Gonzalo down with Attila, Marcelo pushed us onward to La Cueva so the situation could be properly assessed there. Otherwise he knew no one would summit if he had to bring the Belgians down after.
 
 It took us an hour longer than expected to reach the cave. I waited 20 mins there before the others arrived, and when they did it was obvious things had changed. Attila needed a dexamethasone injection to help his symptoms. Alex and Francois were barely functioning. Marcelo explained that this would be their summit and Gonzalo prepared ropes to take the three of them down. Alex argued, but it was the only safe decision. More dexamethasone and oxygen were needed to get the three down.
 
@@ -259,9 +259,11 @@ Eventually Marcelo asked for my phone and started videoing me. I scrambled up a 
     <img width="400" src="/images/aconcagua13b.jpeg">
 </p>
 
-We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down, despite successfully getting all five to the summit. From the top back to camp took us only around 1 hour 45 minutes because we were racing an incoming storm.
+We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down, despite successfully getting all five to the summit. From the top back to camp took us only 1 hour 45 minutes because we were racing an incoming storm.
 
-Back at camp the mood was sombre. Some people were understandably upset about turning around, but I quietly felt overwhelming relief. I had spent months obsessively preparing because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted. That evening I developed dizzy spells and the tunnel vision came back, I managed it with water and deep breathing but was ready to get back down properly.
+Back at camp the mood was sombre. The Belgians were understandably upset about turning around, so I was quiet in my overwhelming relief. I had spent months obsessively preparing because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted. 
+
+That evening I developed dizzy spells and the tunnel vision came back, I managed it with water and deep breathing but was ready to get back down properly.
 
 ## Day 14  
 #### Descend to Plaza de Mulas (4,370m)

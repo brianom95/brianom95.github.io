@@ -6,7 +6,7 @@ date:   2025-02-09 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'
 tags:   [Mountaineering]
 ---
-This is the story of a mountain designed to wear people down. Aconcagua is a world away from the beginner-friendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%. I put in months of preparation to control what I could, and to make sure I was on the better side of those odds.
+This is the story of a mountain designed to wear people down. Aconcagua is a world away from the beginner-friendly and lush slopes of [Kilimanjaro](kilimanjaro). This is a place of dust, rock, thin air, and relentless winds that make every task harder. The climb has a success rate of 30%. I put in months of preparation to control what I could, and attempt to position myself on the better side of those odds.
 
 Fitness isn't everything on Aconcagua. It's how you deal with the accumulation of small things. Dehydration, poor sleep, loss of appetite, headaches, wind, boredom, team dynamics, and the mental grind of weeks with limited oxygen. It humbled me beyond anything I had ever done, but taught me a lot about myself too.
 
@@ -24,7 +24,7 @@ A frozen mummy discovered at 5,300m suggests the mountain may have been spiritua
 
 While often labelled a non-technical mountain, Aconcagua is far from a simple hike. Expeditions usually take two to three weeks and involve rough terrain, rockfall and severe weather, as well as the thin air. The lower valleys regularly reach 30°C with no shade, while higher up the *Viento Blanco* (White Wind) brings gusts over 100km/h and temperatures below -30°C. 
 
-Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes two days to reach. Mules keep this stocked with good food and the comforts needed for recovery between climbing days. Most people use three camps between here and the summit, for acclimatising and when moving towards the peak. 
+Several camps have been established along the Normal Route. Plaza de Mulas is the base camp, which usually takes 2-3 days to reach. Mules keep this stocked with good food and the comforts needed for recovery between climbing days. Most people use three camps between here and the summit, for acclimatising and when moving towards the peak. 
 
 The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains lead to huge scree slopes and the famous penitentes; giant snow spikes created by intense sun and wind. Above Camp 3 (Cólera), the mountain becomes a world of rock and permanent ice, moving up the ridge and across the La Cueva traverse. The final gatekeeper of the peak is the Canaleta; a steep couloir below the summit ridge, atop which you earn the final rocky scramble to the condor shaped cross on the summit.
 
@@ -304,7 +304,7 @@ There was unfortunate drama when the two Belgians posted on Instagram that they 
 A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it en route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help while my body healed. It felt like home.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua18.jpeg">
+    <img width="400" src="/images/aconcagua19.jpeg">
 </p>
 
 ## Afterthoughts

@@ -285,3 +285,20 @@ table td {
 .lightense-backdrop {
   background-color: var(--background-color) !important;
 }
+
+/* Ordered list spacing */
+
+.post ol {
+  padding-left: 2rem;
+  list-style-position: outside;
+}
+
+.page ol {
+  padding-left: 3rem;
+  list-style-position: outside;
+}
+
+.post li,
+.page li {
+  overflow: visible;
+}

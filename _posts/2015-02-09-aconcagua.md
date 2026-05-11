@@ -289,7 +289,7 @@ After a proper shower I discovered the extent of the sunburn on my neck. The exh
     <img width="300" src="/images/aconcagua15.jpeg">
 </p>
 
-## Afterthoughts
+## Back to Reality
 
 Recovery was a lot slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me. I had very little energy, and I'd be hit with random waves of nausea and tiredness, during which I could barely stand. I spent the next few days in Mendoza, eating as much good food as I could, doing a wine tour, and trying to rest.
 
@@ -297,22 +297,26 @@ There was unfortunate drama when the two Belgians posted on Instagram that they 
 
 A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it on route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help while my body healed. It felt like home.
 
+## Afterthoughts
+
 Aconcagua humbled me more than anything I've ever done. It's a harsh place that wears people down over time. It requires discipline to eat when you've no appetite, to drink absurd amounts of water, to go out in rough weather, to carry heavy loads repeatedly, and to stay mentally sharp while exhausted. Lots of people let ego get the better of them, becoming careless with things like sunburn, hangovers and their own preperation. I think it's critical to avoid this trap.
 
 I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, 2.5kg weight gain during the trip, and doing the longer itinerary despite everyone else dismissing it. I left nothing to chance because I respected how dangerous the mountain could become.
 
 And despite all of that, the final pull was still the hardest thing I had ever done. It felt like humans weren't designed to function up there. Aconcagua strips life down to survival in a way few mountains can. Every step is deliberate, every small decision matters, and success is never guaranteed, no matter how strong you are. 
 
-I'm happy I went with guides and Marcelo was great, but in hindsight I wouldn't have chosen INKA. Independent guides have better success rates because they allow more time and flexibility. I met a six person all female group from Sweden who all summited after a week at Camp 2. Teams like these often use INKA's base camp, so they have all the same food and services below, but none of the rigid dates, large group sizes, and lack of contingency that INKA use above. 
+I'm happy I went with guides and Marcelo was great, but in hindsight I wouldn't have chosen INKA. Independent guides have better success rates because they allow more time and flexibility. I met a six person female group from Sweden who all summited after a week at Camp 2. Teams like these often use INKA's base camp, so they even have all the same food and services below. These more individualized trips will always beat the profit focussed approach of INKA in my opinion.
 
-It was never in my budget to have a private trip, and 
+I booked what was within my budget at the time, but where possible I would avoid big groups. I would also be skeptical of itineraries with rigid dates and minimal contingency. The overall success rate is still 30%, and you will meet climbers on their second and third attempts. This is too big an investemnt in both time and money to leave it to chance. Find a guide who appreciates this, and who demands preperation from the clients.
 
-I'm thankful to everyone who made the trip possible, especially Marcelo. It's an experience I'll never forget. If I was to do it all again I'm glad I had guides
+## What's Next
+
+Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the O-Trek and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
+
+Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was differnet beast. 25 days pulling 50kg sleds. 24hr daylight and no comforts beyond what you've dragged up. Temperatures range from +40degC on the glacier, to -40degC on the summit. Hypothermia and frostbite are huge risks, and summit success is less than on Everest. My fifth of the Seven Summits and the most expensive thing I've ever done. My story from Denali is coming soon.
 
 Thank you for reading,  
 Brian
-
-Next Stop: Denali
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua16.jpeg">

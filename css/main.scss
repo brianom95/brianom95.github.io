@@ -119,7 +119,9 @@ blockquote {
 }
 
 .page__content ol,
-.page__content ul {
+.page__content ul
+.post-content ol,
+.post-content ul {
   padding-left: 2.5rem;
   margin-left: 0;
   list-style-position: outside;

@@ -291,19 +291,23 @@ After a proper shower I discovered the extent of the sunburn on my neck. The exh
 
 ## Afterthoughts
 
-Recovery from Aconcagua was slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me at times. I spent the following days eating enormous amounts of food, doing a wine tour around Mendoza and trying to properly rest.
+Recovery was a lot slower than I expected. The brain fog and dizzy spells lasted eight days which genuinely scared me. I had very little energy, and I'd be hit with random waves of nausea and tiredness, during which I could barely stand. I spent the next few days in Mendoza, eating as much good food as I could, doing a wine tour, and trying to rest.
 
-There was some unfortunate drama afterwards when the two Belgians both posted heroic accounts online claiming they had turned around to rescue Attila. It was a strange thing to do and caused tension within the group, which was a shame after spending so long together on the mountain.
+There was unfortunate drama when the two Belgians posted on Instagram that they turned around so they could rescue Attila. They made up long stories where they were the heroes, leaving out the guides who got them down, and all the tears that came with that decision. It left an awful tension in the group and resulted in us not all meeting up in town, but I did get lunch with Attila who was doing well.
 
-A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she agreed to bring my giant duffel there for me, perfectly placed that I'd collect it on route to Denali in May, and saving me from another courier nightmare. We spent the week kayaking, running, watching films and eating huge amounts of food while my body recovered. I'm so grateful for her help while my body healed.
+A few days later I travelled to San Juan to stay with my friend Aisling. She was living there to kayak full time on a famous freestyle wave. Luckily she was moving to Vancouver soon, so she brought my giant duffel with her, perfectly placed that I'd collect it on route to Denali in May, and saving me another courier nightmare. We spent the week kayaking, running, watching films and eating lots of healthy food while my body recovered. I'm so grateful for her help while my body healed. It felt like home.
 
-Aconcagua humbled me. It's a harsh place that wears people down over time. The summit day was the hardest thing I've ever done, but what surprised me most was how much discipline the entire expedition required long before summit night. Eating when you don't want to, drinking absurd amounts of water, forcing yourself outside in storms, carrying heavy loads repeatedly and trying to stay mentally sharp while exhausted.
+Aconcagua humbled me more than anything I've ever done. It's a harsh place that wears people down over time. It requires discipline to eat when you've no appetite, to drink absurd amounts of water, to go out in rough weather, to carry heavy loads repeatedly, and to stay mentally sharp while exhausted. Lots of people let ego get the better of them, becoming careless with things like sunburn, hangovers and their own preperation. I think it's critical to avoid this trap.
 
-I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, weight gain before summit day and the longer itinerary despite everyone else dismissing it. I left nothing to chance because I genuinely respected how dangerous the mountain could become.
+I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, 2.5kg weight gain during the trip, and doing the longer itinerary despite everyone else dismissing it. I left nothing to chance because I respected how dangerous the mountain could become.
 
-And despite all of that, the final pull towards 7,000m still felt like my body just wasn't designed to function there. Aconcagua strips life down to survival in a way few mountains can. Every step is deliberate, every small decision matters, and success is never guaranteed, no matter how strong you are. 
+And despite all of that, the final pull was still the hardest thing I had ever done. It felt like humans weren't designed to function up there. Aconcagua strips life down to survival in a way few mountains can. Every step is deliberate, every small decision matters, and success is never guaranteed, no matter how strong you are. 
 
-I'm thankful to everyone who made the trip possible, especially Marcelo. It's an experience I'll never forget.
+I'm happy I went with guides and Marcelo was great, but in hindsight I wouldn't have chosen INKA. Independent guides have better success rates because they allow more time and flexibility. I met a six person all female group from Sweden who all summited after a week at Camp 2. Teams like these often use INKA's base camp, so they have all the same food and services below, but none of the rigid dates, large group sizes, and lack of contingency that INKA use above. 
+
+It was never in my budget to have a private trip, and 
+
+I'm thankful to everyone who made the trip possible, especially Marcelo. It's an experience I'll never forget. If I was to do it all again I'm glad I had guides
 
 Thank you for reading,  
 Brian

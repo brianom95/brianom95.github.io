@@ -32,6 +32,20 @@ The lower mountain has a stark, desert-like beauty. Dry valleys and dusty plains
     <img width="400" src="/images/aconcagua17.webp">
 </p>
 
+## Logistics & Planning
+
+It's possible to climb Aconcagua independently, and many do. You would need a solo permit, self-arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. For my first time, that wouldn’t have been the responsible option.
+
+I chose to climb with INKA Expediciones, the biggest operator on the mountain. They charge $4,600 excluding insurance ($180) and climbing permit ($600). Their itinerary is 13 days, but they offer a 15 day version for no extra cost which climbs Cerro Bonete (5,052m) for extra acclimatisation. This was a no brainer for me, but I ended up being the only one in my group of eight who chose it.
+
+INKA is known for having the nicest base camp setup and the best food, but their success rates are below average. Smaller groups with independent guides spend more time on rotations, but I knew I would be arriving acclimatised so thought it should be okay. I paid all my fees and had my park permit over six months in advance.
+
+The logistics include mules to carry the bulk of the expedition equipment to Plaza de Mulas. This makes the approach more manageable, but once you move above base camp the luxury ends. Every tent, stove, sleeping bag, litre of water and kilogram of food has to be carried by you. It's good to have a guide's experience, especially if conditions turn bad, but no one can climb the mountain for you.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/aconcagua02.jpeg">
+</p>
+
 ## Acclimatisation is Key
 
 Aconcagua is at the edge of what the human body can tolerate for any meaningful time. At nearly 7,000m, there's roughly 40% the oxygen of sea level. Air is less dense, so there are fewer molecules in each breath. The body adapts by breathing faster, raising the heart rate, and slowly making red blood cells. The more efficient the body becomes at extracting oxygen, the better you avoid symptoms of Acute Mountain Sickness (AMS).
@@ -46,20 +60,6 @@ Below are the relative oxygen levels on other peaks. On any higher mountain, 7,0
 
 <p align="center" width="100%">
     <img width="400" src="/images/kilimanjaro3.jpeg">
-</p>
-
-## Logistics & Planning
-
-It's possible to climb Aconcagua independently, and many do. You would need a solo permit, self-arranged mules, and usually a simple base camp service from an operator. I've met a lot of people who have done it that way, with varying degrees of success and safety. For my first time, that wouldn’t have been the responsible option.
-
-I chose to climb with INKA Expediciones, the biggest operator on the mountain. They charge $4,600 excluding insurance ($180) and climbing permit ($600). Their itinerary is 13 days, but they offer a 15 day version for no extra cost which climbs Cerro Bonete (5,052m) for extra acclimatisation. This was a no brainer for me, but I ended up being the only one in my group of eight who chose it.
-
-INKA is known for having the nicest base camp setup and the best food, but their success rates are below average. Smaller groups with independent guides spend more time on rotations, but I knew I would be arriving acclimatised so thought it should be okay. I paid all my fees and had my park permit over six months in advance.
-
-The logistics include mules to carry the bulk of the expedition equipment to Plaza de Mulas. This makes the approach more manageable, but once you move above base camp the luxury ends. Every tent, stove, sleeping bag, litre of water and kilogram of food has to be carried by you. It's good to have a guide's experience, especially if conditions turn bad, but no one can climb the mountain for you.
-
-<p align="center" width="100%">
-    <img width="400" src="/images/aconcagua02.jpeg">
 </p>
 
 ## Preparation & Training

@@ -171,9 +171,9 @@ Tonight we had an amazing asado (Argentinian BBQ). Most people drink wine with d
 ## Day 7  
 #### Carry to Camp 1: Plaza Canadá (5,050m)
 
-Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted themselves over the summit in strange wavy patterns, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
+Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted themselves over the summit in wavy patterns, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
 
-John and I skied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic too, maybe the brightest I've ever seen.
+John and I skied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic this night too.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua7.jpeg">
@@ -184,7 +184,7 @@ John and I skied down the scree while the others struggled with the soft terrain
 
 John flew out that morning, and the rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and another asado for dinner. Today we also had our mandatory medical checks. The base camp doctors listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. Skipping this step before a summit push results in fines and a lifetime ban from the park.
 
-We were relieved to all get the nod of approval from the doctors. Later that evening, the wind became terrifying. We had known the forecast, but it was rough. Tents whipped violently around camp and the toilet became a wind tunnel. The white clouds spilled over every ridge in strange formations that looked fake. Showers up here cost $10 but we had one included. I used mine that night and felt amazing after, then scurried to my tent to wait out the storm.
+We were relieved to all get the nod of approval from the doctors. Later that evening, the wind became terrifying. We had known the forecast, but it was rough. Tents whipped violently around camp and the toilet became a wind tunnel. The white clouds spilled over every ridge in strange formations that looked fake. Showers up here cost $10 but we had one free token included. I used mine that night and felt amazing after, then ran to my tent to wait out the storm.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua8.jpeg">

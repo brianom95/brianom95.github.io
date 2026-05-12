@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vancouver Marathon
-description: A week with the friends who emigrated, exploring the mountains, circus, escape room and marathon!
+description: A week with friends who emigrated, exploring the mountains, circus, escape room and marathon!
 date:   2022-04-30 12:00:0 +0000
 image:  '/images/van0.webp'
 tags:   [Running]

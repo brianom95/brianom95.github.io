@@ -132,7 +132,7 @@ image:  '/images/bucket0.jpeg'
 20. Bunratty Medieval Banquet, Limerick
 21. Paddle through Adare Manor, Limerick
 22. Cycle the Ring of Clare (160km)
-23. Doolin Cliff Walk, Clare
+23. Aillwee Cave, Clare
 24. Barrel Seaweed Bath, Clare
 25. Go to Tedfest
 26. Jump into the Poll na bPéist, Galway
@@ -167,7 +167,7 @@ image:  '/images/bucket0.jpeg'
 1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](https://www.brianbeyond.com/kilimanjaro)
 2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](https://www.brianbeyond.com/kosciuszko)
 3. [<mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>](https://www.brianbeyond.com/elbrus)
-4. <mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>
+4. [<mark style="background-color: limegreen">Aconcagua, Argentina (6,961m)</mark>](https://www.brianbeyond.com/aconcagua)
 5. <mark style="background-color: limegreen">Denali, USA (6,190m)</mark>
 6. Vinson, Antarctica (4,892m)
 7. Everest, Nepal (8,848m)

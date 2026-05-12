@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Backpacking Central America
-description: 3 Months in Mexico, Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica & Panama.
+description: 3 Months in Mexico, Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica & Panama.
 date:   2024-10-25 12:00:00 +0000
 image:  '/images/bpca0.jpeg'
 tags:   [Travel]

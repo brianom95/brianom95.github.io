@@ -68,7 +68,7 @@ Normal Route (15 Days)
 
 The hardest thing I've ever done. Low down this is a harsh, dry, desert environment, that tries to break down your motivation as you acclimatise. Above is steep, freezing, and battered by 200km/hr winds. From my group of eight, only one made it to the summit. This is a story of extensive preperation being just barely enough to overcome severe AMS.
 
-Full article coming soon.
+Read my full article [here](https://www.brianbeyond.com/aconcagua).
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua0.jpeg">

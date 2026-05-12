@@ -40,7 +40,7 @@ I chose to climb with INKA Expediciones, the biggest operator on the mountain. T
 
 INKA is known for having the nicest base camp setup and the best food, but their success rates are below average. Smaller groups with independent guides spend more time on rotations, but I knew I would be arriving acclimatised so thought it should be okay. I paid all my fees and had my park permit over six months in advance.
 
-The logistics include mules to carry the bulk of the expedition equipment to Plaza de Mulas. This makes the approach more manageable, but once you move above base camp the luxury ends. Every tent, stove, sleeping bag, litre of water and kilogram of food has to be carried by you. It's good to have a guide's experience, especially if conditions turn bad, but no one can climb the mountain for you.
+The logistics include mules to carry the bulk of the expedition equipment to Plaza de Mulas. This makes the approach more manageable, but once you move above base camp the luxury ends. Every tent, stove, sleeping bag, litre of water and kilogram of food has to be carried by you. It's good to have a guides experience, especially if conditions turn bad, but no one can climb the mountain for you.
 
 <p align="center" width="100%">
     <img width="300" src="/images/aconcagua17.webp">
@@ -149,7 +149,7 @@ We passed an abandoned mountain hotel before climbing steep zig-zags towards the
 
 Back at camp, the rest of the group had arrived. The lead guide Marcelo was calm and easy going, but it didn't hide his obvious experience. The team consisted of two Belgians named Alex and Francois, John from the USA, Attila from Hungary, and two Argentinians; Augustine and Francesco (who was Marcelo's father). One member had already left after twisting an ankle lower down the mountain, leaving seven of us in total.
 
-There was a mixed level of experience, ranging as high as Kilimanjaro in some cases, and with no shortage of confidence. I felt some were getting ahead of themselves with future plans and undrestimating the climb we were on. Everyone had come directly from sea level and a few had headaches already. Nonetheless we had fun getting to know each other and my hopes were high we'd all be celebrating on the summit in a weeks time.
+There was a mixed level of experience, ranging as high as Kilimanjaro in some cases, and with no shortage of confidence. I felt some were getting ahead of themselves with future plans and underestimating the climb we were on. Everyone had come directly from sea level and a few had headaches already. Nonetheless we had fun getting to know each other and my hopes were high we'd all be celebrating on the summit in a weeks time.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua5a.jpeg">
@@ -158,7 +158,7 @@ There was a mixed level of experience, ranging as high as Kilimanjaro in some ca
 ## Day 6  
 #### Rest Day
 
-This was the end of Andre & Anton's trip so they descended with a different group. The rest of us had a relaxed day of eating, packing and chatting. We packed 6kg of food each for the higher camps and also filled 5L of water because Camp 1 had no reliable source after the heat. Marcelo went over our plan for the coming days and how that fit with the weather forecast.
+This was the end of Andre & Anton's trip so they descended with a different group. The rest of us had a relaxed day of eating, packing and chatting. We packed 6kg of food each for the higher camps and also 5L of water each because Camp 1 had no reliable source after the heat. Marcelo went over our plan for the coming days and how that fit with the weather forecast.
 
 That evening we walked to a turquoise lake for a swim where Francois cut his foot on some rocks. Dinner was a huge barbecue and I spent hours talking with Alex about his goal of climbing the highest point in every country. This was roughly number 10 of the 197 for him, and it was his first test of high altitude. It's a particularly ambitious goal.
 
@@ -173,7 +173,7 @@ Tonight we had an amazing asado (Argentinian BBQ). Most people drink wine with d
 
 Today we carried gear to Camp 1 and returned to base camp. The pace was slow and comfortable, taking around three hours. The white winds painted themselves over the summit in wavy patterns, but we were sheltered down here. We passed more penitentes and had impressive views back down to Plaza de Mulas. After struggling to find the key for the storage tent, we cached our equipment and descended again. 
 
-John and I skied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic this night too.
+John and I skiied down the scree while the others struggled with the soft terrain. It helps to get down and out of the sun quicker where you can. That evening John received news of a family emergency back home and had to arrange a helicopter evacuation. We stayed up chatting and drinking wine with him late into the night before saying goodbye. Sunset behind the condor statue was particularly dramatic this night too.
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua7.jpeg">
@@ -182,7 +182,7 @@ John and I skied down the scree while the others struggled with the soft terrain
 ## Day 8  
 #### Rest Day
 
-John flew out that morning, and the rest of the day was quiet. Journalling, playing chess with Attila, discussing how he's worked in China for years, calling home from the dome tent, and another asado for dinner. Today we also had our mandatory medical checks. The base camp doctors listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. Skipping this step before a summit push results in fines and a lifetime ban from the park.
+John flew out that morning, and the rest of the day was quiet. Journalling, playing chess with Attila, discussing how his life working in China for years, calling home from the dome tent, and another asado for dinner. Today we also had our mandatory medical checks. The base camp doctors listened for fluid in our lungs and checked blood oxygen levels before signing our permits to allow us higher. Skipping this step before a summit push results in fines and a lifetime ban from the park.
 
 We were relieved to all get the nod of approval from the doctors. Later that evening, the wind became terrifying. We had known the forecast, but it was rough. Tents whipped violently around camp and the toilet became a wind tunnel. The white clouds spilled over every ridge in strange formations that looked fake. Showers up here cost $10 but we had one free token included. I used mine that night and felt amazing after, then ran to my tent to wait out the storm.
 
@@ -217,7 +217,7 @@ Nido de Cóndores had a cool atmosphere. As I set up our tent, and held it down 
 
 That had been the highest I'd ever camped, and luckily I slept fine. I met Karol in the morning who confirmed that the forecast for our summit window looked "miraculously clear", which everyone in camp seemed excited about. There was a slight fear of queues on the traverse as everyone targeted the same summit day, but we were just happy there would be low winds.
 
-That afternoon we practiced snow skills on  slope near our camp. The group struggled with crampons and movement so I spent time helping out, before being allowed to just take photos as they had to focus a lot on the basics. That night the kitchen staff somehow made pizzas. At 5,550m!
+That afternoon we practiced snow skills on a slope near our camp. The group struggled with crampons and movement so I spent time helping out, before being allowed to just take photos as they had to focus a lot on the basics. That night the kitchen staff somehow made pizzas. At 5,550m!
 
 <p align="center" width="100%">
     <img width="400" src="/images/aconcagua11.jpeg">
@@ -257,7 +257,7 @@ From here it was just Marcelo and I. We left a lot of our gear in the cave and b
     <img width="400" src="/images/aconcagua18.jpeg">
 </p>
 
-We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 mins I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
+We moved faster than others around us, but still incredibly slow. I found a rhythm that worked; two deep pressure breaths per step, plus short breaks for water and jellies. Higher up I developed the nausea and mild headache of AMS, but always felt in control which is generally how you know it's not yet HACE. In the last 30 minutes I had some tunnel vision. Deep breathing and focus kept the blurriness mostly at bay. We didn't talk much, but Marcelo confided in me that it's tough for the guides too.
 
 Eventually Marcelo asked for my phone and started videoing me. I scrambled up a rocky corner that I hadn't realised was the final one, and suddenly saw the condor shaped summit cross. Some clouds had rolled in but I couldn't care less. Months of stress disappeared instantly. We hugged, took photos, and spent around thirty minutes up there with other climbers we'd met throughout the expedition. I had only a mild headache now and no other symptoms. 
 
@@ -265,7 +265,7 @@ Eventually Marcelo asked for my phone and started videoing me. I scrambled up a 
     <img width="400" src="/images/aconcagua13b.jpeg">
 </p>
 
-We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down, despite successfully getting all five to the summit. From the top back to camp took us only 1 hour 45 minutes because we were racing an incoming storm.
+We descended fast, grabbing our gear from La Cueva before flying down the traverse. I briefly slowed to walk with Karol, who was helping rope one of his exhausted clients down, despite successfully getting all five to the summit. From the top back to camp took us only 1 hour 45 minutes because we ended up racing an incoming storm.
 
 Back at camp the mood was sombre. The Belgians were understandably upset about turning around, so I was quiet in my overwhelming relief. I had spent months obsessively preparing because I knew success rates were so low. Other teams we'd met had only managed two summits from eight climbers, or three from thirteen. The pressure of knowing how much could go wrong had finally lifted. 
 
@@ -311,7 +311,7 @@ A few days later I travelled to San Juan to stay with my friend Aisling. She was
 
 Aconcagua humbled me more than anything I've ever done. It's a harsh place that wears people down over time. It requires discipline to eat when you have no appetite, to drink absurd amounts of water, to go out in rough weather, to carry heavy loads repeatedly, and to stay mentally sharp while exhausted. Lots of people let ego get the better of them, becoming careless with things like sunburn, hangovers and their own preparation. I think it's critical to avoid this trap.
 
-I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5-7 litres of water daily, breathing exercises, 2.5kg weight gain during the trip, and doing the longer itinerary despite everyone else dismissing it. I left nothing to chance because I respected how dangerous the mountain could become.
+I was meticulous because I knew the mountain demanded it. Four acclimatisation peaks over 6,000m beforehand, 5 to 7 litres of water daily, breathing exercises, 2.5kg weight gain during the trip, and doing the longer itinerary despite everyone else dismissing it. I left nothing to chance because I respected how dangerous the mountain could become.
 
 And despite all of that, the final pull was still the hardest thing I had ever done. It felt like humans weren't designed to function up there. Aconcagua strips life down to survival in a way few mountains can. Every step is deliberate, every small decision matters, and success is never guaranteed, no matter how strong you are. 
 
@@ -327,7 +327,7 @@ I booked what was within my budget at the time, but where possible I would avoid
 
 Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the [O-Trek](otrek) and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
 
-Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was a different beast. 25 days pulling 50kg sleds, with 24-hour daylight and no comforts beyond what you've dragged up yourself. Temperatures range from +40°C on the glacier, to -40°C on the summit. Hypothermia and frostbite are huge risks, and summit success is less than on Everest. This was my fifth of the [Seven Summits](sevensummits/) and the most expensive thing I've ever done. My story from Denali is coming soon.
+Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was a different beast. 25 days pulling 50kg sleds, with 24-hour daylight and no comforts beyond what you've dragged up yourself. Temperatures range from +40°C on the glacier, to -40°C on the summit. Hypothermia and frostbite are huge risks, and summit success is worse than on Everest. This would be my fifth of the [Seven Summits](sevensummits/) and the most expensive thing I've ever done. My story from Denali is coming soon.
 
 Thank you for reading,  
 Brian

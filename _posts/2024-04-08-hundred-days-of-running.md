@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  100 Days of Running 5K's
-description: Raising €2,000 for the Alzheimer Society through three months of runs in hail, rain, snow & sun.
+description: Raising €2,000 for the Alzheimer Society through months of runs in hail, rain, snow & sun.
 date:   2024-04-08 12:00:0 +0000
 image:  '/images/100days4.jpeg'
 tags:   [Running]

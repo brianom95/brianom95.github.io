@@ -325,7 +325,7 @@ I booked what was within my budget at the time, but where possible I would avoid
 
 ## What's Next
 
-Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the O-Trek and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
+Two weeks later my body was back to normal. The sunburn and brain fog were gone, and I was left with just a quiet satisfaction. I continued south to Patagonia for the [O-Trek](otrek) and other trails, making my way to the world's most southerly city; Ushuaia. In two months I'd sail from there to the Antarctica Marathon. I was excited for these challenges, but couldn't stop thinking about Denali. 
 
 Three months after Antarctica I would be flying by ski plane to a remote glacier in Alaska to climb the coldest mountain in the world. This was a different beast. 25 days pulling 50kg sleds, with 24-hour daylight and no comforts beyond what you've dragged up yourself. Temperatures range from +40°C on the glacier, to -40°C on the summit. Hypothermia and frostbite are huge risks, and summit success is less than on Everest. This was my fifth of the [Seven Summits](sevensummits/) and the most expensive thing I've ever done. My story from Denali is coming soon.
 

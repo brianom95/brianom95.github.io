@@ -41,12 +41,12 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 ---
 
 ## 3. Wicklow Way
-#### 129km | 3,980m Gain | 5 Days 
+#### 129km | 3,980m Gain | Linear | 5 Days 
 **Completed: 06 July 2022**
 
 I love this trail. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with shopping and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
-10/10
+9.5/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow7.webp">
@@ -55,10 +55,12 @@ I love this trail. I've hiked it twice from Carlow to Dublin, which is better as
 ---
 
 ## 4. Kerry Way
-#### 190km | 4,000m Gain | 6 Days  
+#### 190km | 3,990m Gain | Looped | 6 Days  
 **Completed: 22 March 2023**
 
-Another one tourists love, but Irish rarely use. I hiked this during a weather warning and had a wild time. I went from having to swim one section, to getting sunburned in 24hrs. I had weather that tried to break me, and kindness of strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you have to work for it. Read my full article [here](https://www.brianbeyond.com/kerry-way).
+Another one tourists love, but Irish rarely use. I hiked this during a weather warning and had a wild time. I went from having to swim one section, to getting sunburned within 24hrs. I saw weather that tried to break me, and kindness from strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you have to work for it. Read my full article [here](https://www.brianbeyond.com/kerry-way).
+
+9.5/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/kerryway0.webp">
@@ -67,10 +69,12 @@ Another one tourists love, but Irish rarely use. I hiked this during a weather w
 ---
 
 ## 5. Multeen Way
-#### 23km | 620m Gain | 2 Days  
+#### 23km | 620m Gain | Linear | 2 Days  
 **Completed: 02 July 2023**
 
-Tipperary
+This is a short hike through the countryside of Tipperary that could have been done in a day. I had just gotten my new Durston X-Mid tent though, so I wanted an excuse to try it out. The hike is mostly through farmland, with a few forest loops to break it up. There was a lot of giant hogweed and you could tell the trail doesn't get as much traffic or attention, but it was nice all the same.
+
+6.5/10
 
 <p align="center" width="100%">
     <img width="300" src="/images/nwt5.jpeg">
@@ -79,10 +83,10 @@ Tipperary
 ---
 
 ## 6. Offaly Way
-#### 38km | 80m Gain | 2 Days  
+#### 38km | 80m Gain | Linear | 2 Days  
 **Completed: 02 July 2023**
 
-Offaly
+Mairéad & I hiked this
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt6.jpeg">
@@ -91,10 +95,11 @@ Offaly
 ---
 
 ## 7. Táin Way (40km)
-#### 40km | 1,200m Gain | 2 Days  
+#### 40km | 1,200m Gain | Looped |  2 Days  
 **Completed: 10 May 2026**
 
-Louth
+Mairéad & I hiked this
+
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt7.jpeg">

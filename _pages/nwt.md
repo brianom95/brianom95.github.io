@@ -16,7 +16,9 @@ Below are the trails I've completed and my thoughts on each. I've currently done
 #### 69km | 1,230m Gain | Linear | 2 Days  
 **Completed: 15 August 2020**
 
-I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. It became the longest day of hiking I'd ever done, and at the end I saw trees fall from the wind. The route is really nice, though you don't see much of the lake. It's very hilly towards on the second half, especially over Tountinna which I had to climb twice due to a wrong turn. 
+I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. It became the longest day of hiking I'd ever done, and at the end I saw trees fall from the wind. The route is really nice, though you don't see much of the lake. It's very hilly towards on the second half, especially over Tountinna which I had to climb twice due to a wrong turn.
+
+8/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt1.jpeg">
@@ -30,7 +32,7 @@ I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha 
 
 This is a nice route across the hills of Limerick, from Silvermines to Murroe. I got great weather crossing Keeper Hill, and there's a perfect place to camp at the halfway point in Toor, beside the stream with a picnic table. My feet hurt from big rocks on the newly resurfaced Coillte forest roads, but the last stretch along the Clare Glens river made up for it. 
 
-
+7/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt2.jpeg">
@@ -42,9 +44,9 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 #### 129km | 3,980m Gain | 5 Days 
 **Completed: 06 July 2022**
 
-Carlow, Wicklow, Dublin
+I love this trail. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with shopping and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
-Read my full article [here](https://www.brianbeyond.com/wicklow-way).
+10/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow7.webp">
@@ -56,9 +58,7 @@ Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 #### 190km | 4,000m Gain | 6 Days  
 **Completed: 22 March 2023**
 
-Kerry
-
-Read my full article [here](https://www.brianbeyond.com/kerry-way).
+Another one tourists love, but Irish rarely use. I hiked this during a weather warning and had a wild time. I went from having to swim one section, to getting sunburned in 24hrs. I had weather that tried to break me, and kindness of strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you have to work for it. Read my full article [here](https://www.brianbeyond.com/kerry-way).
 
 <p align="center" width="100%">
     <img width="400" src="/images/kerryway0.webp">

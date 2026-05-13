@@ -21,7 +21,7 @@ stats:
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Blog"
+    - title: "Home"
       url: "/"
     - title: "Tags"
       url: "/tags/"

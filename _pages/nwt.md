@@ -6,9 +6,9 @@ image: '/images/nwt0.jpeg'
 ---
 There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; the black posts with the yellow man. The trails are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only ever been done by two people. 
 
-It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet along the way.
+It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me, and the people you meet along the way.
 
-Below are the trails I've completed and my thoughts on each. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
+Below are the trails I've hiked and my thoughts on each. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
 
 ---
 
@@ -16,7 +16,7 @@ Below are the trails I've completed and my thoughts on each. I've currently done
 #### 69km | 1,230m Gain | Linear | 2 Days  
 **Completed: 15 August 2020**
 
-I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. It became the longest day of hiking I'd ever done, and at the end I saw trees fall from the wind. The route is really nice, though you don't see much of the lake. It's very hilly towards on the second half, especially over Tountinna which I had to climb twice due to a wrong turn.
+I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. That Saturday became the longest day of hiking I'd ever done, and near the end I saw trees falling over from wind. The route is nice, though you see very little of the lake. It's hilly on the second half, especially over Tountinna which I had to climb twice due to a wrong turn.
 
 8/10
 
@@ -44,7 +44,7 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 #### 129km | 3,980m Gain | Linear | 5 Days 
 **Completed: 06 July 2022**
 
-I love this trail. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with shopping and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. Read my full article [here](https://www.brianbeyond.com/wicklow-way).
+I love this trail. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with a shop and pub food. Lots of tourists fly in to hike it, but you see almost no Irish, which is a shame. It's not easy, but it's so worth it. Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
 10/10
 
@@ -58,7 +58,7 @@ I love this trail. I've hiked it twice from Carlow to Dublin, which is better as
 #### 190km | 3,990m Gain | Looped | 6 Days  
 **Completed: 22 March 2023**
 
-Another one tourists love, but Irish rarely use. I hiked this during a weather warning and had a wild time. I went from having to swim one section, to getting sunburned within 24hrs. I saw weather that tried to break me, and kindness from strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you have to work for it. Read my full article [here](https://www.brianbeyond.com/kerry-way).
+Another one tourists love, but Irish rarely use. I hiked this during a weather warning and had a wild time. I went from having to swim one section, to getting sunburned within 24hrs. I saw weather that tried to break me, and kindness from strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you do have to work for it. Read my full article [here](https://www.brianbeyond.com/kerry-way).
 
 9.5/10
 
@@ -86,7 +86,7 @@ This is a short hike through the countryside of Tipperary that could have been d
 #### 38km | 80m Gain | Linear | 2 Days  
 **Completed: 02 July 2023**
 
-Mairéad & I hiked this after a late start on a Friday evening. We found a nice campspot along the grand canal after 8km, then finished the rest the next day. It's exceptionally flat, through old Bord na Mona bogland with small train tracks and lakes. A sculpture park was the highlight, but had some confusing rerouting. They need to provide better parking on the south end, but this was a lovely hike.
+Mairéad & I hiked this after a late start on a Friday evening. We found a nice campspot along the grand canal after 8km, then finished the rest the next day. It's exceptionally flat, through old Bord na Móna bogland with small train tracks and lakes. A sculpture park was the highlight, but had some confusing rerouting. They need to provide better parking on the north end, but this was a lovely hike.
 
 7.5/10
 
@@ -100,7 +100,7 @@ Mairéad & I hiked this after a late start on a Friday evening. We found a nice 
 #### 40km | 1,200m Gain | Looped |  2 Days  
 **Completed: 10 May 2026**
 
-This is steep and has a lot of road walking, but it is stunning. We had strong winds, but clear weather through our climbs. We camped behind Lumpers pub around halfway, which had a sauna and cold plunge that Mairead's brother and fiancée joined us for. The luxury of pizza and pints on a trail can't be overstated. On our return we detoured to summit Slieve Foye, the highest point in Louth, and were very happy with the two days (if a little sunburnt) when arriving back to Carlingford.
+This is steep and has a lot of road walking, but it is stunning. We had strong winds, but clear weather through our climbs. We camped behind Lumpers pub around halfway, which had a sauna and cold plunge that Mairead's brother and fiancée joined us for. The luxury of pizza and pints on a trail can't be overstated. On our return we detoured to summit Slieve Foye, the highest point in Louth. We were very happy with the two days when arriving back in Carlingford, even if we were a little sunburnt.
 
 8.5/10
 

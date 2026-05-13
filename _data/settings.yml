@@ -31,10 +31,10 @@ menu_settings:
       url: "/sevensummits/"
     - title: "Scratch Map"
       url: "/scratchmap/"
-    - title: "Bucket List"
-      url: "/bucketlist/"
     - title: "Irish NWT's"
       url: "/nwt/"
+    - title: "Bucket List"
+      url: "/bucketlist/"
     - title: "Contact"
       url: "/contact/"
 

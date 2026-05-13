@@ -29,6 +29,8 @@ menu_settings:
       url: "/about/"
     - title: "Seven Summits"
       url: "/sevensummits/"
+    - title: "Irish NWT's"
+      url: "/nwt/"
     - title: "Scratch Map"
       url: "/scratchmap/"
     - title: "Bucket List"

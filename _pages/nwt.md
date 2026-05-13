@@ -16,11 +16,19 @@ Completed: 15 August 2020
 
 Limerick, Clare & Tipperary
 
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt1.jpeg">
+</p>
+
 #### 2. Slieve Felim Way
 45km | 1,130m Gain | 2 Days
 Completed: 13 September 2020
 
 Limerick
+
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt2.jpeg">
+</p>
 
 #### 3. Wicklow Way
 129km | 3,980m Gain | 5 Days
@@ -28,11 +36,23 @@ Completed: 06 July 2022
 
 Carlow, Wicklow, Dublin
 
+Read my full article [here](https://www.brianbeyond.com/wicklow-way).
+
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt3.jpeg">
+</p>
+
 #### 4. Kerry Way
 190km | 4,000m Gain | 6 Days
 Completed: 22 March 2023
 
 Kerry
+
+Read my full article [here](https://www.brianbeyond.com/kerry-way).
+
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt4.jpeg">
+</p>
 
 #### 5. Multeen Way
 23km | 620m Gain | 2 Days
@@ -40,11 +60,19 @@ Completed: 02 July 2023
 
 Tipperary
 
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt5.jpeg">
+</p>
+
 #### 6. Offaly Way
 38km | 80m Gain | 2 Days
 Completed: 02 July 2023
 
 Offaly
+
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt6.jpeg">
+</p>
 
 #### 7. Táin Way (40km)
 40km | 1,200m Gain | 2 Days
@@ -52,8 +80,9 @@ Completed: 10 May 2026
 
 Louth
 
-
-
+<p align="center" width="100%">
+    <img width="400" src="/images/nwt7.jpeg">
+</p>
 
 ## What's Left
 - Cavan Way	(22km)  

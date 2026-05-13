@@ -6,7 +6,7 @@ image: '/images/nwt0.jpeg'
 ---
 There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; the black posts with the yellow man. The trails are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only ever been done by two people. 
 
-It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with my increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet along the way.
+It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet along the way.
 
 Below are the trails I've completed and my thoughts on each. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
 
@@ -46,7 +46,7 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 
 I love this trail. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with shopping and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
-9.5/10
+10/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/wicklow7.webp">

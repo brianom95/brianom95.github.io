@@ -49,7 +49,7 @@ Kerry
 Read my full article [here](https://www.brianbeyond.com/kerry-way).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt4.jpeg">
+    <img width="400" src="/images/kerryway0.webp">
 </p>
 
 #### 5. Multeen Way

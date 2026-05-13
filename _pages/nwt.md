@@ -59,7 +59,7 @@ Completed: 02 July 2023
 Tipperary
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt5.jpeg">
+    <img width="300" src="/images/nwt5.jpeg">
 </p>
 
 #### 6. Offaly Way

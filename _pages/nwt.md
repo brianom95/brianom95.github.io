@@ -4,7 +4,7 @@ title: Irish NWT's
 permalink: /nwt/
 image: '/images/nwt0.jpeg'
 ---
-There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; they're the black posts with a yellow man. These are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only been done by two people to date. 
+There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; they're the black posts with the yellow man. The trails are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only ever been done by two people. 
 
 It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with my increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet on the way.
 
@@ -16,7 +16,7 @@ Below are the trails I've completed. I've currently done {{ site.data.settings.s
 #### 69km | 1,230m Gain | 2 Days  
 *Completed: 15 August 2020*
 
-Limerick, Clare & Tipperary
+I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. It became the longest day of hiking I'd ever done, and at the end I saw trees fall from the wind. The route is really nice, though you don't see much of the lake. It's very hilly towards on the second half, especially over Tountinna which I had to climb twice due to a wrong turn. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt1.jpeg">

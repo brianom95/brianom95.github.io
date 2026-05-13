@@ -11,7 +11,7 @@ Below are the trails I've completed. I've currently done ({{ site.data.settings.
 ---
 
 #### 1. Lough Derg Way
-69km | 1,230m Gain | 2 Days
+69km | 1,230m Gain | 2 Days  
 Completed: 15 August 2020
 
 Limerick, Clare & Tipperary
@@ -21,7 +21,7 @@ Limerick, Clare & Tipperary
 </p>
 
 #### 2. Slieve Felim Way
-45km | 1,130m Gain | 2 Days
+45km | 1,130m Gain | 2 Days  
 Completed: 13 September 2020
 
 Limerick
@@ -31,7 +31,7 @@ Limerick
 </p>
 
 #### 3. Wicklow Way
-129km | 3,980m Gain | 5 Days
+129km | 3,980m Gain | 5 Days  
 Completed: 06 July 2022
 
 Carlow, Wicklow, Dublin
@@ -43,7 +43,7 @@ Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 </p>
 
 #### 4. Kerry Way
-190km | 4,000m Gain | 6 Days
+190km | 4,000m Gain | 6 Days  
 Completed: 22 March 2023
 
 Kerry
@@ -55,7 +55,7 @@ Read my full article [here](https://www.brianbeyond.com/kerry-way).
 </p>
 
 #### 5. Multeen Way
-23km | 620m Gain | 2 Days
+23km | 620m Gain | 2 Days  
 Completed: 02 July 2023
 
 Tipperary
@@ -65,7 +65,7 @@ Tipperary
 </p>
 
 #### 6. Offaly Way
-38km | 80m Gain | 2 Days
+38km | 80m Gain | 2 Days  
 Completed: 02 July 2023
 
 Offaly
@@ -75,7 +75,7 @@ Offaly
 </p>
 
 #### 7. Táin Way (40km)
-40km | 1,200m Gain | 2 Days
+40km | 1,200m Gain | 2 Days  
 Completed: 10 May 2026
 
 Louth

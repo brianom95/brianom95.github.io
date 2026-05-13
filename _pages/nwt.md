@@ -13,7 +13,7 @@ Below are the trails I've completed and my thoughts on each. I've currently done
 ---
 
 ## 1. Lough Derg Way
-#### 69km | 1,230m Gain | 2 Days  
+#### 69km | 1,230m Gain | Linear | 2 Days  
 *Completed: 15 August 2020*
 
 I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha headrace. I hoped to split the rest over two days, but a storm changed the plan. It became the longest day of hiking I'd ever done, and at the end I saw trees fall from the wind. The route is really nice, though you don't see much of the lake. It's very hilly towards on the second half, especially over Tountinna which I had to climb twice due to a wrong turn. 
@@ -25,10 +25,12 @@ I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha 
 ---
 
 ## 2. Slieve Felim Way
-#### 45km | 1,130m Gain | 2 Days  
+#### 45km | 1,130m Gain | Linear | 2 Days  
 **Completed: 13 September 2020**
 
-Limerick
+This is a nice route across the hills of Limerick, from Silvermines to Murroe. I got great weather crossing Keeper Hill, and there's a perfect place to camp at the halfway point in Toor, beside the stream with a picnic table. My feet hurt from big rocks on the newly resurfaced Coillte forest roads, but the last stretch along the Clare Glens river made up for it. 
+
+
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt2.jpeg">

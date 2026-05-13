@@ -4,32 +4,52 @@ title: Irish NWT's
 permalink: /nwt/
 image: '/images/nwt0.jpeg'
 ---
-There are 42 National Waymarked Trails in Ireland, with a total distance of around 4,000km. These are maintained by local groups, but funded nationally through Sport Ireland. One of my very long term goals is to hike them all, which has only ever been done by two people. It's a goal I'm happy to spend years working through.
+There are 42 National Waymarked Trails in Ireland, covering a distance of around 4,000km. These are maintained by local groups, but funded nationally by Sport Ireland. One of my very long term goals is to hike them all, which has only been done by two people as of now. It's a goal I'm happy to spend years working through.
 
 Below are the trails I've completed. I've currently done ({{ site.data.settings.stats.nwtrails }} of the 42.
 
 ---
-#### Slieve Felim Way	(43km)
-27 November 2020 (2 Days)
-Limerick
 
-#### Lough Derg Way	(65km)
-July 2020 (3 Days)
+#### 1. Lough Derg Way
+69km | 1,230m Gain | 2 Days
+Completed: 15 August 2020
+
 Limerick, Clare & Tipperary
 
-#### Wicklow Way	(129 km)
+#### 2. Slieve Felim Way
+45km | 1,130m Gain | 2 Days
+Completed: 13 September 2020
+
+Limerick
+
+#### 3. Wicklow Way
+129km | 3,980m Gain | 5 Days
+Completed: 06 July 2022
+
 Carlow, Wicklow, Dublin
 
-#### Multeen Way	(23km)
-Tipperary
+#### 4. Kerry Way
+190km | 4,000m Gain | 6 Days
+Completed: 22 March 2023
 
-#### Kerry Way	(214 km)
 Kerry
 
-#### Offaly Way (37km)
+#### 5. Multeen Way
+23km | 620m Gain | 2 Days
+Completed: 02 July 2023
+
+Tipperary
+
+#### 6. Offaly Way
+38km | 80m Gain | 2 Days
+Completed: 02 July 2023
+
 Offaly
 
-#### Táin Way (40km)
+#### 7. Táin Way (40km)
+40km | 1,200m Gain | 2 Days
+Completed: 10 May 2026
+
 Louth
 
 

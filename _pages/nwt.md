@@ -4,11 +4,11 @@ title: Irish NWT's
 permalink: /nwt/
 image: '/images/nwt0.jpeg'
 ---
-There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; they're the black posts with the yellow man. The trails are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only ever been done by two people. 
+There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. You probably already know the waymarkers; the black posts with the yellow man. The trails are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only ever been done by two people. 
 
 It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with my increasingly ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet on the way.
 
-Below are the trails I've completed. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
+Below are the trails I've completed and my thoughts on each. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
 
 ---
 
@@ -24,7 +24,7 @@ I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha 
 
 ---
 
-### 2. Slieve Felim Way
+## 2. Slieve Felim Way
 #### 45km | 1,130m Gain | 2 Days  
 **Completed: 13 September 2020**
 
@@ -37,7 +37,7 @@ Limerick
 ---
 
 ## 3. Wicklow Way
-**129km | 3,980m Gain | 5 Days**  
+#### 129km | 3,980m Gain | 5 Days 
 *Completed: 06 July 2022*
 
 Carlow, Wicklow, Dublin
@@ -50,8 +50,8 @@ Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
 ---
 
-#### 4. Kerry Way
-190km | 4,000m Gain | 6 Days  
+## 4. Kerry Way
+#### 190km | 4,000m Gain | 6 Days  
 Completed: 22 March 2023
 
 Kerry
@@ -64,8 +64,8 @@ Read my full article [here](https://www.brianbeyond.com/kerry-way).
 
 ---
 
-#### 5. Multeen Way
-23km | 620m Gain | 2 Days  
+## 5. Multeen Way
+#### 23km | 620m Gain | 2 Days  
 Completed: 02 July 2023
 
 Tipperary
@@ -76,8 +76,8 @@ Tipperary
 
 ---
 
-#### 6. Offaly Way
-38km | 80m Gain | 2 Days  
+## 6. Offaly Way
+#### 38km | 80m Gain | 2 Days  
 Completed: 02 July 2023
 
 Offaly
@@ -88,8 +88,8 @@ Offaly
 
 ---
 
-#### 7. Táin Way (40km)
-40km | 1,200m Gain | 2 Days  
+## 7. Táin Way (40km)
+#### 40km | 1,200m Gain | 2 Days  
 Completed: 10 May 2026
 
 Louth

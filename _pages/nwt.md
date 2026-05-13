@@ -10,9 +10,11 @@ Below are the trails I've completed. I've currently done ({{ site.data.settings.
 
 ---
 #### Slieve Felim Way	(43km)
+27 November 2020 (2 Days)
 Limerick
 
 #### Lough Derg Way	(65km)
+July 2020 (3 Days)
 Limerick, Clare & Tipperary
 
 #### Wicklow Way	(129 km)

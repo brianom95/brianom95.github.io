@@ -45,7 +45,7 @@ Carlow, Wicklow, Dublin
 Read my full article [here](https://www.brianbeyond.com/wicklow-way).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt3.jpeg">
+    <img width="400" src="/images/wicklow7.webp">
 </p>
 
 ---

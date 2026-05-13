@@ -6,13 +6,11 @@ image: '/images/nwt0.jpeg'
 ---
 There are 42 National Waymarked Trails in Ireland, covering a distance of around 4,000km. These are maintained by local groups, but funded nationally by Sport Ireland. One of my very long term goals is to hike them all, which has only been done by two people as of now. It's a goal I'm happy to spend years working through.
 
-Below are the trails I've completed. I've currently done ({{ site.data.settings.stats.nwtrails }} of the 42.
+Below are the trails I've completed. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
 
----
-
-#### 1. Lough Derg Way
-69km | 1,230m Gain | 2 Days  
-Completed: 15 August 2020
+## 1. Lough Derg Way
+#### 69km | 1,230m Gain | 2 Days  
+*Completed: 15 August 2020*
 
 Limerick, Clare & Tipperary
 

@@ -10,38 +10,40 @@ Ireland has 42 National Waymarked Trails. I have a goal to complete them all.
 ---
 ## Completed
 
-#### Slieve Felim Way	(43km)
+#### 1. Slieve Felim Way	(43km)
 Limerick
 
-#### Lough Derg Way	(65km)
+#### 2. Lough Derg Way	(65km)
 Limerick, Clare & Tipperary
 
-#### Wicklow Way	(129 km)
+#### 3. Wicklow Way	(129 km)
 Carlow, Wicklow, Dublin
 
-#### Multeen Way	(23km)
+#### 4. Multeen Way	(23km)
 Tipperary
 
-#### Kerry Way	(214 km)
+#### 5. Kerry Way	(214 km)
 Kerry
 
-#### Offaly Way (37km)
+#### 6. Offaly Way (37km)
 Offaly
 
-#### Táin Way (40km)
+#### 7. Táin Way (40km)
 Louth
 
 
 
 
 ## What's Left
-Cavan Way	(22km)
-Leitrim Way	(27km)
-Westmeath Way	(33km)
-Nore Valley Way (34km)
-North Kerry Way	(45km)
-Slí na Finne, Donegal	(51km)
-Dublin Mountains Way	(55km)
+8. Cavan Way	(22km)
+9. Leitrim Way	(27km)
+10. Westmeath Way	(33km)
+11. Nore Valley Way (34km)
+12. North Kerry Way	(45km)
+13. Slí na Finne, Donegal	(51km)
+14. Dublin Mountains Way	(55km)
+
+
 Hymany Way	(55km)
 Tipperary Heritage Way	(56km)
 Lung Lough Gara Way	(58km_

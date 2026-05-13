@@ -4,12 +4,11 @@ title: Irish NWT's
 permalink: /nwt/
 image: '/images/nwt0.jpeg'
 ---
+There are 42 National Waymarked Trails in Ireland, with a total distance of around 4,000km. These are maintained by local groups, but funded nationally through Sport Ireland. One of my very long term goals is to hike them all, which has only ever been done by two people. It's a goal I'm happy to spend years working through.
 
-Ireland has 42 National Waymarked Trails. I have a goal to complete them all.
+Below are the trails I've completed. I've currently done ({{ site.data.settings.stats.nwtrails }} of the 42.
 
 ---
-## Completed
-
 #### Slieve Felim Way	(43km)
 Limerick
 

@@ -4,7 +4,9 @@ title: Irish NWT's
 permalink: /nwt/
 image: '/images/nwt0.jpeg'
 ---
-There are 42 National Waymarked Trails in Ireland, covering a distance of around 4,000km. These are maintained by local groups, but funded nationally by Sport Ireland. One of my very long term goals is to hike them all, which has only been done by two people as of now. It's a goal I'm happy to spend years working through.
+There are 42 National Waymarked Trails in Ireland, covering a total of 4,000km. They're identifiable by their yellow arrows on black posts. These are maintained by local groups, but funded by Sport Ireland. One of my long term goals is to hike them all, which has only been done by two people to date. 
+
+It began when I hiked a 40km section of the Wicklow Way in July 2018. That opened my eyes to the trails that weave around us everyday. They've helped me a lot, whether I'm fastpacking with my now ultralight gear, or just needing time in the wild to reset. I love the places they take me and the people you meet on the way.
 
 Below are the trails I've completed. I've currently done {{ site.data.settings.stats.nwtrails }} of the 42.
 

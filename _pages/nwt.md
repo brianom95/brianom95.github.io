@@ -86,7 +86,9 @@ This is a short hike through the countryside of Tipperary that could have been d
 #### 38km | 80m Gain | Linear | 2 Days  
 **Completed: 02 July 2023**
 
-Mairéad & I hiked this
+Mairéad & I hiked this after a late start on a Friday evening. We found a nice campspot along the grand canal after 8km, then finished the rest the next day. It's exceptionally flat, through old Bord na Mona bogland with small train tracks and lakes. A sculpture park was the highlight, but had some confusing rerouting. They need to provide better parking on the south end, but this was a lovely hike.
+
+7.5/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt6.jpeg">
@@ -98,8 +100,9 @@ Mairéad & I hiked this
 #### 40km | 1,200m Gain | Looped |  2 Days  
 **Completed: 10 May 2026**
 
-Mairéad & I hiked this
+This is steep and has a lot of road walking, but it is stunning. We had strong winds, but clear weather through our climbs. We camped behind Lumpers pub around halfway, which had a sauna and cold plunge that Mairead's brother and fiancée joined us for. The luxury of pizza and pints on a trail can't be overstated. On our return we detoured to summit Slieve Foye, the highest point in Louth, and were very happy with the two days (if a little sunburnt) when arriving back to Carlingford.
 
+8.5/10
 
 <p align="center" width="100%">
     <img width="400" src="/images/nwt7.jpeg">

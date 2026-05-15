@@ -100,7 +100,7 @@ image:  '/images/bucket0.jpeg'
 92. [<mark style="background-color: limegreen">Huayna Potosi (6,088m), Bolivia</mark>](https://www.brianbeyond.com/huayna)
 93. <mark style="background-color: limegreen">Visit Rio de Janeiro, Brazil</mark>
 94. <mark style="background-color: limegreen">Iguazu Falls, Brazil</mark>
-95. <mark style="background-color: limegreen">Hike to Torres del Paine, Chile</mark>
+95. [<mark style="background-color: limegreen">Hike to Torres del Paine, Chile</mark>](https://www.brianbeyond.com/otrek)
 96. <mark style="background-color: limegreen">Drink Mate & Eat Asado in Argentina</mark>
 97. <mark style="background-color: limegreen">Perito Moreno Glacier, Argentina</mark>
 98. Circuito Chico in Bariloche, Argentina
@@ -159,7 +159,7 @@ image:  '/images/bucket0.jpeg'
 47. Climb all 275 VL's (2,000ft+)
 48. [<mark style="background-color: limegreen">Climb all 13 Irish Munro's (3,000ft+)</mark>](https://www.brianbeyond.com/irish-munros)
 49. [<mark style="background-color: limegreen">Climb all 32 County High Points</mark>](https://www.brianbeyond.com/county-tops)
-50. Hike all 42 Irish Waymarked Trails ({{ site.data.settings.stats.nwtrails }} Complete)
+50. Hike all 42 [National Waymarked Trails](https://www.brianbeyond.com/nwt) ({{ site.data.settings.stats.nwtrails }} Complete)
 
 ---
 

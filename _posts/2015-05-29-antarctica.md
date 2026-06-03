@@ -6,7 +6,7 @@ date:   2015-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   
 ---
-*The Antarctica Marathon is one of the most remote races on Earth. Over 100 runners gather in Buenos Aires before flying south to Ushuaia and boarding an expedition ship. After crossing the infamous Drake Passage and hopefully finding suitable weather, they get the chance to run a marathon on the seventh continent. It's a long way to travel for a race, but the marathon is only one part of the adventure.*
+*The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Ushuaia every year, over the infamous Drake Passage, with hopes of favourable weather on the seventh continent. It's a long way to travel for a race, but the marathon is only one part of the adventure.*
 
 This was the seventh and final marathon in my journey to join the Seven Continents Club.
 

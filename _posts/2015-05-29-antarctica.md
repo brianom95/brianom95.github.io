@@ -6,15 +6,15 @@ date:   2015-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   
 ---
-*The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Ushuaia every year, over the infamous Drake Passage, with hopes of favourable weather on the seventh continent. It's a long way to travel for a race, but the marathon is only one part of the adventure.*
+*The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Ushuaia every year on the infamous Drake Passage, with hopes of favourable weather on what is for many the seventh continent. It's a long way to travel for a race, but the marathon is only one part of the adventure.*
 
-This was the seventh and final marathon in my journey to join the Seven Continents Club.
+This was the final race in my journey to join the Seven Continents Club.
 
 ## Introduction
 
-I booked this trip three years ago. At the time it felt impossibly far away, but eventually it became the next stop on a South American adventure that had already taken me through Patagonia and up Aconcagua. Antarctica was the final continent remaining and there was something special about arriving overland, slowly working my way south rather than flying directly in from home.
+This race had a three year waiting list, which gave me enough time to race the other continents first. Three years ago it seemed impossibly far away, but now as I backpacked my way through South America it grew undeniably closer. It had been the centre of this trip in many ways, the reason why I had moved south since Mexico. Always on my mind through hikes on Aconcagua and in Patagonia. The biggest goal I'd hoped to achieve before I turn 30 later that year.
 
-The trip cost me $9,000, although I got lucky booking early. Prices had risen to over $10,500 by departure and many Antarctica cruises now sit somewhere between $8,000 and $10,000. There are occasionally cheaper last-minute deals available in Ushuaia if you're willing to wait around and ask every day, but there are no guarantees. The marathon itinerary only includes a few planned days in Antarctica too, so if your goal is simply sightseeing then I'd recommend a longer expedition. For me though, the race was the draw and I couldn't wait to finally reach the seventh continent.
+The trip cost me $9,000, although I got lucky booking early. Prices had risen to over $10,500 by departure. There are occasionally cheaper last-minute deals available in  if you're willing to wait in Ushuaia and ask every day, but there are no guarantees. The marathon itinerary only includes a few planned days in Antarctica too, so if your goal is simply sightseeing then I'd recommend a longer expedition. For me though, the race was the draw and I couldn't wait to finally reach the seventh continent.
 
 ## Buenos Aires
 

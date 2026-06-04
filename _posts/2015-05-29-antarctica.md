@@ -10,6 +10,10 @@ tags:
 
 This was the final marathon in my journey to join the Seven Continents Club.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/ant10.jpeg">
+</p>
+
 ## Introduction
 
 The Antarctica Marathon began in 1995 (like me), becoming the first for-profit sporting event on the continent. It's held on King George Island on the Antarctic Peninsula, utilising rough tracks where supplies are moved between research bases. This year was the 30th anniversary. Trips are organised by a company named *Marathon Tours & Travel*, and numbers are limited to 100 people by IAATO & Antarctic Treaty guidelines. The race takes place every March, which is the warmest time of the six month Antarctic day.
@@ -42,7 +46,9 @@ At first nobody minded. The food was unreal and there's a packed schedule of lec
 
 As the days passed, concern started to grow. Every day ate into our schedule and there was uncertainty on whether the race would happen. We spent evenings keeping our mind off it at the bar, with karaoke and pub quizzes (we placed second with our team: *Make Antarctica Great Again*). Apparently there always a queue for the treadmills in the gym, but that didn't affect me. Despite the delay, I was enjoying every minute. The people made it easy.
 
-## STUCK IN CHANNEL PHOTO
+<p align="center" width="100%">
+    <img width="300" src="/images/ant9.jpeg">
+</p>
 
 Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and er all definitely felt it. Thankfully the rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. 
 
@@ -56,7 +62,9 @@ With one more sleep to the race, we got our final briefing. The delay meant ever
 
 I woke early and could see a research base in the distance from our porthole. The ship rolled quietly into a bay on King George Island, where I watched the staff head ashore in black zodiacs. Soon after we were called to the mud room, pulling on heavy outer layers, lifejackets and wellies before climbing into our own zodiacs. The ride felt surreal. The spray was icy, the water dark and the whole thing felt more like a military operation than a marathon.
 
-## ZODIAC
+<p align="center" width="100%">
+    <img width="400" src="/images/ant5.jpeg">
+</p>
 
 The course was based around the research stations of Chile, Russia and China. By March, much of the coastline is thawed so rather than snow we found mud, rock and rough ground. We arrived in running gear beneath our dry layers, using tarps to change and organise nutrition before the countdown began. Conditions weren't too bad at around -2°C, but the wind was strong and would become the defining feature of the day.
 
@@ -64,11 +72,17 @@ The marathon consisted of six laps and was tougher than I'd expected. The terrai
 
 One of the nicest aspects was repeatedly crossing paths with people I'd spent the previous week getting to know. An Australian friend would always say "Sláinte", and the US Senator gave an increasingly tired "Hi Brian". Nick & John looked incredibly strong, and a few people had mud all over them from slips. We all struggled with the terrain, but everyone looked happy. I stopped several times to watch our penguin supporters. It wasn't my fastest marathon, but it was easily my most unique.
 
-## PENGUIN PHOTO
+<p align="center" width="100%">
+    <img width="300" src="/images/ant7.jpeg">
+</p>
 
-The final lap was hard. The winds picked up all day and I worried the race would be stopped. I was tired and cold, but the final turnaround gave me confidence that I'd make it. Crossing the line felt incredible. Years of planning, and a week of uncertainty had paid off. Most runners returned to the ship but I stayed for another hour. 
+The final lap was hard. The winds picked up all day and I worried the race would be stopped. I was tired and cold, but the final turnaround gave me confidence that I'd make it. Crossing the line felt incredible. Years of planning, and a week of uncertainty had paid off. 
 
-Ab, our penguin expert, brought me over to a nearby colony where we were surrounded by curious birds investigating us. I also spoke with people working in the Chilean research base who were out supporting us. Back on board, the hot shower felt amazing. There was auch a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and an emotional applause.
+<p align="center" width="100%">
+    <img width="400" src="/images/ant14.jpeg">
+</p>
+
+Most runners returned to the ship but I stayed for another hour. Ab, our penguin expert, brought me to a nearby colony where we were surrounded them. I also spoke with people from the Chilean research base who were out supporting us. Back on board, the hot shower felt amazing. There was auch a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and an emotional applause.
 
 ## The Seventh Continent
 
@@ -90,6 +104,10 @@ A highlight of the trip came later that day. I had kayaked on six continents bef
 
 We launched inside Deception Island, a horseshoe shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left first with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatros' for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore the cliffs. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/ant3.jpeg">
+</p>
+
 There was a strong wind funneling in the gap which made it slow going, but it was fine. We could see that it was perfectly calm outside and were almost there. Then Ben who was nowhere to be seen radioed saying it was too windy and to turn around. I said to Danny that we shouldn't turn the doubles here in the roughest spot and he agreed, relaying that to Ben, but Ben insisted. We turned which I said was stupid, and in doing so one double got swept against rocks at the cliff edge. I helped push them back out to the centre and get them moving again. They were very wobbly now without the speed they had.
 
 Then Ben arrived in his zodiac and seeing the situation realised the same thing we had, that we were far closer to the calm outside. He shouted for everyone to turn around again, and paddle back out. The same double ended up crashing against the cliffs in doing so. Danny went to them, but just as the other double capsized and swam. I brought the swimmers on my boat to the zodiac and gathered the boat and paddles. We all climbed into the zodiac where Danny & I emptied the full kayak, and we started returning to the ship.
@@ -100,9 +118,17 @@ We had been told the kayaking was a $350 add on, but it ended so stupidly that t
 
 The whaling station was so cool, imagining the crazy people who would have worked here hundreds of years ago. As an engineer I loved figuring out what all the heat exchangers and tanks were for. Now rusted away, and full of penguins and seals sheltering inside. There were graves from the 1969 volcanic eruption here, and a nearby airstrip is where the first flight over Antarctica flew from. I chatted a lot with Will & Ab, and was the very last person to leave when the guides did. 
 
+<p align="center" width="100%">
+    <img width="400" src="/images/ant2.jpeg">
+</p>
+
 Things hadn’t gone as planned, but in a way had been perfect. Against all odds, I had now kayaked on all seven continents, and hadn’t even had to pay for it. I felt like I had squeezed every drop I could from the day, and that luck was truly on my side. The two swimmers were okay too by the way, once they warmed up.
 
 That evening we did the polar plunge, jumping from a zodiac with safety ropes around our waists. It felt like walking to a gallows, hearing the screams of those ahead. The water was freezing, but not as bad as I expected. Afterwards we were handed bathrobes, a shot of vodka and directed towards the sauna and jacuzzis. Knowing I'd probably never be back, I asked if I could jump again and became the only person who did. The second vodka really warms you up. Watching others jump below while we sat in a jacuzzi was a fitting way to end the trip.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/ant4.jpeg">
+</p>
 
 ## The Journey Home
 
@@ -116,6 +142,10 @@ With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 
 
 We took photos, celebrated together and enjoyed one final evening at an Irish pub in Ushuaia. Almost everyone flew back to Buenos Aires the next day, and most flew onward to home. I boarded another boat from here towards Uruguay, continuing my journey through South America. I was nearing the end of these travels, and becoming excited to soon be home.
 
+<p align="center" width="100%">
+    <img width="400" src="/images/ant8.jpeg">
+</p>
+
 ## Afterthoughts
 
 Despite the delays, the trip exceeded every expectation I had. Antarctica was incredible in its wildlife, landscapes, and even just remoteness. The marathon was unlike anything I had ever done, and kayaking the seventh continent made it even more special. Standing amongst glaciers and penguins in a place like that is something I'll never forget, and the memories are all the better for who I got to share them with.
@@ -125,5 +155,5 @@ John and his remarkable running career. Tommy and our endless conversations. Nic
 The marathon brought us together, but the people made the trip. Running a marathon on my seventh continent was a fantastic achievement and completing the Seven Continents Club felt like the perfect ending to a journey that started years earlier. If I had to choose one thing I'll remember most though, it will be the feeling of standing at the end of the world surrounded by extraordinary people, knowing we'd all shared something truly unique.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/7cc8.jpeg">
+    <img width="400" src="/images/ant6.jpeg">
 </p>

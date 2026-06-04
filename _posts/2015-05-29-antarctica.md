@@ -58,7 +58,7 @@ Unfortunately, nothing good. Severe weather delayed us at the mouth of the chann
     <img width="300" src="/images/ant9.jpeg">
 </p>
 
-At first nobody minded. The food was unreal and there's a packed schedule of lectures from the expedition staff. We learned about Antarctic wildlife, photography, women in Antarctica, exploration history, and the importance of krill. We had biosecurity briefings about contamination, where we scrubbed our running gear, and covered billions of years of history through geology lectures from Dr Volcano.
+At first nobody minded. The food was unreal and there was a packed schedule of lectures from the expedition staff. We learned about Antarctic wildlife, photography, women on the continent, exploration history, and the importance of krill. We had biosecurity briefings about contamination, where we scrubbed our running gear, and covered billions of years of history through geology lectures from Dr Volcano.
 
 As the days passed, concern started to grow. Every day ate into our schedule and there was uncertainty on whether the race would happen. We spent evenings keeping our mind off it at the bar, with karaoke and pub quizzes (we placed second with our team: *Make Antarctica Great Again*). Apparently there was always a queue for the treadmills in the gym, but that didn't affect me. Despite the delay, I was enjoying every minute. The people made it easy.
 
@@ -66,13 +66,13 @@ As the days passed, concern started to grow. Every day ate into our schedule and
     <img width="400" src="/images/ant17.jpeg">
 </p>
 
-Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we all definitely felt it. Thankfully the rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. Nick also interviewed me one of the days about my own adventures, which became an article in Runners World magazine!
+Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we all definitely felt it. Thankfully our rooms each had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. Nick also interviewed me one of the days about my own adventures, which was later published in an article in Runners World magazine!
 
 The food continued to be amazing too, and we heard frequent whale sightings over the intercom that made everyone run for windows, though running was hard now as the ship swayed. All the time spent at anchor had allowed us to bond and I felt very close to the people here. Constantly inspired by people who had run a marathon at the North Pole, run all the majors multiple times, or run a marathon in all 50 US States. There were people from over 30 countries, each with a unique story. One night I had dinner with a man who kayaked across Greenland, another I had dinner with a sitting US senator.
 
 The crew drove the ship faster than usual given our delayed start, so by the second day the seas began to calm. I noticed that waves stopped crashing against our porthole, and it became easier to stop myself rolling out of bed. I was on the top deck when we passed our first iceberg, and late that evening we all gathered on the top deck to watch what was becoming visible on the horizon. Land Ho!
 
-With one more sleep to the race, we got our final briefing. The delay meant everything would happen quickly. The marathon team would land first thing the next morning to set up the course, and we'd follow shortly after. If the winds were too high the race could still be cancelled, but for now we had our window.
+With one more sleep before the race, we got our final briefing. The delay meant everything would happen quickly. The marathon team would land first thing the next morning to set up the course, and we'd follow shortly after. If the winds were too high the race could still be cancelled, but for now we had our window.
 
 ## The Race
 
@@ -92,7 +92,7 @@ The marathon consisted of six laps, and was tougher than I'd expected. The terra
 
 Running past the Great Wall Station my phone connected and welcomed me to China, which felt appropriately ridiculous. There was a cold breeze from glaciers in the distance, and the changing terrain from sand to gravel was hard underfoot, but my body felt okay.
 
-I loved getting to cross paths with so many people I'd gotten to know. An Australian friend would always say "Sláinte", and the US Senator gave an increasingly tired "Hi Brian" every time. Nick & John looked incredibly strong, and a few people had mud all over them from slips. We all struggled with the terrain, but everyone looked happy. I stopped several times to watch our penguin supporters, so it wasn't my fastest marathon, but it was easily my most unique.
+I loved how the loops let us cross paths with all the people we had gotten to know. An Australian friend would always say "Sláinte" to me, and the US Senator gave an increasingly tired "Hi Brian" every time. Nick & John looked incredibly strong, and a few people had mud all over them from slips. We all struggled with the terrain, but everyone looked happy. I stopped several times to watch our penguin supporters, so it wasn't my fastest marathon, but it was easily my most unique.
 
 <p align="center" width="100%">
     <img width="300" src="/images/ant7.jpeg">
@@ -104,13 +104,13 @@ The final lap was hard. The winds picked up all day and I worried the race would
     <img width="400" src="/images/ant14.jpeg">
 </p>
 
-Most runners returned to the ship but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and an emotional applause. (Second place at nearly 70 years old!)
+Most runners returned to the ship right away, but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and an emotional applause. (Second place at nearly 70 years old!)
 
 ## The Final Continent
 
 Thankfully the crew made the call that they could run the ship much quicker on the way back as it was calmer, allowing us one more day on the continent. This meant we had time for two excursions.
 
-The following morning we woke at Hannah Point and headed ashore by zodiac. Huge penguin colonies covered the hillside, surprising us both by their tiny size, and their smell. Most were Gentoo penguins, with a few Chinstraps (which can dive over 100m). The males were building nests where half collected nice stones from the water, while the others stole from their neighbours. The resulting squabbling was entertaining to watch. Short video [here](https://youtube.com/shorts/syIi8pkSntM?is=Bpf9TXAczFB5p_bd).
+The following morning we woke at Hannah Point and headed ashore by zodiac. Huge penguin colonies covered the hillside, surprising us both by their tiny size, and their smell. Most were Gentoo penguins, with a few Chinstraps (which can dive over 100m). The males were building nests where half collected nice stones from the water, while the others stole from their neighbours. The resulting squabbling was entertaining to watch. Short video [here](https://youtube.com/shorts/4AipKqf6MYo?is=Dz32J9zEIMrlbLZ0).
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant12.jpeg">
@@ -124,7 +124,7 @@ We saw huge elephant seals stretched across beaches and a big group huddled toge
 
 A highlight of the trip came later that day. I had kayaked on six continents before, so I really wanted to complete the seventh. Unfortunately, there were only a handful of spaces and everyone wanted them. I emailed ahead, spoke to staff and the kayak guide before, but it all came down to a lottery. Thankfully, I was drawn in Group 2 meaning I could swap the second excursion for kayaking. Then when winds cancelled the kayaking that morning, I was somehow now in the only group that would get to go!
 
-We launched inside Deception Island, a horseshoe shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left first with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatros' for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore the cliffs. 
+We launched inside Deception Island, a horseshoe shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left first with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatros' for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore more cliffs. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant3.jpg">
@@ -154,7 +154,7 @@ That evening we did the polar plunge, jumping from a zodiac with safety ropes ar
 
 ## The Journey Home
 
-The return crossing of the Drake Passage was much smoother. I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had talks on life at research stations, wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
+The return crossing of the Drake Passage was much smoother. I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had lectures about life at research stations, more wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
 
 With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 100 marathoners, 81 had finished the race, and just 16 of us received our medals for having now run on all seven continents. Something less than 1,000 people have ever done. It felt special. A journey that had taken years and brought so many nice memories, finally closed.
 

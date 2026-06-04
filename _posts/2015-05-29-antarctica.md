@@ -30,11 +30,17 @@ I arrived in Buenos Aires a few days early and stayed in a hostel. This gave me 
 
 It was easily the fanciest hotel I had ever stayed in. There was a short group jog for us to meet each other where I chatted to Nick, a mountaineer, triathlete, and award winning journalist whose been published in National Geographic. I also chatted with some of the race organisers like Ann, Tinny, and Paul who was the expedition doctor. That evening some of us lazed in the pool, so relaxed you'd forget what's to come.
 
-## Nick run
+<p align="center" width="100%">
+    <img width="400" src="/images/ant15.jpeg">
+</p>
 
 The following day we toured Buenos Aires in a convoy of buses, where I was lucky enough to have sat beside John. This trip is full of impressive people, but none more so than him. He recently finished top five in all six World Marathon Majors, running sub-three hours in every one. He held the UK marathon record for over 65 year olds, ran a 100 miler, and finished the Marathon de Sables. It seemed everyone I spoke to had an inspiring story, but John spoke so casually you could almost miss his.
 
 That evening we had our race registration, followed by welcome cocktails and a ballroom dinner. It felt unique to be at a formal event, but surrounded by such outdoorsy people and stories. It was here I realised this expedition is a lot more about the people than the race itself. The orgnaisers gave presentations on what was to come, and we all drank a bit too much free wine. The day after was a rest day to explore, so no real harm done.
+
+<p align="center" width="100%">
+    <img width="300" src="/images/ant16.jpeg">
+</p>
 
 ## The Journey South
 
@@ -46,12 +52,16 @@ Captain Konstantinos welcomed us aboard, joined by his two senior officers who w
 
 Unfortunately, nothing good. Severe weather delayed us at the mouth of the channel for three days. We got frequent weather updates from the expedition leader Mike, telling of the 100 mph winds and 12m waves that were stopping us. "You don't have to be a captain to know you don't sail through a Category 2 hurricane." Videos we saw of ships caught in it at the time made us agree.
 
+<p align="center" width="100%">
+    <img width="300" src="/images/ant9.jpeg">
+</p>
+
 At first nobody minded. The food was unreal and there's a packed schedule of lectures from the expedition staff. We learned about Antarctic wildlife, photography, women in Antarctica, exploration history, and the importance of krill. We had biosecurity briefings about contamination, where we scrubbed our running gear, and covered billions of years of history through geology lectures from Dr Volcano.
 
 As the days passed, concern started to grow. Every day ate into our schedule and there was uncertainty on whether the race would happen. We spent evenings keeping our mind off it at the bar, with karaoke and pub quizzes (we placed second with our team: *Make Antarctica Great Again*). Apparently there was always a queue for the treadmills in the gym, but that didn't affect me. Despite the delay, I was enjoying every minute. The people made it easy.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/ant9.jpeg">
+    <img width="400" src="/images/ant17.jpeg">
 </p>
 
 Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we all definitely felt it. Thankfully the rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. Nick also interviewed me one of the days about my own adventures, which became an article in Runners World magazine!

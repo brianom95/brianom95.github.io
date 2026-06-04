@@ -22,7 +22,11 @@ The race had a three year waiting list, which gave me enough time to run the oth
 
 The trip cost me $9,000 and takes 14 days. Starting in Buenos Aires, flying to Ushuaia, 3 days sailing the Drake Passage (the roughest sea in the world), 3 days on the continent, and 3 days sailing back. In the time since my booking the cost rose to $10,500. I met people who got last minute spots at the new price so I felt lucky to have booked when I did. It's still a similar cost to a standard Antarctic cruise, but many of those will stay on the continent longer.
 
-Cruises are done via expedition ships that are built to withstand icebergs. These have large mudrooms, dry gear, and heavy zodiac ribs to take people ashore. Time on the continent normally consists of two excursions per day, either on the water (seeing icebergs and wildlife), or landing ashore to explore on foot. The marathon voyage uses the first day for the race, but otherwise follows the same format. My price covered the most basic shared room which is still very nice, but you can spend a small fortune for anything up to a private room with a balcony.
+Cruises are done via expedition ships that are built to withstand icebergs. These have large mudrooms, dry gear, and heavy zodiac ribs to take people ashore. Time on the continent normally consists of two excursions per day, either on the water (seeing icebergs and wildlife), or landing ashore to explore on foot. The marathon voyage uses the first day for the race, but otherwise follows the same format. My price covered the most basic shared room which is still very nice, but you can spend a small fortune for anything up to a private room with a balcony. 
+
+<p align="center" width="100%">
+    <img width="400" src="/images/ant18.jpeg">
+</p>
 
 ## Arrival & Warming Up
 

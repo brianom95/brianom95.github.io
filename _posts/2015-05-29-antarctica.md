@@ -109,7 +109,7 @@ A highlight of the trip came later that day. I had kayaked on six continents bef
 We launched inside Deception Island, a horseshoe shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left first with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatros' for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore the cliffs. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/ant3.jpeg">
+    <img width="400" src="/images/ant3.jpg">
 </p>
 
 There was a strong wind funneling in the gap which made it slow going, but it was fine. We could see that it was perfectly calm outside and were almost there. Then Ben who was nowhere to be seen radioed saying it was too windy and to turn around. I said to Danny that we shouldn't turn the doubles here in the roughest spot and he agreed, relaying that to Ben, but Ben insisted. We turned which I said was stupid, and in doing so one double got swept against rocks at the cliff edge. I helped push them back out to the centre and get them moving again. They were very wobbly now without the speed they had.

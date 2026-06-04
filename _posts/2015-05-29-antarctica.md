@@ -48,9 +48,7 @@ That evening we had our race registration, followed by welcome cocktails and a b
 
 ## The Journey South
 
-An early flight brought us to Ushuaia, the southernmost city in the world. I was sat beside Tommy, a well spoken librarian who was my roommate for the ship. The cold winds of the south were a nice change to the heat we had been in, and after a short bus journey we were at the port staring up at our ship; the Ocean Albatros. I didn't know what to expect after booking a windowless room, but it was great, and even had a small porthole (room tour here).
-
-## Add Room Tour
+An early flight brought us to Ushuaia, the southernmost city in the world. I was sat beside Tommy, a well spoken librarian who was my roommate for the ship. The cold winds of the south were a nice change to the heat we had been in, and after a short bus journey we were at the port staring up at our ship; the Ocean Albatros. I didn't know what to expect after booking a windowless room, but it was great, and even had a small porthole (room tour [here](https://youtube.com/shorts/RC1mZuVwJUY?is=HaQWcrMTvxNDIlPA)).
 
 Captain Konstantinos welcomed us aboard, joined by his two senior officers who were Russian and Ukrainian. I explored the ship with John, finding the gym, jacuzzis, bars, sauna, library, lecture hall, zodiacs, and the mudroom where we'd prepare for landings. That night we all stood on the top deck as we set sail through the Beagle Channel, curious what the Drake Passage had in store for us.
 
@@ -84,7 +82,7 @@ I woke early and could see a research base in the distance from our porthole. Th
     <img width="400" src="/images/ant5.jpeg">
 </p>
 
-The course was based around the research stations of Chile, Russia and China. By March, much of the coastline is thawed so rather than snow we found mud, rock and rough ground. We arrived in running gear beneath our dry layers, using tarps to change and organise nutrition before the countdown began. Conditions weren't too bad at around -2°C, but the wind was strong and would become the defining feature of the day.
+The course was based around the research stations of Chile, Russia and China. By March, much of the coastline is thawed so rather than snow we found mud, rock and rough ground. We arrived in running gear beneath our dry layers, using tarps to change and organise nutrition before the countdown began. Conditions weren't too bad at around -2°C, but the wind was strong and would become the defining feature of the day. Short video [here](https://youtube.com/shorts/0uwVYAVyI6A?is=nWdToz5r34Ga-Fyz).
 
 The marathon consisted of six laps, and was tougher than I'd expected. The terrain was rough, with sections of wet rock beside the shoreline, and headwinds that seemed to come from every direction. The scenery more than made up for it though. The landscape felt harsh and alien, unlike anywhere I'd ever been. 
 
@@ -108,11 +106,11 @@ The final lap was hard. The winds picked up all day and I worried the race would
 
 Most runners returned to the ship but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and an emotional applause. (Second place at nearly 70 years old!)
 
-## The Seventh Continent
+## The Final Continent
 
 Thankfully the crew made the call that they could run the ship much quicker on the way back as it was calmer, allowing us one more day on the continent. This meant we had time for two excursions.
 
-The following morning we woke at Hannah Point and headed ashore by zodiac. Huge penguin colonies covered the hillside, surprising us both by their tiny size, and their smell. Most were Gentoo penguins, with a few Chinstraps (which can dive over 100m). The males were building nests where half collected nice stones from the water, while the others stole from their neighbours. The resulting squabbling was entertaining to watch. 
+The following morning we woke at Hannah Point and headed ashore by zodiac. Huge penguin colonies covered the hillside, surprising us both by their tiny size, and their smell. Most were Gentoo penguins, with a few Chinstraps (which can dive over 100m). The males were building nests where half collected nice stones from the water, while the others stole from their neighbours. The resulting squabbling was entertaining to watch. Short video [here](https://youtube.com/shorts/syIi8pkSntM?is=Bpf9TXAczFB5p_bd).
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant12.jpeg">

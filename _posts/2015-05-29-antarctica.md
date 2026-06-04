@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  The Antarctica Marathon
-description: Penguins, seals, whaling stations, icy swims, and the coldest race in the world!
+description: Penguins, seals, whaling stations, polar plunges, kayaking my final continent, and the world's coldest race!
 date:   2015-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   

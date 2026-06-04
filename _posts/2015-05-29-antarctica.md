@@ -156,14 +156,10 @@ The return crossing of the Drake Passage was much smoother. I didn't take any se
 
 With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 100 marathoners, 81 had finished the race, and just 16 of us received our medals for having now run on all seven continents. Something less than 1,000 people have ever done. It felt special. A journey that had taken years and brought so many nice memories, finally closed.
 
-<p align="center" width="100%">
-    <img width="400" src="/images/7cc9.jpeg">
-</p>
-
 We took photos, celebrated together and enjoyed one final evening at an Irish pub in Ushuaia. Almost everyone flew back to Buenos Aires the next day, and most flew onward to home. I boarded another boat from here towards Uruguay, continuing my journey through South America. I was nearing the end of these travels, and becoming excited to soon be home.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/ant8.jpeg">
+    <img width="400" src="/images/ant6.jpeg">
 </p>
 
 ## Afterthoughts
@@ -177,5 +173,5 @@ mention doing trips, budget last minute trips, longer 8 person days trips, flyin
 The marathon brought us together, but the people made the trip. Running a marathon on my seventh continent was a fantastic achievement and completing the Seven Continents Club felt like the perfect ending to a journey that started years earlier. If I had to choose one thing I'll remember most though, it will be the feeling of standing at the end of the world surrounded by extraordinary people, knowing we'd all shared something truly unique.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/ant6.jpeg">
+    <img width="400" src="/images/7cc9.jpeg">
 </p>

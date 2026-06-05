@@ -6,7 +6,7 @@ date:   2015-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   
 ---
-*The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Ushuaia every year on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel for a race, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned in the many lectures is what made it special. With some luck I even went kayaking, having now paddled on all seven continents too!*
+*The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Argentina on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel for a race, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned in the many lectures is what made it special. With luck on my side I even went kayaking, having now paddled on all seven continents too!*
 
 This was the final marathon in my journey to join the Seven Continents Club.
 
@@ -16,9 +16,9 @@ This was the final marathon in my journey to join the Seven Continents Club.
 
 ## Introduction
 
-The Antarctica Marathon began in 1995 (like me), becoming the first for-profit sporting event on the continent. It's held on King George Island on the Antarctic Peninsula, utilising rough tracks where supplies are moved between research bases. This year marked the 30th anniversary. Trips are organised by a company named *Marathon Tours & Travel*, and numbers are limited by IAATO & Antarctic Treaty guidelines. The race takes place every March, which is the warmest time of the six month Antarctic day.
+The Antarctica Marathon began in 1995 (like me), becoming the first for-profit sporting event on the continent. It's held on King George Island on the Antarctic Peninsula, utilising rough tracks where supplies are moved between research bases. This year marked their 30th anniversary. Trips are organised by a company named *Marathon Tours & Travel*, and numbers are limited by IAATO & Antarctic Treaty guidelines. The race takes place every March, which is the warmest time of the six month Antarctic day.
 
-The race had a three year waiting list, which gave me enough time to run the other six continents first. Back then it seemed so far away, but as I backpacked through South America it grew undeniably closer. It had been the centre of this trip, guiding my movement south since Mexico, and on my mind while hiking on [Aconcagua](aconcagua) and in [Patagonia](otrek). Running a marathon on every continent was the biggest goal I wanted to achieve before turning 30 later this year, and I hoped all would go okay.
+The race had a three year waiting list, which gave me enough time to race my other six continents; in Italy, Canada, New Zealand, Thailand, Morocco & Colombia. Three years ago this seemed so far away, but as I backpacked through South America now it grew undeniably closer. It had been the centre of this trip, guiding my movement south since Mexico. Always on my mind while hiking on [Aconcagua](aconcagua) and in [Patagonia](otrek), wondering would it all go to plan. This was the biggest goal I aimed to achieve before turning 30 later this year.
 
 The trip cost me $9,000 and takes 14 days. Starting in Buenos Aires, flying to Ushuaia, 3 days sailing the Drake Passage (the roughest sea in the world), 3 days on the continent, and 3 days sailing back. In the time since my booking the cost rose to $10,500. I met people who got last minute spots at the new price so I felt lucky to have booked when I did. It's still a similar cost to a standard Antarctic cruise, but many of those will stay on the continent longer.
 

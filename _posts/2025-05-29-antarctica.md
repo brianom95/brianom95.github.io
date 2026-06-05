@@ -32,13 +32,13 @@ Cruises are done via expedition ships that are built to withstand icebergs. Thes
 
 I arrived in Buenos Aires a few days early and stayed in a hostel. This gave me time to settle in, do a bike tour, wander the markets, and enjoy St. Patrick's Day. After weeks on the move it felt nice to slow down before this trip began. When the time came, I moved to the five-star Alvear Icon hotel, where all of us runners looked a little out of place. 
 
-It was easily the fanciest hotel I had ever stayed in. There was a short group jog for us to meet each other where I chatted to Nick, a mountaineer, triathlete, and award winning journalist who's been published in National Geographic. I also chatted with some of the race organisers like Ann, Tinny, and Paul who was the expedition doctor. That evening some of us lazed in the pool, so relaxed you'd forget what's to come.
+It was easily the fanciest hotel I had ever stayed in. There was a short group jog for us to meet each other where I chatted to Nick, a mountaineer, triathlete, and award-winning journalist who's been published in National Geographic. I also chatted with some of the race organisers like Ann, Tinny, and Paul who was the expedition doctor. That evening some of us lazed in the pool, so relaxed you'd forget what's to come.
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant15.jpeg">
 </p>
 
-The following day we toured Buenos Aires in a convoy of buses, where I was lucky enough to have sat beside John. This trip is full of impressive people, but none more so than him. He recently placed top five in all six World Marathon Majors, running sub-three hours in every one. He held the UK marathon record for over 65 year olds, ran a 100 miler, and finished the Marathon de Sables. It seemed everyone I spoke to had an inspiring story, but John spoke so casually you could almost miss his.
+The following day we toured Buenos Aires in a convoy of buses, where I was lucky enough to have sat beside John. This trip is full of impressive people, but none more so than him. He recently placed top five in all six World Marathon Majors, running sub-three hours in every one. He held the UK over-65 marathon record, ran a 100 miler, and finished the Marathon de Sables. It seemed everyone I spoke to had an inspiring story, but John spoke so casually you could almost miss his.
 
 That evening we had our race registration (the t-shirts were cool), followed by welcome cocktails and a ballroom dinner. It felt unique to be at a formal event, but surrounded by such outdoorsy people and stories. It was here I realised this expedition is a lot more about the people than the race itself. The organisers gave presentations on what was to come, and we all drank a bit too much free wine. The day after was a rest day to explore, so no real harm done.
 
@@ -66,11 +66,11 @@ As the days passed, concern started to grow. Every day ate into our schedule and
     <img width="400" src="/images/ant17.jpeg">
 </p>
 
-Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we definitely all felt it. Thankfully our rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. I was also interviewed by Nick one of the days about my own adventures, which was later published in an article in Runners World magazine!
+Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we definitely all felt it. Thankfully our rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. I was also interviewed by Nick one day about my own adventures, which was later published in an article in Runners World magazine!
 
 All the time spent at anchor had allowed us to bond and I felt very close to the people here. Constantly inspired by people who had run a marathon at the North Pole, run all the majors multiple times, or run a marathon in all 50 US States. There were people from over 30 countries, each with a unique story. One night I had dinner with a man who kayaked across Greenland, another I had dinner with a sitting US senator.
 
-The food continued to be amazing too, always a buffet where I wanted (and usually tried) everything. We would be told of whale sightings over the intercom, prompting everyone to run for windows, usually in clumsy ways as the ship swayed. I went to the top deck a lot, looking for giant petrels and wandering albatross that didn't seem to mind the rain and cold. These largest birds in the world look tiny against the endless horizon.
+The food continued to be amazing too, always a buffet where I wanted (and usually tried) everything. We would be told of whale sightings over the intercom, prompting everyone to run for windows, usually in clumsy ways as the ship swayed. I went to the top deck a lot, looking for giant petrels and wandering albatrosses that didn't seem to mind the rain and cold. The largest birds in the world look tiny against the endless horizon.
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant19.jpeg">
@@ -110,7 +110,7 @@ The final lap was hard. The winds picked up all day and I worried the race would
     <img width="400" src="/images/ant14.jpeg">
 </p>
 
-Most runners returned to the ship right away, but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning nice trophies and a huge applause. (Second place at nearly 70 years old!)
+Most runners returned to the ship right away, but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning trophies and a huge applause. (Second place at nearly 70 years old!)
 
 ## The Final Continent
 
@@ -130,7 +130,7 @@ We saw huge elephant seals crawling across beaches and a big group huddled toget
 
 A highlight of the trip came later that day. I had kayaked on six continents, so I really wanted to complete the seventh. Unfortunately, there were only a handful of spaces and everyone wanted them. I emailed ahead, spoke to staff and the kayak guide before, but it all came down to a lottery. Luckily, I was drawn in Group 2 meaning I could swap the second excursion for kayaking. Then when winds cancelled the kayaking that morning, I was somehow now in the only group that would get to go.
 
-We launched in Deception Island, a horseshoe-shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatross for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore more cliffs. 
+We launched in Deception Island, a horseshoe-shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatrosses for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore more cliffs. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant20.png">

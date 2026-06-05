@@ -68,7 +68,13 @@ As the days passed, concern started to grow. Every day ate into our schedule and
 
 Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we all definitely felt it. Thankfully our rooms each had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. Nick also interviewed me one of the days about my own adventures, which was later published in an article in Runners World magazine!
 
-The food continued to be amazing too, and we heard frequent whale sightings over the intercom that made everyone run for windows, though running was hard now as the ship swayed. All the time spent at anchor had allowed us to bond and I felt very close to the people here. Constantly inspired by people who had run a marathon at the North Pole, run all the majors multiple times, or run a marathon in all 50 US States. There were people from over 30 countries, each with a unique story. One night I had dinner with a man who kayaked across Greenland, another I had dinner with a sitting US senator.
+All the time spent at anchor had allowed us to bond and I felt very close to the people here. Constantly inspired by people who had run a marathon at the North Pole, run all the majors multiple times, or run a marathon in all 50 US States. There were people from over 30 countries, each with a unique story. One night I had dinner with a man who kayaked across Greenland, another I had dinner with a sitting US senator.
+
+The food continued to be amazing too, always a buffet where I wanted (and usually tried) everything. We would be told of whale sightings over the intercom, prompting everyone to run for windows in clumsy ways as the ship swayed. I went to the top deck a lot, looking for giant petrels and wandering albatros that didn't seem to mind the rain and cold.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/ant19.jpeg">
+</p>
 
 The crew drove the ship faster than usual given our delayed start, so by the second day the seas began to calm. I noticed that waves stopped crashing against our porthole, and it became easier to stop myself rolling out of bed. I was on the top deck when we passed our first iceberg, and late that evening we all gathered on the top deck to watch what was becoming visible on the horizon. Land Ho!
 
@@ -127,12 +133,16 @@ A highlight of the trip came later that day. I had kayaked on six continents bef
 We launched inside Deception Island, a horseshoe shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left first with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatros' for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore more cliffs. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/ant3.jpg">
+    <img width="400" src="/images/ant20.png">
 </p>
 
 There was a strong wind funneling in the gap which made it slow going, but it was fine. We could see that it was perfectly calm outside and were almost there. Then Ben who was nowhere to be seen radioed saying it was too windy and to turn around. I said to Danny that we shouldn't turn the doubles here in the roughest spot and he agreed, relaying that to Ben, but Ben insisted. We turned which I said was stupid, and in doing so one double got swept against rocks at the cliff edge. I helped push them back out to the centre and get them moving again. They were very wobbly now without the speed they had.
 
 Then Ben arrived in his zodiac and seeing the situation realised the same thing we had, that we were far closer to the calm outside. He shouted for everyone to turn around again, and paddle back out. The same double ended up crashing against the cliffs in doing so. Danny went to them, but just as the other double capsized and swam. I brought the swimmers on my boat to the zodiac and gathered their boat and paddles. We all climbed into the zodiac where Danny & I emptied the full kayak, and we started returning to the ship.
+
+<p align="center" width="100%">
+    <img width="400" src="/images/ant3.jpg">
+</p>
 
 Danny & I held the kayaks on either side as directed by Ben, but they filled with water too quickly as we'd move. We stopped and emptied them which was slow. Danny wanted to put the kayaks across the zodiac which there was lots of space for, but Ben said no. We tried Bens way again and made it about 200m before having to empty. In the meantime the two swimmers were freezing. It took about 30 mins to crawl back to the ship in this unneccessarily slow way.
 

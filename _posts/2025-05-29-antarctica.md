@@ -18,7 +18,7 @@ This was the final marathon in my journey to join the Seven Continents Club.
 
 The Antarctica Marathon began in 1995 (like me), becoming the first for-profit sporting event on the continent. It's held on King George Island on the Antarctic Peninsula, utilising rough tracks where supplies are moved between research bases. This year marked their 30th anniversary. Trips are organised by *Marathon Tours & Travel*, and numbers are limited by IAATO & Antarctic Treaty guidelines. The race takes place every March, which is the warmest time of the six-month Antarctic day.
 
-The race had a three year waiting list, which gave me enough time to race my other six continents; in Italy, Canada, New Zealand, Thailand, Morocco & Colombia. Three years ago this seemed so far away, but as I backpacked through South America it grew undeniably closer. It had been the centre of this trip, guiding my movement south since Mexico. Always on my mind while hiking on [Aconcagua](aconcagua) and in [Patagonia](otrek), wondering would it all go to plan. This was the biggest goal I aimed to achieve before turning 30 later this year.
+The race had a three year waiting list, which gave me enough time to gather the money and race my other six continents. I ran in Italy, Canada, New Zealand, Thailand, Morocco & Colombia. Three years ago this seemed so far away, but as I backpacked through South America it grew undeniably closer. It had been the centre of this trip, guiding my movement south since Mexico. Always on my mind while hiking on [Aconcagua](aconcagua) and in [Patagonia](otrek), wondering would it all go to plan. This had been the biggest goal I aimed to achieve before turning 30 later that year.
 
 The trip cost me $9,000 and takes 14 days. Starting in Buenos Aires, flying to Ushuaia, 3 days sailing the Drake Passage (the roughest sea crossing in the world), 3 days on the continent, and 3 days sailing back. In the time since my booking the cost rose to $10,500. I met people who got last minute spots at the new price so I felt lucky to have booked when I did. It's still a similar cost to a standard Antarctic cruise, but many of those will stay on the continent longer.
 
@@ -50,7 +50,7 @@ That evening we had our race registration (the t-shirts were cool), followed by 
 
 An early flight brought us to Ushuaia, the southernmost city in the world. I was sat beside Tommy, a well-spoken librarian who was my roommate for the ship. The cold winds of the south were a nice change to the heat we had been in, and after a short bus journey we were staring up at our ship; the Ocean Albatross. I didn't know what to expect after booking a windowless room, but it was great, and even had a small porthole (room tour [here](https://youtube.com/shorts/RC1mZuVwJUY?is=HaQWcrMTvxNDIlPA)).
 
-Captain Konstantinos welcomed us aboard, joined by his two senior officers who were Russian and Ukrainian. I explored the ship with John, finding the gym, jacuzzis, bars, sauna, library, lecture hall, zodiacs, and the mudroom where we'd prepare for landings. That night we all stood on the top deck as we set sail through the Beagle Channel, curious what the Drake Passage had in store for us.
+Captain Konstantinos welcomed us aboard, joined by his two senior officers who were Russian and Ukrainian. I explored the ship with John, finding the gym, jacuzzis, bars, sauna, library, lecture hall, zodiacs, and the mudroom where we'd prepare for landings. That night we all stood on the top deck as we set sail out the Beagle Channel, curious what the Drake Passage had in store for us.
 
 Unfortunately, nothing good. Severe weather delayed us at the mouth of the channel for three days. We got frequent weather updates from the expedition leader Mike, telling of the 100 mph winds and 12m waves that were stopping us. "You don't have to be a captain to know you don't sail through a Category 2 hurricane." Videos we saw of ships caught in it at the time made us all agree.
 
@@ -66,7 +66,7 @@ As the days passed, concern started to grow. Every day ate into our schedule and
     <img width="400" src="/images/ant17.jpeg">
 </p>
 
-Eventually the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we definitely all felt it. Thankfully our rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. I was also interviewed by Nick one day about my own adventures, which was later published in an article in Runners World magazine!
+After three days of uncertainty, the weather improved and we sailed south. We were told the Drake Passage would be particularly rough, and we definitely all felt it. Thankfully our rooms had a TV full of movies, and you could watch the lectures live on it, though I did try to get up for those. The best lectures were from the historian Will, one about the race to reach the South Pole, and another on the history of flights over the continent. I was also interviewed by Nick one day about my own adventures, which was later published in an article in Runners World magazine!
 
 All the time spent at anchor had allowed us to bond and I felt very close to the people here. Constantly inspired by people who had run a marathon at the North Pole, run all the majors multiple times, or run a marathon in all 50 US States. There were people from over 30 countries, each with a unique story. One night I had dinner with a man who kayaked across Greenland, another I had dinner with a sitting US senator.
 
@@ -78,11 +78,11 @@ The food continued to be amazing too, always a buffet where I wanted (and usuall
 
 The crew drove the ship faster than usual given our delayed start, so by the second day the seas began to calm. I noticed that waves stopped crashing against our porthole, and it became easier to stop myself rolling out of bed. I was on the top deck when we passed our first iceberg, and late that evening we all gathered on the top deck to watch what was becoming visible in the distance. Land Ho!
 
-With one more sleep before the race, we got our final briefing. The delay meant everything would happen quickly. The marathon team would land first thing the next morning to set up the course, and we'd follow shortly after. If the winds were too high the race could still be cancelled, but for now we had our weather window.
+With one more sleep before the race, we got our final briefing. The delay meant everything had to happen quickly. The marathon team would land first thing in the morning to set up the course, and we'd follow shortly after. If the winds were too high the race could still be cancelled, but for now we had our weather window.
 
-## The Race
+## Raceday
 
-I woke early and could see a research base in the distance from our porthole. The ship rolled quietly into a bay on King George Island, where I watched the staff head ashore in black zodiacs. Soon after we were called to the mudroom, pulling on heavy outer layers, lifejackets, and wellies before climbing into our own zodiacs. The ride felt surreal. The spray was icy, the water dark and the whole thing felt more like a military operation than a marathon.
+I woke early and could see mountains in the distance from our porthole. The ship rolled quietly into a bay on King George Island, where I watched the staff head ashore in black zodiacs. Soon after we were called to the mudroom, pulling on heavy outer layers, lifejackets, and wellies before climbing into our own zodiacs. The ride felt surreal. The spray was icy, the water dark and the whole thing felt more like a military operation than a marathon.
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant5.jpeg">
@@ -90,13 +90,13 @@ I woke early and could see a research base in the distance from our porthole. Th
 
 The course was based around the research stations, with the start at Bellingshausen (Russia). By March, much of the coastline is thawed so rather than snow we found mud, rock and rough ground. We arrived in running gear beneath our dry layers, using tarps to change and organise nutrition before the countdown began. Conditions weren't too bad, never less than -2°C, but the wind was strong and would become the defining feature of the day. A small Russian orthodox church was above us on a hill, and a helicopter moved supplies overhead. Short video [here](https://youtube.com/shorts/0uwVYAVyI6A?is=nWdToz5r34Ga-Fyz).
 
-The marathon was six laps, running from Russia to China, via Chile! The terrain made it a lot tougher than I'd expected. We had wet rock by the shoreline, sand, mud, hills, and headwinds that seemed to come from every direction. The scenery more than made up for it though, with beaches, lakes, streams and small bridges along the way. The landscape felt harsh and alien, unlike anywhere I'd ever been. 
+The marathon was six laps, running from Russia to China, via Chile! The terrain made it a lot tougher than I'd expected. We had wet rock by the shoreline, sand, mud, hills, and headwinds that seemed to come from every direction. The scenery more than made up for it though, with beaches, lakes, streams and small bridges along the way. The landscape felt harsh and alien, unlike anywhere I'd ever been. I loved it!
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant1.jpeg">
 </p>
 
-My phone connected and welcomed me to China as I ran past their turnaround at the Great Wall Station, which felt appropriately ridiculous. There was a cold breeze from glaciers in the distance, and you could see the waves getting choppier as the day went on. The changing terrain was hard underfoot, especially sand and gravel, but my body felt okay. Gore-Tex shoes kept my feet dry in wet sections.
+My phone connected and welcomed me to China as I ran past their turnaround at the Great Wall Station, which felt appropriately ridiculous. There was a cold breeze from glaciers in the distance, and you could see the waves getting choppier as the day went on. The changing terrain was hard underfoot, especially sand and gravel, but my body felt okay. Gore-Tex shoes kept my feet dry through the wet sections.
 
 I loved how the loops let us cross paths with all the people we had gotten to know. An Australian friend would always say "Sláinte" to me, and the US Senator gave an increasingly tired "Hi Brian" every time. Nick & John looked incredibly strong, and a few people had mud all over them from slips. We all struggled with the terrain, but everyone looked happy. I slowed several times to watch our penguin supporters, so it wasn't my fastest marathon, but it was easily my most unique.
 
@@ -110,7 +110,9 @@ The final lap was hard. The winds picked up all day and I worried the race would
     <img width="400" src="/images/ant14.jpeg">
 </p>
 
-Most runners returned to the ship right away, but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning trophies and a huge applause. (Second place at nearly 70 years old!)
+Most runners returned to the ship right away, but I stayed for another hour. Ab, our bird expert, brought me close to some nearby penguins and got us surrounded by them. I also spoke with people in the Chilean research base who were out supporting us. 
+
+Back on the ship, the hot shower felt amazing. There was such a good atmosphere at dinner that night, with celebrations all around. John and Nick had finished in second and third place, earning trophies and a huge applause. Second place at nearly 70 years old!
 
 ## The Final Continent
 
@@ -128,7 +130,7 @@ We saw huge elephant seals crawling across beaches and a big group huddled toget
     <img width="400" src="/images/ant13.jpeg">
 </p>
 
-A highlight of the trip came later that day. I had kayaked on six continents, so I really wanted to complete the seventh. Unfortunately, there were only a handful of spaces and everyone wanted them. I emailed ahead, spoke to staff and the kayak guide before, but it all came down to a lottery. Luckily, I was drawn in Group 2 meaning I could swap the second excursion for kayaking. Then when winds cancelled the kayaking that morning, I was somehow now in the only group that would get to go.
+A highlight of the trip came later that day. I had kayaked on six continents, so I really wanted to paddle the seventh too. Unfortunately, there were only a handful of spaces and everyone wanted them. I emailed ahead, spoke to staff and the kayak guide before, but it all came down to a lottery. Luckily, I was drawn in Group 2 meaning I could swap the second excursion for kayaking. When winds cancelled the kayaking that morning, I was somehow now in the only group that would get to go.
 
 We launched in Deception Island, a horseshoe-shaped collapsed volcano where the others would be doing an excursion to an abandoned whaling station. We left with our guide Danny & I in singles, while the other four (all beginners) were in doubles. The lead guide Ben was to follow in a zodiac, but stayed by the ship for some reason. We paddled with seals, penguins and under huge cliffs full of petrels and albatrosses for over an hour. We were guided to the narrow entrance of the horsehoe, to go outside the bay and explore more cliffs. 
 
@@ -164,7 +166,7 @@ That evening we did the polar plunge, jumping from a zodiac with safety ropes ar
 
 ## The Journey Home
 
-The return crossing of the Drake Passage was much smoother. I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had lectures about life at research stations, women on the continent, more wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
+The return crossing was much smoother, more Drake Lake than Drake Shake! I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had lectures about life at research stations, women on the continent, more wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
 
 With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 100 marathoners, 81 had finished the race, and just 16 of us received our medals for having now run on all seven continents. Something fewer than 1,000 people have ever done. It felt special. A journey that had taken years and brought so many nice memories, finally closed.
 
@@ -182,9 +184,12 @@ A race like this draws an interesting and inspiring range of people that I'm pro
 
 The crew who made it happen were amazing. Marathon Tours put on a great race, and everyone working on that ship was fantastic. The expedition staff stole the show though, making days of delays and rough seas just as enjoyable as Antarctica itself. The expertise of each person, their ability to teach, and the way those lectures fed into what we did on the continent felt so well orchestrated. You really become an Antarctica expert, rather than just seeing it.
 
-I think everyone should visit Antarctica. The marathon was perfect for me, but a normal expedition cruise is suitable for anyone. You get all the same luxuries, lectures and experiences, with excursions, kayaking and polar plunges. Some cruises give up to 8 days on the continent, and I've heard of people get deals below $5,000 for last minute spots. If Antarctica is on your bucket list, give yourself as much time there as you can, and please just go.
+I think everyone should visit Antarctica. The marathon was perfect for me, but a normal expedition cruise is suitable for anyone. You get all the same luxuries, lectures and experiences, with excursions, kayaking and polar plunges. Some cruises give up to 8 days on the continent, and I've heard of people getting deals below $5,000 for last minute spots. If Antarctica is on your bucket list, give yourself as much time there as you can, and please just go.
 
-Becoming one of the few people in history to have run a marathon on every continent was the proud achievement I hoped it would be. A fitting send-off to my 20's and one which came with lasting memories. I still had one more big challenge before I could find out what adventures that new decade would bring. Heading for more cold in remote Alaska for something even bigger: Denali.
+Becoming one of the few people in history to have run a marathon on every continent was the proud achievement I hoped it would be. A fitting send-off to my 20's and one which came with lasting memories. I still had one more big challenge before I could find out what adventures the next decade would bring though. One more cold expedition, this time in remote Alaska for something even bigger: Denali. That write up is coming soon.
+
+Thank you for reading,  
+Brian
 
 <p align="center" width="100%">
     <img width="400" src="/images/7cc9.jpeg">

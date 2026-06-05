@@ -58,7 +58,7 @@ Unfortunately, nothing good. Severe weather delayed us at the mouth of the chann
     <img width="300" src="/images/ant9.jpeg">
 </p>
 
-At first nobody minded. The food was unreal and there was a packed schedule of lectures from the expedition staff. We learned about Antarctic wildlife, photography, women on the continent, exploration history, and the importance of krill. We had biosecurity briefings about contamination, where we scrubbed our running gear, and covered billions of years of history through geology lectures from Dr Volcano.
+At first nobody minded. The food was unreal and there was a packed schedule of lectures from the expedition staff. We learned about Antarctic wildlife, photography, exploration history, the importance of krill, and covered billions of years of history through geology lectures from Dr Volcano. We had biosecurity briefings about contamination, removing plastics from any food we would bring there, and scrubbing our running gear.
 
 As the days passed, concern started to grow. Every day ate into our schedule and there was uncertainty on whether the race would happen. We spent evenings keeping our mind off it at the bar, with karaoke and pub quizzes (we placed second with our team: *Make Antarctica Great Again*). Apparently there was always a queue for the treadmills in the gym, but that didn't affect me. Despite the delay, I was enjoying every minute. The people made it easy.
 
@@ -164,7 +164,7 @@ That evening we did the polar plunge, jumping from a zodiac with safety ropes ar
 
 ## The Journey Home
 
-The return crossing of the Drake Passage was much smoother. I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had lectures about life at research stations, more wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
+The return crossing of the Drake Passage was much smoother. I didn't take any seasickness tablets and felt fine, spending most of the time chatting with Tommy, watching lectures, and learning far more geology than I ever expected. We had lectures about life at research stations, women on the continent, more wildlife, and a final Q&A with the expedition team. As we entered the Beagle Channel and saw land again, it felt like the trip was coming to an end all too quickly.
 
 With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 100 marathoners, 81 had finished the race, and just 16 of us received our medals for having now run on all seven continents. Something less than 1,000 people have ever done. It felt special. A journey that had taken years and brought so many nice memories, finally closed.
 
@@ -181,6 +181,8 @@ Despite the delays, the trip exceeded every expectation I had. Antarctica was in
 Thank MTT. The expedition staff who somehow managed to make days of delays and rough seas just as enjoyable as Antarctica itself. And John, Nick, Tommy and all the people who made it special.
 
 mention doing trips, budget last minute trips, longer 8 person days trips, flying up from ushuaia, fanciness, worth every penny, 3yrs to save, extra ships to curb crowds.
+
+At 29 years old, I was second youngest on the ship (there was an 18 year old with his Dad).
 
 The marathon brought us together, but the people made the trip. Running a marathon on my seventh continent was a fantastic achievement and completing the Seven Continents Club felt like the perfect ending to a journey that started years earlier. If I had to choose one thing I'll remember most though, it will be the feeling of standing at the end of the world surrounded by extraordinary people, knowing we'd all shared something truly unique.
 

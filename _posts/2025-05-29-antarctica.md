@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  The Antarctica Marathon
-description: Penguins, storms, whaling stations, polar plunges, kayaking my 7th continent, and the world's coldest race!
+description: Penguins, storms, polar plunges and kayaking on every continent. Plus the world's coldest race!
 date:   2025-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   

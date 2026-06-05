@@ -28,7 +28,7 @@ Cruises are done via expedition ships that are built to withstand icebergs. Thes
     <img width="400" src="/images/ant18.jpeg">
 </p>
 
-## Arrival & Warming Up
+## Arrival & Warm Up
 
 I arrived in Buenos Aires a few days early and stayed in a hostel. This gave me time to settle in, do a bike tour, wander the markets, and celebrate St. Patrick's Day with a nice crowd. After weeks on the move it felt nice to slow down before this trip began. When the time came, I moved to the five-star Alvear Icon hotel, where all of us runners looked a little out of place. 
 
@@ -90,13 +90,13 @@ I woke early and could see a research base in the distance from our porthole. Th
 
 The course was based around the research stations of Chile, Russia and China. By March, much of the coastline is thawed so rather than snow we found mud, rock and rough ground. We arrived in running gear beneath our dry layers, using tarps to change and organise nutrition before the countdown began. Conditions weren't too bad at around -2°C, but the wind was strong and would become the defining feature of the day. Short video [here](https://youtube.com/shorts/0uwVYAVyI6A?is=nWdToz5r34Ga-Fyz).
 
-The marathon consisted of six laps, and was tougher than I'd expected. The terrain was rough, with sections of wet rock beside the shoreline, and headwinds that seemed to come from every direction. The scenery more than made up for it though. The landscape felt harsh and alien, unlike anywhere I'd ever been. 
+The marathon was six laps through Russia, Chile & China. The rough terrain made it a lot tougher than I'd expected. We had wet rock by the shoreline, sand, mud, hills, and headwinds that seemed to come from every direction. The scenery more than made up for it though. The landscape felt harsh and alien, unlike anywhere I'd ever been. 
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant1.jpeg">
 </p>
 
-Running past the Great Wall Station my phone connected and welcomed me to China, which felt appropriately ridiculous. There was a cold breeze from glaciers in the distance, and the changing terrain from sand to gravel was hard underfoot, but my body felt okay.
+My phone connected and welcomed me to China as I ran past their Great Wall Station, which felt appropriately ridiculous. There was a cold breeze from glaciers in the distance, and you could see the waves getting choppier as the day went on. The changing terrain was hard underfoot, especially the sand and gravel, but my body felt okay.
 
 I loved how the loops let us cross paths with all the people we had gotten to know. An Australian friend would always say "Sláinte" to me, and the US Senator gave an increasingly tired "Hi Brian" every time. Nick & John looked incredibly strong, and a few people had mud all over them from slips. We all struggled with the terrain, but everyone looked happy. I stopped several times to watch our penguin supporters, so it wasn't my fastest marathon, but it was easily my most unique.
 

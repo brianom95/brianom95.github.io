@@ -4,7 +4,7 @@ title:  The Antarctica Marathon
 description: Penguins, storms, polar plunges and kayaking on every continent. Plus the world's coldest race!
 date:   2025-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
-tags:   
+tags:   [Running]
 ---
 *The Antarctica Marathon is one of the most remote races on Earth. 100 runners sail south from Argentina on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel for a race, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned in the many lectures is what made it special. With luck on my side I even went kayaking, having now paddled on all seven continents too!*
 

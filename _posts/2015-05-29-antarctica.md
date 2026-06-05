@@ -180,15 +180,11 @@ Despite the delays, the trip exceeded every expectation I had. Antarctica was in
 
 A race like this draws an interesting and inspiring range of people that I'm proud to now know, especially John, Nick & Tommy. I was the second youngest at 29, and a few were in their 70's at the other end. People tended to be a little older because of the price, but for me having booked three years before I saw that as enough time to save the money. It is prohibitively expensive, but for a life goal it's achievable.
 
-The crew who made it happen were amazing. Marathon Tours put on a great race, and everyone working on that ship was fantastic. The expedition staff stole the show though, making days of delays and rough seas just as enjoyable as Antarctica itself. The expertise of each person, their ability to teach, and the ways those lectures fed into what we did on the continent felt so well orchestrated. You really become an Antarctica expert, rather than just seeing it.
+The crew who made it happen were amazing. Marathon Tours put on a great race, and everyone working on that ship was fantastic. The expedition staff stole the show though, making days of delays and rough seas just as enjoyable as Antarctica itself. The expertise of each person, their ability to teach, and the way those lectures fed into what we did on the continent felt so well orchestrated. You really become an Antarctica expert, rather than just seeing it.
 
-I think everyone should visit Antarctica. The marathon was the perfecet way for me All expedition cruises have this same format of lectures and learning
+I think everyone should visit Antarctica. The marathon was perfecet for me, but a normal expedition cruise is suitable for anyone. You get all the same luxuries, lectures and experiences, with excursions, kayaking and polar plunges. Some cruises give up to 8 days on the continent, and I've heard of people get deals below $5,000 for last minute spots. If Antarctica is on your bucket list, give yourself as much time there as you can, and please just go.
 
-This was the perfect way to visit Antarctica for me, but obviously isn't recommendable for most people. The 
-
-mention doing trips, budget last minute trips, longer 8 person days trips, flying up from ushuaia, fanciness, worth every penny, 3yrs to save, extra ships to curb crowds.
-
-The marathon brought us together, but the people made the trip. Running a marathon on my seventh continent was a fantastic achievement and completing the Seven Continents Club felt like the perfect ending to a journey that started years earlier. If I had to choose one thing I'll remember most though, it will be the feeling of standing at the end of the world surrounded by extraordinary people, knowing we'd all shared something truly unique.
+Becoming one of the few people in history to have run a marathon on every continent was the proud achievement I hoped it would be. A fitting send off to my 20's and one which came with lasting memories. I still had one more big challenge before I could find out what adventures that new decade would bring. Heading for more cold in remote Alaska for a something even bigger: Denali.
 
 <p align="center" width="100%">
     <img width="400" src="/images/7cc9.jpeg">

@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *14,000 runners from 54 countries, all arriving in beautiful New Zealand to be met with a raging storm! Torrential rain and strong winds fought me for every step.*
 
-This was the third marathon in my journey to join the Seven Continents Club.
+This was the third marathon in my journey to join the [Seven Continents Club](7CC).
 
 <p align="center" width="100%">
     <img width="400" src="/images/auckland0.webp">

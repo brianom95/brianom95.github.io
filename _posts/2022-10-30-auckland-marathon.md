@@ -2,7 +2,7 @@
 layout: post
 title:  Auckland Marathon
 description: Racing through the most beautiful country on Earth, but during their worst rainstorm!
-date:   2022-10-29 12:00:0 +0000
+date:   2022-10-30 12:00:00 +0000
 image:  '/images/7cc3.jpeg'
 tags:   [Running]
 ---

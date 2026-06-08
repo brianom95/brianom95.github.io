@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *18,500 runners from 65 countries, racing around Canada's largest port and the gateway to beautiful British Columbia. This trip was full of sightseeing, adventuring and catching up with old friends. An incredible experience that inspired a leap of faith which would change my life. But more on that below.*
 
-This was the second marathon in my journey to join the Seven Continents Club.
+This was the second marathon in my journey to join the [Seven Continents Club](7CC).
 
 ## Background
 

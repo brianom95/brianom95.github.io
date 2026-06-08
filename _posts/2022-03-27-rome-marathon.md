@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *11,000 runners from 102 countries made this the biggest race I've done by far. March promises manageable weather and the route passes a lot of the cities highlights. I'd never been to Rome so this made it a nice choice for my first marathon event.*
 
-This was also the first marathon in my journey to join the Seven Continents Club.
+This was also the first marathon in my journey to join the [Seven Continents Club](7CC).
 
 <p align="center" width="100%">
     <img width="400" src="/images/rome1.webp">

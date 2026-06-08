@@ -8,7 +8,7 @@ tags:   [Running]
 ---
 *This is one of the most remote races on Earth. Every year, 100 runners sail from Argentina on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned is what made it special. With luck on my side I even went kayaking, having now paddled on all seven continents too!*
 
-This was the final marathon in my journey to join the Seven Continents Club.
+This was the final marathon in my journey to join the [Seven Continents Club](7CC).
 
 <p align="center" width="100%">
     <img width="400" src="/images/ant10.jpeg">

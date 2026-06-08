@@ -6,7 +6,7 @@ date:   2025-03-29 12:00:00 +0000
 image:  '/images/7cc7.jpeg'
 tags:   [Running]
 ---
-*This is one of the most remote races on Earth. 100 runners sail from Argentina on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned is what made it special. With luck on my side I even went kayaking, having now paddled on all seven continents too!*
+*This is one of the most remote races on Earth. Every year, 100 runners sail from Argentina on the infamous Drake Passage, with hopes of favourable weather. It's a long way to travel, but the marathon is only part of the adventure. The people, wildlife, icy swims, and all I learned is what made it special. With luck on my side I even went kayaking, having now paddled on all seven continents too!*
 
 This was the final marathon in my journey to join the Seven Continents Club.
 
@@ -116,7 +116,7 @@ Back on the ship, the hot shower felt amazing. There was such a good atmosphere 
 
 ## The Final Continent
 
-Thankfully the crew made the call that they could run the ship much quicker on the way back as it was calmer, allowing us one more day on the continent. This meant we had time for two excursions.
+Thankfully the crew made the call that they could run the ship much quicker on the way back as it was calmer, allowing us one more day on the continent despite our three day delay. This meant we had time for two excursions.
 
 The following morning we woke at Hannah Point and headed ashore by zodiac. Huge penguin colonies covered the hillside, surprising us both by their tiny size, and their smell. Most were Gentoo penguins, with a few Chinstraps (which dive over 100m for food). The males were building nests where half searched for nice stones from the water, while the others stole from their neighbours. The resulting squabbling was entertaining to watch. Short video [here](https://youtube.com/shorts/4AipKqf6MYo?is=Dz32J9zEIMrlbLZ0).
 

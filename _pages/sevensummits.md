@@ -66,7 +66,7 @@ Read my full article [here](https://www.brianbeyond.com/elbrus).
 09 February 2025   
 Normal Route (15 Days)
 
-The hardest thing I've ever done. Low down this is a harsh, dry, desert environment, that tries to break down your motivation as you acclimatise. Above is steep, freezing, and battered by 200km/hr winds. From my group of eight, only one made it to the summit. This is a story of extensive preperation being just barely enough to overcome severe AMS.
+The hardest thing I've ever done. Low down this is a harsh, dry, desert environment, that tries to break down your motivation as you acclimatise. Above is steep, freezing, and battered by 200km/hr winds. From my group of eight, only one made it to the summit. This is a story of extensive preparation being just barely enough to overcome severe AMS.
 
 Read my full article [here](https://www.brianbeyond.com/aconcagua).
 

@@ -85,7 +85,7 @@ image:  '/images/bucket0.jpeg'
 77. Drink a Sourtoe Cocktail, Yukon
 78. Sleep in an Igloo
 79. [<mark style="background-color: limegreen">Visit Chichen Itza, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
-80. Parícutin, the Newest Volcano, Mexico
+80. [<mark style="background-color: limegreen">Swim in Cenotes, Mexico</mark>](https://www.brianbeyond.com/backpacking-ca)
 81. [<mark style="background-color: limegreen">Explore the ATM Caves, Belize</mark>](https://www.brianbeyond.com/backpacking-ca)
 82. [<mark style="background-color: limegreen">See the Ruins in Tikal, Guatemala</mark>](https://www.brianbeyond.com/backpacking-ca)
 83. [<mark style="background-color: limegreen">Volcano Boarding in Nicaragua</mark>](https://www.brianbeyond.com/backpacking-ca)
@@ -105,7 +105,7 @@ image:  '/images/bucket0.jpeg'
 97. <mark style="background-color: limegreen">Perito Moreno Glacier, Argentina</mark>
 98. Circuito Chico in Bariloche, Argentina
 99. <mark style="background-color: limegreen">Visit Ushuaia; The End of the World</mark>
-100. <mark style="background-color: limegreen">See Penguins in Antarctica</mark>
+100. [<mark style="background-color: limegreen">See Penguins in Antarctica</mark>](https://www.brianbeyond.com/antarctica)
 
 ---
 
@@ -204,14 +204,14 @@ image:  '/images/bucket0.jpeg'
 6. The Kaituna, New Zealand
 7. Devizes to Westminster, UK
 8. [<mark style="background-color: limegreen">Shannon Source to Sea, Ireland</mark>](https://www.brianbeyond.com/shannon-source-to-sea)
-9. <mark style="background-color: limegreen">Kayak on all 7 Continents</mark>
+9. [<mark style="background-color: limegreen">Kayak on all 7 Continents</mark>](https://www.brianbeyond.com/antarctica)
 10. [<mark style="background-color: limegreen">Land an Airscrew</mark>](https://youtu.be/3CPIpQOSNLA?si=Ahj1dcmM9UMwqLbM&start=29)
 
 ---
 
 #### Endurance (7/15)
 1. [<mark style="background-color: limegreen">Complete an Ironman</mark>](https://www.brianbeyond.com/killarney-full-ironman)
-2. <mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>
+2. [<mark style="background-color: limegreen">Run a Marathon on all 7 Continents</mark>](https://www.brianbeyond.com/7CC)
 3. <mark style="background-color: limegreen">Run a Sub 4hr Marathon (3:56:31)</mark>
 4. [<mark style="background-color: limegreen">Run an Ultramarathon</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
 5. [<mark style="background-color: limegreen">Walk 100,000 steps in a day</mark>](https://www.brianbeyond.com/hundred-thousand-steps)

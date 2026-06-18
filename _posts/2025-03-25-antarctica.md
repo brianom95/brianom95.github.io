@@ -173,7 +173,7 @@ With Ushuaia in sight, we held the Seven Continents Club award ceremony. Of the 
 We took photos, celebrated together and enjoyed one final evening at an Irish pub in Ushuaia. Almost everyone flew back to Buenos Aires the next day, and most flew onward to home. I boarded another boat from here towards Uruguay, continuing my journey through South America. I was nearing the end of these travels, and becoming excited to soon be home.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/ant6.jpeg">
+    <img width="400" src="/images/7cc9.jpeg">
 </p>
 
 ## Afterthoughts
@@ -192,5 +192,5 @@ Thank you for reading,
 Brian
 
 <p align="center" width="100%">
-    <img width="400" src="/images/7cc9.jpeg">
+    <img width="400" src="/images/ant6.jpeg">
 </p>

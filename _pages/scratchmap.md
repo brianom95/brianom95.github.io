@@ -106,6 +106,7 @@ About 500 people have visited every country and that's not a goal I want to purs
 73. Zimbabwe  
 74. Jordan  
 75. Monaco
+76. San Marino
 
 <p align="center" width="100%">
     <img width="400" src="/images/scratch2.jpeg">

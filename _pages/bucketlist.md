@@ -5,7 +5,7 @@ permalink: /bucketlist/
 image:  '/images/bucket0.jpeg'
 ---
 
-#### World Travel (56/100)
+#### World Travel (57/100)
 1. Visit 100 countries ({{ site.data.settings.stats.countries }} Complete)
 2. <mark style="background-color: limegreen">See a show in London's West End</mark>
 3. Hike the UK 3 Peaks Challenge
@@ -18,7 +18,7 @@ image:  '/images/bucket0.jpeg'
 10. Wies'n Season (Oktoberfest)
 11. <mark style="background-color: limegreen">Climb the Cathedral in Milan</mark>
 12. Ride a Gondola in Venice
-13. Hold up the Leaning Tower of Pisa
+13. <mark style="background-color: limegreen">Hold up the Leaning Tower of Pisa</mark>
 14. <mark style="background-color: limegreen">Visit the Sistine Chapel, Vatican City</mark>
 15. Go to Pompeii, Italy
 16. Infinity Terrace on the Amalfi Coast, Italy

@@ -100,7 +100,7 @@ Mairéad & I hiked this after a late start on a Friday evening. We found a nice 
 #### 40km | 1,200m Gain | Looped |  2 Days  
 **Completed: 10 May 2026**
 
-This is steep and has a lot of road walking, but it is stunning. We had strong winds and clear skies through our climbs. We camped behind Lumpers pub around halfway, which had a sauna and cold plunge that Mairead's brother and fiancée joined us for. The luxury of pizza and pints on a trail can't be overstated. On our return we detoured to summit Slieve Foye, the highest point in Louth. We were very happy with the two days when arriving back in Carlingford, even if I was a little sunburnt.
+This is steep and has a lot of road walking, but it is stunning. We had strong winds and clear skies through our climbs. We camped behind Lumpers pub around halfway, which had a sauna and cold plunge that Mairead's brother and his fiancée joined us for. The luxury of pizza and pints on a trail can't be overstated. On our return we detoured to summit Slieve Foye, the highest point in Louth. We were very happy with the two days when arriving back in Carlingford, even if I was a little sunburnt.
 
 8.5/10
 

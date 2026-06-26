@@ -163,7 +163,7 @@ image:  '/images/bucket0.jpeg'
 
 ---
 
-#### [The Seven Summits](https://www.brianbeyond.com/sevensummits/) (5/7)
+#### The Seven Summits (5/7)
 1. [<mark style="background-color: limegreen">Kilimanjaro, Tanzania (5,895m)</mark>](https://www.brianbeyond.com/kilimanjaro)
 2. [<mark style="background-color: limegreen">Kosciuszko, Australia (2,228m)</mark>](https://www.brianbeyond.com/kosciuszko)
 3. [<mark style="background-color: limegreen">Elbrus, Russia (5,642m)</mark>](https://www.brianbeyond.com/elbrus)

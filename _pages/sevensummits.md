@@ -80,7 +80,7 @@ Read my full article [here](https://www.brianbeyond.com/aconcagua).
 10 June 2025  
 West Buttress Route (25 Days)
 
-One of the world's coldest and most isolated peaks, just south of the Arctic Circle. We landed by ski plane on the Kalhitna Glacier, then spent weeks hauling 50kg of supplies on our sleds. We went from burning under 24 hour sunlight, to near frostbite on the -40°C summit. This is a technical and exhausting climb that is considered more challenging than Everest. The mountain actively works against you, making it hard work both physically and mentally.
+One of the world's coldest and most isolated peaks, just south of the Arctic Circle. We landed by ski plane on the Kalhitna Glacier, then spent weeks hauling 50kg of supplies each on our sleds. We went from burning under 24 hour sunlight, to near frostbite on the -40°C summit. This is a technical and exhausting climb that is considered more challenging than Everest. The mountain actively works against you, making it hard work both physically and mentally.
 
 Full article coming soon.
 

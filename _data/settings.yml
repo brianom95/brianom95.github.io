@@ -10,10 +10,10 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 
 stats:
-  marathons: 29
+  marathons: 30
   countries: 76
-  marathoncounties: 14
-  campingcounties: 20
+  marathoncounties: 15
+  campingcounties: 21
   wawmarkers: 100
   nwtrails: 7
 

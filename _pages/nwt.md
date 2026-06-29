@@ -21,7 +21,7 @@ I hiked 25km out of Limerick on a Friday evening, and camped on the Ardnacrusha 
 8/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt1.jpeg">
+    <img width="600" src="/images/nwt1.jpeg">
 </p>
 
 ---
@@ -35,7 +35,7 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 7/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt2.jpeg">
+    <img width="600" src="/images/nwt2.jpeg">
 </p>
 
 ---
@@ -49,7 +49,7 @@ I love this trail. I've hiked it twice from Carlow to Dublin, which is better as
 10/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/wicklow7.webp">
+    <img width="600" src="/images/wicklow7.webp">
 </p>
 
 ---
@@ -63,7 +63,7 @@ Another one tourists love, but Irish rarely use. I hiked this during a weather w
 9.5/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kerryway0.webp">
+    <img width="600" src="/images/kerryway0.webp">
 </p>
 
 ---
@@ -77,7 +77,7 @@ This is a short hike through the countryside of Tipperary that could have been d
 6.5/10
 
 <p align="center" width="100%">
-    <img width="300" src="/images/nwt5.jpeg">
+    <img width="450" src="/images/nwt5.jpeg">
 </p>
 
 ---
@@ -91,7 +91,7 @@ Mairéad & I hiked this after a late start on a Friday evening. We found a nice 
 7.5/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt6.jpeg">
+    <img width="600" src="/images/nwt6.jpeg">
 </p>
 
 ---
@@ -105,7 +105,7 @@ This is steep and has a lot of road walking, but it is stunning. We had strong w
 8.5/10
 
 <p align="center" width="100%">
-    <img width="400" src="/images/nwt7.jpeg">
+    <img width="600" src="/images/nwt7.jpeg">
 </p>
 
 ---

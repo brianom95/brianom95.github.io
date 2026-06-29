@@ -29,7 +29,7 @@ A week above the clouds with Seán, reaching the roof of Africa. This was my fir
 Read my full article [here](https://www.brianbeyond.com/kilimanjaro).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kili0.jpeg">
+    <img width="600" src="/images/kili0.jpeg">
 </p>
 
 ---
@@ -43,7 +43,7 @@ A fun day hike with Eoin & Emily, through Australia's biggest ski resort. We too
 Read my full article [here](https://www.brianbeyond.com/kosciuszko).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kosi0.jpeg">
+    <img width="600" src="/images/kosi0.jpeg">
 </p>
 
 ---
@@ -57,7 +57,7 @@ An eye opening trip to the Caucasus with Adam. This is a spectacular volcano tha
 Read my full article [here](https://www.brianbeyond.com/elbrus).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/elbrus1.jpeg">
+    <img width="600" src="/images/elbrus1.jpeg">
 </p>
 
 ---
@@ -71,7 +71,7 @@ The hardest thing I've ever done. Low down this is a harsh, dry, desert environm
 Read my full article [here](https://www.brianbeyond.com/aconcagua).
 
 <p align="center" width="100%">
-    <img width="400" src="/images/aconcagua0.jpeg">
+    <img width="600" src="/images/aconcagua0.jpeg">
 </p>
 
 ---
@@ -85,7 +85,7 @@ One of the world's coldest and most isolated peaks, just south of the Arctic Cir
 Full article coming soon.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/denali0.jpeg">
+    <img width="600" src="/images/denali0.jpeg">
 </p>
 
 ---

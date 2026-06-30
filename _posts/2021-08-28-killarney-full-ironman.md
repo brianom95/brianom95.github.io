@@ -61,7 +61,7 @@ Running was my strongest area, having run a marathon distance before. The plan f
     <img width="400" src="/images/hardman4.webp">
 </p>
 
-The best workouts were the brics (combined cycle and run). The faster you transition to running, the more you get used to the jelly legs. I'd do this once a week, and towards the end did a sprint triathlon every Wednesday after work with Eoghan Calnan. This was incredibly helpful and bless his soul for never missing one over the months.
+The best workouts were the brics (combined cycle and run). The faster you transition to running, the more you get used to the jelly legs. I'd do this once a week, and towards the end did a sprint triathlon every Wednesday after work with Eoghan Calnan. This was incredibly helpful and bless his soul for never missing one over the months. I also hosted the [Compostella Sprint Triathlon](compostella-sprint) for all my friends who were curious about my new addiction. It was a perfect day.
 
 They say in triathlon that the transitions are the fourth discipline. However, in Ironman where you have all day, it's nutrition. Your goal is 60 grams of carbs every hour in any way your body can take. I fitted the bike with a personal kitchen worth of bags and tried everything. Trial and error always ended in error, until I settled on flavourless maltodextrin in my water (solid food didn't suit me) and Nutella sandwiches. What works is very personal, but you have to postpone the point where you hit the wall as much as possible. The body can only store 2,000 calories and you're going to need around 8,000 calories on the day, without causing GI problems. This part is tough as the stomach never gets a chance to settle.
 

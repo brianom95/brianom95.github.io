@@ -61,7 +61,7 @@ About 500 people have visited every country and that's not a goal I want to purs
 28. [Tanzania](https://www.brianbeyond.com/kilimanjaro)  
 29. [New Zealand](https://www.brianbeyond.com/backpacking-nz)  
 30. [Australia](https://www.brianbeyond.com/kosciuszko)  
-31. [Singapoore](https://www.brianbeyond.com/backpacking-sea)  
+31. [Singapore](https://www.brianbeyond.com/backpacking-sea)  
 32. [Malaysia](https://www.brianbeyond.com/backpacking-sea)  
 33. [Thailand](https://www.brianbeyond.com/backpacking-sea)  
 34. [Laos](https://www.brianbeyond.com/backpacking-sea)

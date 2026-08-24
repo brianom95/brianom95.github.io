@@ -96,7 +96,7 @@ Mairéad & I hiked this after a late start on a Friday evening. We found a nice 
 
 ---
 
-## 7. Táin Way (40km)
+## 7. Táin Way
 #### 40km | 1,200m Gain | Looped |  2 Days  
 **Completed: 10 May 2026**
 
@@ -110,6 +110,20 @@ This is steep and has a lot of road walking, but it is stunning. We had strong w
 
 ---
 
+## 8. Dublin Mountains Way
+#### 42km | 1,000m Gain | Linear |  3 Days  
+**Completed: 23 Aug 2026**
+
+TBC
+
+9.5/10
+
+<p align="center" width="100%">
+    <img width="600" src="/images/nwt8.jpeg">
+</p>
+
+---
+
 ## What's Left
 - Cavan Way	(22km)  
 - Leitrim Way	(27km)  
@@ -117,7 +131,6 @@ This is steep and has a lot of road walking, but it is stunning. We had strong w
 - Nore Valley Way (34km)  
 - North Kerry Way	(45km)  
 - Slí na Finne, Donegal	(51km)  
-- Dublin Mountains Way	(55km)  
 - Hymany Way	(55km)  
 - Tipperary Heritage Way	(56km)  
 - Lough Gara Way	(58km)  

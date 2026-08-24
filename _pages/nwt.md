@@ -116,10 +116,10 @@ This is steep and has a lot of road walking, but it is stunning. We had strong w
 
 TBC
 
-9.5/10
+10/10
 
 <p align="center" width="100%">
-    <img width="600" src="/images/nwt8.jpeg">
+    <img width="450" src="/images/nwt8.jpeg">
 </p>
 
 ---

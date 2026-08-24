@@ -114,7 +114,7 @@ This is steep and has a lot of road walking, but it is stunning. We had strong w
 #### 42km | 1,000m Gain | Linear |  3 Days  
 **Completed: 23 Aug 2026**
 
-Seán, Laure, Mairéad & I hiked the route from Shankill to Tallaght. This is probably the best managed trail in the country, with signposts every 100 meters and minimal road walking. Our first camp overlooked the city which stayed bright and loud through the night, but our second was a world apart in a quiet and rural field. The route seems to showcase south Dublin as it passes the ski slopes in Kilternan, the bike trails and saunas in Glencullen, and Zipit in Tibradden. Highlights were the remote forests trails, lunch in Johnnie Fox's pub, and the long descent along the Dodder River and its reservoirs. This is a surprisingly rural and mountainous trail, given its close proximity to the city.
+Seán, Laure, Mairéad & I hiked the route from Shankill to Tallaght. This is probably the best managed trail in the country, with signposts every 100 meters and minimal road walking. Our first camp overlooked the city which stayed bright and loud through the night, but our second was a world apart in a quiet and rural field. The route seems to showcase south Dublin as it passes the ski slopes in Kilternan, the bike trails and saunas in Glencullen, and Zipit in Tibradden. Highlights were the remote forests trails, lunch in Johnnie Fox's pub, and the long descent along the Dodder River and its reservoirs. This is a surprisingly rural and mountainous trail, given its close proximity to the city. They just need a nice sign at the end!
 
 9/10
 

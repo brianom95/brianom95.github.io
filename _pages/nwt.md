@@ -30,7 +30,7 @@ I hiked 25km out of Limerick on a Friday evening, and camped on the beautiful Ar
 #### 45km | 1,130m Gain | Linear | 2 Days  
 **Completed: 13 September 2020**
 
-This is a nice route across the hills of Limerick, from Silvermines to Murroe. I got great weather crossing Keeper Hill, and there's a perfect place to camp at the halfway point in Toor, beside the stream with a picnic table. My feet hurt from big rocks on the newly resurfaced Coillte forest roads, but the last stretch along the Clare Glens river made up for it. Like many linear trails these are small towns with almost no public transport options, so luckily a friend was able to drop me back to my car after.
+This is a nice route across the hills of Limerick, from Silvermines to Murroe. I got great weather crossing Keeper Hill, and there's a perfect place to camp at the halfway point in Toor, beside a stream and picnic table. My feet hurt from big rocks on the newly resurfaced Coillte forest roads, but the last stretch along the Clare Glens river made up for it. Like many linear trails these are small towns with almost no public transport options, so luckily a friend was able to drop me back to my car after.
 
 7/10
 
@@ -44,7 +44,7 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 #### 129km | 3,980m Gain | Linear | 5 Days 
 **Completed: 06 July 2022**
 
-I love this trail and could talk about it for hours. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with a shop and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. The sections around Glendalough are the highlight for me. It was also the first long-distance trails to be developed in the country. Read my full article with all the history [here](https://www.brianbeyond.com/wicklow-way).
+I love this trail and could talk about it for hours. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with a shop and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. The sections around Glendalough are the highlight for me. It was also the first long-distance trail to be developed in the country. Read my full article with all the history [here](https://www.brianbeyond.com/wicklow-way).
 
 10/10
 

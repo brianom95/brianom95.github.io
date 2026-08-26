@@ -44,7 +44,9 @@ This is a nice route across the hills of Limerick, from Silvermines to Murroe. I
 #### 129km | 3,980m Gain | Linear | 5 Days 
 **Completed: 06 July 2022**
 
-I love this trail and could talk about it for hours. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with a shop and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. The sections around Glendalough are the highlight for me. It was also the first long-distance trail to be developed in the country. Read my full article with all the history [here](https://www.brianbeyond.com/wicklow-way).
+I love this trail and could talk about it for hours. I've hiked it twice from Carlow to Dublin, which is better as it saves the best for last. It has Ireland's only three huts for wild campers, and you can resupply halfway in Laragh with a shop and pub food. Lots of tourists fly in to hike it, but you see almost no Irish which is a shame. It's not easy, but it's so worth it. The sections around Glendalough are the highlight for me. It was also the first long-distance trail to be developed in the country. 
+
+Read my full article with all the history [here](https://www.brianbeyond.com/wicklow-way).
 
 10/10
 
@@ -58,7 +60,9 @@ I love this trail and could talk about it for hours. I've hiked it twice from Ca
 #### 190km | 3,990m Gain | Looped | 6 Days  
 **Completed: 22 March 2023**
 
-Another one tourists love, but Irish rarely use. I hiked this during a yellow rain warning and had a wild time. I went from having to swim one section, to getting sunburned within 24hrs. I saw weather that tried to break me, and kindness from strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you do have to work for it. Constant hills and tough terrain, made worth it by spectacular and constantly changing views. Read my full article [here](https://www.brianbeyond.com/kerry-way).
+Another one tourists love, but Irish rarely use. I hiked this during a yellow rain warning and had a wild time. I went from having to swim one section, to getting sunburned within 24hrs. I saw weather that tried to break me, and kindness from strangers that I'll never forget. These hikes aren't supposed to be easy, but this one really tested me. As beautiful as it is, you do have to work for it. Constant hills and tough terrain, made worth it by spectacular and constantly changing views. 
+
+Read my full article [here](https://www.brianbeyond.com/kerry-way).
 
 9/10
 

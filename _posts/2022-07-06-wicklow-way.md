@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Wicklow Way
+title:  The Wicklow Way - Hiking Ireland's Oldest Trail
 description: Phase 2; Hiking 130km on Irelands oldest trail. Revisiting the hills and valleys that shaped me.
 date:   2022-07-06 12:00:0 +0000
 image:  '/images/wicklow7.webp'

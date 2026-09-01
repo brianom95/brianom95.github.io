@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mont Blanc (4,808m) - The Top of Western Europe
+title:  Mont Blanc (4,808m) - The Highest Point in Western Europe
 description: My Experience Climbing Europe's Most Famous & Dangerous Peak.
 date:   2023-06-02 12:00:0 +0000
 image:  '/images/montblanc1.jpeg'

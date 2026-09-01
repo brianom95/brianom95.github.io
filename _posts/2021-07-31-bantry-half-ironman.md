@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Hardman Bantry - My First Half Ironman
-description: My jellyfish nightmare. An itentionally brutal race that's set on a remote airplane landing strip.
+title:  Hardman Bantry - My Half Ironman Nightmare
+description: So many jellyfish! An itentionally brutal race that's set on a remote airplane landing strip.
 date:   2021-07-31 12:00:0 +0000
 image:  '/images/halfbantry0.jpeg'
 tags:   [Triathlon]

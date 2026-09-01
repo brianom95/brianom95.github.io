@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ireland's County Tops
+title:  County Tops - Climbing Ireland's 32 Peaks in One Week
 description: Breaking the self supported record by climbing 32 peaks in 1 week. The ultimate Irish adventure.
 date:   2021-09-04 12:00:0 +0000
 image:  '/images/ct1.jpeg'

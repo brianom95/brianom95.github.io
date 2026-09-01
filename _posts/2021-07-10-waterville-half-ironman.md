@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Waterville Half Ironman
+title:  Hardman Waterville - My First Half Ironman
 description: My go to recommendation for a longer distance race, tough as hell, but absolutely worth it!
 date:   2021-07-10 12:00:0 +0000
 image:  '/images/halfwaterville0.webp'

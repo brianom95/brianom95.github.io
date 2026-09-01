@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Explorer Belt: 200km through Hungary & Slovakia
+title:  The Explorer Belt - 200km through Hungary & Slovakia
 description: 10 days of hiking through Slovakia & Hungary, in search of Scouting Irelands most coveted award.
 date:   2014-08-06 15:01:35 +0300
 image:  '/images/belt10.webp'

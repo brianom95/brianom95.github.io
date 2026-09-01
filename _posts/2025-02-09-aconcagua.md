@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aconcagua (6,961m)
+title:  Aconcagua (6,961m) - The Top of South America
 description: Climbing the Highest Peak in South America.
 date:   2025-02-09 12:00:00 +0000
 image:  '/images/aconcagua0.jpeg'

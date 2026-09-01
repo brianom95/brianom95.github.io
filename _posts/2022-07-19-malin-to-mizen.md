@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Malin to Mizen
+title:  Malin to Mizen - Cycling the Length of Ireland
 description: Phase 3; Cycling the Length of Ireland, from Donegal to Cork. A week of battling the wind!
 date:   2022-07-19 12:00:0 +0000
 image:  '/images/malin9.webp'

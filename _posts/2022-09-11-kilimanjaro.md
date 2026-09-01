@@ -9,7 +9,7 @@ tags:   [Mountaineering]
 This is the story of a week that Seán Ennis and I spent above the clouds. From the dust, cold and thin air that guards the summit, to the local hospitality and warmth that make it accessible. Rainforests turn to desert, and volcanic sand turns to ice, ascending 2km higher than the jump height of a commercial skydive. The city and it's worries fade away as you finally reach the coldest and most surreal sunrise imaginable. I learned a lot through this adventure and have tried to include as much as possible of that here. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro1.webp">
+    <img width="400" src="/images/kilimanjaro1.webp" alt="Mount Kilimanjaro rising above a mountain camp at night">
 </p>
 
 ## Background
@@ -23,7 +23,7 @@ In 1889, Hans Meyer and Ludwig Purtscheller became the first people to reach the
 Kilimanjaro has five ecological climate zones. The Arctic Summit (Ice Cap) has seasonal snow, year round glaciers and is devoid of almost all life. The Alpine Desert is slightly less inhospitable, but mostly sand and rugged rock formations. The Moorland has hardy shrubs, grasses and heathers, sometimes compared to the Scottish Highlands. The Rainforest surrounds the mountain with a dense and damp home to all sorts of plants and animals. Then finally the surrounding area benefits from rain and rich volcanic soil to form the Civilisation or Cultivation Zone; full of human life and arable farmland.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro2.jpeg">
+    <img width="400" src="/images/kilimanjaro2.jpeg" alt="Diagram showing Kilimanjaro's five ecological climate zones and their altitudes">
 </p>
 
 ## Acclimatisation is Key
@@ -37,7 +37,7 @@ Kilimanjaro's summit (just below 6,000m) has 50% the oxygen of sea level. The si
 For completeness I'll note that acclimatisation is slower for higher altitudes due to exceptionally slow recovery. For 7,000m (42% oxygen) it takes two weeks on average with specific rotations/altitudes being key. As for 8,000m (33% oxygen) it takes six weeks, although this is a misnomer as that is just beyond what a human body can adapt to. Anything from there up to Everest's peak at 8,848m is purely survival and is only recommended with supplemental oxygen.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro3.jpeg">
+    <img width="400" src="/images/kilimanjaro3.jpeg" alt="Diagram comparing oxygen levels and altitude at Mount Kilimanjaro, Aconcagua and Everest">
 </p>
 
 ## Routes & Guides
@@ -53,10 +53,10 @@ The cost was $1,650 per person which got us two guides (with 300 & 150 summits r
 International operators typically charge two to three times higher than we paid, due to flying in western guides. They have set routes and dates which limit flexibility, and large groups which add the risk of losing a guide to someone else's bad preparation. As Elisante put it to me; Kilimanjaro is a sociable mountain, you'll meet lots of people in the camps, but your trip should be your own. If you want to get up early, or sleep in, or walk faster, those should be your decisions. For us, paying less to have a more personalised trip was a no brainer. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro4.webp">
+    <img width="400" src="/images/kilimanjaro4.webp" alt="Map of the Machame Route and other routes on Mount Kilimanjaro">
 </p>
 
-## Preperation & Logistics
+## Preparation & Logistics
 
 Flights to Kilimanjaro International Airport were €650 return from Dublin, via Qatar. The airport is one hour from two regional capitals; Moshi the climbing hub, and Arusha the safari hub. We decided to stay in Moshi before and Arusha after, which I'd recommend. Moshi is great for meeting operators and renting gear, but Arusha is better setup for tourism as it's the gateway to the Serengeti.
 
@@ -75,7 +75,7 @@ And finally the wonder drug; Diamox (Acetazolamide). This treats heart inflammat
 You can find Diamox in Tanzania but it's not guaranteed, so we got it at home. Our pharmacist split the 250mg pills for us so we could take half with breakfast and half with dinner. We did a two day trial at home with no issues, and took them from two days before altitude until one day after. The pills are cheap compared to the prescription cost so I got extra for future endeavours.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro5.webp">
+    <img width="400" src="/images/kilimanjaro5.webp" alt="Aerial view of Mount Kilimanjaro rising above a sea of clouds">
 </p>
 
 ## Arrival in Moshi
@@ -93,7 +93,7 @@ Anything can grow here due to the volcanic soil and rainforests above, but it wa
 That night we got dinner in town, finalised our packing and drank loads of water. The hostel balcony faces Kilimanjaro, which finally revealed itself from the clouds. We were excited looking up, but unsure what to expect of the coming week. We prayed that our bodies would adapt.
 
 <p align="center" width="100%">
-    <img width="300" src="/images/kilimanjaro6.webp">
+    <img width="300" src="/images/kilimanjaro6.webp" alt="Brian and Seán with a local guide at Materuni Waterfall near Kilimanjaro">
 </p>
 
 ## Day 1 - Rainforest Zone  
@@ -112,7 +112,7 @@ Today, like most days, we were given fresh popcorn on arrival. Basins of warm wa
 There was a nice sunset over the summit which most campers watched. Ally and Abou checked in on us and went over the plan for tomorrow as they would every night. Ally was instantly like a father; easy going and humble, yet nothing feels left to chance. He's quietly aware of how much you're eating and drinking, he chooses the food and adds extra salt from experience, and even the warm water for hand washing is just a clever way to avoid sickness. We slept well that night.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro7.webp">
+    <img width="400" src="/images/kilimanjaro7.webp" alt="Brian and Seán at the Machame Route starting point in Kilimanjaro's rainforest">
 </p>
 
 ## Day 2 - Moorland Zone  
@@ -125,7 +125,7 @@ The day brought us out of the rainforest and into the moorland, which was rocky 
 That night Ally took us for an acclimatisation walk which is surprisingly hard to both get up for and to do. We saw Shira Cave and reached a viewpoint that looked out on the busy campsite. We discussed the plan for tomorrow, giving some time for the body to accept the elevation change, then descended back to have dinner including fresh donuts for dessert. Groups near us sang Jambo Bwana which is the favourite song of the porters. I looked down at the sea of clouds during sunset, amazed by how quickly it seemed to flow. We both slept well again, feeling strong but far more tired than we had anticipated.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro8.webp">
+    <img width="400" src="/images/kilimanjaro8.webp" alt="View of Shira Camp and surrounding mountains from inside a tent">
 </p>
 
 ## Day 3 - Lava Tower  
@@ -140,7 +140,7 @@ At our stop we'd been given a lunch which included fried pastries full of fresh 
 Ally had spent days repeatedly asking us to slow down (Pole Pole in Swahili), saying we'd see why after lava tower. He was surprised that neither of us had any symptoms yet and that night agreed that we could speed up, which we were glad of. There was a big dust storm raged through the camp and everyone hid in their tents, but afterwards a fog lifted to reveal an unreal sunset. The summit was directly above us and lit up by the colours.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro9.webp">
+    <img width="400" src="/images/kilimanjaro9.webp" alt="Brian and Seán beside a giant groundsel tree on the alpine slopes of Kilimanjaro">
 </p>
 
 ## Day 4 - Baranco Wall  
@@ -157,7 +157,7 @@ Another evening walk brought us up 200m along a ridge. This again was hard to ge
 It was a remarkably clear evening. Seán and I took the opportunity to get some night photos of the mountain, and of Juma who wanted to see how well the long exposures worked. The porters tent was lively with lots of cheering for a match and other teams sang in the distance. We were both surprised to not have any symptoms yet and continued focussing on strong deep breaths at all times. After a final cup of hot chocolate, which had become our evening ritual, we were soon fast asleep.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro10.webp">
+    <img width="400" src="/images/kilimanjaro10.webp" alt="Sunset over a sea of clouds from a mountain camp on Kilimanjaro">
 </p>
 
 ## Day 5 - Base Camp  
@@ -174,7 +174,7 @@ He went through what to carry including only 1 Liter of water stored upside-down
 We got in our usual 4 Liters of water early and slept most of the day. Dinner was a hearty stew with a big dessert, after which we sat at the cliff edge watching the view. All fog had lifted and Ally said it would be cold but perfect conditions. The clouds below were an ocean, with only Meru poking through (a 4,566m volcano, 70km away). We stayed up until sunset, sitting with hot chocolate as the summit lit up in all the colours, and then went dark. The porters wished us luck and with that it was time for bed. We didn't sleep very well but Ally said even the guides rarely do up here.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro11.webp">
+    <img width="400" src="/images/kilimanjaro11.webp" alt="Hiker standing on a rock above the clouds on Mount Kilimanjaro">
 </p>
 
 ## Day 6 - Arctic Summit  
@@ -205,7 +205,7 @@ Back into the moorland, reaching Mweka Camp at 2:30pm. It was a beautiful route 
 That night, Hiza the wizard chef made more food which boggled my mind. Tips are excluded in trip costs and left up to the individual. We thanked everyone and gave out the well earned $700 in tips that Seán & I settled on. Some of the guys spoke to us individually to thank us and I truly felt blessed to have found such a perfect team.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro12.jpeg">
+    <img width="400" src="/images/kilimanjaro12.jpeg" alt="Brian doing a handstand beside the Uhuru Peak summit sign on Mount Kilimanjaro">
 </p>
 
 ## Day 7 - Back to Reality  
@@ -216,7 +216,7 @@ It was an early start when we got up for a final breakfast. The two hours of rai
 There was a book to sign which held the names of all who summited. Certs were printed and the office had the first WiFi we'd seen in a week, letting us finally update our families. A taxi took us back to Elisante's to collect our other bags, a quick stop for a speeding fine, then on to Arusha as we had arranged before. There was a slight mix-up with me booking the world's worst hostel, but we were soon checked into The Outpost; a luxury complex on the outskirts of town. 
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro13.webp">
+    <img width="400" src="/images/kilimanjaro13.webp" alt="Brian and Seán holding their Kilimanjaro summit certificates at Mweka Gate">
 </p>
 
 ## Arusha
@@ -228,7 +228,7 @@ We did a three day safari of Tarangire, Lake Manyara & Ngorongoro Crater. We saw
 I was sad to leave by the end, having really enjoyed my time in Tanzania. We had gotten to know a local taxi driver who did our airport run for $40 and with that we were truly back to reality. A final goodbye to the mountain from our plane window and to a place which had a profound impact on us both in such a short time.
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro14.webp">
+    <img width="400" src="/images/kilimanjaro14.webp" alt="Brian and Seán on safari in Tanzania">
 </p>
 
 ## Afterthoughts
@@ -245,7 +245,7 @@ Thank you for reading,
 Asante Sana
 
 <p align="center" width="100%">
-    <img width="400" src="/images/kilimanjaro15.webp">
+    <img width="400" src="/images/kilimanjaro15.webp" alt="Brian, Seán and their Kisambi Tours expedition team with Mount Kilimanjaro behind them">
 </p>
 
 ## Trip Video

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mount Kilimanjaro (5,895m) - The Top of Africa
+title:  Mount Kilimanjaro (5,895m) - The Highest Point in Africa
 description: Climbing the Highest Peak in Africa.
 date:   2022-09-11 12:00:00 +0000
 image:  '/images/kili0.jpeg'

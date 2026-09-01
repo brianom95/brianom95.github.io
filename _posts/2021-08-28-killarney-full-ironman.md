@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Killarney Full Ironman
+title:  Hardman Killarney - My First Full Ironman
 description: My journey from complete beginner to finishing Ireland's most scenic Ironman distance triathlon.
 date:   2021-08-28 12:00:0 +0000
 image:  '/images/killironman0.jpeg'

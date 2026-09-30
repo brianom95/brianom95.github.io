@@ -6,7 +6,7 @@ image: '/images/elbrus14.jpeg'
 ---
 In 1985, Richard Bass became the first person to reach the highest point of all seven continents; Africa, Antarctica, Asia, Australia, Europe, North America and South America. His book titled 'The Seven Summits' was the basis for the challenge as we know it today, with approximately 500 people having since completed what's been named the Bass List. 
 
-Reinhold Messner refutes that Indonesia's Puncak Jaya (Carstensz Pyramid) is a more deserving high point than the modest Kosciuszko, calling the continent Oceania rather than Australia. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders (by most definitions Indonesia is in Asia). Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. 
+Reinhold Messner refutes that Indonesia's Puncak Jaya (Carstensz Pyramid) is a more deserving high point than the modest Kosciuszko, calling that continent Oceania rather than Australia. Debates stalemated over continental shelves, tectonic plates and inconsistent or arbitrary borders (by most definitions Indonesia is in Asia). Even the number of continents varies by definition, but it's generally accepted that his claim is based on technical difficulty rather than geography. 
 
 In 1986, Pat Morrow became the first to complete the Messner List, followed by approximately 150 people since. In almost all cases these people climb Kosciuszko aswell (& [Mont Blanc](https://www.brianbeyond.com/mont-blanc) in Europe which has similar claims) to cover all bases and avoid debates.
 
@@ -80,7 +80,7 @@ Read my full article [here](https://www.brianbeyond.com/aconcagua).
 10 June 2025  
 West Buttress Route (25 Days)
 
-One of the world's coldest and most isolated peaks, just south of the Arctic Circle. We landed by ski plane on the Kalhitna Glacier, then spent weeks hauling 50kg of supplies each on our sleds. We went from burning under 24 hour sunlight, to near frostbite on the -40°C summit. This is a technical and exhausting climb that is considered more challenging than Everest. The mountain actively works against you, making it hard work both physically and mentally.
+One of the world's coldest and most isolated peaks, just south of the Arctic Circle. We landed by ski plane on the Kalhitna Glacier, then spent weeks hauling 50kg of supplies each on our sleds. We went from burning under 24 hour sunlight, to near frostbite on the -40°C summit. This is a technical and exhausting climb that is widely considered more challenging than Everest. The mountain actively works against you, making it hard work both physically and mentally.
 
 Full article coming soon.
 

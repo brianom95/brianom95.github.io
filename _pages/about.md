@@ -35,5 +35,5 @@ My long-term goal is simple to say and hard to do:
 
 This blog exists to document the process. The planning, failures, logistics, training and lessons that sit behind big goals. If you’re here for mountains, endurance, travel, or the honest reality of chasing ambitious goals alongside a full-time career then you’re in the right place. Come along on this journey with me as I discover how much can be packed into one life.
 
-Happy adventuring,
+Happy adventuring,  
 Brian

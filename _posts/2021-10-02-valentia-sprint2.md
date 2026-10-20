@@ -62,11 +62,11 @@ That night I made the long drive to Dingle and finished off the weekend with som
 <div class="table-container">
   <table>
     <tr><th></th><th>Time</th><th>Distance</th></tr>
-    <tr><td>Swim</td><td>14mins 51s</td><td>750m</td></tr>
-    <tr><td>T1</td><td>3mins 11s</td><td>-</td></tr>
-    <tr><td>Cycle</td><td>41mins 48s</td><td>20km</td></tr>
-    <tr><td>T2</td><td>38s</td><td>-</td></tr>
-    <tr><td>Run</td><td>24mins 44s</td><td>5km</td></tr>
-    <tr><td>Total</td><td>1hr 25mins 12s</td><td>-</td></tr>
+    <tr><td>Swim</td><td>15mins 06s</td><td>750m</td></tr>
+    <tr><td>T1</td><td>1min 56s</td><td>-</td></tr>
+    <tr><td>Cycle</td><td>38mins 00s</td><td>20km</td></tr>
+    <tr><td>T2</td><td>1min 13s</td><td>-</td></tr>
+    <tr><td>Run</td><td>24mins 59s</td><td>5km</td></tr>
+    <tr><td>Total</td><td>1hr 21mins 16s</td><td>-</td></tr>
   </table>
 </div>

@@ -151,7 +151,7 @@ image:  '/images/bucket0.jpeg'
 39. <mark style="background-color: limegreen">Race Hell & Back, Wicklow</mark>
 40. [<mark style="background-color: limegreen">Complete all 3 Gaelforce Races</mark>](https://www.brianbeyond.com/gaelforce-turf-warrior)
 41. [<mark style="background-color: limegreen">Complete all 4 QUEST Races</mark>](https://www.brianbeyond.com/quest-glendalough)
-42. Complete all 11 HARDMAN Races (10 Complete)
+42. [<mark style="background-color: limegreen">Complete all 11 HARDMAN Races</mark>](https://www.brianbeyond.com/killarney-full-ironman)
 43. [<mark style="background-color: limegreen">Run the Mourne Seven Sevens, Down</mark>](https://www.brianbeyond.com/mourne-seven-sevens)
 44. [<mark style="background-color: limegreen">Run the Seven Sisters, Donegal</mark>](https://www.brianbeyond.com/donegal-seven-sisters)
 45. <mark style="background-color: limegreen">Hike the Galtee Crossing, Limerick</mark>

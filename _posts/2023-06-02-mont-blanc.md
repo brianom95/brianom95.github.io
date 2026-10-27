@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mont Blanc (4,808m)
-description: My Experience Climbing Europe's Most Famous & Dangerous Peak.
+description: My Experience Climbing Western Europe's Highest, Most Famous, and Most Dangerous Peak.
 date:   2023-06-02 12:00:0 +0000
 image:  '/images/montblanc1.jpeg'
 tags:   [Mountaineering]
